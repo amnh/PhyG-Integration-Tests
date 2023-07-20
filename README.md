@@ -10,4 +10,4 @@ A composition of integration tests for the [**`PhyG`**][GitHub-PhyG] software pr
 cabal test integration-tests --test-show-details=streaming
 ```
 
-[GitHub]-PhyG: https://github.com/AMNH/PhyG#readme
+[GitHub-PhyG]: https://github.com/AMNH/PhyG#readme
