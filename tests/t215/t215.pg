@@ -1,0 +1,9 @@
+--fuse(nni), inputting tcm file (dayhoff) with amino acids
+--originally fuse(nni)
+set(seed:1634561640)
+read(prefasta:"metazoa-aa-1.fas", tcm:"dayhoff.mat")
+read(prefasta:"metazoa-aa-2.fas", tcm:"dayhoff.mat")
+build(distance, rdWag, block, eun, displaytrees:10)
+fuse(none)
+report("t215.csv", data, overwrite)
+report("t215.tre", newick, overwrite)

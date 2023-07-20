@@ -1,0 +1,6 @@
+--build(distance, rdwag), inputting continuous tnt char types
+set(seed:1634561640)
+read("arcoida_cont.ss")
+build(distance, rdWag, best:10)
+report("t28.csv", data, overwrite)
+report("t28.tre", newick, overwrite)

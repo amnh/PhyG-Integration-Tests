@@ -1,0 +1,11 @@
+--search(instances, stop), inputting tcm file (dayhoff) with amino acids
+set(seed:1634561640)
+read(prefasta:"metazoa-aa-1.fas", tcm:"dayhoff.mat")
+read(prefasta:"metazoa-aa-2.fas", tcm:"dayhoff.mat")
+search(minutes:10, instances:3, stop:20)
+--search(minutes:5, instances:10, stop:20)
+report("t635_ia.txt", ia, overwrite)
+report("t635.csv", data, overwrite)
+report("t635.tre", newick, graphs, overwrite)
+report("t635_info.csv", search, overwrite)
+report("t635_diag.txt", diagnosis, overwrite)

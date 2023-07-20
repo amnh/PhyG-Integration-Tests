@@ -1,0 +1,8 @@
+--input t12.tre, swap(all), inputting prefasta file
+set(seed:1634561640)
+read(prefasta: "chel-prealigned.fas")
+read(prefasta: "metazoa-aa-1.fas")
+read(newick: "t12.tre")
+swap(all)
+report("t462.csv", data, overwrite)
+report("t462.tre", newick, overwrite)

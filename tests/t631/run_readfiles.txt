@@ -1,0 +1,3 @@
+read(nucleotide:"chel.fas")
+read(fasta:"chel_binary.fas")
+read(newick:"t615_all.tre")

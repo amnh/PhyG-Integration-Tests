@@ -1,0 +1,8 @@
+--fuse(steepest), inputting prefastc file
+set(seed:1634561640)
+read(prefastc:"chel-wide.fastc")
+read(prefastc:"chel-huge.fastc")
+build(distance, rdWag, block, cun, displaytrees:10)
+fuse(steepest)
+report("t320.csv", data, overwrite)
+report("t320.tre", newick, overwrite)

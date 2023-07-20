@@ -1,0 +1,8 @@
+--fuse(joinall), inputting prefasta file
+set(seed:1634561640)
+read(prefasta:"chel-prealigned.fas")
+read(prefasta:"metazoa-aa-1.fas")
+read(newick:"t83.tre")
+fuse(joinall)
+report("t531.csv", data, overwrite)
+report("t531.tre", newick, graphs, overwrite)

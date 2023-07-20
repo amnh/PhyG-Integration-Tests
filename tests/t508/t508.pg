@@ -1,0 +1,8 @@
+--fuse(joinsome), inputting tcm and nucleotide files
+set(seed:1634561640)
+read(nucleotide:"chel-prealigned.fas", tcm:"sg1t4.mat")
+read(nucleotide:"chel_cox1aln.fasta", tcm:"sg2t1.mat")
+read(newick:"t87.tre")
+fuse(joinsome)
+report("t508.csv", data, overwrite)
+report("t508.tre", newick, graphs, overwrite)

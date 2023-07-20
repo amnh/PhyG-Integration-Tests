@@ -1,0 +1,7 @@
+--build(character, all-data), inputting prealigned amino acid file
+set(seed:1634561640)
+read(preaminoacid:"metazoa-aa-1.fas")
+read(preaminoacid:"metazoa-aa-2.fas")
+build(character, block, replicates:5)
+report("t529.csv", data, overwrite)
+report("t529.tre", newick, overwrite)

@@ -1,0 +1,10 @@
+--fuse(spr:10, keep:4), inputting prefastc file
+set(seed:1634561640)
+read(prefastc:"chel-wide.fastc")
+read(prefastc:"chel-huge.fastc")
+--have to read in other trees, otherwise fusing is skipped
+read(newick:"t13.tre")
+build(distance, nj, cun, displaytrees:10)
+fuse(spr:10, keep:4)
+report("t253.csv", data, overwrite)
+report("t253.tre", newick, overwrite)

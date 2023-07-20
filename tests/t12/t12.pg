@@ -1,0 +1,7 @@
+--build(distance, rdwag), inputting prefasta file
+set(seed:1634561640)
+read(prefasta: "chel-prealigned.fas")
+read(prefasta: "metazoa-aa-1.fas")
+build(distance, rdWag, best:10)
+report("t12.csv", data, overwrite)
+report("t12.tre", newick, overwrite)

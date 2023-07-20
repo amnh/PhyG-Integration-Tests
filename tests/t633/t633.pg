@@ -1,0 +1,10 @@
+--search(instances, stop), inputting prefasta file
+set(seed:1634561640)
+read(prefasta:"chel-prealigned.fas")
+read(prefasta:"metazoa-aa-1.fas")
+search(minutes:5, instances:3, stop:10)
+report("t633_ia.txt", ia, overwrite)
+report("t633.csv", data, overwrite)
+report("t633.tre", newick, graphs, overwrite)
+--report("t633_info.csv", search, overwrite)
+report("t633_diag.txt", diagnosis, overwrite)

@@ -1,0 +1,6 @@
+--build(distance, rdwag), inputting tcm and nucleotide files
+set(seed:1634561640)
+read(prefasta:"chel-prealigned.fas", tcm:"sg1t4.mat")
+build(distance, rdWag, best:10)
+report("t19.csv", data, overwrite)
+report("t19.tre", newick, overwrite)

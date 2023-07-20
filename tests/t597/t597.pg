@@ -1,0 +1,7 @@
+--input t5.tre, swap(replicates:5), inputting fasta and binary files
+set(seed:1634561640)
+read(fasta:"chel.fas", "chel_binary.fas")
+read(newick:"t5.tre")
+swap(replicates:5)
+report("t597.csv", data, overwrite)
+report("t597.tre", newick, overwrite)

@@ -1,0 +1,6 @@
+--build(distance, nj, block), inputting continuous tnt char types
+set(seed:1634561640)
+read("arcoida_cont.ss", "arcoida_cont2.ss")
+build(distance, nj, block, eun, displaytrees: 3)
+report("t139.csv", data, overwrite)
+report("t139.tre", newick, overwrite)

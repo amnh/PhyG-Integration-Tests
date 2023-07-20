@@ -1,0 +1,7 @@
+--build(distance, rdwag), inputting rename file
+set(seed:1634561640)
+read(fasta:"chel.fas")
+read(rename: "chel_rename.txt")
+build(distance, rdWag, best:10)
+report("t14.csv", data, overwrite)
+report("t14.tre", newick, overwrite)

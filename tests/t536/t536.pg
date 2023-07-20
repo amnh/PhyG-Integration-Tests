@@ -1,0 +1,11 @@
+--fuse(joinall), inputting Hennig86 files with all character settings included
+set(seed:1634561640)
+read(rename: "woman_rename.txt")
+--woman_allchars.ss includes cc+, cc-, continuous, ?, [ ], /N 
+read(tnt: "woman_allchars.ss")
+read(tnt: "woman_step.ss")
+read(include:"Include_woman.txt")
+read(newick:"t93.tre")
+fuse(joinall)
+report("t536.csv", data, overwrite)
+report("t536.tre", graphs, newick, overwrite)

@@ -1,0 +1,117 @@
+---------------------------------------------------------------------------------
+-- Output paths
+--
+-- Place build output(s) in more accessible locations. Binaries should go in `bin`
+-- and log files of the build/benchmarks/tests should go in `log`.
+---------------------------------------------------------------------------------
+
+--Builddir:         ./build
+--Datadir:          ./data
+--Docdir:           ./doc
+--Htmldir:          ./doc/html
+--Symlink-Bindir:   ./bin
+Installdir:       ./bin
+Logs-dir:         ./log
+Install-Method:   copy
+Overwrite-policy: always
+
+---------------------------------------------------------------------------------
+-- Dependency details
+--
+-- Always allow a newer version of libraries which are tightly coupled to the GHC
+-- compiler version. This allows the project to build with newer versions of the
+-- compiler without having to tediously tinker with dependencies, both direct and
+-- transitive.
+--
+-- Always allow a newer version of libraries which have had a major release due
+-- to a security or performance patch. Add a `preference` indicating the desire
+-- to use a version greater than or equal to the patch.
+---------------------------------------------------------------------------------
+
+Allow-Newer:
+    -- Core library
+    base,
+    ghc,
+    ghc-compact,
+    ghc-prim,
+    integer-gmp,
+    template-haskell,
+    -- Internal compiler library
+    ghc-boot,
+    ghc-boot-th,
+    ghc-heap,
+    libiserv,
+    -- Dependency of `ghc` library
+    array,
+    binary,
+    bytestring,
+    containers,
+    deepseq,
+    directory,
+    exceptions,
+    filepath,
+    pretty,
+    process,
+    time,
+    transformers,
+    unix,
+    Win32,
+    -- Core tool library
+    ghci,
+    hpc,
+    Cabal,
+    -- Dependency of `Cabal` library
+    mtl,
+    parsec,
+    text,
+    -- Security update
+    aeson,
+    -- Lagging project dependency
+    memory,
+
+-- Applies to *only* the specified package!
+Package PhyG
+    Benchmarks:    False
+    Documentation: False
+    Tests:         False
+    Relocatable:   True
+    Flags: +SingleThreaded +Super-Optimization
+    Optimization: 2
+    Program-Prefix: $pkgid
+
+Packages: .
+           
+Preferences:
+    aeson >= 2.1.0.0,
+    bytestring >= 0.12.0.0,
+    filepath >= 1.4.100.0,
+    mtl >= 2.3.1,
+    text >= 2.0.1,
+    unordered-containers >= 0.2.18.0,
+
+Source-Repository-Package
+    Type:     git
+    Location: git@github.com:AMNH/PhyG
+
+Source-Repository-Package
+    Type:     git
+    Location: git@github.com:AMNH/PHANE
+    Subdir:   pkg/PHANE-alphabet
+
+Source-Repository-Package
+    Type:     git
+    Location: git@github.com:AMNH/PHANE
+    Subdir:   pkg/PHANE-measure-units
+
+Source-Repository-Package
+    Type:     git
+    Location: git@github.com:AMNH/PHANE
+    Subdir:   pkg/PHANE-PhyloLib
+
+
+---------------------------------------------------------------------------------
+-- Miscellaneous specifications
+---------------------------------------------------------------------------------
+
+Jobs:       $ncpus
+Keep-Going: False

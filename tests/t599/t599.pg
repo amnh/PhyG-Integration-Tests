@@ -1,0 +1,8 @@
+--input t13.tre, swap(replicates:5),  inputting prefastc file
+set(seed:1634561640)
+read(prefastc:"chel-wide.fastc")
+read(prefastc:"chel-huge.fastc")
+read(newick: "t13.tre")
+swap(replicates:5)
+report("t599.csv", data, overwrite)
+report("t599.tre", newick, overwrite)

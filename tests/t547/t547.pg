@@ -1,0 +1,10 @@
+--hardwired, swap(), inputting prefastc file
+set(seed:1634561640)
+set(graphtype:hardwired)
+read(prefastc:"chel-wide.fastc")
+read(prefastc:"chel-huge.fastc")
+read(newick:"t492.tre")
+swap(alternate)
+report("t547.csv", data, overwrite)
+report("t547.tre", graphs, newick, overwrite)
+report("t547_gv.tre", dotpdf, graphs, overwrite)

@@ -1,0 +1,12 @@
+--hardwired, fuse(), inputting tcm and nucleotide files
+set(seed:1634561640)
+set(graphtype:hardwired)
+read(nucleotide:"chel-prealigned.fas", tcm:"sg1t4.mat")
+read(nucleotide:"chel_cox1aln.fasta", tcm:"sg2t1.mat")
+read(newick:"t494.tre")
+fuse()
+swap()
+report("t501.csv", data, overwrite)
+report("t501.tre", graphs, newick, overwrite)
+report("t501_gv.tre", dotpdf, graphs, overwrite)
+report("t501_dt.tre", displaytrees, graphs, overwrite)

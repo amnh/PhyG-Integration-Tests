@@ -1,0 +1,9 @@
+--search(seconds:300), inputting fastc file along with tcm
+set(seed:1634561640)
+read(fastc:"woman.fastc", tcm:"woman-11.tcm")
+search(seconds:300, stop:5)
+report("t512_ia.txt", ia, overwrite)
+report("t512.csv", data, overwrite)
+report("t512.tre", newick, graphs, overwrite)
+--report("t512_info.csv", search, overwrite)
+report("t512_diag.txt", diagnosis, overwrite)

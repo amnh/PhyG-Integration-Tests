@@ -1,0 +1,12 @@
+--build(distance, rdwag), inputting tnt files
+set(seed:1634561640)
+read(tnt:"ordered.ss")
+read(tnt:"small.ss")
+read(tnt:"test0.ss")
+read(tnt:"test1.ss")
+read(tnt:"test01.ss")
+build(distance, rdWag, best:10)
+report("t17.csv", data, overwrite)
+report("t17_cr.csv", crossrefs, overwrite)
+report("t17_ia.txt", ia, concatenate, includemissing, overwrite)
+report("t17.tre", newick, overwrite)

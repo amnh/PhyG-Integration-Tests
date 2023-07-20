@@ -1,0 +1,12 @@
+--build(distance, rdwag), inputting "include" file
+set(seed:1634561640)
+read(fasta:"chel-16.fas")
+read(include:"Include.txt")
+build(distance, rdWag, best:10)
+report("t8.csv", data, overwrite)
+report("t8_cr.csv", crossrefs, overwrite)
+report("t8.tre", newick, graphs, overwrite)
+report("t8.ss", tnt, overwrite)
+report("t8_ia.txt", ia, overwrite)
+report("t8_ascii.txt", ascii, overwrite)
+report("t8_pd.csv", pairdist, overwrite)

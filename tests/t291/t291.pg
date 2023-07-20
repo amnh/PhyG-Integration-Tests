@@ -1,0 +1,9 @@
+--build(graph:softwired), inputting amino acid file
+set(seed:1634561640)
+set(graphtype:hardwired)
+read(aminoacid:"metazoa-aa-1.fas")
+read(aminoacid:"metazoa-aa-2.fas")
+build(character, replicates:10, block, cun, displaytrees:10, graph)
+report("t291.csv", data, overwrite)
+report("t291.tre", newick, overwrite)
+report("t291.dot", dotpdf, overwrite)

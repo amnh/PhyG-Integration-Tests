@@ -1,0 +1,7 @@
+--build(distance, nj), inputting tcm file (dayhoff) with amino acids
+set(seed:1634561640)
+read(prefasta:"metazoa-aa-1.fas", tcm:"dayhoff.mat")
+read(prefasta:"metazoa-aa-2.fas", tcm:"dayhoff.mat")
+build(distance, nj)
+report("t51.csv", data, overwrite)
+report("t51.tre", newick, overwrite)

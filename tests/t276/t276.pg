@@ -1,0 +1,9 @@
+--build(graph:softwired), inputting tcm and nucleotide files
+set(seed:1634561640)
+set(graphtype:softwired)
+read(nucleotide:"chel-prealigned.fas", tcm:"sg1t4.mat")
+read(nucleotide:"chel_cox1aln.fasta", tcm:"sg2t1.mat")
+build(distance, rdwag, block, eun, displaytrees:10, atrandom, graph)
+report("t276.csv", data, overwrite)
+report("t276.tre", newick, displaytrees, overwrite)
+report("t276.dot", dotpdf, overwrite)

@@ -1,0 +1,7 @@
+--build(distance, wpgma, block), inputting tcm and nucleotide files
+set(seed:1634561640)
+read(nucleotide:"chel-prealigned.fas", tcm:"sg1t4.mat")
+read(nucleotide:"chel_cox1aln.fasta", tcm:"sg2t1.mat")
+build(distance, wpgma, block, cun, displaytrees:3)
+report("t154.csv", data, overwrite)
+report("t154.tre", newick, overwrite)

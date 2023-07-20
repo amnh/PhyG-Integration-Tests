@@ -1,0 +1,11 @@
+--swap(nni), inputting fasta files with missing and chopped data
+--the taxa in these files were further reduced to 32 taxa and the root was set
+set(graphssteepest:1)
+set(seed:1634561640)
+set(outgroup:"Eucarida_Euphausiacea_Euphausiidae_Euphausia_pacifica_NC_016184")
+read(fasta:"dec258_12Saln_missing.fas", "dec258_16Saln_chopped.fasta")
+read(include:"Include_dec.txt")
+build(distance, rdWag, best:3)
+swap(nni)
+report("t426.csv", data, overwrite)
+report("t426.tre", newick, overwrite)

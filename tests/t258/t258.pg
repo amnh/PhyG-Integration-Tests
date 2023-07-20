@@ -1,0 +1,7 @@
+--fuse(tbr:10, unique), inputting continuous tnt char types
+set(seed:1634561640)
+read("arcoida_cont.ss", "arcoida_cont2.ss")
+build(distance, rdwag, cun, displaytrees:10)
+fuse(tbr:10, unique)
+report("t258.csv", data, overwrite)
+report("t258.tre", newick, overwrite)

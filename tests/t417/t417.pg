@@ -1,0 +1,9 @@
+--input t21.tre, swap(ia), inputting amino acid file
+set(graphssteepest:1)
+set(seed:1634561640)
+read(prefasta:"metazoa-aa-1_missing.fas", tcm:"dayhoff.mat")
+read(prefasta:"metazoa-aa-2_missing.fas", tcm:"dayhoff.mat")
+read(newick: "t21.tre")
+swap(ia)
+report("t417.csv", data, overwrite)
+report("t417.tre", newick, overwrite)

@@ -1,0 +1,13 @@
+--select(unique, atrandom:50, best:3), inputting prefasta file
+set(seed:1634561640)
+read(prefasta:"chel-prealigned.fas")
+read(prefasta:"metazoa-aa-1.fas")
+read(prefasta:"metazoa-aa-2.fas")
+read(newick:"t617_all.tre")
+read(newick:"t617_all.tre")
+select(unique)
+report("t625_unique.tre", newick, graphs, overwrite)
+select(atrandom:50)
+report("t625_atrandom.tre", newick, graphs, overwrite)
+select(best:3)
+report("t625_best.tre", newick, graphs, overwrite)

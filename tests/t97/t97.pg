@@ -1,0 +1,7 @@
+--build(distance, rdwag, block, otu), inputting nucleotide file
+set(seed:1634561640)
+read(nucleotide:"chel-16.fas")
+read(nucleotide:"chel-16_16Schopped.fas")
+build(distance, rdWag, block, eun, displaytrees: 3, otu)
+report("t97.csv", data, overwrite)
+report("t97.tre", newick, overwrite)

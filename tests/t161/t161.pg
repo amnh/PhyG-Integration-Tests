@@ -1,0 +1,6 @@
+--build(distance, wpgma, block), inputting continuous tnt char types
+set(seed:1634561640)
+read("arcoida_cont.ss", "arcoida_cont2.ss")
+build(distance, wpgma, block, eun, displaytrees: 3)
+report("t161.csv", data, overwrite)
+report("t161.tre", newick, overwrite)

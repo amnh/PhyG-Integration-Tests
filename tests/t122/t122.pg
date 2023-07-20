@@ -1,0 +1,7 @@
+--build(distance, nj, block), inputting amino acid file
+set(seed:1634561640)
+read(aminoacid:"metazoa-aa-1.fas")
+read(aminoacid:"metazoa-aa-2.fas")
+build(distance, nj, block, cun, displaytrees:3)
+report("t122.csv", data, overwrite)
+report("t122.tre", newick, overwrite)

@@ -1,0 +1,13 @@
+--softwired, fuse(), inputting tcm file (dayhoff) with amino acids
+set(seed:1634561640)
+set(graphtype:softwired)
+set(graphfactor:nopenalty)
+read(prefasta:"metazoa-aa-1.fas", tcm:"dayhoff.mat")
+read(prefasta:"metazoa-aa-2.fas", tcm:"dayhoff.mat")
+build(distance, rdwag, block, graph, replicates:10, displaytrees:10)
+refine(netadd, maxnetedges:3)
+fuse(spr)
+report("t493.csv", data, overwrite)
+report("t493.tre", graphs, newick, overwrite)
+report("t493_gv.tre", dotpdf, graphs, overwrite)
+report("t493_dt.tre", displaytrees, graphs, overwrite)

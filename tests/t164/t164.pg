@@ -1,0 +1,7 @@
+--build(distance, wpgma, block, spr), inputting prefastc file
+set(seed:1634561640)
+read(prefastc:"chel-wide.fastc")
+read(prefastc:"chel-huge.fastc")
+build(distance, wpgma, block, cun, displaytrees:3, spr)
+report("t164.csv", data, overwrite)
+report("t164.tre", newick, overwrite)

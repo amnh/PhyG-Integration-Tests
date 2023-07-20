@@ -1,0 +1,7 @@
+--build(distance, nj, block, otu), inputting nucleotide file
+set(seed:1634561640)
+read(nucleotide:"chel-16.fas")
+read(nucleotide:"chel-16_16Schopped.fas")
+build(distance, nj, block, eun, displaytrees: 3, otu)
+report("t141.csv", data, overwrite)
+report("t141.tre", newick, overwrite)

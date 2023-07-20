@@ -1,0 +1,10 @@
+--build(distance, nj), inputting tnt files
+set(seed:1634561640)
+read(tnt:"ordered.ss")
+read(tnt:"small.ss")
+read(tnt:"test0.ss")
+read(tnt:"test1.ss")
+read(tnt:"test01.ss")
+build(distance, nj)
+report("t52.csv", data, overwrite)
+report("t52.tre", newick, overwrite)

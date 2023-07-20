@@ -1,0 +1,12 @@
+--hardwired, fuse(), inputting prefastc file
+set(seed:1634561640)
+set(graphtype:hardwired)
+read(prefastc:"chel-wide.fastc")
+read(prefastc:"chel-huge.fastc")
+read(newick:"t492.tre")
+fuse()
+swap()
+report("t499.csv", data, overwrite)
+report("t499.tre", graphs, newick, overwrite)
+report("t499_gv.tre", dotpdf, graphs, overwrite)
+report("t499_dt.tre", displaytrees, graphs, overwrite)

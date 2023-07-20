@@ -1,0 +1,6 @@
+--build(distance, rdwag), inputting tcm and binary files
+set(seed:1634561640)
+read(prefasta:"chel-prealigned.fas", tcm:"sg2t1.mat")
+build(distance, rdWag, best:10, replicates:100)
+report("t22.csv", data, overwrite)
+report("t22.tre", newick, overwrite)

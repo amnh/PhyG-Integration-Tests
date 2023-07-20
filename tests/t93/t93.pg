@@ -1,0 +1,11 @@
+--build(distance, rdwag, block), inputting Hennig86 files with all character settings included
+set(seed:1634561640)
+read(rename: "woman_rename.txt")
+--woman_allchars.ss includes cc+, cc-, continuous, ?, [ ], /N 
+read(tnt: "woman_allchars.ss")
+read(tnt: "woman_step.ss")
+read(include:"Include_woman.txt")
+build(distance, rdWag, block, displaytrees:3)
+report("t93_cr.csv", crossrefs, overwrite)
+report("t93.csv", data, overwrite)
+report("t93.tre", graphs, newick, overwrite)

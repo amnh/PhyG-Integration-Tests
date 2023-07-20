@@ -1,0 +1,6 @@
+--build(distance, nj, block, displaytrees: 20, atrandom), inputting prenucleotide fasta files with missing data
+set(seed:1634561640)
+read(prenucleotide:"dec258_12Saln_missing.fasta")
+build(distance, nj, block, displaytrees: 20, atrandom)
+report("t346.csv", data, overwrite)
+report("t346.tre", newick, overwrite)

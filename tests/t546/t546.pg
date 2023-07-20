@@ -1,0 +1,11 @@
+--hardwired, swap(), inputting prefasta file
+set(seed:1634561640)
+set(graphtype:hardwired)
+read(prefasta:"chel-prealigned.fas")
+read(prefasta:"metazoa-aa-1.fas")
+read(prefasta:"metazoa-aa-2.fas")
+read(newick:"t491.tre")
+swap(alternate)
+report("t546.csv", data, overwrite)
+report("t546.tre", graphs, newick, overwrite)
+report("t546_gv.tre", dotpdf, graphs, overwrite)

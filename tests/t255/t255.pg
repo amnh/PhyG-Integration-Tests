@@ -1,0 +1,8 @@
+--fuse(best, once), inputting tcm and nucleotide files
+set(seed:1634561640)
+read(nucleotide:"chel-prealigned.fas", tcm:"sg1t4.mat")
+read(nucleotide:"chel_cox1aln.fasta", tcm:"sg2t1.mat")
+build(distance, rdwag, cun, displaytrees:10)
+fuse(best, once)
+report("t255.csv", data, overwrite)
+report("t255.tre", newick, overwrite)

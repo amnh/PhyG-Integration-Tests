@@ -1,0 +1,8 @@
+--build(distance, wpgma, block), inputting "Include.txt" file
+set(seed:1634561640)
+read(fasta:"chel_binary.fas")
+read(fasta:"chel-16.fas")
+read(exclude:"Include.txt")
+build(distance, wpgma, block, displaytrees: 3)
+report("t148.csv", data, overwrite)
+report("t148.tre", newick, overwrite)

@@ -1,0 +1,7 @@
+--build(character, block), inputting tcm (X,Y) and fasta file
+set(seed:1634561640)
+read(nucleotide:"chel-prealigned.fas", tcm:(2,1))
+read(nucleotide:"chel_cox1aln.fasta", tcm:"sg1t4.mat")
+build(character, block, replicates:3)
+report("t194.csv", data, overwrite)
+report("t194.tre", newick, overwrite)

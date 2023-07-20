@@ -1,0 +1,7 @@
+--input t16.tre, swap(steepest),  inputting pre nucleotide fasta files with missing data
+set(seed:1634561640)
+read(prenucleotide:"dec258_12Saln_missing.fasta")
+read(newick: "t16.tre")
+swap(steepest)
+report("t434.csv", data, overwrite)
+report("t434.tre", newick, overwrite)

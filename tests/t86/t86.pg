@@ -1,0 +1,10 @@
+--build(distance, rdwag, block), inputting tnt files
+set(seed:1634561640)
+read(tnt:"ordered.ss")
+read(tnt:"small.ss")
+read(tnt:"test0.ss")
+read(tnt:"test1.ss")
+read(tnt:"test01.ss")
+build(distance, rdWag, block, displaytrees:20, atrandom)
+report("t86.csv", data, overwrite)
+report("t86.tre", newick, overwrite)

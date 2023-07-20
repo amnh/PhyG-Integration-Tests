@@ -1,0 +1,9 @@
+--fuse(ini, keep4), inputting prefasta file
+--was fuse(nni, keep: 4)
+set(seed:1634561640)
+read(prefasta: "chel-prealigned.fas")
+read(prefasta: "metazoa-aa-1.fas")
+build(distance, rdWag, block, displaytrees:10, atrandom)
+fuse(none, keep: 4)
+report("t248.csv", data, overwrite)
+report("t248.tre", newick, overwrite)

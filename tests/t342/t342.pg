@@ -1,0 +1,6 @@
+--build(distance, nj), inputting prenucleotide fasta files with missing data
+set(seed:1634561640)
+read(prenucleotide:"dec258_12Saln_missing.fasta")
+build(distance, nj)
+report("t342.csv", data, overwrite)
+report("t342.tre", newick, overwrite)

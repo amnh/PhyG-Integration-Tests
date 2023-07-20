@@ -1,0 +1,12 @@
+--select(unique, atrandom:50, best:3), inputting tcm file (dayhoff) with amino acids
+set(seed:1634561640)
+read(prefasta:"metazoa-aa-1.fas", tcm:"dayhoff.mat")
+read(prefasta:"metazoa-aa-2.fas", tcm:"dayhoff.mat")
+read(newick:"t619_all.tre")
+read(newick:"t619_all.tre")
+select(unique)
+report("t627_unique.tre", newick, graphs, overwrite)
+select(atrandom:50)
+report("t627_atrandom.tre", newick, graphs, overwrite)
+select(best:3)
+report("t627_best.tre", newick, graphs, overwrite)

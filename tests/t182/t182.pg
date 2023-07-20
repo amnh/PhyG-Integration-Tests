@@ -1,0 +1,7 @@
+--build(character, block), inputting amino acid file
+set(seed:1634561640)
+read(aminoacid:"metazoa-aa-1.fas")
+read(aminoacid:"metazoa-aa-2.fas")
+build(character, block, replicates:3)
+report("t182.csv", data, overwrite)
+report("t182.tre", newick, overwrite)

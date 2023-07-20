@@ -1,0 +1,12 @@
+--hardwired, fuse(), inputting tcm file (dayhoff) with amino acids
+set(seed:1634561640)
+set(graphtype:hardwired)
+read(prefasta:"metazoa-aa-1.fas", tcm:"dayhoff.mat")
+read(prefasta:"metazoa-aa-2.fas", tcm:"dayhoff.mat")
+read(newick:"t493.tre")
+fuse()
+swap()
+report("t500.csv", data, overwrite)
+report("t500.tre", graphs, newick, overwrite)
+report("t500_gv.tre", dotpdf, graphs, overwrite)
+report("t500_dt.tre", displaytrees, graphs, overwrite)

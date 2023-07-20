@@ -1,0 +1,10 @@
+--fuse(unique, pairs:5), inputting fastc files along with tcm
+set(seed:1634561640)
+read(rename: "woman_rename.txt")
+read(fastc:"woman.fastc", tcm: "woman-11.tcm")
+read(fastc:"woman_cox1_spaced.fastc")
+read(include:"Include_woman16.txt")
+build(distance, rdWag, block, displaytrees:10, atrandom)
+fuse(unique, pairs:5)
+report("t240.csv", data, overwrite)
+report("t240.tre", newick, overwrite)

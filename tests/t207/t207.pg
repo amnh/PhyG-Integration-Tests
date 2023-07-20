@@ -1,0 +1,8 @@
+--fuse(keep:3), inputting prefastc file
+set(seed:1634561640)
+read(prefastc:"chel-wide.fastc")
+read(prefastc:"chel-huge.fastc")
+build(distance, rdWag, block, cun, displaytrees:10)
+fuse(keep:3)
+report("t207.csv", data, overwrite)
+report("t207.tre", newick, overwrite)

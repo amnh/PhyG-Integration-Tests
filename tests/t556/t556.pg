@@ -1,0 +1,7 @@
+--input t19.tre, swap(atrandom), inputting tcm and nucleotide files
+set(seed:1634561640)
+read(prefasta:"chel-prealigned.fas", tcm:"sg1t4.mat")
+read(newick: "t19.tre")
+swap(atrandom)
+report("t556.csv", data, overwrite)
+report("t556.tre", newick, overwrite)

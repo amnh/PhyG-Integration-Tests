@@ -1,0 +1,10 @@
+--swap(atrandom), inputting fastc files along with tcm, reducing dataset to 16 taxa
+set(seed:1634561640)
+read(rename: "woman_rename.txt")
+read(fastc:"woman.fastc", tcm: "woman-11.tcm")
+read(fastc:"woman_cox1_spaced.fastc")
+read(include:"Include_woman16.txt")
+build(distance, rdWag, best:10)
+swap(atrandom)
+report("t560.csv", data, overwrite)
+report("t560.tre", newick, graphs, overwrite)

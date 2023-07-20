@@ -1,0 +1,13 @@
+--build(distance, rdwag), inputting amino acid file
+set(seed:1634561640)
+read(aminoacid:"metazoa-aa-1.fas")
+read(aminoacid:"metazoa-aa-2.fas")
+build(distance, rdWag, best:10, replicates:21)
+report("t1_ia.txt", impliedalignment, concatenate, overwrite)
+report("t1.ss", tnt, overwrite)
+report("t1.csv", data, overwrite)
+report("t1_cr.csv", crossrefs, overwrite)
+report("t1_collapse.tre", newick, graphs, collapse, overwrite)
+report("t1_nocollapse.tre", newick, graphs, nocollapse, overwrite)
+report("t1_ascii.txt", ascii, overwrite)
+report("t1_pd.csv", pairdist, overwrite)

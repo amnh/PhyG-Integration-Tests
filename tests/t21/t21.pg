@@ -1,0 +1,7 @@
+--build(distance, rdwag), inputting amino acid file
+set(seed:1634561640)
+read(prefasta:"metazoa-aa-1_missing.fas", tcm:"dayhoff.mat")
+read(prefasta:"metazoa-aa-2_missing.fas", tcm:"dayhoff.mat")
+build(distance, rdWag, best:10)
+report("t21.csv", data, overwrite)
+report("t21.tre", newick, overwrite)

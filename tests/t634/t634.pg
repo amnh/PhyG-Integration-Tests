@@ -1,0 +1,10 @@
+--search(instances, stop), inputting prefastc file
+set(seed:1634561640)
+read(prefastc:"chel-wide.fastc")
+read(prefastc:"chel-huge.fastc")
+search(minutes:5, instances:3, stop:20)
+report("t634_ia.txt", ia, overwrite)
+report("t634.csv", data, overwrite)
+report("t634.tre", newick, graphs, overwrite)
+--report("t634_info.csv", search, overwrite)
+report("t634_diag.txt", diagnosis, overwrite)

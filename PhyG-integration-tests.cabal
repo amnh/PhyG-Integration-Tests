@@ -1,0 +1,119 @@
+Cabal-Version: 3.8
+Name:          PhyG-integration-tests
+Version:       0.1.0
+Build-Type:    Simple
+Tested-With:
+  GHC == 9.6.2
+  GHC == 9.4.5
+  GHC == 9.2.8
+
+Author:        Ward Wheeler <wheeler@amnh.org>
+Copyright:     © 2021 Ward Wheeler and The American Museum of Natural History
+License:       BSD-3-Clause
+License-File:  LICENSE
+
+Maintainer:    Ward Wheeler <wheeler@amnh.org>
+Homepage:      https://github.com/AMNH/PhyG-Integration-Tests#readme
+Bug-Reports:   https://github.com/AMNH/PhyG-Integration-Tests/issues
+
+Source-Repository head
+  Type:        git
+  Location:    git://github.com/AMNH/PhyG-Integration-Tests.git
+
+Data-Dir:
+  tests
+
+Data-Files:
+  **/*.dot
+  **/*.fas
+  **/*.fasta
+  **/*.fastc
+  **/*.golden
+  **/*.pg
+  **/*.ss
+  **/*.tcm
+--   **/*.tre
+-- None of the below currently exist in the test suite!
+--  **/*.tree
+--  **/*.tnt
+
+Flag SingleThreaded
+  Description: Disable multi-threading
+  Default:     False
+  Manual:      True
+
+
+Test-Suite integration-tests
+
+  Main-Is:
+    IntegrationTests.hs
+
+  Autogen-Modules:
+    PackageInfo_PhyG_integration_tests
+    Paths_PhyG_integration_tests
+
+  Build-Depends:
+    base >= 4.11 && < 5.0,
+    bytestring >= 0.10.10 && < 0.13,
+    deepseq >= 1.4 && < 2.0,
+    directory >= 1.3.6 && < 2.0,
+    filepath >= 1.4.2 && < 2.0,
+    process >= 1.6 && < 2.0,
+    tasty >= 1.2 && < 2.0,
+    tasty-golden >= 2.3 && < 3.0,
+    tasty-rerun >= 1.1.14 && < 2.0,
+    template-haskell >= 2.17 && < 3.0,
+
+  Build-Tool-Depends:
+    PhyG:phyg
+
+  Default-Extensions:
+    NoGeneralizedNewtypeDeriving
+
+  Default-Language:
+    GHC2021
+
+  If !flag(SingleThreaded)
+    Ghc-Options:
+      -threaded
+      -with-rtsopts=-N
+
+  Ghc-Options:
+    -- Usability options:
+    -fdiagnostics-color=always
+    -fhide-source-paths
+
+    -- Optimization flags:
+    -O2
+        
+    -- Sanity check warnings:
+    --   1. Fail on a warning
+    --   2. Include all warnings by default
+    --   3. Exclude the undesirable warnings
+--    -Werror
+    -Weverything
+    -- Exclusions:
+    -Wno-implicit-prelude
+    -Wno-inferred-safe-imports
+    -Wno-missing-import-lists
+    -Wno-missing-kind-signatures
+    -Wno-missing-safe-haskell-mode
+    -Wno-monomorphism-restriction
+    -Wno-type-defaults
+    -Wno-unsafe
+
+  Hs-Source-Dirs:
+    src
+
+  Other-Extensions:
+    TemplateHaskell
+
+  Other-Modules:
+    PackageInfo_PhyG_integration_tests
+    Paths_PhyG_integration_tests
+    Test.Integration.Constants
+    Test.Integration.Golden
+    Test.SubProcess
+
+  Type:
+    exitcode-stdio-1.0

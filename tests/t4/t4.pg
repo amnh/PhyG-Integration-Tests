@@ -1,0 +1,13 @@
+--build(distance, rdwag), inputting "Exclude.txt" file
+set(seed:1634561640)
+read(fasta:"chel-16.fas")
+read(exclude:"Exclude.txt")
+build(distance, rdWag, best:10)
+report("t4.csv", data, overwrite)
+report("t4_cr.csv", crossrefs, overwrite)
+report("t4_collapse.tre", newick, graphs, collapse, overwrite)
+report("t4_nocollapse.tre", newick, graphs, nocollapse, overwrite)
+report("t4.ss", tnt, overwrite)
+report("t4_ia.txt", ia, overwrite)
+report("t4_ascii.txt", ascii, overwrite)
+report("t4_pd.csv", pairdist, overwrite)

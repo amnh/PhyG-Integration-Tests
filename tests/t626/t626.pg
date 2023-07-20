@@ -1,0 +1,12 @@
+--select(unique, atrandom:50, best:3), inputting prefastc file
+set(seed:1634561640)
+read(prefastc:"chel-wide.fastc")
+read(prefastc:"chel-huge.fastc")
+read(newick:"t618_all.tre")
+read(newick:"t618_all.tre")
+select(unique)
+report("t626_unique.tre", newick, graphs, overwrite)
+select(atrandom:50)
+report("t626_atrandom.tre", newick, graphs, overwrite)
+select(best:3)
+report("t626_best.tre", newick, graphs, overwrite)

@@ -1,0 +1,6 @@
+--build(distance, wpgma, block, none), inputting fasta and binary files
+set(seed:1634561640)
+read(fasta:"chel.fas", "chel_binary.fas")
+build(distance, wpgma, block, displaytrees:3, none)
+report("t162.csv", data, overwrite)
+report("t162.tre", newick, overwrite)

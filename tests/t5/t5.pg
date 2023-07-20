@@ -1,0 +1,11 @@
+--build(distance, rdwag), inputting fasta and binary files
+set(seed:1634561640)
+read(fasta:"chel.fas", "chel_binary.fas")
+build(distance, rdWag, best:20, replicates:30)
+report("t5.txt", ia, concatenate, overwrite)
+report("t5.ss", tnt, overwrite)
+report("t5.csv", data, overwrite)
+report("t5_collapse.tre", newick, graphs, collapse, overwrite)
+report("t5_nocollapse.tre", newick, graphs, nocollapse, overwrite)
+report("t5_ascii.txt", ascii, overwrite)
+report("t5_pd.csv", pairdist, overwrite)

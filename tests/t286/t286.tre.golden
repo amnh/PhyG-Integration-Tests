@@ -1,0 +1,133 @@
+[DisplayTree costs : {[759.0,792.0,788.0,778.0,778.0,777.0,777.0,777.0,772.0,766.0,765.0],[{[61.0,698.0],34.89999999999998},{[65.0,727.0],0.0},{[64.0,724.0],0.0},{[62.0,716.0],0.0},{[63.0,715.0],0.0},{[65.0,712.0],0.0},{[65.0,712.0],0.0},{[63.0,714.0],0.0},{[63.0,709.0],0.0},{[63.0,703.0],0.0},{[64.0,701.0],0.0}]}]
+[Canonical Tree 0]
+[Block 0]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,(((AncientIonicGreek:1.0,(Cornish:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU20:1.0)HTU22:1.0)HTU21:1.0,(((KolschColognian:1.0,Yiddish:1.0)HTU25:1.0,(SanskritVedic:1.0)HTU36:1.0)HTU24:1.0,(ArmenianWestern:1.0)HTU34:1.0)HTU23:1.0)HTU19:1.0)HTU17:1.0,((((Irish:1.0,((Assamese:1.0,Scots:1.0)HTU30:1.0,(Faroese:1.0)HTU35:1.0)HTU33:1.0)HTU32:1.0)HTU27:1.0,(Icelandic:1.0,OldPrussian:1.0)HTU31:1.0)HTU28:1.0)HTU29:1.0)HTU26:1.0)HTU16[0.0];
+
+
+[Block 1]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,(((AncientIonicGreek:1.0,(Cornish:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU20:1.0)HTU22:1.0,(Faroese:1.0)HTU35:1.0)HTU21:1.0,(((KolschColognian:1.0,Yiddish:1.0)HTU25:1.0)HTU24:1.0)HTU23:1.0)HTU19:1.0)HTU17:1.0,((((Irish:1.0,((Assamese:1.0,Scots:1.0)HTU30:1.0)HTU33:1.0)HTU32:1.0,(SanskritVedic:1.0)HTU36:1.0)HTU27:1.0,(Icelandic:1.0,OldPrussian:1.0)HTU31:1.0)HTU28:1.0,(ArmenianWestern:1.0)HTU34:1.0)HTU29:1.0)HTU26:1.0)HTU16[0.0];
+
+
+
+[Canonical Tree 1]
+[Block 0]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,((Faroese:1.0,(AncientIonicGreek:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU21:1.0)HTU20:1.0,(SanskritVedic:1.0,Yiddish:1.0)HTU22:1.0)HTU19:1.0)HTU17:1.0,(ArmenianWestern:1.0,((Icelandic:1.0,OldPrussian:1.0)HTU28:1.0,((KolschColognian:1.0,(Assamese:1.0,Scots:1.0)HTU27:1.0)HTU24:1.0,(Cornish:1.0,Irish:1.0)HTU30:1.0)HTU29:1.0)HTU25:1.0)HTU26:1.0)HTU23:1.0)HTU16[0.0];
+
+
+[Block 1]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,((Faroese:1.0,(AncientIonicGreek:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU21:1.0)HTU20:1.0,(SanskritVedic:1.0,Yiddish:1.0)HTU22:1.0)HTU19:1.0)HTU17:1.0,(ArmenianWestern:1.0,((Icelandic:1.0,OldPrussian:1.0)HTU28:1.0,((KolschColognian:1.0,(Assamese:1.0,Scots:1.0)HTU27:1.0)HTU24:1.0,(Cornish:1.0,Irish:1.0)HTU30:1.0)HTU29:1.0)HTU25:1.0)HTU26:1.0)HTU23:1.0)HTU16[0.0];
+
+
+
+[Canonical Tree 2]
+[Block 0]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,((Faroese:1.0,(AncientIonicGreek:1.0,(Cornish:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU20:1.0)HTU22:1.0)HTU21:1.0,(SanskritVedic:1.0,Yiddish:1.0)HTU23:1.0)HTU19:1.0)HTU17:1.0,(ArmenianWestern:1.0,((Icelandic:1.0,OldPrussian:1.0)HTU29:1.0,(Irish:1.0,(KolschColognian:1.0,(Assamese:1.0,Scots:1.0)HTU28:1.0)HTU25:1.0)HTU30:1.0)HTU26:1.0)HTU27:1.0)HTU24:1.0)HTU16[0.0];
+
+
+[Block 1]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,((Faroese:1.0,(AncientIonicGreek:1.0,(Cornish:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU20:1.0)HTU22:1.0)HTU21:1.0,(SanskritVedic:1.0,Yiddish:1.0)HTU23:1.0)HTU19:1.0)HTU17:1.0,(ArmenianWestern:1.0,((Icelandic:1.0,OldPrussian:1.0)HTU29:1.0,(Irish:1.0,(KolschColognian:1.0,(Assamese:1.0,Scots:1.0)HTU28:1.0)HTU25:1.0)HTU30:1.0)HTU26:1.0)HTU27:1.0)HTU24:1.0)HTU16[0.0];
+
+
+
+[Canonical Tree 3]
+[Block 0]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,((AncientIonicGreek:1.0,(Cornish:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU20:1.0)HTU21:1.0,(ArmenianWestern:1.0,Yiddish:1.0)HTU22:1.0)HTU19:1.0)HTU17:1.0,((SanskritVedic:1.0,(Irish:1.0,(KolschColognian:1.0,(Faroese:1.0,(Assamese:1.0,Scots:1.0)HTU27:1.0)HTU30:1.0)HTU24:1.0)HTU29:1.0)HTU25:1.0,(Icelandic:1.0,OldPrussian:1.0)HTU28:1.0)HTU26:1.0)HTU23:1.0)HTU16[0.0];
+
+
+[Block 1]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,((AncientIonicGreek:1.0,(Cornish:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU20:1.0)HTU21:1.0,(ArmenianWestern:1.0,Yiddish:1.0)HTU22:1.0)HTU19:1.0)HTU17:1.0,((SanskritVedic:1.0,(Irish:1.0,(KolschColognian:1.0,(Faroese:1.0,(Assamese:1.0,Scots:1.0)HTU27:1.0)HTU30:1.0)HTU24:1.0)HTU29:1.0)HTU25:1.0,(Icelandic:1.0,OldPrussian:1.0)HTU28:1.0)HTU26:1.0)HTU23:1.0)HTU16[0.0];
+
+
+
+[Canonical Tree 4]
+[Block 0]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,((Faroese:1.0,(AncientIonicGreek:1.0,(Cornish:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU20:1.0)HTU22:1.0)HTU21:1.0,(ArmenianWestern:1.0,(SanskritVedic:1.0,Yiddish:1.0)HTU24:1.0)HTU23:1.0)HTU19:1.0)HTU17:1.0,((Icelandic:1.0,OldPrussian:1.0)HTU29:1.0,(Irish:1.0,(KolschColognian:1.0,(Assamese:1.0,Scots:1.0)HTU28:1.0)HTU26:1.0)HTU30:1.0)HTU27:1.0)HTU25:1.0)HTU16[0.0];
+
+
+[Block 1]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,((Faroese:1.0,(AncientIonicGreek:1.0,(Cornish:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU20:1.0)HTU22:1.0)HTU21:1.0,(ArmenianWestern:1.0,(SanskritVedic:1.0,Yiddish:1.0)HTU24:1.0)HTU23:1.0)HTU19:1.0)HTU17:1.0,((Icelandic:1.0,OldPrussian:1.0)HTU29:1.0,(Irish:1.0,(KolschColognian:1.0,(Assamese:1.0,Scots:1.0)HTU28:1.0)HTU26:1.0)HTU30:1.0)HTU27:1.0)HTU25:1.0)HTU16[0.0];
+
+
+
+[Canonical Tree 5]
+[Block 0]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,(Yiddish:1.0,(Faroese:1.0,(AncientIonicGreek:1.0,(Cornish:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU20:1.0)HTU22:1.0)HTU21:1.0)HTU19:1.0)HTU17:1.0,(ArmenianWestern:1.0,((SanskritVedic:1.0,(Irish:1.0,(KolschColognian:1.0,(Assamese:1.0,Scots:1.0)HTU28:1.0)HTU24:1.0)HTU30:1.0)HTU25:1.0,(Icelandic:1.0,OldPrussian:1.0)HTU29:1.0)HTU26:1.0)HTU27:1.0)HTU23:1.0)HTU16[0.0];
+
+
+[Block 1]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,(Yiddish:1.0,(Faroese:1.0,(AncientIonicGreek:1.0,(Cornish:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU20:1.0)HTU22:1.0)HTU21:1.0)HTU19:1.0)HTU17:1.0,(ArmenianWestern:1.0,((SanskritVedic:1.0,(Irish:1.0,(KolschColognian:1.0,(Assamese:1.0,Scots:1.0)HTU28:1.0)HTU24:1.0)HTU30:1.0)HTU25:1.0,(Icelandic:1.0,OldPrussian:1.0)HTU29:1.0)HTU26:1.0)HTU27:1.0)HTU23:1.0)HTU16[0.0];
+
+
+
+[Canonical Tree 6]
+[Block 0]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,(Yiddish:1.0,(Faroese:1.0,(AncientIonicGreek:1.0,(Cornish:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU20:1.0)HTU22:1.0)HTU21:1.0)HTU19:1.0)HTU17:1.0,(ArmenianWestern:1.0,((SanskritVedic:1.0,(Irish:1.0,(KolschColognian:1.0,(Assamese:1.0,Scots:1.0)HTU28:1.0)HTU24:1.0)HTU30:1.0)HTU25:1.0,(Icelandic:1.0,OldPrussian:1.0)HTU29:1.0)HTU26:1.0)HTU27:1.0)HTU23:1.0)HTU16[0.0];
+
+
+[Block 1]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,(Yiddish:1.0,(Faroese:1.0,(AncientIonicGreek:1.0,(Cornish:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU20:1.0)HTU22:1.0)HTU21:1.0)HTU19:1.0)HTU17:1.0,(ArmenianWestern:1.0,((SanskritVedic:1.0,(Irish:1.0,(KolschColognian:1.0,(Assamese:1.0,Scots:1.0)HTU28:1.0)HTU24:1.0)HTU30:1.0)HTU25:1.0,(Icelandic:1.0,OldPrussian:1.0)HTU29:1.0)HTU26:1.0)HTU27:1.0)HTU23:1.0)HTU16[0.0];
+
+
+
+[Canonical Tree 7]
+[Block 0]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,(Yiddish:1.0,(AncientIonicGreek:1.0,(Cornish:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU20:1.0)HTU21:1.0)HTU19:1.0)HTU17:1.0,(ArmenianWestern:1.0,((SanskritVedic:1.0,(Irish:1.0,(KolschColognian:1.0,(Faroese:1.0,(Assamese:1.0,Scots:1.0)HTU27:1.0)HTU30:1.0)HTU23:1.0)HTU29:1.0)HTU24:1.0,(Icelandic:1.0,OldPrussian:1.0)HTU28:1.0)HTU25:1.0)HTU26:1.0)HTU22:1.0)HTU16[0.0];
+
+
+[Block 1]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,(Yiddish:1.0,(AncientIonicGreek:1.0,(Cornish:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU20:1.0)HTU21:1.0)HTU19:1.0)HTU17:1.0,(ArmenianWestern:1.0,((SanskritVedic:1.0,(Irish:1.0,(KolschColognian:1.0,(Faroese:1.0,(Assamese:1.0,Scots:1.0)HTU27:1.0)HTU30:1.0)HTU23:1.0)HTU29:1.0)HTU24:1.0,(Icelandic:1.0,OldPrussian:1.0)HTU28:1.0)HTU25:1.0)HTU26:1.0)HTU22:1.0)HTU16[0.0];
+
+
+
+[Canonical Tree 8]
+[Block 0]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,((AncientIonicGreek:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU20:1.0,(SanskritVedic:1.0,(KolschColognian:1.0,Yiddish:1.0)HTU22:1.0)HTU21:1.0)HTU19:1.0)HTU17:1.0,(ArmenianWestern:1.0,((Icelandic:1.0,OldPrussian:1.0)HTU27:1.0,((Faroese:1.0,(Assamese:1.0,Scots:1.0)HTU26:1.0)HTU29:1.0,(Cornish:1.0,Irish:1.0)HTU30:1.0)HTU28:1.0)HTU24:1.0)HTU25:1.0)HTU23:1.0)HTU16[0.0];
+
+
+[Block 1]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,((AncientIonicGreek:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU20:1.0,(SanskritVedic:1.0,(KolschColognian:1.0,Yiddish:1.0)HTU22:1.0)HTU21:1.0)HTU19:1.0)HTU17:1.0,(ArmenianWestern:1.0,((Icelandic:1.0,OldPrussian:1.0)HTU27:1.0,((Faroese:1.0,(Assamese:1.0,Scots:1.0)HTU26:1.0)HTU29:1.0,(Cornish:1.0,Irish:1.0)HTU30:1.0)HTU28:1.0)HTU24:1.0)HTU25:1.0)HTU23:1.0)HTU16[0.0];
+
+
+
+[Canonical Tree 9]
+[Block 0]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,((Faroese:1.0,(AncientIonicGreek:1.0,(Cornish:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU20:1.0)HTU22:1.0)HTU21:1.0,(SanskritVedic:1.0,(KolschColognian:1.0,Yiddish:1.0)HTU24:1.0)HTU23:1.0)HTU19:1.0)HTU17:1.0,(ArmenianWestern:1.0,((Icelandic:1.0,OldPrussian:1.0)HTU29:1.0,(Irish:1.0,(Assamese:1.0,Scots:1.0)HTU28:1.0)HTU30:1.0)HTU26:1.0)HTU27:1.0)HTU25:1.0)HTU16[0.0];
+
+
+[Block 1]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,((Faroese:1.0,(AncientIonicGreek:1.0,(Cornish:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU20:1.0)HTU22:1.0)HTU21:1.0,(SanskritVedic:1.0,(KolschColognian:1.0,Yiddish:1.0)HTU24:1.0)HTU23:1.0)HTU19:1.0)HTU17:1.0,(ArmenianWestern:1.0,((Icelandic:1.0,OldPrussian:1.0)HTU29:1.0,(Irish:1.0,(Assamese:1.0,Scots:1.0)HTU28:1.0)HTU30:1.0)HTU26:1.0)HTU27:1.0)HTU25:1.0)HTU16[0.0];
+
+
+
+[Canonical Tree 10]
+[Block 0]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,((Faroese:1.0,(AncientIonicGreek:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU21:1.0)HTU20:1.0,(ArmenianWestern:1.0,(KolschColognian:1.0,Yiddish:1.0)HTU23:1.0)HTU22:1.0)HTU19:1.0)HTU17:1.0,((SanskritVedic:1.0,((Assamese:1.0,Scots:1.0)HTU27:1.0,(Cornish:1.0,Irish:1.0)HTU30:1.0)HTU29:1.0)HTU25:1.0,(Icelandic:1.0,OldPrussian:1.0)HTU28:1.0)HTU26:1.0)HTU24:1.0)HTU16[0.0];
+
+
+[Block 1]
+[Display Tree[s]: 1]
+(AlbanianTosk:1.0,((EasternFrisianSaterland:1.0,((Faroese:1.0,(AncientIonicGreek:1.0,(Danish:1.0,Manx:1.0)HTU18:1.0)HTU21:1.0)HTU20:1.0,(ArmenianWestern:1.0,(KolschColognian:1.0,Yiddish:1.0)HTU23:1.0)HTU22:1.0)HTU19:1.0)HTU17:1.0,((SanskritVedic:1.0,((Assamese:1.0,Scots:1.0)HTU27:1.0,(Cornish:1.0,Irish:1.0)HTU30:1.0)HTU29:1.0)HTU25:1.0,(Icelandic:1.0,OldPrussian:1.0)HTU28:1.0)HTU26:1.0)HTU24:1.0)HTU16[0.0];
+
+
+

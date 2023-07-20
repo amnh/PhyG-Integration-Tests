@@ -1,0 +1,6 @@
+--build(distance, dwag), inputting fastc file along with tcm
+set(seed:1634561640)
+read(fastc:"woman.fastc", tcm: "woman-11.tcm")
+build(distance, dWag)
+report("t31.csv", data, overwrite)
+report("t31.tre", newick, overwrite)

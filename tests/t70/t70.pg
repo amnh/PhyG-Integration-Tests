@@ -1,0 +1,6 @@
+--build(distance, wpgma), inputting fasta files with missing and chopped data
+set(seed:1634561640)
+read(fasta:"dec258_12Saln_missing.fas", "dec258_16Saln_chopped.fasta")
+build(distance, wpgma)
+report("t70.csv", data, overwrite)
+report("t70.tre", newick, overwrite)

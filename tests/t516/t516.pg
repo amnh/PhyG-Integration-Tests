@@ -1,0 +1,13 @@
+--search(seconds:300), inputting tnt files
+set(seed:1634561640)
+read(tnt:"ordered.ss")
+read(tnt:"small.ss")
+read(tnt:"test0.ss")
+read(tnt:"test1.ss")
+read(tnt:"test01.ss")
+search(seconds:300)
+report("t516_ia.txt", ia, overwrite)
+report("t516.csv", data, overwrite)
+report("t516.tre", newick, graphs, overwrite)
+--report("t516_info.csv", search, overwrite)
+report("t516_diag.txt", diagnosis, overwrite)

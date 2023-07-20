@@ -1,0 +1,8 @@
+--fuse(tbr:10, unique), inputting tcm file (dayhoff) with amino acids
+set(seed:1634561640)
+read(prefasta:"metazoa-aa-1.fas", tcm:"dayhoff.mat")
+read(prefasta:"metazoa-aa-2.fas", tcm:"dayhoff.mat")
+build(character, replicates:10)
+fuse(tbr:10, unique)
+report("t262.csv", data, overwrite)
+report("t262.tre", newick, overwrite)

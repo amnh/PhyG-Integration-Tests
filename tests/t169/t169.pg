@@ -1,0 +1,7 @@
+--build(character, all-data), inputting nucleotide file
+set(seed:1634561640)
+read(nucleotide:"chel-16.fas")
+read(nucleotide:"chel-16_16Schopped.fas")
+build(character, replicates:3)
+report("t169.csv", data, overwrite)
+report("t169.tre", newick, overwrite)

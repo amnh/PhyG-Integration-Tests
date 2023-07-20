@@ -1,0 +1,7 @@
+--build(character, block), inputting tcm and nucleotide files
+set(seed:1634561640)
+read(nucleotide:"chel-prealigned.fas", tcm:"sg1t4.mat")
+read(nucleotide:"chel_cox1aln.fasta", tcm:"sg2t1.mat")
+build(character, block, replicates:3)
+report("t190.csv", data, overwrite)
+report("t190.tre", newick, overwrite)

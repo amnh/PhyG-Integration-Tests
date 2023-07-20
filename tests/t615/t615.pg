@@ -1,0 +1,13 @@
+--select(all) versus select(threshold:X), inputting fasta and binary files
+set(seed:1634561640)
+read(fasta:"chel.fas", "chel_binary.fas")
+build(distance, rdwag, replicates:100)
+report("t615.csv", data, overwrite)
+select(all)
+report("t615_all.tre", newick, graphs, overwrite)
+select(threshold:0.1)
+report("t615_threshold-10.tre", newick, graphs, overwrite)
+select(threshold:0.01)
+report("t615_threshold-1.tre", newick, graphs, overwrite)
+select(threshold:0.005)
+report("t615_threshold-05.tre", newick, graphs, overwrite)

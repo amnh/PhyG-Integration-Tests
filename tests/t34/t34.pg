@@ -1,0 +1,7 @@
+--build(distance, dwag), inputting prefastc file
+set(seed:1634561640)
+read(prefastc:"chel-wide.fastc")
+read(prefastc:"chel-huge.fastc")
+build(distance, dWag)
+report("t34.csv", data, overwrite)
+report("t34.tre", newick, overwrite)

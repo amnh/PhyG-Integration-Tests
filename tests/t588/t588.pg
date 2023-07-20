@@ -1,0 +1,7 @@
+--input t5.tre, swap(joinpruned), inputting fasta and binary files
+set(seed:1634561640)
+read(fasta:"chel.fas", "chel_binary.fas")
+read(newick: "t5.tre")
+swap(joinpruned)
+report("t588.csv", data, overwrite)
+report("t588.tre", newick, overwrite)

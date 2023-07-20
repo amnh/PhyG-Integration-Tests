@@ -1,0 +1,10 @@
+--fuse(joinall), inputting fastc files along with tcm
+set(seed:1634561640)
+read(rename:"woman_rename.txt")
+read(fastc:"woman.fastc", tcm:"woman-11.tcm")
+read(fastc:"woman_cox1_spaced.fastc")
+read(include:"Include_woman.txt")
+read(newick:"t80.tre")
+fuse(joinall)
+report("t530.csv", data, overwrite)
+report("t530.tre", newick, overwrite)

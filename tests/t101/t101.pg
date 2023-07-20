@@ -1,0 +1,8 @@
+--build(distance, dwag, block), inputting "Exclude.txt" file
+set(seed:1634561640)
+read(fasta:"chel_binary.fas")
+read(fasta:"chel-16.fas")
+read(exclude:"Exclude.txt")
+build(distance, dwag, block, displaytrees: 3)
+report("t101.csv", data, overwrite)
+report("t101.tre", newick, overwrite)

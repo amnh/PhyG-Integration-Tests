@@ -1,0 +1,8 @@
+--fuse(joinall), inputting prefastc file
+set(seed:1634561640)
+read(prefastc:"chel-wide.fastc")
+read(prefastc:"chel-huge.fastc")
+read(newick:"t84.tre")
+fuse(joinall)
+report("t532.csv", data, overwrite)
+report("t532.tre", newick, graphs, overwrite)

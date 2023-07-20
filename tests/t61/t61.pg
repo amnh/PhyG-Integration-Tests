@@ -1,0 +1,7 @@
+--build(distance, wpgma), inputting amino acid file
+set(seed:1634561640)
+read(aminoacid:"metazoa-aa-1.fas")
+read(aminoacid:"metazoa-aa-2.fas")
+build(distance, wpgma)
+report("t61.csv", data, overwrite)
+report("t61.tre", newick, overwrite)

@@ -1,0 +1,10 @@
+--build(graph:softwired), inputting fastc files along with tcm
+set(seed:1634561640)
+set(graphtype:hardwired)
+read(fastc:"woman.fastc", tcm: "woman-11.tcm")
+read(fastc:"woman_cox1_spaced.fastc")
+read(include:"Include_woman16.txt")
+build(character, replicates:10, block, cun, displaytrees:10, atrandom, graph)
+report("t292.csv", data, overwrite)
+report("t292.tre", newick, overwrite)
+report("t292.dot", dotpdf, overwrite)

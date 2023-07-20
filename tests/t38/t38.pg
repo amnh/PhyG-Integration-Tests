@@ -1,0 +1,6 @@
+--build(distance, dwag), inputting fasta files with missing and chopped data
+set(seed:1634561640)
+read(fasta:"dec258_12Saln_missing.fas", "dec258_16Saln_chopped.fasta")
+build(distance, dWag)
+report("t38.csv", data, overwrite)
+report("t38.tre", newick, overwrite)
