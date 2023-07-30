@@ -24,6 +24,7 @@ Data-Dir:
   tests
 
 Data-Files:
+  data/speedy.txt
   **/*.dot
   **/*.fas
   **/*.fasta
@@ -55,6 +56,7 @@ Test-Suite integration-tests
   Build-Depends:
     base >= 4.11 && < 5.0,
     bytestring >= 0.10.10 && < 0.13,
+    containers >= 0.6.2 && < 1.0,
     deepseq >= 1.4 && < 2.0,
     directory >= 1.3.6 && < 2.0,
     filepath >= 1.4.2 && < 2.0,
@@ -93,8 +95,10 @@ Test-Suite integration-tests
 --    -Werror
     -Weverything
     -- Exclusions:
+    -Wno-all-missed-specialisations
     -Wno-implicit-prelude
     -Wno-inferred-safe-imports
+    -Wno-missed-specialisations
     -Wno-missing-import-lists
     -Wno-missing-kind-signatures
     -Wno-missing-safe-haskell-mode
@@ -113,6 +117,8 @@ Test-Suite integration-tests
     Paths_PhyG_integration_tests
     Test.Integration.Constants
     Test.Integration.Golden
+    Test.Speedy
+    Test.Speedy.Subset
     Test.SubProcess
 
   Type:

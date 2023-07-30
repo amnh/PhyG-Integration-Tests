@@ -3,7 +3,6 @@ Automatic collection and construction of test-suite based on existance of @.gold
 -}
 
 {-# Language DerivingStrategies #-}
-{-# Language OverloadedStrings #-}
 {-# Language StandaloneDeriving #-}
 
 module Test.Integration.Golden
@@ -18,10 +17,11 @@ import Data.List (sort)
 import Data.Maybe (mapMaybe)
 import System.Directory (doesFileExist, removeFile)
 import System.Exit (ExitCode(..))
-import System.FilePath.Posix
+import System.FilePath.Posix ((<.>), (</>), normalise, stripExtension, takeBaseName, takeDirectory, takeFileName)
+import Test.Speedy (speedCriteria)
 import Test.SubProcess
-import Test.Tasty
-import Test.Tasty.Golden
+import Test.Tasty (TestTree, askOption, testGroup, withResource)
+import Test.Tasty.Golden (findByExtension, goldenVsFile)
 import Text.Read (readMaybe)
 
 
@@ -79,16 +79,25 @@ scriptExtension :: FileExtension
 scriptExtension = ".pg"
 
 
--- |
--- The test-suite for all 'Golden Tests'.
---
--- Compares the process's output with a "golden file," the two shpuld be identical.
+{- |
+The test-suite for all 'Golden Tests'.
+
+Compares the process's output with a "golden file," the two should be identical.
+-}
 collectTestSuite :: FilePath -> IO TestTree
 collectTestSuite testCaseDir =
-    let suiteName = "Golden Test Cases:"
+    let buildTree :: [TestCaseComponents] -> TestTree
+        buildTree components = askOption $ \speedSpec ->
+            let speedLimit = speedCriteria speedSpec
+            in  finalizer $ filter (speedLimit . subDir) components
+
+        assembler :: TestCaseComponents -> TestTree
         assembler = goldenIntegrationTest testCaseDir
-        finalizer = testGroup suiteName . fmap assembler
-    in  finalizer <$> collectTestCaseComponents testCaseDir
+
+        finalizer :: [TestCaseComponents] -> TestTree
+        finalizer = testGroup "Golden Test Cases:" . fmap assembler
+
+    in  buildTree <$> collectTestCaseComponents testCaseDir
 
 
 -- |
