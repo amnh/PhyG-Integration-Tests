@@ -23,6 +23,8 @@ The changelog is available [on GitHub][GitHub-Changelog].
 
   * Updated to always display ***colored*** test case results
 
+  * Updated `data/speedy.txt` with an initial set of "quick" test cases
+
   * Moved from PhyG repository
 
 
