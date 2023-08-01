@@ -7,9 +7,11 @@ module Main
     ) where
 
 import Data.Proxy (Proxy(..))
+import Data.Time.LocalTime (getTimeZone, utcToLocalTime)
 import Data.Version (showVersion)
 import PackageInfo_PhyG_integration_tests (version)
 import Paths_PhyG_integration_tests (getDataDir)
+import System.Directory (getModificationTime)
 import System.Environment (setEnv)
 import System.FilePath (normalise)
 import Test.Integration.Golden (collectTestSuite)
@@ -55,13 +57,20 @@ integrationTestIngredients =
 Informational ouput specifying the source of the integration tests
 -}
 integrationTestPreamble :: FilePath -> IO ()
-integrationTestPreamble path = putStrLn $ unlines
-    [ "Running integration tests from data source:"
-    , "\t" <> path
-    , ""
-    , "Using the executable:"
-    , "\t" <> binFilePath
-    ]
+integrationTestPreamble path = do
+    mTime <- getModificationTime binFilePath
+    tZone <- getTimeZone mTime
+    let localTime = utcToLocalTime tZone mTime
+    let showNicer = reverse . tail . dropWhile (/= '.') . reverse . show
+    putStrLn $ unlines
+        [ "Running integration tests from data source:"
+        , "\t" <> path
+        , ""
+        , "Using the executable:"
+        , "\t" <> binFilePath
+        , ""
+        , "\tBuilt @ " <> showNicer localTime <> " (local time)"
+        ]
 
 
 {- |
