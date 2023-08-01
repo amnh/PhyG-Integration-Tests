@@ -65,6 +65,7 @@ Test-Suite integration-tests
     tasty-golden >= 2.3 && < 3.0,
     tasty-rerun >= 1.1.14 && < 2.0,
     template-haskell >= 2.17 && < 3.0,
+    time >= 1.11 && < 2.0,
 
   Build-Tool-Depends:
     PhyG:phyg
@@ -75,12 +76,25 @@ Test-Suite integration-tests
   Default-Language:
     GHC2021
 
-  If !flag(SingleThreaded)
+  -- If the Single-Threaded flag was specified
+  -- Limit the number of threads to *TWO*.
+  -- At least two threads are required for
+  -- the test suite to run correctly;
+  --   * One thread for the Tasty coordinator
+  --   * One thread for the spawned PhyG process
+  If flag(SingleThreaded)
     Ghc-Options:
-      -threaded
+      -with-rtsopts=-N
+
+  -- Otherwise just use all the threads!
+  Else
+    Ghc-Options:
       -with-rtsopts=-N
 
   Ghc-Options:
+    -- Always enable threading,
+    -- but maybe conditionally limit the threads to only 2
+    -threaded
     -- Usability options:
     -fdiagnostics-color=always
     -fhide-source-paths

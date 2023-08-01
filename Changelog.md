@@ -13,6 +13,8 @@ The changelog is available [on GitHub][GitHub-Changelog].
 
   * Added `data/speedy.txt` as an *inclusive* set of test cases which complete execution "quickly"
 
+  * Corrected `Single-Threaded` flag to have correct semantics
+
   * Enhanced `tests/remake-golden-cabal-run.sh` to be more robust
 
   * Enhanced `.gitignore` to reduce noise when using `git status`

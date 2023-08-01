@@ -77,7 +77,6 @@ Package PhyG
     Relocatable:   True
     Flags: +SingleThreaded +Super-Optimization
     Optimization: 2
-    Program-Prefix: $pkgid
 
 Packages: .
            
