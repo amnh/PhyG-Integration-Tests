@@ -27,6 +27,8 @@ The changelog is available [on GitHub][GitHub-Changelog].
 
   * Updated to always display ***colored*** test case results
 
+  * Updated to *always* delete the output file on test case success and leave the file on failure
+
   * Updated `data/subset-hours.txt` with an initial set of test cases with *"moderate"* runtime
 
   * Updated `data/subset-rapid.txt` with an initial set of test cases with *"rapid"* runtime

@@ -20,8 +20,8 @@ import System.Exit (ExitCode(..))
 import System.FilePath.Posix ((<.>), (</>), normalise, stripExtension, takeBaseName, takeDirectory, takeFileName)
 import Test.Integration.Golden.Subset (speedCriteria)
 import Test.SubProcess
-import Test.Tasty (TestTree, askOption, testGroup, withResource)
-import Test.Tasty.Golden (findByExtension, goldenVsFile)
+import Test.Tasty (TestTree, askOption, localOption, testGroup, withResource)
+import Test.Tasty.Golden (DeleteOutputFile(OnPass), findByExtension, goldenVsFile)
 import Text.Read (readMaybe)
 
 
@@ -92,13 +92,16 @@ collectTestSuite testCaseDir =
                 let speedLimit = speedCriteria specHours specRapid
                 in  finalizer $ filter (speedLimit . subDir) components
 
+        abolisher :: TestTree -> TestTree
+        abolisher = localOption OnPass
+
         assembler :: TestCaseComponents -> TestTree
         assembler = goldenIntegrationTest testCaseDir
 
         finalizer :: [TestCaseComponents] -> TestTree
         finalizer = testGroup "Golden Test Cases:" . fmap assembler
 
-    in  buildTree <$> collectTestCaseComponents testCaseDir
+    in  abolisher . buildTree <$> collectTestCaseComponents testCaseDir
 
 
 -- |
@@ -132,7 +135,8 @@ goldenIntegrationTest filePath components =
     let -- | Runs script, ignores resulting output(s).
         generateOutput :: IO ScriptResult
         generateOutput =
-            let scriptPath = makePath script components <.> scriptExtension in executeProcess scriptPath
+            let scriptPath = makePath script components <.> scriptExtension
+            in  executeProcess scriptPath
 
         -- | Data wrangling functions.
         makeName   = takeFileName
@@ -140,7 +144,9 @@ goldenIntegrationTest filePath components =
         makeGolden = makePath (<.> goldenExtension)
 
         makePath :: (a -> FilePath) -> a -> FilePath
-        makePath f = let pref = filePath </> subDir components in normalise . (pref </>) . f
+        makePath f =
+            let pref = filePath </> subDir components
+            in  normalise . (pref </>) . f
 
         -- | Make a Golden Test Case from an output file.
         makeTestCase :: IO ScriptResult -> FilePath -> TestTree
@@ -148,26 +154,17 @@ goldenIntegrationTest filePath components =
 
         memoizeGeneration :: [FilePath] -> TestTree
         memoizeGeneration fs =
-            let clean :: ScriptResult -> IO ()
-                clean res = case resultingExitCode res of
-                    -- On success purge all artifacts created by script.
-                    ExitSuccess   -> traverse_ purge fs
-                    -- On failure preserve artifacts for later inspection.
-                    ExitFailure{} -> pure ()
+            let bunch :: [TestTree] -> TestTree
+                bunch = testGroup $ componentsName components
 
-                purge :: FilePath -> IO ()
-                purge output = case goldenExtension `stripExtension` output of
-                    Nothing   -> pure ()
-                    Just path -> do
-                        fileExists <- doesFileExist path
-                        when fileExists $ removeFile path
+                clean :: ScriptResult -> IO ()
+                clean = const $ pure ()
 
                 setup :: (IO ScriptResult -> TestTree) -> TestTree
                 setup = withResource generateOutput clean
 
-                bunch :: [TestTree] -> TestTree
-                bunch = testGroup $ componentsName components
             in  setup $ \ioRef -> bunch $ makeTestCase ioRef <$> fs
+
     in  memoizeGeneration $ outputs components
 
 
