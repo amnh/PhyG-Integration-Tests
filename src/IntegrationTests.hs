@@ -15,7 +15,7 @@ import System.Directory (getModificationTime)
 import System.Environment (setEnv)
 import System.FilePath (normalise)
 import Test.Integration.Golden (collectTestSuite)
-import Test.Speedy (SpeedySubset)
+import Test.Integration.Golden.Subset (SubsetHours, SubsetRapid)
 import Test.SubProcess (binFilePath)
 import Test.Tasty
 import Test.Tasty.Ingredients (Ingredient)
@@ -47,7 +47,8 @@ Tasty ingredients used for integration test suite.
 integrationTestIngredients :: [Ingredient]
 integrationTestIngredients =
     let prependItems = includingOptions
-            [ Option (Proxy :: Proxy SpeedySubset)
+            [ Option (Proxy :: Proxy SubsetHours)
+            , Option (Proxy :: Proxy SubsetRapid)
             ]
         defaultEntry = [ rerunningTests defaultIngredients ]
     in  prependItems : defaultEntry

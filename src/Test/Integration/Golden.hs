@@ -18,7 +18,7 @@ import Data.Maybe (mapMaybe)
 import System.Directory (doesFileExist, removeFile)
 import System.Exit (ExitCode(..))
 import System.FilePath.Posix ((<.>), (</>), normalise, stripExtension, takeBaseName, takeDirectory, takeFileName)
-import Test.Speedy (speedCriteria)
+import Test.Integration.Golden.Subset (speedCriteria)
 import Test.SubProcess
 import Test.Tasty (TestTree, askOption, testGroup, withResource)
 import Test.Tasty.Golden (findByExtension, goldenVsFile)
@@ -87,9 +87,10 @@ Compares the process's output with a "golden file," the two should be identical.
 collectTestSuite :: FilePath -> IO TestTree
 collectTestSuite testCaseDir =
     let buildTree :: [TestCaseComponents] -> TestTree
-        buildTree components = askOption $ \speedSpec ->
-            let speedLimit = speedCriteria speedSpec
-            in  finalizer $ filter (speedLimit . subDir) components
+        buildTree components = askOption $ \specHours ->
+            askOption $ \specRapid ->
+                let speedLimit = speedCriteria specHours specRapid
+                in  finalizer $ filter (speedLimit . subDir) components
 
         assembler :: TestCaseComponents -> TestTree
         assembler = goldenIntegrationTest testCaseDir

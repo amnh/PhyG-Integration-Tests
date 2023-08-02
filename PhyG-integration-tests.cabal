@@ -24,7 +24,8 @@ Data-Dir:
   tests
 
 Data-Files:
-  data/speedy.txt
+  data/subset-hours.txt
+  data/subset-rapid.txt
   **/*.dot
   **/*.fas
   **/*.fasta
@@ -131,8 +132,10 @@ Test-Suite integration-tests
     Paths_PhyG_integration_tests
     Test.Integration.Constants
     Test.Integration.Golden
-    Test.Speedy
-    Test.Speedy.Subset
+    Test.Integration.Golden.Subset
+    Test.Integration.Golden.Subset.Hours
+    Test.Integration.Golden.Subset.Rapid
+    Test.Integration.Golden.Subset.Reader
     Test.SubProcess
 
   Type:

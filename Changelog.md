@@ -9,9 +9,13 @@ The changelog is available [on GitHub][GitHub-Changelog].
 
 ## Unreleased (`v0.2.0`)
 
-  * Added `--speedy-subset` CLI option to skip the long running integration test cases
+  * Added `--subset-hours` CLI option to skip the long running integration test cases
 
-  * Added `data/speedy.txt` as an *inclusive* set of test cases which complete execution "quickly"
+  * Added `--subset-rapid` CLI option to skip all but the fastest integration test cases
+
+  * Added `data/subset-hours.txt` as an *inclusive* set of test cases which completes within a few hours
+
+  * Added `data/subset-rapid.txt` as an *inclusive* set of test cases which completes "rapidly"
 
   * Corrected `Single-Threaded` flag to have correct semantics
 
@@ -23,7 +27,9 @@ The changelog is available [on GitHub][GitHub-Changelog].
 
   * Updated to always display ***colored*** test case results
 
-  * Updated `data/speedy.txt` with an initial set of "quick" test cases
+  * Updated `data/subset-hours.txt` with an initial set of test cases with *"moderate"* runtime
+
+  * Updated `data/subset-rapid.txt` with an initial set of test cases with *"rapid"* runtime
 
   * Moved from PhyG repository
 
