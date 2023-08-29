@@ -2,13 +2,8 @@
 Spawn a sub-process of the test-suite to run the program under test.
 -}
 
-{-# Language FlexibleContexts #-}
-{-# Language OverloadedStrings #-}
 {-# Language Strict #-}
-{-# Language TypeFamilies #-}
 {-# Language TemplateHaskell #-}
-
-{-# Options_GHC -Wno-all-missed-specialisations #-}
 
 module Test.SubProcess
     ( -- * Process types

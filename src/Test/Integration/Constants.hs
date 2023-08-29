@@ -2,10 +2,6 @@
 Deinitions for locating the target executable to be tested within the integration test suite.
 -}
 
-{-# Language DerivingStrategies #-}
-{-# Language OverloadedStrings #-}
-{-# Language StandaloneDeriving #-}
-
 module Test.Integration.Constants
     ( binaryName
     , getBinaryUnderTest

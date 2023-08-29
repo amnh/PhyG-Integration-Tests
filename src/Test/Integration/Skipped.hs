@@ -14,7 +14,6 @@
 {-# Language DeriveGeneric #-}
 {-# Language DerivingStrategies #-}
 {-# Language GeneralizedNewtypeDeriving #-}
-{-# Language LambdaCase #-}
 {-# Language OverloadedLists #-}
 {-# Language StandaloneDeriving #-}
 
