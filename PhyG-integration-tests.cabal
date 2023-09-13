@@ -39,7 +39,7 @@ Data-Files:
 --  **/*.tree
 --  **/*.tnt
 
-Flag SingleThreaded
+Flag Single-Threaded
   Description: Disable multi-threading
   Default:     False
   Manual:      True
@@ -68,7 +68,7 @@ Test-Suite integration-tests
     template-haskell >= 2.17 && < 3.0,
     time >= 1.11 && < 2.0,
 
-  Build-Tool-Depends:
+  Build-Tool-Depends:    
     PhyG:phyg
 
   Default-Extensions:
@@ -83,9 +83,9 @@ Test-Suite integration-tests
   -- the test suite to run correctly;
   --   * One thread for the Tasty coordinator
   --   * One thread for the spawned PhyG process
-  If flag(SingleThreaded)
+  If flag(Single-Threaded)
     Ghc-Options:
-      -with-rtsopts=-N
+      -with-rtsopts=-N2
 
   -- Otherwise just use all the threads!
   Else

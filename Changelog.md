@@ -17,6 +17,8 @@ The changelog is available [on GitHub][GitHub-Changelog].
 
   * Added `data/subset-rapid.txt` as an *inclusive* set of test cases which completes "rapidly"
 
+  * Added `single-threaded.project` as an alternative build plan to compile and run a single-threaded `phyg`
+
   * Corrected `Single-Threaded` flag to have correct semantics
 
   * Enhanced `tests/remake-golden-cabal-run.sh` to be more robust

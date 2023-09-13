@@ -1,4 +1,20 @@
 ---------------------------------------------------------------------------------
+-- Package Specifications
+--
+-- Applies to *only* the specified package(s)
+---------------------------------------------------------------------------------
+
+Packages: .
+           
+Package PhyG
+    Benchmarks:    False
+    Documentation: False
+    Tests:         False
+    Relocatable:   True
+    Flags: +Super-Optimization
+    Optimization: 2
+
+---------------------------------------------------------------------------------
 -- Output paths
 --
 -- Place build output(s) in more accessible locations. Binaries should go in `bin`
@@ -69,17 +85,6 @@ Allow-Newer:
     -- Lagging project dependency
     memory,
 
--- Applies to *only* the specified package!
-Package PhyG
-    Benchmarks:    False
-    Documentation: False
-    Tests:         False
-    Relocatable:   True
-    Flags: +SingleThreaded +Super-Optimization
-    Optimization: 2
-
-Packages: .
-           
 Preferences:
     aeson >= 2.1.0.0,
     bytestring >= 0.12.0.0,
