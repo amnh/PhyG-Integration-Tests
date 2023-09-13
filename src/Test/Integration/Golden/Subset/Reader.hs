@@ -1,25 +1,32 @@
+{-# LANGUAGE Strict #-}
+{-# LANGUAGE TemplateHaskell #-}
+
 {- |
 The susbet of the entire test-suite which runs in a "rapid" ammount of time.
 -}
+module Test.Integration.Golden.Subset.Reader (
+    readDataFileContents,
+    readTestCaseNumbers,
+) where
 
-{-# Language TemplateHaskell #-}
-{-# Language Strict #-}
-
-module Test.Integration.Golden.Subset.Reader
-    ( readDataFileContents
-    , readTestCaseNumbers
-    ) where
-
-import Control.Applicative(many)
+import Control.Applicative (many)
 import Data.Char (isSpace)
 import Data.Functor (void)
 import Data.IntSet (IntSet)
 import Data.List (uncons)
 import GHC.Exts (Item)
-import Language.Haskell.TH.Syntax
-    (Code, Exp(LitE), Lit(StringL), Q, bindCode_, qAddDependentFile, runIO, unsafeCodeCoerce)
+import Language.Haskell.TH.Syntax (
+    Code,
+    Exp (LitE),
+    Lit (StringL),
+    Q,
+    bindCode_,
+    qAddDependentFile,
+    runIO,
+    unsafeCodeCoerce,
+ )
 import Numeric (readDec)
-import Text.ParserCombinators.ReadP (ReadP, munch1, sepBy, readP_to_S, readS_to_P)
+import Text.ParserCombinators.ReadP (ReadP, munch1, readP_to_S, readS_to_P, sepBy)
 
 
 readDataFileContents :: FilePath -> Code Q String
@@ -49,7 +56,6 @@ readTestCaseNumbers name =
 
         parseError :: [[Item IntSet]] -> a
         parseError = error . (messageStr <>) . show
-
     in  \str ->
-             let parseResult = [ x | (x, "") <- readP_to_S dataReader str ]
-             in  maybe (parseError parseResult) fst $ uncons parseResult
+            let parseResult = [x | (x, "") <- readP_to_S dataReader str]
+            in  maybe (parseError parseResult) fst $ uncons parseResult

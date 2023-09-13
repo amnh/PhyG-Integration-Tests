@@ -1,24 +1,23 @@
 {- |
 Deinitions for locating the target executable to be tested within the integration test suite.
 -}
+module Test.Integration.Constants (
+    binaryName,
+    getBinaryUnderTest,
+) where
 
-module Test.Integration.Constants
-    ( binaryName
-    , getBinaryUnderTest
-    ) where
-
-import Control.Monad ((<=<), filterM)
+import Control.Monad (filterM, (<=<))
 import Data.Foldable
 import Data.Functor ((<&>))
 import Data.List (isSuffixOf, sort)
-import Data.Semigroup (Arg(..))
-import Data.List.NonEmpty (NonEmpty(..), nonEmpty)
+import Data.List.NonEmpty (NonEmpty (..), nonEmpty)
+import Data.Semigroup (Arg (..))
+import Language.Haskell.TH (Code, Q)
+import Language.Haskell.TH.Syntax (bindCode, liftTyped, runIO)
 import Paths_PhyG_integration_tests (getBinDir)
 import System.Directory
 import System.Exit (die)
 import System.FilePath.Posix
-import Language.Haskell.TH (Code, Q)
-import Language.Haskell.TH.Syntax (bindCode, liftTyped, runIO)
 
 
 {- |
@@ -42,7 +41,6 @@ Compute the /absolute/ 'FilePath' of the binary under test, from the provided bi
       the dependency component with the file name @$pkgName-$pkgVer$binName@. Hence, to mitigate this
       potential issue, the function checks to ensure that the provided binary name is a suffix of the
       file name (with a possibly empty prefix).
-
 -}
 getBinaryUnderTest :: String -> Code Q FilePath
 getBinaryUnderTest =
@@ -56,9 +54,10 @@ getBinaryUnderTest =
 locateTargetExecutable :: String -> IO (Either String FilePath)
 locateTargetExecutable inputName =
     let searchLocations :: IO (NonEmpty FilePath)
-        searchLocations = getBinDir <&> \dirBinary ->
-            let dirCabal = joinPath . init $ splitDirectories dirBinary
-            in  dirBinary :| [ dirCabal </> "store" ]
+        searchLocations =
+            getBinDir <&> \dirBinary ->
+                let dirCabal = joinPath . init $ splitDirectories dirBinary
+                in  dirBinary :| [dirCabal </> "store"]
 
         findMatching :: NonEmpty FilePath -> IO (Maybe (NonEmpty FilePath))
         findMatching =
@@ -70,7 +69,7 @@ locateTargetExecutable inputName =
 
         selectNewest :: Maybe (NonEmpty FilePath) -> IO (Maybe FilePath)
         selectNewest =
-            let getLatest :: Ord a => NonEmpty (Arg a FilePath) -> FilePath
+            let getLatest :: (Ord a) => NonEmpty (Arg a FilePath) -> FilePath
                 getLatest = (\(Arg _ x) -> x) . maximum
                 tagTime f = flip Arg f <$> getModificationTime f
             in  traverse (fmap getLatest . traverse tagTime)
@@ -85,16 +84,18 @@ locateTargetExecutable inputName =
                 noting key = ((key <> ":") :) . fmap indent
 
                 message :: Either String b
-                message = Left . unlines $ prefix <$> fold
-                  [ noting "Unable to locate target executable named" [ inputName ]
-                  , []
-                  , noting "When searching within the directories" $ toList dirs
-                  ]
+                message =
+                    Left . unlines $
+                        prefix
+                            <$> fold
+                                [ noting "Unable to locate target executable named" [inputName]
+                                , []
+                                , noting "When searching within the directories" $ toList dirs
+                                ]
 
                 resultant :: FilePath -> Either a FilePath
                 resultant = Right . normalise
             in  traverse makeAbsolute . maybe message resultant
-
     in  searchLocations >>= \withinDirs ->
             findBinary withinDirs >>= finalize withinDirs
 
@@ -104,24 +105,30 @@ foldMapA = (fmap fold .) . traverse
 
 
 {-# INLINE getFilesFilteredBy #-}
--- | Recursively get all files and subdirectories in the given directory that
--- satisfy the given predicate. Note that the content of subdirectories not
--- matching the filter is ignored. In particular, that means something like
--- @getDirFiltered doesFileExist@ will /not/ recursively return all files.
---
--- @since 0.2.2.0
+
+
+{- | Recursively get all files and subdirectories in the given directory that
+satisfy the given predicate. Note that the content of subdirectories not
+matching the filter is ignored. In particular, that means something like
+@getDirFiltered doesFileExist@ will /not/ recursively return all files.
+
+@since 0.2.2.0
+-}
 getFilesFilteredBy
-  :: (FilePath -> IO Bool) -- ^ File filter
-  -> NonEmpty FilePath -- ^ Input paths
-  -> IO [FilePath]
+    :: (FilePath -> IO Bool)
+    -- ^ File filter
+    -> NonEmpty FilePath
+    -- ^ Input paths
+    -> IO [FilePath]
 getFilesFilteredBy predicate = foldMapA (getFilesFilteredBy' predicate)
 
 
 {-# INLINE getFilesFilteredBy' #-}
 getFilesFilteredBy'
-  :: (FilePath -> IO Bool) -- ^ Filepath filter
-  -> FilePath
-  -> IO [FilePath]
+    :: (FilePath -> IO Bool)
+    -- ^ Filepath filter
+    -> FilePath
+    -> IO [FilePath]
 getFilesFilteredBy' check path =
     let canDecend fp = do
             isDir <- doesDirectoryExist fp
@@ -129,9 +136,9 @@ getFilesFilteredBy' check path =
             pure $ isDir && readable perms && searchable perms
 
         consider fp = liftA2 (&&) (doesFileExist fp) (check fp)
-
-    in  do  all' <- fmap (path </>) . sort <$> listDirectory path
-            curr <- filterM consider  all'
+    in  do
+            all' <- fmap (path </>) . sort <$> listDirectory path
+            curr <- filterM consider all'
             dirs <- filterM canDecend all'
             case nonEmpty dirs of
                 Nothing -> pure curr

@@ -126,6 +126,7 @@ Test-Suite integration-tests
 
   Other-Extensions:
     TemplateHaskell
+    TemplateHaskellQuotes
 
   Other-Modules:
     PackageInfo_PhyG_integration_tests

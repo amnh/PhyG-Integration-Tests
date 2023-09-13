@@ -1,31 +1,30 @@
 ------------------------------------------------------------------------------
--- |
--- Module      :  Test.Integration.Skipped
--- Copyright   :  (c) 2015-2021 Ward Wheeler
--- License     :  BSD-style
---
--- Maintainer  :  wheeler@amnh.org
--- Stability   :  provisional
--- Portability :  portable
---
 -----------------------------------------------------------------------------
+{-# LANGUAGE DeriveAnyClass #-}
+{-# LANGUAGE DeriveGeneric #-}
+{-# LANGUAGE DerivingStrategies #-}
+{-# LANGUAGE GeneralizedNewtypeDeriving #-}
+{-# LANGUAGE OverloadedLists #-}
+{-# LANGUAGE StandaloneDeriving #-}
 
-{-# Language DeriveAnyClass #-}
-{-# Language DeriveGeneric #-}
-{-# Language DerivingStrategies #-}
-{-# Language GeneralizedNewtypeDeriving #-}
-{-# Language OverloadedLists #-}
-{-# Language StandaloneDeriving #-}
+{- |
+Module      :  Test.Integration.Skipped
+Copyright   :  (c) 2015-2021 Ward Wheeler
+License     :  BSD-style
 
-module Test.Integration.Skipped
-    ( -- * Set of integration tests to skip
-      SkipSet()
-    , saysShouldSkip
-    , skipIntegrationTest
-      -- * Integration tests with "long" runtimes
-    , excessiveRuntime
-    ) where
+Maintainer  :  wheeler@amnh.org
+Stability   :  provisional
+Portability :  portable
+-}
+module Test.Integration.Skipped (
+    -- * Set of integration tests to skip
+    SkipSet (),
+    saysShouldSkip,
+    skipIntegrationTest,
 
+    -- * Integration tests with "long" runtimes
+    excessiveRuntime,
+) where
 
 import Control.DeepSeq (NFData)
 import Data.Char (isDigit)
@@ -39,50 +38,53 @@ import System.FilePath.Posix (takeBaseName)
 newtype SkipSet = SkipSet IntSet
 
 
-deriving newtype  instance Eq SkipSet
+deriving newtype instance Eq SkipSet
 
 
-deriving stock    instance Generic SkipSet
+deriving stock instance Generic SkipSet
 
 
 deriving anyclass instance NFData SkipSet
 
 
-deriving newtype  instance Ord SkipSet
+deriving newtype instance Ord SkipSet
 
 
-deriving newtype  instance Semigroup SkipSet
+deriving newtype instance Semigroup SkipSet
 
 
--- |
--- Skip an integration test
-skipIntegrationTest :: Enum n => n -> SkipSet 
+{- |
+Skip an integration test
+-}
+skipIntegrationTest :: (Enum n) => n -> SkipSet
 skipIntegrationTest = SkipSet . singleton . fromEnum
 
 
 saysShouldSkip :: SkipSet -> FilePath -> Bool
 saysShouldSkip (SkipSet set) =
-    let getDigits  = reverse . takeWhile isDigit . reverse . takeBaseName
+    let getDigits = reverse . takeWhile isDigit . reverse . takeBaseName
         getSkipped [] = False
         getSkipped ds = read ds `member` set
     in  getSkipped . getDigits
 
--- |
--- Integration tests with runtimes which exceed 10 seconds.
+
+{- |
+Integration tests with runtimes which exceed 10 seconds.
+-}
 excessiveRuntime :: SkipSet
 excessiveRuntime =
     let skipNumbers :: NonEmpty Word
         skipNumbers =
-            [   0
-            ,   1
-            ,  20
-            ,  24
-            ,  42
-            ,  47
-            ,  54
-            ,  77
-            ,  88
-            ,  92
+            [ 0
+            , 1
+            , 20
+            , 24
+            , 42
+            , 47
+            , 54
+            , 77
+            , 88
+            , 92
             , 100
             , 115
             , 122

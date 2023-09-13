@@ -1,14 +1,14 @@
+{-# LANGUAGE Strict #-}
+{-# LANGUAGE TemplateHaskell #-}
+{-# LANGUAGE TemplateHaskellQuotes #-}
+
 {- |
 The susbet of the entire test-suite which runs in a "rapid" ammount of time.
 -}
-
-{-# Language TemplateHaskell #-}
-{-# Language Strict #-}
-
-module Test.Integration.Golden.Subset.Rapid
-    ( rapidQuanta
-    , rapidSubset
-    ) where
+module Test.Integration.Golden.Subset.Rapid (
+    rapidQuanta,
+    rapidSubset,
+) where
 
 import Data.IntSet (IntSet)
 import GHC.Exts (fromList)
@@ -31,9 +31,8 @@ The subset of integration test case which complete within 'rapidQuanta'.
 rapidSubset :: IntSet
 rapidSubset =
     let loadedText :: String
-        loadedText = $$( readDataFileContents "data/subset-rapid.txt" )
+        loadedText = $$(readDataFileContents "data/subset-rapid.txt")
 
         staticTestNumbers :: IntSet
         staticTestNumbers = fromList $ readTestCaseNumbers "rapid" loadedText
-
-    in  $$( [|| staticTestNumbers ||] )
+    in  $$([||staticTestNumbers||])

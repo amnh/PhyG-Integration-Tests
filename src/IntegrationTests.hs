@@ -1,12 +1,11 @@
 {- |
 Top-level entry point for the PhyG Integration test-Suite.
 -}
+module Main (
+    main,
+) where
 
-module Main
-    ( main
-    ) where
-
-import Data.Proxy (Proxy(..))
+import Data.Proxy (Proxy (..))
 import Data.Time.LocalTime (getTimeZone, utcToLocalTime)
 import Data.Version (showVersion)
 import PackageInfo_PhyG_integration_tests (version)
@@ -20,7 +19,7 @@ import Test.SubProcess (binFilePath)
 import Test.Tasty
 import Test.Tasty.Ingredients (Ingredient)
 import Test.Tasty.Ingredients.Rerun (rerunningTests)
-import Test.Tasty.Options (OptionDescription(Option))
+import Test.Tasty.Options (OptionDescription (Option))
 
 
 {- |
@@ -46,11 +45,12 @@ Tasty ingredients used for integration test suite.
 -}
 integrationTestIngredients :: [Ingredient]
 integrationTestIngredients =
-    let prependItems = includingOptions
-            [ Option (Proxy :: Proxy SubsetHours)
-            , Option (Proxy :: Proxy SubsetRapid)
-            ]
-        defaultEntry = [ rerunningTests defaultIngredients ]
+    let prependItems =
+            includingOptions
+                [ Option (Proxy :: Proxy SubsetHours)
+                , Option (Proxy :: Proxy SubsetRapid)
+                ]
+        defaultEntry = [rerunningTests defaultIngredients]
     in  prependItems : defaultEntry
 
 
@@ -63,15 +63,16 @@ integrationTestPreamble path = do
     tZone <- getTimeZone mTime
     let localTime = utcToLocalTime tZone mTime
     let showNicer = reverse . tail . dropWhile (/= '.') . reverse . show
-    putStrLn $ unlines
-        [ "Running integration tests from data source:"
-        , "\t" <> path
-        , ""
-        , "Using the executable:"
-        , "\t" <> binFilePath
-        , ""
-        , "\tBuilt @ " <> showNicer localTime <> " (local time)"
-        ]
+    putStrLn $
+        unlines
+            [ "Running integration tests from data source:"
+            , "\t" <> path
+            , ""
+            , "Using the executable:"
+            , "\t" <> binFilePath
+            , ""
+            , "\tBuilt @ " <> showNicer localTime <> " (local time)"
+            ]
 
 
 {- |

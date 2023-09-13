@@ -1,18 +1,17 @@
+{-# LANGUAGE DerivingStrategies #-}
+{-# LANGUAGE LambdaCase #-}
+{-# LANGUAGE StandaloneDeriving #-}
+{-# LANGUAGE StrictData #-}
+
 {- |
 The susbet of the entire test-suite which runs in a "rapid" ammount of time.
 -}
-
-{-# Language DerivingStrategies #-}
-{-# Language LambdaCase #-}
-{-# Language StrictData #-}
-{-# Language StandaloneDeriving #-}
-
-module Test.Integration.Golden.Subset
-    ( -- * Subsets
-      SubsetRapid()
-    , SubsetHours()
-    , speedCriteria
-    ) where
+module Test.Integration.Golden.Subset (
+    -- * Subsets
+    SubsetRapid (),
+    SubsetHours (),
+    speedCriteria,
+) where
 
 import Data.Char (isDigit)
 import Data.IntSet (member)
@@ -53,27 +52,33 @@ deriving stock instance Show SubsetRapid
 
 
 instance IsOption SubsetHours where
-
     defaultValue = SubsetHours False
+
 
     parseValue = fmap SubsetHours . safeReadBool
 
+
     optionName = pure "subset-hours"
 
+
     optionHelp = pure "Run a subset of test cases for a few hours"
+
 
     optionCLParser = mkFlagCLParser mempty $ SubsetHours True
 
 
 instance IsOption SubsetRapid where
-
     defaultValue = SubsetRapid False
+
 
     parseValue = fmap SubsetRapid . safeReadBool
 
+
     optionName = pure "subset-rapid"
 
+
     optionHelp = pure "Run a rapidly completing subset of test cases"
+
 
     optionCLParser = mkFlagCLParser mempty $ SubsetRapid True
 
@@ -91,7 +96,7 @@ speedCriteria = \case
         _ -> const True
 
 
-{-# INLINABLE isHours #-}
+{-# INLINEABLE isHours #-}
 isHours :: FilePath -> Bool
 isHours =
     let getTestNumber :: FilePath -> Maybe Int
@@ -99,11 +104,10 @@ isHours =
 
         queryStaticSet :: Int -> Bool
         queryStaticSet = flip member hoursSubset
-
     in  maybe False queryStaticSet . getTestNumber
 
 
-{-# INLINABLE isRapid #-}
+{-# INLINEABLE isRapid #-}
 isRapid :: FilePath -> Bool
 isRapid =
     let getTestNumber :: FilePath -> Maybe Int
@@ -111,5 +115,4 @@ isRapid =
 
         queryStaticSet :: Int -> Bool
         queryStaticSet = flip member rapidSubset
-
     in  maybe False queryStaticSet . getTestNumber

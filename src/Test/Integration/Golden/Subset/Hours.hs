@@ -1,14 +1,14 @@
+{-# LANGUAGE Strict #-}
+{-# LANGUAGE TemplateHaskell #-}
+{-# LANGUAGE TemplateHaskellQuotes #-}
+
 {- |
 The susbet of the entire test-suite which runs in /"a few hours"/.
 -}
-
-{-# Language TemplateHaskell #-}
-{-# Language Strict #-}
-
-module Test.Integration.Golden.Subset.Hours
-    ( hoursQuanta
-    , hoursSubset
-    ) where
+module Test.Integration.Golden.Subset.Hours (
+    hoursQuanta,
+    hoursSubset,
+) where
 
 import Data.IntSet (IntSet)
 import GHC.Exts (fromList)
@@ -31,9 +31,8 @@ The subset of integration test case which complete within 'hoursQuanta'.
 hoursSubset :: IntSet
 hoursSubset =
     let loadedText :: String
-        loadedText = $$( readDataFileContents "data/subset-hours.txt" )
+        loadedText = $$(readDataFileContents "data/subset-hours.txt")
 
         staticTestNumbers :: IntSet
         staticTestNumbers = fromList $ readTestCaseNumbers "hours" loadedText
-
-    in  $$( [|| staticTestNumbers ||] )
+    in  $$([||staticTestNumbers||])
