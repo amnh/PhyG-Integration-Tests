@@ -48,7 +48,7 @@ cabal clean
 cabal build "${TARGET_NAME}" --project-file=single-threaded.project
 
 # Locate
-BINARY_DIR=$(cabal list-bin "${TARGET_NAME}" | tail -n 1 | xargs dirname)
+BINARY_DIR=$(cabal list-bin "${TARGET_NAME}" --project-file=single-threaded.project | tail -n 1 | xargs dirname)
 BINARY_PATH=$(find "${BINARY_DIR}" -maxdepth 1 -type f -iname "*${BINARY_NAME}" -print -quit)
 printf "Setting '%s'\t= '%s'\n" "BINARY_DIR" "${BINARY_DIR}"
 printf "Setting '%s'\t= '%s'\n" "BINARY_PATH" "${BINARY_PATH}"
