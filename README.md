@@ -23,6 +23,17 @@ cabal test integration-tests \
 
 Be sure to put `--pattern` before any other test options (such as `--subset-rapid`) or else the finiky test-suite will freak out.
 
+There are lots of cool things you can do with patterns:
+
+The Tasty Framework documentation on patterns can be found here:
+
+https://github.com/UnkindPartition/tasty#patterns
+
+Additionally, a nice tutorial introducing pattern usage in Tasty was written by the framework author:
+
+https://ro-che.info/articles/2018-01-08-tasty-new-patterns
+
+
 > This takes forever, can I get feedback within a minute or two? 
 
 Of course, your time is valuable! Ask for the `--subset-rapid`.
