@@ -105,6 +105,16 @@ Source-Repository-Package
 Source-Repository-Package
     Type:     git
     Location: git@github.com:AMNH/PHANE
+    Subdir:   pkg/PHANE-dynamic-character
+
+Source-Repository-Package
+    Type:     git
+    Location: git@github.com:AMNH/PHANE
+    Subdir:   pkg/PHANE-dynamic-character-element
+
+Source-Repository-Package
+    Type:     git
+    Location: git@github.com:AMNH/PHANE
     Subdir:   pkg/PHANE-measure-units
 
 Source-Repository-Package
