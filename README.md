@@ -69,4 +69,20 @@ cabal update # Get new code from Hackage package database
 cabal build tests --dry-run # Get new PHANE & PhyG code from GitHub
 ```
 
+> I want to just build a copy of `phyg` to manually call.
+
+```
+cabal build    PhyG:exe:phyg # Build the binary
+cabal list-bin PhyG:exe:phyg # Get the path of the binary
+```
+
+This is *multi-threaded* by default!
+For single-threaed specify the alternative configuration file:
+
+```
+cabal build    PhyG:exe:phyg --project-file=single-threaded.project
+cabal list-bin PhyG:exe:phyg --project-file=single-threaded.project
+```
+
+
 [GitHub-PhyG]: https://github.com/AMNH/PhyG#readme
