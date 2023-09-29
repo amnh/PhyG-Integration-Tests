@@ -17,7 +17,7 @@ import System.FilePath.Posix (normalise, stripExtension, takeBaseName, takeDirec
 import Test.Integration.Golden.Subset (speedCriteria)
 import Test.SubProcess
 import Test.Tasty (TestTree, askOption, localOption, testGroup, withResource)
-import Test.Tasty.Golden (DeleteOutputFile (OnPass), findByExtension, goldenVsFile)
+import Test.Tasty.Golden (DeleteOutputFile (..), findByExtension, goldenVsFile)
 import Text.Read (readMaybe)
 
 
@@ -86,8 +86,10 @@ collectTestSuite testCaseDir =
                 let speedLimit = speedCriteria specHours specRapid
                 in  finalizer $ filter (speedLimit . subDir) components
 
+        -- Do not delete ouput files on test suite success.
         abolisher :: TestTree -> TestTree
-        abolisher = localOption OnPass
+        abolisher = localOption Never
+--        abolisher = localOption OnPass
 
         assembler :: TestCaseComponents -> TestTree
         assembler = goldenIntegrationTest testCaseDir
@@ -153,6 +155,7 @@ goldenIntegrationTest filePath components =
             let bunch :: [TestTree] -> TestTree
                 bunch = testGroup $ componentsName components
 
+                -- Don't perform any clean-up.
                 clean :: ScriptResult -> IO ()
                 clean = const $ pure ()
 
