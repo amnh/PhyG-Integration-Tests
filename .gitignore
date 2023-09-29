@@ -6,7 +6,7 @@
 
 .gitignore
 
-# Temporaty files
+# Temporary files
 *.*~
 *#*#
 
@@ -23,7 +23,7 @@ log.out
 *.pg
 *.eps
 *.ps
-
+*.DS_Store
 
 
 ###
