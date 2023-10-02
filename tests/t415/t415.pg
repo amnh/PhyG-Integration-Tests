@@ -2,7 +2,7 @@
 set(graphssteepest:1)
 set(seed:1634561640)
 read(prefasta:"chel-prealigned.fas", tcm:"sg1t4.mat")
-read(newick: "t19.tre")
+read(newick:"../t19/t19.tre")
 swap(ia)
 report("t415.csv", data, overwrite)
 report("t415.tre", newick, overwrite)

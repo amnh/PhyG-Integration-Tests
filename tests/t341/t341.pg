@@ -2,7 +2,7 @@
 set(seed:1634561640)
 read(prefasta: "chel-prealigned.fas")
 read(prefasta: "metazoa-aa-1.fas")
-read(newick: "t33.tre")
+read(newick: "/Users/louise/Desktop/PhyG-Integration-Tests/tests/t33/t33.tre")
 build(distance, nj)
 report("t341.csv", data, overwrite)
 report("t341.tre", newick, overwrite)

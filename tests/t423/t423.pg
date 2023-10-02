@@ -2,7 +2,7 @@
 set(seed:1634561640)
 read(prefastc:"chel-wide.fastc")
 read(prefastc:"chel-huge.fastc")
-read(newick: "t13.tre")
+read(newick:"../t13/t13.tre")
 swap(nni)
 report("t423.csv", data, overwrite)
 report("t423.tre", newick, overwrite)

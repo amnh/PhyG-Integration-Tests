@@ -2,7 +2,7 @@
 set(graphssteepest:1)
 set(seed:1634561640)
 read(prenucleotide:"dec258_12Saln_missing.fasta")
-read(newick: "t16.tre")
+read(newick:"../t16/t16.tre")
 swap(ia)
 report("t414.csv", data, overwrite)
 report("t414.tre", newick, overwrite)

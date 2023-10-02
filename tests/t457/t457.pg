@@ -2,7 +2,7 @@
 set(seed:1634561640)
 read(prefasta:"metazoa-aa-1_missing.fas", tcm:"dayhoff.mat")
 read(prefasta:"metazoa-aa-2_missing.fas", tcm:"dayhoff.mat")
-read(newick: "t21.tre")
+read(newick:"../t21/t21.tre")
 swap(annealing, steps:3)
 report("t457.csv", data, overwrite)
 report("t457.tre", newick, overwrite)

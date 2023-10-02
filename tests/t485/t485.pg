@@ -2,7 +2,7 @@
 set(seed:1634561640)
 read(prefastc:"chel-wide.fastc")
 read(prefastc:"chel-huge.fastc")
-build(distance, rdWag, block, cun, displaytrees:10)
+build(character, replicates:10)
 fuse(all, pairs:5)
 report("t485.csv", data, overwrite)
 report("t485.tre", newick, overwrite)

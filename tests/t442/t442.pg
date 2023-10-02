@@ -2,7 +2,7 @@
 set(seed:1634561640)
 read(prefasta: "chel-prealigned.fas")
 read(prefasta: "metazoa-aa-1.fas")
-read(newick: "t12.tre")
+read(newick:"../t12/t12.tre")
 swap(keep:10)
 report("t442.csv", data, overwrite)
 report("t442.tre", newick, overwrite)

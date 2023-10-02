@@ -2,7 +2,7 @@
 set(seed:1634561640)
 read(prefasta:"metazoa-aa-1.fas", tcm:"dayhoff.mat")
 read(prefasta:"metazoa-aa-2.fas", tcm:"dayhoff.mat")
-build(distance, rdWag, block, eun, displaytrees:10)
+build(character, replicates:10)
 fuse(all, once)
 report("t486.csv", data, overwrite)
 report("t486.tre", newick, overwrite)
