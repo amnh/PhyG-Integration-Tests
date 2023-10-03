@@ -2,7 +2,7 @@
 set(graphssteepest:1)
 set(seed:1634561640)
 read(fasta:"chel.fas", "chel_binary.fas")
-read(newick:"../t5/t5.tre")
+read(newick:"../t5/t5_nocollapse.tre")
 swap(tbr)
 report("t401.csv", data, overwrite)
 report("t401.tre", newick, overwrite)
