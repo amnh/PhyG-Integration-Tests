@@ -16,8 +16,6 @@ log.out
 
 # Outputs from testing
 *.csv
-*.tre
-*.tree
 *.ss
 *.txt
 *.pg
