@@ -2,7 +2,7 @@
 set(seed:1634561640)
 read(nucleotide:"chel-prealigned.fas", tcm:"sg1t4.mat")
 read(nucleotide:"chel_cox1aln.fasta", tcm:"sg2t1.mat")
-build(distance, rdWag, block, cun, displaytrees:10)
+read(newick:"../t87/t87.tre")
 fuse(once)
 report("t223.csv", data, overwrite)
 report("t223.tre", newick, overwrite)

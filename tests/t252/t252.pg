@@ -3,9 +3,7 @@
 set(seed:1634561640)
 read(prefasta: "chel-prealigned.fas")
 read(prefasta: "metazoa-aa-1.fas")
---have to read in other trees, otherwise fusing is skipped
-read(newick:"t12.tre")
-build(distance, dwag, displaytrees:10, atrandom)
+read(newick:"../t12/t12.tre")
 fuse(none, keep:4)
 report("t252.csv", data, overwrite)
 report("t252.tre", newick, overwrite)

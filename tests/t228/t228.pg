@@ -2,7 +2,7 @@
 set(seed:1634561640)
 read(prefastc:"chel-wide.fastc")
 read(prefastc:"chel-huge.fastc")
-build(distance, rdWag, block, cun, displaytrees:10)
+read(newick:"../t84/t84.tre")
 fuse(spr:5)
 report("t228.csv", data, overwrite)
 report("t228.tre", newick, overwrite)

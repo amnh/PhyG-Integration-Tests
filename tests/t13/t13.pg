@@ -2,6 +2,6 @@
 set(seed:1634561640)
 read(prefastc:"chel-wide.fastc")
 read(prefastc:"chel-huge.fastc")
-build(distance, rdWag, best:10)
+build(distance, rdwag, displaytrees:10, atrandom)
 report("t13.csv", data, overwrite)
 report("t13.tre", newick, overwrite)
