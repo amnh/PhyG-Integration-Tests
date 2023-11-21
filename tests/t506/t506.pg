@@ -2,7 +2,7 @@
 set(seed:1634561640)
 read(prefastc:"chel-wide.fastc")
 read(prefastc:"chel-huge.fastc")
-read(newick:"t84.tre")
+read(newick:"../t84/t84.tre")
 fuse(joinsome)
 report("t506.csv", data, overwrite)
 report("t506.tre", newick, graphs, overwrite)

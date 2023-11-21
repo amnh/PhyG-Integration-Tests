@@ -1,7 +1,7 @@
---input t5.tre, swap(joinall), inputting fasta and binary files
+--input t79.tre, swap(joinall), inputting fasta and binary files
 set(seed:1634561640)
 read(fasta:"chel.fas", "chel_binary.fas")
-read(newick: "t5.tre")
+read(newick: "../t79/t79.tre")
 swap(joinall)
 report("t570.csv", data, overwrite)
 report("t570.tre", newick, overwrite)

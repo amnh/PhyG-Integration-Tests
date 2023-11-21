@@ -2,7 +2,7 @@
 set(seed:1634561640)
 read(prefasta: "chel-prealigned.fas")
 read(prefasta: "metazoa-aa-1.fas")
-build(distance, rdWag, block, displaytrees:10, atrandom)
+read(newick:"../t83/t83.tre")
 fuse(atrandom, pairs:5)
 report("t305.csv", data, overwrite)
 report("t305.tre", newick, overwrite)

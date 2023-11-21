@@ -2,6 +2,7 @@
 set(seed:1634561640)
 read(fasta:"dec258_12Saln_missing.fas")
 read(fasta:"dec258_16Saln_chopped.fasta")
+read(include:"Include_dec.txt")
 build(distance, dWag, block, eun, displaytrees:3)
 report("t111.csv", data, overwrite)
 report("t111.tre", newick, overwrite)

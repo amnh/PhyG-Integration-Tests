@@ -2,6 +2,7 @@
 set(seed:1634561640)
 read(prefasta:"chel-prealigned.fas", tcm:"sg1t4.mat")
 read(newick:"../t19/t19.tre")
-swap(all)
+select(best:3)
+swap(all, keep:3)
 report("t464.csv", data, overwrite)
 report("t464.tre", newick, overwrite)
