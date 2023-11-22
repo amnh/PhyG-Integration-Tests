@@ -1,11 +1,11 @@
---hardwired, swap(), inputting fastc files along with tcm
+--hardwired, swap(alternate), inputting fastc files along with tcm
 set(seed:1634561640)
 set(graphtype:hardwired)
 read(rename:"woman_rename.txt")
 read(fastc:"woman.fastc", tcm: "woman-11.tcm")
 read(fastc:"woman_cox1_spaced.fastc")
 read(include:"Include_woman16.txt")
-read(newick:"t490.tre")
+read(newick:"../t497/t497.tre")
 swap(alternate)
 report("t545.csv", data, overwrite)
 report("t545.tre", graphs, newick, overwrite)
