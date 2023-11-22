@@ -1,6 +1,8 @@
 --build(distance, rdwag), inputting fasta files with missing and chopped data
 set(seed:1634561640)
-read(fasta:"dec258_12Saln_missing.fas", "dec258_16Saln_chopped.fasta")
+read(fasta:"dec258_12Saln_missing.fas")
+read(fasta:"dec258_16Saln_chopped.fasta")
+read(include:"Include_dec.txt")
 build(distance, rdWag, best:10)
 report("t20.csv", data, overwrite)
 report("t20.tre", newick, graphs, overwrite)
