@@ -10,16 +10,16 @@ module Test.Integration.Golden (
 
 import Control.Monad ((<=<))
 import Data.Char (isDigit)
-import Data.Functor (void)
 import Data.List (sort)
 import Data.Maybe (mapMaybe)
 import System.FilePath.Posix (normalise, stripExtension, takeBaseName, takeDirectory, takeFileName, (<.>), (</>))
 import Test.Integration.Golden.Subset (speedCriteria)
 import Test.SubProcess
-import Test.Tasty (TestTree, askOption, localOption, testGroup, withResource)
+import Test.Tasty (DependencyType(..), TestTree, after, askOption, localOption, testGroup)
 import Test.Tasty.Golden (DeleteOutputFile (..), findByExtension, goldenVsFile)
+import Test.Tasty.Providers (IsTest(..), Result, testPassed, testFailed, singleTest)
 import Text.Read (readMaybe)
-
+import System.Exit(ExitCode(..))
 
 data TestCaseComponents = TestCaseComponents
     { subDir ∷ FilePath
@@ -60,6 +60,36 @@ instance Ord TestCaseComponents where
                                 EQ → compareChunks x' y'
                                 cv → cv
         in  compareChunks (subDir lhs) . subDir
+
+
+newtype TestCaseGenerator = TestCaseGenerator (FilePath, TestCaseComponents)
+
+
+instance IsTest TestCaseGenerator where
+
+    testOptions = mempty
+
+    run _ (TestCaseGenerator (filePath, components)) _ =
+        let generateOutput ∷ IO ScriptResult
+            generateOutput =
+                let scriptPath = makePath script components <.> scriptExtension
+                in  executeProcess scriptPath
+
+            makePath ∷ (a → FilePath) → a → FilePath
+            makePath f =
+                let pref = filePath </> subDir components
+                in  normalise . (pref </>) . f
+
+            checkExitCode ∷ ScriptResult -> Result
+            checkExitCode res = case resultingExitCode res of
+                ExitSuccess -> testPassed mempty 
+                ExitFailure code -> testFailed $ unlines
+                    [ unwords ["PhyG failed with exit code", "[", show code, "]" ]
+                    , "For more information regarding the failure, see the log file:"
+                    , "\t" <> show (resultingLoggedErrors res)
+                    ]
+
+        in  checkExitCode <$> generateOutput
 
 
 type FileExtension = String
@@ -131,10 +161,11 @@ golden file does not exist the test will generate it.
 goldenIntegrationTest ∷ FilePath → TestCaseComponents → TestTree
 goldenIntegrationTest filePath components =
     let -- \| Runs script, ignores resulting output(s).
-        generateOutput ∷ IO ScriptResult
-        generateOutput =
-            let scriptPath = makePath script components <.> scriptExtension
-            in  executeProcess scriptPath
+        generatorTest ∷ TestTree
+        generatorTest = singleTest generatorName $ TestCaseGenerator (filePath, components)
+
+        generatorName ∷ String
+        generatorName = takeFileName (subDir components) <.> scriptExtension
 
         -- \| Data wrangling functions.
         makeName = takeFileName
@@ -147,21 +178,21 @@ goldenIntegrationTest filePath components =
             in  normalise . (pref </>) . f
 
         -- \| Make a Golden Test Case from an output file.
-        makeTestCase ∷ IO ScriptResult → FilePath → TestTree
-        makeTestCase gen = (goldenVsFile <$> makeName <*> makeGolden <*> makeOutput <*> const (void gen))
+        makeTestCase ∷ FilePath → TestTree
+        makeTestCase = (goldenVsFile <$> makeName <*> makeGolden <*> makeOutput <*> const (pure ()))
 
         memoizeGeneration ∷ [FilePath] → TestTree
         memoizeGeneration fs =
-            let bunch ∷ [TestTree] → TestTree
-                bunch = testGroup $ componentsName components
+            let affix ∷ TestTree → [TestTree]
+                affix = (generatorTest :) . pure
 
-                -- Don't perform any clean-up.
-                clean ∷ ScriptResult → IO ()
-                clean = const $ pure ()
+                bunch ∷ [TestTree] → TestTree
+                bunch = testGroup (componentsName components) . affix . later
 
-                setup ∷ (IO ScriptResult → TestTree) → TestTree
-                setup = withResource generateOutput clean
-            in  setup $ \ioRef → bunch $ makeTestCase ioRef <$> fs
+                later ∷ [TestTree] → TestTree
+                later = after AllSucceed generatorName . testGroup "output"                 
+
+            in  bunch $ makeTestCase <$> fs
     in  memoizeGeneration $ outputs components
 
 
