@@ -23,7 +23,7 @@ import System.FilePath.Posix
 {- |
 The name of the binary under test
 -}
-binaryName :: FilePath
+binaryName ∷ FilePath
 binaryName = "phyg"
 
 
@@ -42,24 +42,24 @@ Compute the /absolute/ 'FilePath' of the binary under test, from the provided bi
       potential issue, the function checks to ensure that the provided binary name is a suffix of the
       file name (with a possibly empty prefix).
 -}
-getBinaryUnderTest :: String -> Code Q FilePath
+getBinaryUnderTest ∷ String → Code Q FilePath
 getBinaryUnderTest =
-    let exitOnError :: Either String a -> IO a
+    let exitOnError ∷ Either String a → IO a
         exitOnError = either die pure
         getExecutable = exitOnError <=< locateTargetExecutable
         atCompileTime = flip bindCode liftTyped . runIO
     in  atCompileTime . getExecutable
 
 
-locateTargetExecutable :: String -> IO (Either String FilePath)
+locateTargetExecutable ∷ String → IO (Either String FilePath)
 locateTargetExecutable inputName =
-    let searchLocations :: IO (NonEmpty FilePath)
+    let searchLocations ∷ IO (NonEmpty FilePath)
         searchLocations =
-            getBinDir <&> \dirBinary ->
+            getBinDir <&> \dirBinary →
                 let dirCabal = joinPath . init $ splitDirectories dirBinary
                 in  dirBinary :| [dirCabal </> "store"]
 
-        findMatching :: NonEmpty FilePath -> IO (Maybe (NonEmpty FilePath))
+        findMatching ∷ NonEmpty FilePath → IO (Maybe (NonEmpty FilePath))
         findMatching =
             let predicate file =
                     let isExecutable = executable <$> getPermissions file
@@ -67,23 +67,23 @@ locateTargetExecutable inputName =
                     in  (&& isMatching) <$> isExecutable
             in  fmap nonEmpty . getFilesFilteredBy predicate
 
-        selectNewest :: Maybe (NonEmpty FilePath) -> IO (Maybe FilePath)
+        selectNewest ∷ Maybe (NonEmpty FilePath) → IO (Maybe FilePath)
         selectNewest =
-            let getLatest :: (Ord a) => NonEmpty (Arg a FilePath) -> FilePath
-                getLatest = (\(Arg _ x) -> x) . maximum
+            let getLatest ∷ (Ord a) ⇒ NonEmpty (Arg a FilePath) → FilePath
+                getLatest = (\(Arg _ x) → x) . maximum
                 tagTime f = flip Arg f <$> getModificationTime f
             in  traverse (fmap getLatest . traverse tagTime)
 
-        findBinary :: NonEmpty FilePath -> IO (Maybe FilePath)
+        findBinary ∷ NonEmpty FilePath → IO (Maybe FilePath)
         findBinary = selectNewest <=< findMatching
 
-        finalize :: NonEmpty FilePath -> Maybe FilePath -> IO (Either String FilePath)
+        finalize ∷ NonEmpty FilePath → Maybe FilePath → IO (Either String FilePath)
         finalize dirs =
             let prefix = (">>> " <>)
                 indent = ("   - " <>)
                 noting key = ((key <> ":") :) . fmap indent
 
-                message :: Either String b
+                message ∷ Either String b
                 message =
                     Left . unlines $
                         prefix
@@ -93,14 +93,14 @@ locateTargetExecutable inputName =
                                 , noting "When searching within the directories" $ toList dirs
                                 ]
 
-                resultant :: FilePath -> Either a FilePath
+                resultant ∷ FilePath → Either a FilePath
                 resultant = Right . normalise
             in  traverse makeAbsolute . maybe message resultant
-    in  searchLocations >>= \withinDirs ->
+    in  searchLocations >>= \withinDirs →
             findBinary withinDirs >>= finalize withinDirs
 
 
-foldMapA :: (FilePath -> IO [FilePath]) -> NonEmpty FilePath -> IO [FilePath]
+foldMapA ∷ (FilePath → IO [FilePath]) → NonEmpty FilePath → IO [FilePath]
 foldMapA = (fmap fold .) . traverse
 
 
@@ -115,33 +115,33 @@ matching the filter is ignored. In particular, that means something like
 @since 0.2.2.0
 -}
 getFilesFilteredBy
-    :: (FilePath -> IO Bool)
+    ∷ (FilePath → IO Bool)
     -- ^ File filter
-    -> NonEmpty FilePath
+    → NonEmpty FilePath
     -- ^ Input paths
-    -> IO [FilePath]
+    → IO [FilePath]
 getFilesFilteredBy predicate = foldMapA (getFilesFilteredBy' predicate)
 
 
 {-# INLINE getFilesFilteredBy' #-}
 getFilesFilteredBy'
-    :: (FilePath -> IO Bool)
+    ∷ (FilePath → IO Bool)
     -- ^ Filepath filter
-    -> FilePath
-    -> IO [FilePath]
+    → FilePath
+    → IO [FilePath]
 getFilesFilteredBy' check path =
     let canDecend fp = do
-            isDir <- doesDirectoryExist fp
-            perms <- getPermissions fp
+            isDir ← doesDirectoryExist fp
+            perms ← getPermissions fp
             pure $ isDir && readable perms && searchable perms
 
         consider fp = liftA2 (&&) (doesFileExist fp) (check fp)
     in  do
-            all' <- fmap (path </>) . sort <$> listDirectory path
-            curr <- filterM consider all'
-            dirs <- filterM canDecend all'
+            all' ← fmap (path </>) . sort <$> listDirectory path
+            curr ← filterM consider all'
+            dirs ← filterM canDecend all'
             case nonEmpty dirs of
-                Nothing -> pure curr
-                Just ds -> do
-                    next <- foldMapA (getFilesFilteredBy' check) ds
+                Nothing → pure curr
+                Just ds → do
+                    next ← foldMapA (getFilesFilteredBy' check) ds
                     pure $ curr <> next

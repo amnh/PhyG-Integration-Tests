@@ -21,18 +21,18 @@ still be considered rapid.
 
 Defined as /3 seconds/.
 -}
-rapidQuanta :: Word
+rapidQuanta ∷ Word
 rapidQuanta = 3
 
 
 {- |
 The subset of integration test case which complete within 'rapidQuanta'.
 -}
-rapidSubset :: IntSet
+rapidSubset ∷ IntSet
 rapidSubset =
-    let loadedText :: String
+    let loadedText ∷ String
         loadedText = $$(readDataFileContents "data/subset-rapid.txt")
 
-        staticTestNumbers :: IntSet
+        staticTestNumbers ∷ IntSet
         staticTestNumbers = fromList $ readTestCaseNumbers "rapid" loadedText
     in  $$([||staticTestNumbers||])

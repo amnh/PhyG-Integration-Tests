@@ -88,31 +88,31 @@ Determine if an individual test case should be included in the test-suite constr
 based on the provided speed of completion parameters.
 -}
 {-# INLINE speedCriteria #-}
-speedCriteria :: SubsetHours -> SubsetRapid -> FilePath -> Bool
+speedCriteria ∷ SubsetHours → SubsetRapid → FilePath → Bool
 speedCriteria = \case
-    SubsetHours True -> const isHours
-    _ -> \case
-        SubsetRapid True -> isRapid
-        _ -> const True
+    SubsetHours True → const isHours
+    _ → \case
+        SubsetRapid True → isRapid
+        _ → const True
 
 
 {-# INLINEABLE isHours #-}
-isHours :: FilePath -> Bool
+isHours ∷ FilePath → Bool
 isHours =
-    let getTestNumber :: FilePath -> Maybe Int
+    let getTestNumber ∷ FilePath → Maybe Int
         getTestNumber = readMaybe . reverse . takeWhile isDigit . reverse
 
-        queryStaticSet :: Int -> Bool
+        queryStaticSet ∷ Int → Bool
         queryStaticSet = flip member hoursSubset
     in  maybe False queryStaticSet . getTestNumber
 
 
 {-# INLINEABLE isRapid #-}
-isRapid :: FilePath -> Bool
+isRapid ∷ FilePath → Bool
 isRapid =
-    let getTestNumber :: FilePath -> Maybe Int
+    let getTestNumber ∷ FilePath → Maybe Int
         getTestNumber = readMaybe . reverse . takeWhile isDigit . reverse
 
-        queryStaticSet :: Int -> Bool
+        queryStaticSet ∷ Int → Bool
         queryStaticSet = flip member rapidSubset
     in  maybe False queryStaticSet . getTestNumber

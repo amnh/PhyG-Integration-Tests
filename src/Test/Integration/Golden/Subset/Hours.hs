@@ -21,18 +21,18 @@ still be considered "a few hours."
 
 Defined as /45 seconds/.
 -}
-hoursQuanta :: Word
+hoursQuanta ∷ Word
 hoursQuanta = 45
 
 
 {- |
 The subset of integration test case which complete within 'hoursQuanta'.
 -}
-hoursSubset :: IntSet
+hoursSubset ∷ IntSet
 hoursSubset =
-    let loadedText :: String
+    let loadedText ∷ String
         loadedText = $$(readDataFileContents "data/subset-hours.txt")
 
-        staticTestNumbers :: IntSet
+        staticTestNumbers ∷ IntSet
         staticTestNumbers = fromList $ readTestCaseNumbers "hours" loadedText
     in  $$([||staticTestNumbers||])

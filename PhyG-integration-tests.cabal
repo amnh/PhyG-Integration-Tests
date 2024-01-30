@@ -75,6 +75,7 @@ Test-Suite integration-tests
   Default-Extensions:
     LambdaCase
     NoGeneralizedNewtypeDeriving
+    UnicodeSyntax
 
   Default-Language:
     GHC2021
