@@ -12,7 +12,7 @@ import PackageInfo_PhyG_integration_tests (version)
 import Paths_PhyG_integration_tests (getDataDir)
 import System.Directory (getModificationTime)
 import System.Environment (setEnv)
-import System.FilePath (normalise)
+import System.FilePath ((</>), normalise, splitPath)
 import Test.Integration.Golden (collectTestSuite)
 import Test.Integration.Golden.Subset (SubsetHours, SubsetRapid)
 import Test.SubProcess (binFilePath)
@@ -37,7 +37,15 @@ main = do
 Absolute 'FilePath' where integration test case data is located.
 -}
 integrationTestLocation :: IO FilePath
-integrationTestLocation = normalise <$> getDataDir
+integrationTestLocation =
+    let testDir = "tests"
+        suffixing dPath =
+            case reverse $ splitPath dPath of
+                [] -> dPath
+                x:_ | x == testDir -> dPath
+                _ -> dPath </> testDir
+
+    in  suffixing . normalise <$> getDataDir
 
 
 {- |
@@ -58,11 +66,16 @@ integrationTestIngredients =
 Informational ouput specifying the source of the integration tests
 -}
 integrationTestPreamble :: FilePath -> IO ()
-integrationTestPreamble path = do
+integrationTestPreamble path =
+    let showNicer =
+            let tail' :: String -> String
+                tail' [] = []
+                tail' (_:xs) = xs
+            in  reverse . tail' . dropWhile (/= '.') . reverse . show
+    in  do
     mTime <- getModificationTime binFilePath
     tZone <- getTimeZone mTime
     let localTime = utcToLocalTime tZone mTime
-    let showNicer = reverse . tail . dropWhile (/= '.') . reverse . show
     putStrLn $
         unlines
             [ "Running integration tests from data source:"

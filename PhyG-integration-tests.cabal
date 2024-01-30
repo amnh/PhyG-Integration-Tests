@@ -1,8 +1,9 @@
 Cabal-Version: 3.8
 Name:          PhyG-integration-tests
-Version:       0.1.0
+Version:       0.2.0
 Build-Type:    Simple
 Tested-With:
+  GHC == 9.8.1
   GHC == 9.6.2
   GHC == 9.4.5
   GHC == 9.2.8
@@ -72,6 +73,7 @@ Test-Suite integration-tests
     PhyG:phyg
 
   Default-Extensions:
+    LambdaCase
     NoGeneralizedNewtypeDeriving
 
   Default-Language:

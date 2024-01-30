@@ -25,6 +25,8 @@ The changelog is available [on GitHub][GitHub-Changelog].
 
   * Enhanced `.gitignore` to reduce noise when using `git status`
 
+  * Enhanced output generating `phyg` process as a dependency Test Case of the Golden Test cases.
+
   * Updated to correctly locate the newest `phyg` executable to invoke test cases
 
   * Updated to always display ***colored*** test case results

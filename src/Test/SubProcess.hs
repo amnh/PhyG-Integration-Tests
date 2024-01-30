@@ -27,7 +27,7 @@ import Data.ByteString.Lazy (ByteString, readFile)
 import Data.Foldable
 import Data.Functor (($>))
 import System.Directory
-import System.Exit (ExitCode)
+import System.Exit (ExitCode(..))
 import System.FilePath.Posix
 import System.Process
 import Test.Integration.Constants (binaryName, getBinaryUnderTest)
@@ -169,7 +169,7 @@ destructProcess res =
                 n <- getFileSize path
                 when (n == 0) $ removeFile path
         logPaths = [resultingLoggedOutput, resultingLoggedErrors] <*> [res]
-    in  traverse_ cleanLog logPaths $> res
+    in  traverse_ cleanLog logPaths $> res -- *> terminus
 
 
 {- |
