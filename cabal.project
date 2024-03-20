@@ -96,6 +96,11 @@ Preferences:
 Source-Repository-Package
     Type:     git
     Location: git@github.com:AMNH/PhyG
+    Tag:      ee7d3615810e5398f6a404f156cc9917d0c7b494
+
+Source-Repository-Package
+    Type:     git
+    Location: git@github.com:recursion-ninja/concurrent-hashtable-opt
 
 Source-Repository-Package
     Type:     git
