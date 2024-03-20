@@ -95,15 +95,6 @@ Preferences:
 
 Source-Repository-Package
     Type:     git
-    Location: git@github.com:AMNH/PhyG
-    Tag:      ee7d3615810e5398f6a404f156cc9917d0c7b494
-
-Source-Repository-Package
-    Type:     git
-    Location: git@github.com:recursion-ninja/concurrent-hashtable-opt
-
-Source-Repository-Package
-    Type:     git
     Location: git@github.com:AMNH/PHANE
     Subdir:   pkg/PHANE-alphabet
 
@@ -128,34 +119,39 @@ Source-Repository-Package
     Subdir:   pkg/PHANE-evaluation
 
 Source-Repository-Package
-  Type:     git
-  Location: https://github.com/amnh/PHANE
-  Subdir:   pkg/PHANE-measure-class
+    Type:     git
+    Location: https://github.com/amnh/PHANE
+    Subdir:   pkg/PHANE-measure-class
 
 Source-Repository-Package
-  Type:     git
-  Location: https://github.com/amnh/PHANE
-  Subdir:   pkg/PHANE-measure-transition
+    Type:     git
+    Location: https://github.com/amnh/PHANE
+    Subdir:   pkg/PHANE-measure-transition
 
 Source-Repository-Package
-  Type:     git
-  Location: https://github.com/amnh/PHANE
-  Subdir:   pkg/PHANE-measure-units
+    Type:     git
+    Location: https://github.com/amnh/PHANE
+    Subdir:   pkg/PHANE-measure-units
 
 Source-Repository-Package
-  Type:     git
-  Location: https://github.com/amnh/PHANE
-  Subdir:   pkg/PHANE-transition-matrix
+    Type:     git
+    Location: https://github.com/amnh/PHANE
+    Subdir:   pkg/PHANE-transition-matrix
 
 Source-Repository-Package
-  Type:     git
-  Location: https://github.com/amnh/PHANE
-  Subdir:   pkg/PHANE-transition-matrix-ffi
+    Type:     git
+    Location: https://github.com/amnh/PHANE
+    Subdir:   pkg/PHANE-transition-matrix-ffi
 
 Source-Repository-Package
-  Type:     git
-  Location: https://github.com/amnh/PHANE
-  Subdir:   pkg/PHANE-PhyloLib
+    Type:     git
+    Location: https://github.com/amnh/PHANE
+    Subdir:   pkg/PHANE-PhyloLib
+
+Source-Repository-Package
+    Type:     git
+    Location: git@github.com:AMNH/PhyG
+    Tag:      072d8b01
 
 
 ---------------------------------------------------------------------------------
