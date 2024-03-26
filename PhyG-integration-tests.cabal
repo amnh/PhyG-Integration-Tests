@@ -17,34 +17,40 @@ Maintainer:    Ward Wheeler <wheeler@amnh.org>
 Homepage:      https://github.com/AMNH/PhyG-Integration-Tests#readme
 Bug-Reports:   https://github.com/AMNH/PhyG-Integration-Tests/issues
 
-Source-Repository head
-  Type:        git
-  Location:    git://github.com/AMNH/PhyG-Integration-Tests.git
+Category:      Testing
+Synopsis:      Integration test suite for the PhyG program
+Description:   An extensive collection of integration tests to assert the desired functionality of PhyG across changes to the source code.
 
-Data-Dir:
-  tests
+-- Data-Dir: 
 
 Data-Files:
   data/subset-hours.txt
   data/subset-rapid.txt
-  **/*.dot
-  **/*.fas
-  **/*.fasta
-  **/*.fastc
-  **/*.golden
-  **/*.pg
-  **/*.ss
-  **/*.tcm
+  tests/**/*.dot
+  tests/**/*.fas
+  tests/**/*.fasta
+  tests/**/*.fastc
+  tests/**/*.golden
+  tests/**/*.pg
+  tests/**/*.ss
+  tests/**/*.tcm
 --   **/*.tre
 -- None of the below currently exist in the test suite!
 --  **/*.tree
 --  **/*.tnt
 
+Extra-Doc-Files:
+  Changelog.md
+    
 Flag Single-Threaded
   Description: Disable multi-threading
   Default:     False
   Manual:      True
 
+
+Source-Repository head
+  Type: git
+  Location: git://github.com/AMNH/PhyG-Integration-Tests.git
 
 Test-Suite integration-tests
 
@@ -70,7 +76,7 @@ Test-Suite integration-tests
     time >= 1.11 && < 2.0,
 
   Build-Tool-Depends:    
-    PhyG:phyg
+    PhyG:phyg >= 0.1.4
 
   Default-Extensions:
     LambdaCase
@@ -103,9 +109,6 @@ Test-Suite integration-tests
     -fdiagnostics-color=always
     -fhide-source-paths
 
-    -- Optimization flags:
-    -O2
-        
     -- Sanity check warnings:
     --   1. Fail on a warning
     --   2. Include all warnings by default

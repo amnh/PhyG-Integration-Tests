@@ -14,6 +14,13 @@ Package PhyG
     Flags: +Super-Optimization
     Optimization: 2
 
+Package PhyG-integration-tests
+    Benchmarks:    False
+    Documentation: False
+    Tests:         True
+    Relocatable:   True
+    Optimization: 2
+
 ---------------------------------------------------------------------------------
 -- Output paths
 --
@@ -47,43 +54,43 @@ Overwrite-Policy: always
 Allow-Newer:
     -- Core library
     base,
-    ghc,
-    ghc-compact,
-    ghc-prim,
-    integer-gmp,
-    template-haskell,
-    -- Internal compiler library
-    ghc-boot,
-    ghc-boot-th,
-    ghc-heap,
-    libiserv,
-    -- Dependency of `ghc` library
-    array,
-    binary,
+--    ghc,
+--    ghc-compact,
+--    ghc-prim,
+--    integer-gmp,
+--    template-haskell,
+--    -- Internal compiler library
+--    ghc-boot,
+--    ghc-boot-th,
+--    ghc-heap,
+--    libiserv,
+--    -- Dependency of `ghc` library
+--    array,
+--    binary,
     bytestring,
-    containers,
+--    containers,
     deepseq,
-    directory,
-    exceptions,
-    filepath,
-    pretty,
-    process,
-    time,
-    transformers,
-    unix,
-    Win32,
-    -- Core tool library
-    ghci,
-    hpc,
-    Cabal,
-    -- Dependency of `Cabal` library
-    mtl,
-    parsec,
+--    directory,
+--    exceptions,
+--    filepath,
+--    pretty,
+--    process,
+--    time,
+--    transformers,
+--    unix,
+--    Win32,
+--    -- Core tool library
+--    ghci,
+--    hpc,
+--    Cabal,
+--    -- Dependency of `Cabal` library
+--    mtl,
+--    parsec,
     text,
-    -- Security update
-    aeson,
-    -- Lagging project dependency
-    memory,
+--    -- Security update
+--    aeson,
+--    -- Lagging project dependency
+--    memory,
 
 Preferences:
     aeson >= 2.1.0.0,
