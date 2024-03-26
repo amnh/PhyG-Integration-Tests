@@ -51,43 +51,9 @@ Overwrite-Policy: always
 Allow-Newer:
     -- Core library
     base,
-    ghc,
-    ghc-compact,
-    ghc-prim,
-    integer-gmp,
-    template-haskell,
-    -- Internal compiler library
-    ghc-boot,
-    ghc-boot-th,
-    ghc-heap,
-    libiserv,
-    -- Dependency of `ghc` library
-    array,
-    binary,
     bytestring,
-    containers,
     deepseq,
-    directory,
-    exceptions,
-    filepath,
-    pretty,
-    process,
-    time,
-    transformers,
-    unix,
-    Win32,
-    -- Core tool library
-    ghci,
-    hpc,
-    Cabal,
-    -- Dependency of `Cabal` library
-    mtl,
-    parsec,
     text,
-    -- Security update
-    aeson,
-    -- Lagging project dependency
-    memory,
 
 Preferences:
     aeson >= 2.1.0.0,
@@ -96,10 +62,6 @@ Preferences:
     mtl >= 2.3.1,
     text >= 2.0.1,
     unordered-containers >= 0.2.18.0,
-
-Source-Repository-Package
-    Type:     git
-    Location: git@github.com:AMNH/PhyG
 
 Source-Repository-Package
     Type:     git
@@ -114,18 +76,52 @@ Source-Repository-Package
 Source-Repository-Package
     Type:     git
     Location: git@github.com:AMNH/PHANE
+    Subdir:   pkg/PHANE-dynamic-character-alignment
+
+Source-Repository-Package
+    Type:     git
+    Location: git@github.com:AMNH/PHANE
     Subdir:   pkg/PHANE-dynamic-character-element
 
 Source-Repository-Package
     Type:     git
     Location: git@github.com:AMNH/PHANE
+    Subdir:   pkg/PHANE-evaluation
+
+Source-Repository-Package
+    Type:     git
+    Location: https://github.com/amnh/PHANE
+    Subdir:   pkg/PHANE-measure-class
+
+Source-Repository-Package
+    Type:     git
+    Location: https://github.com/amnh/PHANE
+    Subdir:   pkg/PHANE-measure-transition
+
+Source-Repository-Package
+    Type:     git
+    Location: https://github.com/amnh/PHANE
     Subdir:   pkg/PHANE-measure-units
 
 Source-Repository-Package
     Type:     git
-    Location: git@github.com:AMNH/PHANE
+    Location: https://github.com/amnh/PHANE
+    Subdir:   pkg/PHANE-transition-matrix
+
+Source-Repository-Package
+    Type:     git
+    Location: https://github.com/amnh/PHANE
+    Subdir:   pkg/PHANE-transition-matrix-ffi
+
+Source-Repository-Package
+    Type:     git
+    Location: https://github.com/amnh/PHANE
     Subdir:   pkg/PHANE-PhyloLib
 
+Source-Repository-Package
+    Type:     git
+    Location: git@github.com:AMNH/PhyG
+    Tag:      072d8b01
 
 ---------------------------------------------------------------------------------
 -- Miscellaneous specifications
