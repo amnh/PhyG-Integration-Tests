@@ -20,4 +20,4 @@
 "0","dec258_16Saln_chopped.fasta#0","dec258_16Saln_chopped.fasta#0","NucSeq","active","1.0","unaligned","-,A,C,G,T","[[0],[1,0],[1,1,0],[1,1,1,0],[1,1,1,1,0]]"
 "1","dec258_16Saln_chopped.fasta#1","dec258_16Saln_chopped.fasta#0","NucSeq","active","1.0","unaligned","-,A,C,G,T","[[0],[1,0],[1,1,0],[1,1,1,0],[1,1,1,1,0]]"
 "2","dec258_16Saln_chopped.fasta#2","dec258_16Saln_chopped.fasta#0","NucSeq","active","1.0","unaligned","-,A,C,G,T","[[0],[1,0],[1,1,0],[1,1,1,0],[1,1,1,1,0]]"
-"3","dec258_12Saln_missing.fas#0","dec258_12Saln_missing.fas#0","WideSeq","active","1.0","unaligned","-,A,C,G,H,S,T,a,c,g,t","[[0],[1,0],[1,1,0],[1,1,1,0],[1,1,1,1,0],[1,1,1,1,1,0],[1,1,1,1,1,1,0],[1,1,1,1,1,1,1,0],[1,1,1,1,1,1,1,1,0],[1,1,1,1,1,1,1,1,1,0],[1,1,1,1,1,1,1,1,1,1,0]]"
+"3","dec258_12Saln_missing.fas#0","dec258_12Saln_missing.fas#0","NucSeq","active","1.0","unaligned","-,A,C,G,T","[[0],[1,0],[1,1,0],[1,1,1,0],[1,1,1,1,0]]"
