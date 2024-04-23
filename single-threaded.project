@@ -6,6 +6,9 @@
 -- Ensure that executables are built single-threaded!
 ---------------------------------------------------------------------------------
 
+With-Compiler:
+    ghc-9.8.2
+
 Package PhyG
     Benchmarks:    False
     Documentation: False
