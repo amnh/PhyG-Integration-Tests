@@ -22,7 +22,6 @@ log.out
 *.ps
 *.DS_Store
 *.txt
-*.golden
 
 ###
 #

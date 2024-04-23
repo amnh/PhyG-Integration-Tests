@@ -4,6 +4,9 @@
 -- Applies to *only* the specified package(s)
 ---------------------------------------------------------------------------------
 
+With-Compiler:
+    ghc-9.8.2
+
 Packages: .
 
 Package PhyG

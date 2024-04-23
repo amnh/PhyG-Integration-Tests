@@ -1,8 +1,8 @@
 "Input data contained:"
 ,"100 terminal taxa"
-,"1 input data files"
-,"1 character blocks"
-,"146 total characters"
+,"2 input data files"
+,"2 character blocks"
+,"149 total characters"
 
 "Terminal taxa:"
 " ","Adacnarca_limopsoides_USNM21","Adacnarca_nitens","Anadara_floridana","Anadara_geissei_CV01","Anadara_ovalis","Anadara_transversa","Arcopsis_adamsi","Arcopsis_afra","Arcopsis_solida","Atrina_rigida"
@@ -169,3 +169,6 @@
 "143","arcoida_cont.ss#0","arcoida_cont.ss#143","NonAdd","active","1.0","prealigned","0,1,2,3,4,5,6","[]"
 "144","arcoida_cont.ss#0","arcoida_cont.ss#144","NonAdd","active","1.0","prealigned","0,1,2,3,4,5,6","[]"
 "145","arcoida_cont.ss#0","arcoida_cont.ss#145","NonAdd","active","1.0","prealigned","0,1,2,3,4,5,6","[]"
+"146","arcoida_cont2.ss#0","arcoida_cont2.ss#0","NonAdd","active","1.0","prealigned","0,1,2,3,4,5,6","[]"
+"147","arcoida_cont2.ss#0","arcoida_cont2.ss#1","NonAdd","active","1.0","prealigned","0,1,2,3,4,5,6","[]"
+"148","arcoida_cont2.ss#0","arcoida_cont2.ss#2","NonAdd","active","1.0","prealigned","0,1,2,3,4,5,6","[]"
