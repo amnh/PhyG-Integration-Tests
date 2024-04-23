@@ -1,6 +1,6 @@
 --build(distance, wpgma), inputting continuous tnt char types
 set(seed:1634561640)
-read("arcoida_cont.ss")
+read("arcoida_cont.ss", "arcoida_cont2.ss")
 build(distance, wpgma)
 report("t76.csv", data, overwrite)
 report("t76.tre", newick, overwrite)
