@@ -23,7 +23,7 @@ generate_annointed() {
     local TIME_START=$(date +%s)
     # Choose which line to uncomment based on whether or not you want to see PhyG output
 #    (cd "./${FILE_PATH}"; "${BINARY_PATH}" *.pg)
-    (cd "./${FILE_PATH}"; ${BINARY_PATH} *.pg > /dev/null 2>&1)
+    (cd "./${FILE_PATH}"; ${BINARY_PATH} *.pg > screen.log 2>&1)
     local TIME_FINAL=$(date +%s)
 
     # Display time in a standardized format.
