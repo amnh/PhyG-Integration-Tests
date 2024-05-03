@@ -1,23 +1,23 @@
-[DisplayTree costs : {[2994.0,2982.0,2971.0,2841.0,2965.0,2957.0,2957.0,2944.0,2940.0,2919.0,2868.0],[{[1107.0,693.0,795.0,399.0],0.0},{[1106.0,679.0,787.0,410.0],0.0},{[1113.0,677.0,783.0,398.0],0.0},{[1042.0,656.0,751.0,392.0],125.91666666666652},{[1097.0,677.0,786.0,405.0],0.0},{[1099.0,681.0,772.0,405.0],0.0},{[1099.0,681.0,772.0,405.0],0.0},{[1089.0,671.0,782.0,402.0],0.0},{[1079.0,679.0,782.0,400.0],0.0},{[1082.0,667.0,774.0,396.0],0.0},{[1046.0,662.0,762.0,398.0],0.0}]}]
+[DisplayTree costs : {[2988.0,2982.0,2971.0,2841.0,2965.0,2965.0,2957.0,2957.0,2941.0,2933.0,2916.0],[{[1104.0,687.0,790.0,407.0],0.0},{[1106.0,679.0,787.0,410.0],0.0},{[1113.0,677.0,783.0,398.0],0.0},{[1042.0,656.0,751.0,392.0],125.91666666666652},{[1097.0,677.0,786.0,405.0],0.0},{[1099.0,678.0,783.0,405.0],0.0},{[1099.0,681.0,772.0,405.0],0.0},{[1099.0,681.0,772.0,405.0],0.0},{[1088.0,670.0,782.0,401.0],0.0},{[1081.0,674.0,772.0,406.0],0.0},{[1076.0,671.0,773.0,396.0],0.0}]}]
 [Canonical Tree 0]
 [Block 0]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Aportus:1.0,Mastigoproctus:1.0)HTU17:1.0,((Thelichoris:1.0,(Limulus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU19:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU29:1.0,((Centruoides:1.0,(Pauroctonus:1.0,Vonones:1.0)HTU24:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU23:1.0)HTU18:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Aportus:1.0,Mastigoproctus:1.0)HTU17:1.0,((Thelichoris:1.0,(Limulus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU19:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Pauroctonus:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU18:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 [Block 1]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Aportus:1.0,Mastigoproctus:1.0)HTU17:1.0,((Thelichoris:1.0,(Limulus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU19:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU29:1.0,((Centruoides:1.0,(Pauroctonus:1.0,Vonones:1.0)HTU24:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU23:1.0)HTU18:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Aportus:1.0,Mastigoproctus:1.0)HTU17:1.0,((Thelichoris:1.0,(Limulus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU19:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Pauroctonus:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU18:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 [Block 2]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Aportus:1.0,Mastigoproctus:1.0)HTU17:1.0,((Thelichoris:1.0,(Limulus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU19:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU29:1.0,((Centruoides:1.0,(Pauroctonus:1.0,Vonones:1.0)HTU24:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU23:1.0)HTU18:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Aportus:1.0,Mastigoproctus:1.0)HTU17:1.0,((Thelichoris:1.0,(Limulus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU19:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Pauroctonus:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU18:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 [Block 3]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Aportus:1.0,Mastigoproctus:1.0)HTU17:1.0,((Thelichoris:1.0,(Limulus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU19:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU29:1.0,((Centruoides:1.0,(Pauroctonus:1.0,Vonones:1.0)HTU24:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU23:1.0)HTU18:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Aportus:1.0,Mastigoproctus:1.0)HTU17:1.0,((Thelichoris:1.0,(Limulus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU19:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Pauroctonus:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU18:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 
@@ -112,22 +112,22 @@
 [Canonical Tree 5]
 [Block 0]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Mastigoproctus:1.0,(Amblypygid:1.0,Aportus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Limulus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Pauroctonus:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Aportus:1.0,Pauroctonus:1.0)HTU17:1.0,((Thelichoris:1.0,(Limulus:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU19:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Centruoides:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU18:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 [Block 1]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Mastigoproctus:1.0,(Amblypygid:1.0,Aportus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Limulus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Pauroctonus:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Aportus:1.0,Pauroctonus:1.0)HTU17:1.0,((Thelichoris:1.0,(Limulus:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU19:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Centruoides:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU18:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 [Block 2]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Mastigoproctus:1.0,(Amblypygid:1.0,Aportus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Limulus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Pauroctonus:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Aportus:1.0,Pauroctonus:1.0)HTU17:1.0,((Thelichoris:1.0,(Limulus:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU19:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Centruoides:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU18:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 [Block 3]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Mastigoproctus:1.0,(Amblypygid:1.0,Aportus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Limulus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Pauroctonus:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Aportus:1.0,Pauroctonus:1.0)HTU17:1.0,((Thelichoris:1.0,(Limulus:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU19:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Centruoides:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU18:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 
@@ -156,88 +156,88 @@
 [Canonical Tree 7]
 [Block 0]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Amblypygid:1.0,(Aportus:1.0,Pauroctonus:1.0)HTU17:1.0)HTU18:1.0)HTU19:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU24:1.0)HTU29:1.0,(Gea:1.0,(Thermobius:1.0,Vonones:1.0)HTU26:1.0)HTU30:1.0)HTU25:1.0)HTU20:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Mastigoproctus:1.0,(Amblypygid:1.0,Aportus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Limulus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Pauroctonus:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 [Block 1]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Amblypygid:1.0,(Aportus:1.0,Pauroctonus:1.0)HTU17:1.0)HTU18:1.0)HTU19:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU24:1.0)HTU29:1.0,(Gea:1.0,(Thermobius:1.0,Vonones:1.0)HTU26:1.0)HTU30:1.0)HTU25:1.0)HTU20:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Mastigoproctus:1.0,(Amblypygid:1.0,Aportus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Limulus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Pauroctonus:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 [Block 2]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Amblypygid:1.0,(Aportus:1.0,Pauroctonus:1.0)HTU17:1.0)HTU18:1.0)HTU19:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU24:1.0)HTU29:1.0,(Gea:1.0,(Thermobius:1.0,Vonones:1.0)HTU26:1.0)HTU30:1.0)HTU25:1.0)HTU20:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Mastigoproctus:1.0,(Amblypygid:1.0,Aportus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Limulus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Pauroctonus:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 [Block 3]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Amblypygid:1.0,(Aportus:1.0,Pauroctonus:1.0)HTU17:1.0)HTU18:1.0)HTU19:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU24:1.0)HTU29:1.0,(Gea:1.0,(Thermobius:1.0,Vonones:1.0)HTU26:1.0)HTU30:1.0)HTU25:1.0)HTU20:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Mastigoproctus:1.0,(Amblypygid:1.0,Aportus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Limulus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Pauroctonus:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 
 [Canonical Tree 8]
 [Block 0]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Aportus:1.0,Mastigoproctus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU29:1.0,((Centruoides:1.0,(Pauroctonus:1.0,Vonones:1.0)HTU24:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU23:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Amblypygid:1.0,(Aportus:1.0,Pauroctonus:1.0)HTU17:1.0)HTU18:1.0)HTU19:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU24:1.0)HTU29:1.0,(Vonones:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU25:1.0)HTU20:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 [Block 1]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Aportus:1.0,Mastigoproctus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU29:1.0,((Centruoides:1.0,(Pauroctonus:1.0,Vonones:1.0)HTU24:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU23:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Amblypygid:1.0,(Aportus:1.0,Pauroctonus:1.0)HTU17:1.0)HTU18:1.0)HTU19:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU24:1.0)HTU29:1.0,(Vonones:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU25:1.0)HTU20:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 [Block 2]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Aportus:1.0,Mastigoproctus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU29:1.0,((Centruoides:1.0,(Pauroctonus:1.0,Vonones:1.0)HTU24:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU23:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Amblypygid:1.0,(Aportus:1.0,Pauroctonus:1.0)HTU17:1.0)HTU18:1.0)HTU19:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU24:1.0)HTU29:1.0,(Vonones:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU25:1.0)HTU20:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 [Block 3]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Aportus:1.0,Mastigoproctus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU29:1.0,((Centruoides:1.0,(Pauroctonus:1.0,Vonones:1.0)HTU24:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU23:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Amblypygid:1.0,(Aportus:1.0,Pauroctonus:1.0)HTU17:1.0)HTU18:1.0)HTU19:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU24:1.0)HTU29:1.0,(Vonones:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU25:1.0)HTU20:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 
 [Canonical Tree 9]
 [Block 0]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Amblypygid:1.0,Aportus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,(Gea:1.0,(Thermobius:1.0,(Pauroctonus:1.0,Vonones:1.0)HTU25:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Mastigoproctus:1.0,(Aportus:1.0,Pauroctonus:1.0)HTU17:1.0)HTU18:1.0)HTU19:1.0,((Thelichoris:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Centruoides:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU20:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 [Block 1]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Amblypygid:1.0,Aportus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,(Gea:1.0,(Thermobius:1.0,(Pauroctonus:1.0,Vonones:1.0)HTU25:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Mastigoproctus:1.0,(Aportus:1.0,Pauroctonus:1.0)HTU17:1.0)HTU18:1.0)HTU19:1.0,((Thelichoris:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Centruoides:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU20:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 [Block 2]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Amblypygid:1.0,Aportus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,(Gea:1.0,(Thermobius:1.0,(Pauroctonus:1.0,Vonones:1.0)HTU25:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Mastigoproctus:1.0,(Aportus:1.0,Pauroctonus:1.0)HTU17:1.0)HTU18:1.0)HTU19:1.0,((Thelichoris:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Centruoides:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU20:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 [Block 3]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Amblypygid:1.0,Aportus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,(Gea:1.0,(Thermobius:1.0,(Pauroctonus:1.0,Vonones:1.0)HTU25:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Mastigoproctus:1.0,(Aportus:1.0,Pauroctonus:1.0)HTU17:1.0)HTU18:1.0)HTU19:1.0,((Thelichoris:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Centruoides:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU20:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 
 [Canonical Tree 10]
 [Block 0]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Aportus:1.0,Limulus:1.0)HTU17:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU19:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU29:1.0,((Centruoides:1.0,(Pauroctonus:1.0,Vonones:1.0)HTU24:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU23:1.0)HTU18:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Amblypygid:1.0,Aportus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Pauroctonus:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 [Block 1]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Aportus:1.0,Limulus:1.0)HTU17:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU19:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU29:1.0,((Centruoides:1.0,(Pauroctonus:1.0,Vonones:1.0)HTU24:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU23:1.0)HTU18:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Amblypygid:1.0,Aportus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Pauroctonus:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 [Block 2]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Aportus:1.0,Limulus:1.0)HTU17:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU19:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU29:1.0,((Centruoides:1.0,(Pauroctonus:1.0,Vonones:1.0)HTU24:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU23:1.0)HTU18:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Amblypygid:1.0,Aportus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Pauroctonus:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 [Block 3]
 [Display Tree[s]: 1]
-(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Aportus:1.0,Limulus:1.0)HTU17:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Amblypygid:1.0,Rhiphicephalus:1.0)HTU19:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU29:1.0,((Centruoides:1.0,(Pauroctonus:1.0,Vonones:1.0)HTU24:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU23:1.0)HTU18:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
+(Alentus:1.0,(Hadrurus:1.0,(Americhernus:1.0,((Limulus:1.0,(Amblypygid:1.0,Aportus:1.0)HTU17:1.0)HTU18:1.0,((Thelichoris:1.0,(Mastigoproctus:1.0,(Hypochilus:1.0,(Artemia:1.0,(Centruoides:1.0,Rhiphicephalus:1.0)HTU20:1.0)HTU21:1.0)HTU22:1.0)HTU23:1.0)HTU29:1.0,((Pauroctonus:1.0,Vonones:1.0)HTU25:1.0,(Gea:1.0,Thermobius:1.0)HTU26:1.0)HTU30:1.0)HTU24:1.0)HTU19:1.0)HTU27:1.0)HTU28:1.0)HTU16[0.0];
 
 
 
