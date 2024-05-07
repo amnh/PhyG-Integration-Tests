@@ -199,6 +199,7 @@ digraph G {
     30 [label=HTU30];
     31 [label=HTU31];
     32 [label=HTU32];
+<<<<<<< HEAD
     17 -> 0 [label=91.5];
     17 -> 32 [label=95.5];
     18 -> 5 [label=109.5];
@@ -233,6 +234,42 @@ digraph G {
     32 -> 22 [label=54.5];
 }
 //1825.0
+=======
+    17 -> 0 [label=97.0];
+    17 -> 32 [label=100.5];
+    18 -> 20 [label=54.0];
+    18 -> 21 [label=46.0];
+    19 -> 9 [label=89.5];
+    19 -> 18 [label=28.5];
+    20 -> 10 [label=72.0];
+    20 -> 24 [label=99.5];
+    21 -> 7 [label=155.5];
+    21 -> 23 [label=55.5];
+    22 -> 19 [label=32.0];
+    22 -> 30 [label=33.0];
+    23 -> 15 [label=130.5];
+    23 -> 25 [label=38.0];
+    24 -> 2 [label=181.5];
+    24 -> 3 [label=157.0];
+    25 -> 11 [label=94.5];
+    25 -> 12 [label=95.0];
+    26 -> 1 [label=98.5];
+    26 -> 27 [label=59.5];
+    27 -> 6 [label=128.0];
+    27 -> 13 [label=145.0];
+    28 -> 5 [label=131.0];
+    28 -> 14 [label=79.0];
+    29 -> 26 [label=39.5];
+    29 -> 28 [label=36.0];
+    30 -> 29 [label=32.0];
+    30 -> 31 [label=45.5];
+    31 -> 8 [label=143.0];
+    31 -> 16 [label=122.0];
+    32 -> 4 [label=147.5];
+    32 -> 22 [label=49.5];
+}
+//1830.0
+>>>>>>> fdcb9da31dd2998cb4fc55953fcf49b8c4e52138
 digraph G {
 	rankdir = LR;	node [ shape = none];
 
@@ -269,6 +306,7 @@ digraph G {
     30 [label=HTU30];
     31 [label=HTU31];
     32 [label=HTU32];
+<<<<<<< HEAD
     17 -> 0 [label=92.5];
     17 -> 32 [label=100.5];
     18 -> 20 [label=43.5];
@@ -303,6 +341,42 @@ digraph G {
     32 -> 21 [label=46.5];
 }
 //1819.0
+=======
+    17 -> 0 [label=97.0];
+    17 -> 32 [label=100.5];
+    18 -> 20 [label=54.0];
+    18 -> 21 [label=46.0];
+    19 -> 9 [label=89.5];
+    19 -> 18 [label=28.5];
+    20 -> 10 [label=72.0];
+    20 -> 24 [label=99.5];
+    21 -> 7 [label=155.5];
+    21 -> 23 [label=55.5];
+    22 -> 19 [label=32.0];
+    22 -> 30 [label=33.0];
+    23 -> 15 [label=130.5];
+    23 -> 25 [label=38.0];
+    24 -> 2 [label=181.5];
+    24 -> 3 [label=157.0];
+    25 -> 11 [label=94.5];
+    25 -> 12 [label=95.0];
+    26 -> 1 [label=98.5];
+    26 -> 27 [label=59.5];
+    27 -> 6 [label=128.0];
+    27 -> 13 [label=145.0];
+    28 -> 5 [label=131.0];
+    28 -> 14 [label=79.0];
+    29 -> 26 [label=39.5];
+    29 -> 28 [label=36.0];
+    30 -> 29 [label=32.0];
+    30 -> 31 [label=45.5];
+    31 -> 8 [label=143.0];
+    31 -> 16 [label=122.0];
+    32 -> 4 [label=147.5];
+    32 -> 22 [label=49.5];
+}
+//1830.0
+>>>>>>> fdcb9da31dd2998cb4fc55953fcf49b8c4e52138
 digraph G {
 	rankdir = LR;	node [ shape = none];
 
@@ -339,6 +413,7 @@ digraph G {
     30 [label=HTU30];
     31 [label=HTU31];
     32 [label=HTU32];
+<<<<<<< HEAD
     17 -> 0 [label=92.0];
     17 -> 32 [label=96.0];
     18 -> 5 [label=114.0];
@@ -373,6 +448,42 @@ digraph G {
     32 -> 22 [label=55.5];
 }
 //1810.0
+=======
+    17 -> 0 [label=86.5];
+    17 -> 32 [label=94.5];
+    18 -> 20 [label=63.5];
+    18 -> 21 [label=51.0];
+    19 -> 9 [label=83.5];
+    19 -> 18 [label=30.5];
+    20 -> 10 [label=71.5];
+    20 -> 23 [label=100.5];
+    21 -> 7 [label=142.0];
+    21 -> 24 [label=44.5];
+    22 -> 19 [label=31.0];
+    22 -> 30 [label=22.5];
+    23 -> 2 [label=181.5];
+    23 -> 3 [label=157.0];
+    24 -> 11 [label=99.5];
+    24 -> 12 [label=101.0];
+    25 -> 1 [label=101.5];
+    25 -> 26 [label=68.0];
+    26 -> 6 [label=124.0];
+    26 -> 13 [label=150.0];
+    27 -> 15 [label=141.5];
+    27 -> 25 [label=29.5];
+    28 -> 5 [label=126.5];
+    28 -> 14 [label=91.5];
+    29 -> 27 [label=32.5];
+    29 -> 28 [label=39.0];
+    30 -> 29 [label=21.5];
+    30 -> 31 [label=50.5];
+    31 -> 8 [label=142.5];
+    31 -> 16 [label=119.5];
+    32 -> 4 [label=162.5];
+    32 -> 22 [label=44.5];
+}
+//1823.0
+>>>>>>> fdcb9da31dd2998cb4fc55953fcf49b8c4e52138
 digraph G {
 	rankdir = LR;	node [ shape = none];
 
@@ -479,6 +590,7 @@ digraph G {
     30 [label=HTU30];
     31 [label=HTU31];
     32 [label=HTU32];
+<<<<<<< HEAD
     17 -> 0 [label=102.0];
     17 -> 32 [label=105.5];
     18 -> 5 [label=104.0];
@@ -582,6 +694,41 @@ digraph G {
     32 -> 4 [label=146.5];
     32 -> 22 [label=40.0];
 }
+=======
+    17 -> 0 [label=99.0];
+    17 -> 32 [label=106.5];
+    18 -> 20 [label=57.0];
+    18 -> 24 [label=40.5];
+    19 -> 9 [label=84.0];
+    19 -> 18 [label=53.0];
+    20 -> 10 [label=77.0];
+    20 -> 21 [label=48.0];
+    21 -> 16 [label=78.5];
+    21 -> 23 [label=101.5];
+    22 -> 19 [label=38.0];
+    22 -> 31 [label=28.5];
+    23 -> 2 [label=196.5];
+    23 -> 3 [label=150.0];
+    24 -> 11 [label=90.5];
+    24 -> 12 [label=95.5];
+    25 -> 1 [label=94.0];
+    25 -> 26 [label=70.5];
+    26 -> 6 [label=124.5];
+    26 -> 13 [label=156.5];
+    27 -> 15 [label=136.5];
+    27 -> 25 [label=42.0];
+    28 -> 7 [label=162.0];
+    28 -> 14 [label=110.0];
+    29 -> 5 [label=91.5];
+    29 -> 28 [label=55.5];
+    30 -> 27 [label=56.5];
+    30 -> 29 [label=36.0];
+    31 -> 8 [label=142.5];
+    31 -> 30 [label=34.5];
+    32 -> 4 [label=149.0];
+    32 -> 22 [label=38.0];
+}
+>>>>>>> fdcb9da31dd2998cb4fc55953fcf49b8c4e52138
 //1792.0
 digraph G {
 	rankdir = LR;	node [ shape = none];
@@ -689,6 +836,7 @@ digraph G {
     30 [label=HTU30];
     31 [label=HTU31];
     32 [label=HTU32];
+<<<<<<< HEAD
     17 -> 0 [label=103.5];
     17 -> 32 [label=107.0];
     18 -> 5 [label=120.5];
@@ -723,6 +871,42 @@ digraph G {
     32 -> 24 [label=48.5];
 }
 //1775.0
+=======
+    17 -> 0 [label=101.0];
+    17 -> 32 [label=104.5];
+    18 -> 5 [label=110.5];
+    18 -> 19 [label=42.5];
+    19 -> 21 [label=65.5];
+    19 -> 22 [label=42.5];
+    20 -> 9 [label=84.5];
+    20 -> 18 [label=28.5];
+    21 -> 10 [label=73.5];
+    21 -> 23 [label=47.5];
+    22 -> 7 [label=149.5];
+    22 -> 26 [label=49.5];
+    23 -> 16 [label=66.5];
+    23 -> 25 [label=97.5];
+    24 -> 20 [label=20.5];
+    24 -> 31 [label=27.5];
+    25 -> 2 [label=193.0];
+    25 -> 3 [label=146.5];
+    26 -> 11 [label=105.0];
+    26 -> 12 [label=87.0];
+    27 -> 1 [label=106.0];
+    27 -> 28 [label=56.0];
+    28 -> 6 [label=135.0];
+    28 -> 13 [label=146.0];
+    29 -> 15 [label=151.5];
+    29 -> 27 [label=32.5];
+    30 -> 14 [label=84.5];
+    30 -> 29 [label=46.5];
+    31 -> 8 [label=131.5];
+    31 -> 30 [label=56.5];
+    32 -> 4 [label=144.0];
+    32 -> 24 [label=43.0];
+}
+//1780.0
+>>>>>>> fdcb9da31dd2998cb4fc55953fcf49b8c4e52138
 digraph G {
 	rankdir = LR;	node [ shape = none];
 
@@ -759,6 +943,7 @@ digraph G {
     30 [label=HTU30];
     31 [label=HTU31];
     32 [label=HTU32];
+<<<<<<< HEAD
     17 -> 0 [label=102.0];
     17 -> 32 [label=109.5];
     18 -> 20 [label=48.5];
@@ -793,3 +978,109 @@ digraph G {
     32 -> 23 [label=43.5];
 }
 //1771.0
+=======
+    17 -> 0 [label=104.5];
+    17 -> 32 [label=112.0];
+    18 -> 20 [label=43.0];
+    18 -> 23 [label=42.0];
+    19 -> 9 [label=82.5];
+    19 -> 18 [label=48.5];
+    20 -> 10 [label=77.5];
+    20 -> 21 [label=38.0];
+    21 -> 16 [label=81.0];
+    21 -> 24 [label=51.0];
+    22 -> 19 [label=29.5];
+    22 -> 31 [label=30.0];
+    23 -> 15 [label=117.0];
+    23 -> 26 [label=44.0];
+    24 -> 1 [label=106.5];
+    24 -> 25 [label=76.5];
+    25 -> 2 [label=200.5];
+    25 -> 3 [label=150.5];
+    26 -> 11 [label=96.0];
+    26 -> 12 [label=91.5];
+    27 -> 6 [label=124.0];
+    27 -> 13 [label=156.0];
+    28 -> 7 [label=162.0];
+    28 -> 14 [label=109.0];
+    29 -> 5 [label=95.0];
+    29 -> 28 [label=45.0];
+    30 -> 27 [label=58.0];
+    30 -> 29 [label=30.0];
+    31 -> 8 [label=132.0];
+    31 -> 30 [label=41.0];
+    32 -> 4 [label=140.5];
+    32 -> 22 [label=35.5];
+}
+//1772.0
+digraph G {
+	rankdir = LR;	node [ shape = none];
+
+    0 [label=Alentus];
+    1 [label=Amblypygid];
+    2 [label=Americhernus];
+    3 [label=Aportus];
+    4 [label=Artemia];
+    5 [label=Centruoides];
+    6 [label=Chanbria];
+    7 [label=Gea];
+    8 [label=Hadrurus];
+    9 [label=Hypochilus];
+    10 [label=Limulus];
+    11 [label=Mastigoproctus];
+    12 [label=Pauroctonus];
+    13 [label=Rhiphicephalus];
+    14 [label=Thelichoris];
+    15 [label=Thermobius];
+    16 [label=Vonones];
+    17 [label=HTU17];
+    18 [label=HTU18];
+    19 [label=HTU19];
+    20 [label=HTU20];
+    21 [label=HTU21];
+    22 [label=HTU22];
+    23 [label=HTU23];
+    24 [label=HTU24];
+    25 [label=HTU25];
+    26 [label=HTU26];
+    27 [label=HTU27];
+    28 [label=HTU28];
+    29 [label=HTU29];
+    30 [label=HTU30];
+    31 [label=HTU31];
+    32 [label=HTU32];
+    17 -> 0 [label=105.5];
+    17 -> 32 [label=109.5];
+    18 -> 5 [label=112.5];
+    18 -> 19 [label=50.5];
+    19 -> 21 [label=52.0];
+    19 -> 22 [label=43.5];
+    20 -> 9 [label=76.5];
+    20 -> 18 [label=38.0];
+    21 -> 10 [label=73.0];
+    21 -> 23 [label=42.0];
+    22 -> 7 [label=156.5];
+    22 -> 25 [label=37.0];
+    23 -> 16 [label=79.0];
+    23 -> 26 [label=55.0];
+    24 -> 20 [label=22.5];
+    24 -> 31 [label=32.5];
+    25 -> 15 [label=129.5];
+    25 -> 28 [label=43.0];
+    26 -> 1 [label=105.5];
+    26 -> 27 [label=75.5];
+    27 -> 2 [label=199.5];
+    27 -> 3 [label=151.5];
+    28 -> 11 [label=99.5];
+    28 -> 12 [label=94.0];
+    29 -> 6 [label=154.0];
+    29 -> 13 [label=132.0];
+    30 -> 14 [label=49.5];
+    30 -> 29 [label=39.5];
+    31 -> 8 [label=132.5];
+    31 -> 30 [label=71.5];
+    32 -> 4 [label=139.5];
+    32 -> 24 [label=47.5];
+}
+//1759.0
+>>>>>>> fdcb9da31dd2998cb4fc55953fcf49b8c4e52138
