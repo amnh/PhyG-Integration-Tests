@@ -12,7 +12,7 @@ read(include:"Include_woman16.txt")
 --woman_allchars.ss includes cc+, cc-, continuous, ?, [ ], /N 
 read("woman_allchars.ss")
 read("woman_step.ss")
-build(distance, rdwag, cun, displaytrees:10)
+read(newick:"../t24/t24.tre")
 fuse(none, keep:4)
 report("t256.csv", data, overwrite)
 report("t256.tre", graphs, newick, overwrite)

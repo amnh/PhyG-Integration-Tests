@@ -1,8 +1,8 @@
---input t12.tre, swap(drift:3, acceptworse:2.0), inputting prefasta file
+--input t83.tre, swap(drift:3, acceptworse:2.0), inputting prefasta file
 set(seed:1634561640)
 read(prefasta: "chel-prealigned.fas")
 read(prefasta: "metazoa-aa-1.fas")
-read(newick:"../t12/t12.tre")
+read(newick:"../t83/t83.tre")
 swap(drift:3, acceptworse:2.0)
 report("t372.csv", data, overwrite)
-report("t372.tre", newick, overwrite)
+report("t372.tre", newick, graphs, overwrite)

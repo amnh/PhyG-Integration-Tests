@@ -1,10 +1,10 @@
---swap(drift:3, acceptworse:2.0), inputting fastc files along with tcm, reducing dataset to 16 taxa
+--input t95.tre,, swap(drift:3, acceptworse:2.0), inputting fastc files along with tcm, reducing dataset to 16 taxa
 set(seed:1634561640)
 read(rename: "woman_rename.txt")
 read(fastc:"woman.fastc", tcm: "woman-11.tcm")
 read(fastc:"woman_cox1_spaced.fastc")
 read(include:"Include_woman.txt")
-read(newick:"../t26/t26.tre")
+read(newick:"../t95/t95.tre")
 swap(drift:3, acceptworse:2.0)
 report("t380.csv", data, overwrite)
 report("t380.tre", newick, overwrite)

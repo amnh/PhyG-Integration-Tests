@@ -1,4 +1,4 @@
---swap(drift:3, acceptequal:2.0), inputting fasta files with missing and chopped data
+--input t88.tre, swap(drift:3, acceptequal:2.0), inputting fasta files with missing and chopped data
 --the taxa in these files were further reduced to 51 taxa and the root was set
 set(graphssteepest:1)
 set(seed:1634561640)

@@ -21,7 +21,6 @@ log.out
 *.eps
 *.ps
 *.DS_Store
-*.txt
 
 ###
 #
