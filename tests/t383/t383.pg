@@ -1,8 +1,8 @@
---input t13.tre, swap(drift:3, maxchanges:30),  inputting prefastc file
+--input t84.tre, swap(drift:3, maxchanges:30),  inputting prefastc file
 set(seed:1634561640)
 read(prefastc:"chel-wide.fastc")
 read(prefastc:"chel-huge.fastc")
-read(newick:"../t13/t13.tre")
+read(newick:"../t84/t84.tre")
 swap(drift:3, maxchanges:30)
 report("t383.csv", data, overwrite)
 report("t383.tre", newick, overwrite)
