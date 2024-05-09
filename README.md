@@ -4,6 +4,21 @@ PhyG Integration Test Suite
 A composition of integration tests for the [**`PhyG`**][GitHub-PhyG] software program.
 
 
+## Using the latest version of `phyg`
+
+```bash
+./bin/refresh-phyg.hs
+```
+
+This script performs the following tasks:
+
+  1. Clears all cached versions of `phyg`.
+  2. Builds a "fresh" version of `phyg`.
+  3. Ensures that the "fresh" version `phyg` is located on the `$PATH`.
+
+By performing these tasks, any subsequent calls to the `integration-tests` will invoke the "fresh" version of `phyg`.
+
+
 ## How to run
 
 ```bash
