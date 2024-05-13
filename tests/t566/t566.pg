@@ -1,8 +1,8 @@
---input t21.tre, swap(inorder), inputting amino acid file
+--input t89.tre, swap(inorder), inputting amino acid file
 set(seed:1634561640)
 read(prefasta:"metazoa-aa-1_missing.fas", tcm:"dayhoff.mat")
 read(prefasta:"metazoa-aa-2_missing.fas", tcm:"dayhoff.mat")
-read(newick: "t21.tre")
+read(newick:"../t89/t89.tre")
 swap(inorder)
 report("t566.csv", data, overwrite)
 report("t566.tre", newick, overwrite)

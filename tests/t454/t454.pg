@@ -1,7 +1,7 @@
---input t16.tre, swap(annealing, steps:3),  inputting pre nucleotide fasta files with missing data
+--input t344.tre, swap(annealing, steps:3),  inputting pre nucleotide fasta files with missing data
 set(seed:1634561640)
 read(prenucleotide:"dec258_12Saln_missing.fasta")
-read(newick:"../t16/t16.tre")
+read(newick:"../t344/t344.tre")
 swap(annealing, steps:3)
 report("t454.csv", data, overwrite)
 report("t454.tre", newick, overwrite)
