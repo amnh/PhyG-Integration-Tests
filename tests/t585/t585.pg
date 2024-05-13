@@ -1,4 +1,4 @@
---swap(joinalternate), inputting all character types
+--input t92.tre, swap(joinalternate), inputting all character types
 set(seed:1634561640)
 read(rename: "woman_rename.txt")
 read(aminoacid:"woman-wide_aa.fas", tcm:"dayhoff.mat")
@@ -11,7 +11,7 @@ read(prefastc:"woman_cox1_spaced.fastc")
 read("woman_allchars.ss")
 read("woman_step.ss")
 read(include:"Include_woman16.txt")
-build(distance, rdWag, best:10)
+read(newick: "../t92/t92.tre")
 select(best:3)
 swap(joinalternate)
 report("t585_cr.csv", crossrefs, overwrite)
