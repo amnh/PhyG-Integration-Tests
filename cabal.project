@@ -1,28 +1,37 @@
 ---------------------------------------------------------------------------------
 -- Package Specifications
 --
--- Applies to *only* the specified package(s)
+-- Applies to *only* the specified package(s).
+--
+-- Ensure that executables are built single-threaded!
 ---------------------------------------------------------------------------------
 
 With-Compiler:
     ghc-9.8.2
-
-Packages: .
 
 Package PhyG
     Benchmarks:    False
     Documentation: False
     Tests:         False
     Relocatable:   True
-    Flags: +Super-Optimization
+    Flags: +Single-Threaded +Super-Optimization
     Optimization: 2
 
 Package PhyG-integration-tests
     Benchmarks:    False
     Documentation: False
     Tests:         True
-    Relocatable:   True
+    Flags: +Single-Threaded
     Optimization: 2
+
+Packages: .
+           
+---------------------------------------------------------------------------------
+-- Miscellaneous specifications
+---------------------------------------------------------------------------------
+
+Jobs:       $ncpus
+Keep-Going: False
 
 ---------------------------------------------------------------------------------
 -- Output paths
@@ -31,11 +40,6 @@ Package PhyG-integration-tests
 -- and log files of the build/benchmarks/tests should go in `log`.
 ---------------------------------------------------------------------------------
 
---Builddir:         ./build
---Datadir:          ./data
---Docdir:           ./doc
---Htmldir:          ./doc/html
---Symlink-Bindir:   ./bin
 Installdir:       ./bin
 Logs-dir:         ./log
 Install-Method:   copy
@@ -57,43 +61,9 @@ Overwrite-Policy: always
 Allow-Newer:
     -- Core library
     base,
---    ghc,
---    ghc-compact,
---    ghc-prim,
---    integer-gmp,
---    template-haskell,
---    -- Internal compiler library
---    ghc-boot,
---    ghc-boot-th,
---    ghc-heap,
---    libiserv,
---    -- Dependency of `ghc` library
---    array,
---    binary,
     bytestring,
---    containers,
     deepseq,
---    directory,
---    exceptions,
---    filepath,
---    pretty,
---    process,
---    time,
---    transformers,
---    unix,
---    Win32,
---    -- Core tool library
---    ghci,
---    hpc,
---    Cabal,
---    -- Dependency of `Cabal` library
---    mtl,
---    parsec,
     text,
---    -- Security update
---    aeson,
---    -- Lagging project dependency
---    memory,
 
 Preferences:
     aeson >= 2.1.0.0,
@@ -161,12 +131,4 @@ Source-Repository-Package
 Source-Repository-Package
     Type:     git
     Location: git@github.com:AMNH/PhyG
-    Tag:      072d8b01
-
-
----------------------------------------------------------------------------------
--- Miscellaneous specifications
----------------------------------------------------------------------------------
-
-Jobs:       $ncpus
-Keep-Going: False
+    Tag:      f423c0783e9c43838de34249ad8e30f21fce20aa
