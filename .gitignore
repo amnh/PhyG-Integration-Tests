@@ -15,9 +15,6 @@ log.err
 log.out
 
 # Outputs from testing
-*.csv
-*.ss
-*.pg
 *.eps
 *.ps
 *.DS_Store
