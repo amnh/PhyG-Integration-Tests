@@ -16,4 +16,4 @@
 --swap(inorder)
 --report("t471_cr.csv", crossrefs, overwrite)
 --report("t471.csv", data, overwrite)
---report("t471.tre", graphs, newick, overwrite)
+--report("t471.tre", graphs, newick, graphs, overwrite)
