@@ -16,4 +16,4 @@
 --swap(joinall)
 --report("t470_cr.csv", crossrefs, overwrite)
 --report("t470.csv", data, overwrite)
---report("t470.tre", graphs, newick, graphs, overwrite)
+--report("t470.tre", newick, graphs, overwrite)

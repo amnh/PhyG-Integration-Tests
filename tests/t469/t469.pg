@@ -16,5 +16,5 @@
 --read(newick:"t495.tre")
 --swap(alternate)
 --report("t469.csv", data, overwrite)
---report("t469.tre", graphs, newick, graphs, overwrite)
+--report("t469.tre", newick, graphs, overwrite)
 --report("t469_gv.tre", dotpdf, graphs, overwrite)
