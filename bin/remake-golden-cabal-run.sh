@@ -46,7 +46,7 @@ generate_annointed() {
 DIR_PROJECT_NAME='PhyG-Integration-Tests'
 DIR_PROJECT_ROOT=$(pwd | sed "s/\(${DIR_PROJECT_NAME}\).*/\1/g")
 DIR_PROJECT_EXES="${DIR_PROJECT_ROOT}/bin"
-EXE_REFRESH='refresh-phyg.hs'
+EXE_REFRESH='refresh-phyg.sh'
 BINARY_NAME='phyg'
 TARGET_NAME="PhyG:exe:${BINARY_NAME}"
 
