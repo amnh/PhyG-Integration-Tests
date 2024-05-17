@@ -8,6 +8,14 @@ STYLE_BOLD=$(tput bold)
 STYLE_BLUE=$(tput setaf 4)
 STYLE_NORMAL=$(tput sgr0)
 
+DIR_STARTING=$(pwd)
+DIR_PROJECT_NAME='PhyG-Integration-Tests'
+DIR_PROJECT_ROOT=$(pwd | sed "s/\(${DIR_PROJECT_NAME}\).*/\1/g")
+DIR_PROJECT_EXES="${DIR_PROJECT_ROOT}/bin"
+DIR_PROJECT_TEST="${DIR_PROJECT_ROOT}/tests"
+EXE_REFRESH='refresh-phyg.sh'
+BINARY_NAME='phyg'
+
 
 # Step 1: Define how to move a file
 #########
@@ -43,28 +51,17 @@ generate_annointed() {
 
 # Step 3: Before beginning any work, we must check that we are using the newest version of PhyG
 #########
-DIR_PROJECT_NAME='PhyG-Integration-Tests'
-DIR_PROJECT_ROOT=$(pwd | sed "s/\(${DIR_PROJECT_NAME}\).*/\1/g")
-DIR_PROJECT_EXES="${DIR_PROJECT_ROOT}/bin"
-EXE_REFRESH='refresh-phyg.sh'
-BINARY_NAME='phyg'
-TARGET_NAME="PhyG:exe:${BINARY_NAME}"
-
-# Refresh by calling the "refresh" script
 printf "\n${STYLE_BLUE}${STYLE_BOLD}Refreshing the binary component${STYLE_NORMAL} '%s'\n\n" "${BINARY_NAME}"
 cabal clean
 "${DIR_PROJECT_EXES}/${EXE_REFRESH}"
-
-# Locate
-BINARY_DIR=$(cabal list-bin "${TARGET_NAME}" --project-file=single-threaded.project | tail -n 1 | xargs dirname)
-BINARY_PATH=$(find "${BINARY_DIR}" -maxdepth 1 -type f -iname "*${BINARY_NAME}" -print -quit)
-printf "Setting '%s'\t= '%s'\n" "BINARY_DIR" "${BINARY_DIR}"
+BINARY_PATH=$(which "${BINARY_NAME}")
 printf "Setting '%s'\t= '%s'\n" "BINARY_PATH" "${BINARY_PATH}"
 
 
 # Step 4: Get all the test directories
 #########
-declare -a SUB_DIRS=( $(find . -maxdepth 1 -type d | xargs basename | sort -t 't' -k 2n) )
+cd "${DIR_PROJECT_TEST}"
+declare -a SUB_DIRS=( $(find . -maxdepth 1 -type d -regex '.*/t[0-9][0-9]*' | xargs basename | sort -t 't' -k 2n) )
 
 
 # Step 5: Loop through each sub-directory
@@ -92,3 +89,8 @@ for SUBDIRECTORY in "${SUB_DIRS[@]}"; do
         blessing_of_Midas "${SUBDIRECTORY}/${SUBDIRECTORY}.ss"
         printf " done!\n\n"
 done
+
+
+# Step 6: Clean up
+#########
+cd "${DIR_STARTING}"
