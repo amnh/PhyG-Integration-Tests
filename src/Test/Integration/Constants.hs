@@ -53,11 +53,14 @@ getBinaryUnderTest =
 
 locateTargetExecutable ∷ String → IO (Either String FilePath)
 locateTargetExecutable inputName =
-    let searchLocations ∷ IO (NonEmpty FilePath)
-        searchLocations =
-            getBinDir <&> \dirBinary →
+    let searchPrimary :: IO (NonEmpty FilePath)
+        searchPrimary = getBinDir <&> (:| [])
+
+        searchSecondary ∷ IO (NonEmpty FilePath)
+        searchSecondary =
+            searchPrimary <&> \(dirBinary :| _) →
                 let dirCabal = joinPath . init $ splitDirectories dirBinary
-                in  dirBinary :| [dirCabal </> "store"]
+                in  (dirCabal </> "store") :| []
 
         findMatching ∷ NonEmpty FilePath → IO (Maybe (NonEmpty FilePath))
         findMatching =
@@ -96,8 +99,15 @@ locateTargetExecutable inputName =
                 resultant ∷ FilePath → Either a FilePath
                 resultant = Right . normalise
             in  traverse makeAbsolute . maybe message resultant
-    in  searchLocations >>= \withinDirs →
-            findBinary withinDirs >>= finalize withinDirs
+
+    in  -- First look in the 'bin' directory
+        searchPrimary >>= \primaryDir →
+            findBinary primaryDir >>= \case
+                exe@(Just _) -> finalize primaryDir exe
+                -- If not found in 'bin' directory,
+                -- Then search secondary locations
+                Nothing -> searchSecondary >>= \withinDirs →
+                    findBinary withinDirs >>= finalize withinDirs
 
 
 foldMapA ∷ (FilePath → IO [FilePath]) → NonEmpty FilePath → IO [FilePath]
