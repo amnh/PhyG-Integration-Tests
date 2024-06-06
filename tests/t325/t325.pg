@@ -1,6 +1,5 @@
 --t80 deliberately missing woman_rename.txt, so introducing taxa with no data
 set(seed:1634561640)
-read(rename: "woman_rename.txt")
 read(fastc:"woman.fastc", tcm: "woman-11.tcm")
 read(fastc:"woman_cox1_spaced.fastc")
 read(include:"Include_woman16.txt")

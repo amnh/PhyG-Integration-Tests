@@ -1,0 +1,11 @@
+--softwired, swap(alternate), inputting tcm file (dayhoff) with amino acids
+set(seed:1634561640)
+set(graphtype:softwired)
+set(graphfactor:nopenalty)
+read(prefasta:"metazoa-aa-1.fas", tcm:"dayhoff.mat")
+read(prefasta:"metazoa-aa-2.fas", tcm:"dayhoff.mat")
+build(distance, rdwag, block, graph, replicates:10, displaytrees:10)
+refine(netadd, maxnetedges:2)
+swap(alternate)
+report("t507.csv", data, overwrite)
+report("t507.tre", newick, graphs, overwrite)

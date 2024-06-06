@@ -1,0 +1,13 @@
+--softwired, swap(drift:3, acceptequal:3.0), inputting fastc files along with tcm
+set(seed:1634561640)
+set(graphtype:softwired)
+set(graphfactor:nopenalty)
+read(rename:"woman_rename.txt")
+read(fastc:"woman.fastc", tcm:"woman-11.tcm")
+read(fastc:"woman_cox1_spaced.fastc")
+read(include:"Include_woman16.txt")
+build(distance, rdwag, block, graph, replicates:10, displaytrees:10)
+refine(netadd, maxnetedges:3)
+swap(drift:3, acceptequal:3.0)
+report("t504.csv", data, overwrite)
+report("t504.tre", newick, graphs, overwrite)

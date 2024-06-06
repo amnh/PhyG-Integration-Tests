@@ -1,0 +1,15 @@
+--softwired, set(softwiredmethod:naive), inputting Hennig86 files with all character settings included
+set(seed:1634561640)
+set(graphtype:softwired)
+set(graphfactor:nopenalty)
+set(softwiredmethod:naive)
+read(rename: "woman_rename.txt")
+--woman_allchars.ss includes cc+, cc-, continuous, ?, [ ], /N 
+read(tnt: "woman_allchars.ss")
+read(tnt: "woman_step.ss")
+read(include:"Include_woman16.txt")
+build(distance, rdwag, block, graph, replicates:10, displaytrees:10)
+refine(netadd, maxnetedges:2)
+swap(annealing, steps:2)
+report("t536.csv", data, overwrite)
+report("t536.tre", newick, graphs, overwrite)

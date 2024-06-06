@@ -1,8 +1,8 @@
---fuse(tbr:5), inputting tcm file (dayhoff) with amino acids
+--fuse(tbr:5), inputting tcm file (dayhoff) with amino acids -- update: had to remove dayhoff tcms to speed up run
 set(seed:1634561640)
-read(prefasta:"metazoa-aa-1.fas", tcm:"dayhoff.mat")
-read(prefasta:"metazoa-aa-2.fas", tcm:"dayhoff.mat")
+read(prefasta:"metazoa-aa-1.fas")
+read(prefasta:"metazoa-aa-2.fas")
 read(newick:"../t85/t85.tre")
-fuse(tbr:5)
+fuse(tbr:5, pairs:2)
 report("t236.csv", data, overwrite)
 report("t236.tre", newick, graphs, overwrite)

@@ -1,0 +1,11 @@
+--softwired, swap(nni), penalty: w23, inputting prefastc file
+set(seed:1634561640)
+set(graphtype:softwired)
+set(graphfactor:w23)
+read(prefastc:"chel-wide.fastc")
+read(prefastc:"chel-huge.fastc")
+build(distance, rdwag, block, graph, replicates:10, displaytrees:10)
+refine(netadd, maxnetedges:2)
+swap(nni)
+report("t506.csv", data, overwrite)
+report("t506.tre", newick, graphs, overwrite)

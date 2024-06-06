@@ -1,0 +1,12 @@
+--softwired, set(softwiredmethod:naive), inputting prefastc file
+set(seed:1634561640)
+set(graphtype:softwired)
+set(graphfactor:w23)
+set(softwiredmethod:naive)
+read(prefastc:"chel-wide.fastc")
+read(prefastc:"chel-huge.fastc")
+build(distance, rdwag, block, graph, replicates:10, displaytrees:10)
+refine(netadd, maxnetedges:2)
+swap(nni)
+report("t532.csv", data, overwrite)
+report("t532.tre", newick, graphs, overwrite)

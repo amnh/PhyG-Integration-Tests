@@ -1,8 +1,8 @@
---fuse(tbr:5, pairs:5, unique), inputting tcm file (dayhoff) with amino acids
+--fuse(tbr:5, pairs:2, unique), inputting tcm file (dayhoff) with amino acids
 set(seed:1634561640)
 read(prefasta:"metazoa-aa-1.fas", tcm:"dayhoff.mat")
 read(prefasta:"metazoa-aa-2.fas", tcm:"dayhoff.mat")
 read(newick:"../t85/t85.tre")
-fuse(tbr:5, pairs:5, unique)
+fuse(tbr:5, pairs:2, unique)
 report("t250.csv", data, overwrite)
 report("t250.tre", newick, graphs, overwrite)

@@ -2,6 +2,6 @@
 set(seed:1634561640)
 read("arcoida_cont.ss", "arcoida_cont2.ss")
 read(newick:"../t28/t28.tre")
-fuse(tbr:10, unique)
+fuse(tbr:3, unique, pairs:2)
 report("t258.csv", data, overwrite)
 report("t258.tre", newick, graphs, overwrite)

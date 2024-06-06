@@ -1,6 +1,7 @@
---build(graph:softwired), inputting fastc files along with tcm
+--build(graph:hardwired), inputting fastc files along with tcm
 set(seed:1634561640)
 set(graphtype:hardwired)
+read(rename:"woman_rename.txt")
 read(fastc:"woman.fastc", tcm: "woman-11.tcm")
 read(fastc:"woman_cox1_spaced.fastc")
 read(include:"Include_woman16.txt")

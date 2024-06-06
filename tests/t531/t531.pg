@@ -1,0 +1,12 @@
+--softwired, set(softwiredmethod:naive), , inputting prefasta file
+set(seed:1634561640)
+set(graphtype:softwired)
+set(graphfactor:w15)
+set(softwiredmethod:naive)
+read(prefasta:"chel-prealigned.fas")
+read(prefasta:"metazoa-aa-1.fas")
+build(distance, rdwag, block, graph, replicates:10, displaytrees:10)
+refine(netadd, maxnetedges:3)
+swap(drift:3, acceptworse:5.0)
+report("t531.csv", data, overwrite)
+report("t531.tre", newick, graphs, overwrite)

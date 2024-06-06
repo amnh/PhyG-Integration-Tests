@@ -52,10 +52,10 @@ https://ro-che.info/articles/2018-01-08-tasty-new-patterns
 Here is an example using `--pattern` that will run the tests from `t260` onward (plus a handfull of extras.
 
 ```bash
-cabal run integration-tests -- --pattern '$3 ~ /t26/ || $3 ~ /t27/ || $3 ~ /t28/ || $3 ~ /t29/ || $3 ~ /t3/ || $3 ~ /t5/ || $3 ~ /t6/'
+cabal run integration-tests -- --pattern '$3 ~ /t26/ || $3 ~ /t27/ || $3 ~ /t28/ || $3 ~ /t29/ || $3 ~ /t3/ || $3 ~ /t4/ || $3 ~ /t5/ || $3 ~ /t6/'
 ```
 
-Because the testing framework does not support regular expresions, the pattern cannot be more concise.
+Because the testing framework does not support regular expressions, the pattern cannot be more concise.
 
 
 
