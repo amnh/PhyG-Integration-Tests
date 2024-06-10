@@ -1,0 +1,12 @@
+--input softwired tree and reset to hardwired
+set(seed:1634561640)
+set(graphtype:hardwired)
+read(prefasta:"chel-prealigned.fas")
+read(prefasta:"chel_cox1aln.fasta")
+read(prefasta:"metazoa-aa-1.fas")
+read(prefasta:"metazoa-aa-2.fas")
+read(newick:"../t490/t490.tre")
+report("t639.csv", data, overwrite)
+report("t639.tre", newick, graphs, overwrite)
+report("t639_gv.tre", dotpdf, graphs, overwrite)
+report("t639_dt.tre", displaytrees, graphs, overwrite)
