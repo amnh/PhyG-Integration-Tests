@@ -87,6 +87,15 @@ for SUBDIRECTORY in "${SUB_DIRS[@]}"; do
         blessing_of_Midas "${SUBDIRECTORY}/${SUBDIRECTORY}_pd.csv"
         blessing_of_Midas "${SUBDIRECTORY}/${SUBDIRECTORY}.dot"
         blessing_of_Midas "${SUBDIRECTORY}/${SUBDIRECTORY}.ss"
+        blessing_of_Midas "${SUBDIRECTORY}/${SUBDIRECTORY}-cc.gv"
+        blessing_of_Midas "${SUBDIRECTORY}/${SUBDIRECTORY}-cc.tre"
+        blessing_of_Midas "${SUBDIRECTORY}/${SUBDIRECTORY}-ci.tre"
+        blessing_of_Midas "${SUBDIRECTORY}/${SUBDIRECTORY}-ci.gv"
+        blessing_of_Midas "${SUBDIRECTORY}/${SUBDIRECTORY}-Adams.tre"
+        blessing_of_Midas "${SUBDIRECTORY}/${SUBDIRECTORY}-cun.tre"
+        blessing_of_Midas "${SUBDIRECTORY}/${SUBDIRECTORY}-eun.tre"
+        blessing_of_Midas "${SUBDIRECTORY}/${SUBDIRECTORY}-maj.tre"
+
         printf " done!\n\n"
 done
 
