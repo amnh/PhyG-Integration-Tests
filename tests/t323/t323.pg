@@ -1,4 +1,4 @@
---fuse(steepest, pairs:5), inputting all character types
+--fuse(steepest, pairs:1), inputting all character types
 set(seed:1634561640)
 read(rename: "woman_rename.txt")
 read(aminoacid:"woman-wide_aa.fas", tcm:"dayhoff.mat")
@@ -12,6 +12,6 @@ read(include:"Include_woman16.txt")
 read("woman_allchars.ss")
 read("woman_step.ss")
 read(newick:"../t92/t92.tre")
-fuse(steepest, pairs:5)
+fuse(steepest, pairs:1)
 report("t323.csv", data, overwrite)
 report("t323.tre", newick, graphs, overwrite)
