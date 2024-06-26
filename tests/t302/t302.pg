@@ -1,4 +1,4 @@
---fuse(all, pairs:5), inputting all character types
+--fuse(all, pairs:1), inputting all character types
 set(seed:1634561640)
 read(rename: "woman_rename.txt")
 read(aminoacid:"woman-wide_aa.fas", tcm:"dayhoff.mat")
@@ -11,7 +11,7 @@ read(include:"Include_woman16.txt")
 --woman_allchars.ss includes cc+, cc-, continuous, ?, [ ], /N 
 read("woman_allchars.ss")
 read("woman_step.ss")
-build(distance, rdwag, block, displaytrees:10, atrandom)
-fuse(all, pairs:5)
+read(newick:"../t92/t92.tre")
+fuse(all, pairs:1)
 report("t302.csv", data, overwrite)
 report("t302.tre", newick, graphs, overwrite)

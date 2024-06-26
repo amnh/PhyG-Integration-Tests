@@ -1,8 +1,8 @@
---fuse(atrandom, pairs:5), inputting tcm file (dayhoff) with amino acids
+--fuse(atrandom, pairs:2), inputting tcm file (dayhoff) with amino acids
 set(seed:1634561640)
 read(prefasta:"metazoa-aa-1.fas", tcm:"dayhoff.mat")
 read(prefasta:"metazoa-aa-2.fas", tcm:"dayhoff.mat")
 read(newick:"../t85/t85.tre")
-fuse(atrandom, pairs:5)
+fuse(atrandom, pairs:2)
 report("t307.csv", data, overwrite)
 report("t307.tre", newick, graphs, overwrite)
