@@ -1,5 +1,5 @@
 digraph G {
-	rankdir = LR;	edge [colorscheme=spectral11];	node [shape = none];
+	rankdir = LR;	node [ shape = none];
 
     0 [label=Alentus];
     1 [label=Amblypygid];
