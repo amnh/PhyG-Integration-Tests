@@ -1,7 +1,8 @@
 --swap(alternate), inputting all character types, reducing dataset to 16 taxa
 set(seed:1634561640)
 read(rename: "woman_rename.txt")
-read(aminoacid:"woman-wide_aa.fas", tcm:"dayhoff.mat")
+--read(aminoacid:"woman-wide_aa.fas", tcm:"dayhoff.mat")
+read(aminoacid:"woman-wide_aa.fas")
 read(fasta:"woman_12Saln.fasta", tcm:(1,2))
 read(fasta:"woman_binary.fasta", tcm:(2,1))
 read(prefasta:"woman_cox1aln.fasta", tcm:"sg2t1.mat")
