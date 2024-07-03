@@ -2,6 +2,6 @@
 set(seed:1634561640)
 read(fasta:"chel.fas", "chel_binary.fas")
 read(newick: "../t79/t79.tre")
-swap(drift:1, acceptequal:2.0)
+swap(drift:2, acceptequal:1.0, maxchanges:2)
 report("t361.csv", data, overwrite)
 report("t361.tre", newick, graphs, overwrite)
