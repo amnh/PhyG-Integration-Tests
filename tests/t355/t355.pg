@@ -1,8 +1,8 @@
 --input t87.tre, swap(alternate), inputting tcm and nucleotide files
 set(seed:1634561640)
-read(prefasta:"chel-prealigned.fas", tcm:"sg1t4.mat")
-read(prefasta:"chel_cox1aln.fasta", tcm:"sg2t1.mat")
+read(prefasta:"chel-prealigned.fas")
+read(prefasta:"chel_cox1aln.fasta")
 read(newick: "../t87/t87.tre")
-swap(alternate)
+swap(alternate, keep:1)
 report("t355.csv", data, overwrite)
 report("t355.tre", newick, graphs, overwrite)
