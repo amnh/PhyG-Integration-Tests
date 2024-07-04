@@ -2,6 +2,6 @@
 set(seed:1634561640)
 read(prefasta:"chel-prealigned.fas", tcm:"sg1t4.mat")
 read(newick:"../t87/t87.tre")
-swap(drift:3, acceptworse:2.0)
+swap(drift:3, acceptworse:2.0, maxchanges:20)
 report("t375.csv", data, overwrite)
 report("t375.tre", newick, graphs, overwrite)
