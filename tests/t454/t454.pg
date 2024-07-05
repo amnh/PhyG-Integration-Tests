@@ -2,6 +2,7 @@
 set(seed:1634561640)
 read(prenucleotide:"dec258_12Saln_missing.fasta")
 read(newick:"../t344/t344.tre")
+select(best:3)
 swap(annealing, steps:3)
 report("t454.csv", data, overwrite)
 report("t454.tre", newick, graphs, overwrite)
