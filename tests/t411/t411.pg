@@ -2,6 +2,7 @@
 set(seed:1634561640)
 read(fasta:"chel.fas", "chel_binary.fas")
 read(newick:"../t5/t5_nocollapse.tre")
+select(best:2)
 swap(ia)
 report("t411.csv", data, overwrite)
 report("t411.tre", newick, graphs, overwrite)
