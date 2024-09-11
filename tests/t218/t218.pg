@@ -1,4 +1,4 @@
---fuse(nni), inputting Hennig86 files with all character settings included
+--fuse(none), inputting Hennig86 files with all character settings included
 --originally fuse(nni)
 set(seed:1634561640)
 read(rename: "woman_rename.txt")
