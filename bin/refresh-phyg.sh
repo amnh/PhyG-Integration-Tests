@@ -18,7 +18,7 @@ TARGET_OPTS=( "${BINARY_OPTS[@]/#/-f}" )
 PHYG_FINAL_DIR="${HOME}/.cabal/bin"
 PHYG_FINAL_BIN="${PHYG_FINAL_DIR}/${BINARY_NAME}"
 
-GIT_BRANCH='merging-all'
+GIT_BRANCH='main' # previously 'merging-all'
 GIT_SOURCE="https://github.com/amnh/${BINARY_NAME}"
 
 PROJECT_FILEPATH=$(readlink -f 'single-threaded.project')
