@@ -75,9 +75,6 @@ Test-Suite integration-tests
     template-haskell >= 2.17 && < 3.0,
     time >= 1.11 && < 2.0,
 
-  Build-Tool-Depends:    
-    PhyG:phyg >= 0.1.4
-
   Default-Extensions:
     LambdaCase
     NoGeneralizedNewtypeDeriving
@@ -171,9 +168,6 @@ Executable PhyG-Integration-Tests
     tasty-rerun >= 1.1.14 && < 2.0,
     template-haskell >= 2.17 && < 3.0,
     time >= 1.11 && < 2.0,
-
-  Build-Tool-Depends:    
-    PhyG:phyg >= 0.1.4
 
   Default-Extensions:
     LambdaCase

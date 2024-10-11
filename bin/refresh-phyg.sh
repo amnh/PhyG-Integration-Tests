@@ -9,6 +9,8 @@ STYLE_BOLD=$(tput bold)
 STYLE_BLUE=$(tput setaf 4)
 STYLE_NORMAL=$(tput sgr0)
 
+GHC_VERSION='9.10.1'
+
 BINARY_NAME='phyg'
 BINARY_OPTS=( 'Single-Threaded' 'Super-Optimization' )
 #TARGET_NAME="PhyG:exe:${BINARY_NAME}"
@@ -60,7 +62,7 @@ printf '>>> Version:\t%s\n' "${GIT_HASH}"
 
 # Step 3:  Check for cached versions of the PhyG binary/libs
 #########
-PHYG_CACHE_DIR=$(find "${HOME}/.cabal/store/ghc-9.8.2" -maxdepth 1 -type d -name "PhyG-*")
+PHYG_CACHE_DIR=$(find "${HOME}/.cabal/store/ghc-${GHC_VERSION}" -maxdepth 1 -type d -name "PhyG-*")
 if [ -n "${PHYG_CACHE_DIR}" ]; then
     printf '>>> Cleared:\t( Cached PhyG Instances )\n' "${PHYG_CACHE_DIR}"
     while read -r -u 9 FILEPATH || [ -n "${FILEPATH}" ];

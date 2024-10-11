@@ -7,15 +7,7 @@
 ---------------------------------------------------------------------------------
 
 With-Compiler:
-    ghc-9.8.2
-
-Package PhyG
-    Benchmarks:    False
-    Documentation: False
-    Tests:         False
-    Relocatable:   True
-    Flags: +Single-Threaded +Super-Optimization
-    Optimization: 2
+    ghc-9.10.1
 
 Package PhyG-integration-tests
     Benchmarks:    False
@@ -72,63 +64,3 @@ Preferences:
     mtl >= 2.3.1,
     text >= 2.0.1,
     unordered-containers >= 0.2.18.0,
-
-Source-Repository-Package
-    Type:     git
-    Location: git@github.com:AMNH/PHANE
-    Subdir:   pkg/PHANE-alphabet
-
-Source-Repository-Package
-    Type:     git
-    Location: git@github.com:AMNH/PHANE
-    Subdir:   pkg/PHANE-dynamic-character
-
-Source-Repository-Package
-    Type:     git
-    Location: git@github.com:AMNH/PHANE
-    Subdir:   pkg/PHANE-dynamic-character-alignment
-
-Source-Repository-Package
-    Type:     git
-    Location: git@github.com:AMNH/PHANE
-    Subdir:   pkg/PHANE-dynamic-character-element
-
-Source-Repository-Package
-    Type:     git
-    Location: git@github.com:AMNH/PHANE
-    Subdir:   pkg/PHANE-evaluation
-
-Source-Repository-Package
-    Type:     git
-    Location: https://github.com/amnh/PHANE
-    Subdir:   pkg/PHANE-measure-class
-
-Source-Repository-Package
-    Type:     git
-    Location: https://github.com/amnh/PHANE
-    Subdir:   pkg/PHANE-measure-transition
-
-Source-Repository-Package
-    Type:     git
-    Location: https://github.com/amnh/PHANE
-    Subdir:   pkg/PHANE-measure-units
-
-Source-Repository-Package
-    Type:     git
-    Location: https://github.com/amnh/PHANE
-    Subdir:   pkg/PHANE-transition-matrix
-
-Source-Repository-Package
-    Type:     git
-    Location: https://github.com/amnh/PHANE
-    Subdir:   pkg/PHANE-transition-matrix-ffi
-
-Source-Repository-Package
-    Type:     git
-    Location: https://github.com/amnh/PHANE
-    Subdir:   pkg/PHANE-PhyloLib
-
-Source-Repository-Package
-    Type:     git
-    Location: git@github.com:AMNH/PhyG
-    Tag:      f423c0783e9c43838de34249ad8e30f21fce20aa
