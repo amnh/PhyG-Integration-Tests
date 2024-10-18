@@ -1,8 +1,10 @@
 --hardwired, swap(), inputting tcm and nucleotide files
 set(seed:1634561640)
 set(graphtype:hardwired)
-read(nucleotide:"chel-prealigned.fas", tcm:"sg1t4.mat")
-read(nucleotide:"chel_cox1aln.fasta", tcm:"sg2t1.mat")
+--read(nucleotide:"chel-prealigned.fas", tcm:"sg1t4.mat")
+--read(nucleotide:"chel_cox1aln.fasta", tcm:"sg2t1.mat")
+read(nucleotide:"chel-prealigned.fas")
+read(nucleotide:"chel_cox1aln.fasta")
 read(newick:"../t501/t501.tre")
 swap(alternate)
 report("t549.csv", data, overwrite)

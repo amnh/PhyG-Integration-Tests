@@ -1,8 +1,10 @@
 --hardwired, swap(), inputting tcm file (dayhoff) with amino acids
 set(seed:1634561640)
 set(graphtype:hardwired)
-read(prefasta:"metazoa-aa-1.fas", tcm:"dayhoff.mat")
-read(prefasta:"metazoa-aa-2.fas", tcm:"dayhoff.mat")
+--read(prefasta:"metazoa-aa-1_missing.fas", tcm:"dayhoff.mat")
+--read(prefasta:"metazoa-aa-2_missing.fas", tcm:"dayhoff.mat")
+read(prefasta:"metazoa-aa-1_missing.fas")
+read(prefasta:"metazoa-aa-2_missing.fas")
 read(newick:"../t500/t500.tre")
 swap(alternate)
 report("t548.csv", data, overwrite)
