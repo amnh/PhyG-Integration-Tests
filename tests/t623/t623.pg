@@ -1,8 +1,8 @@
 --select(unique, atrandom:50, best:3), inputting fasta and binary files
 set(seed:1634561640)
 read(fasta:"chel.fas", "chel_binary.fas")
-read(newick:"t615_all.tre")
-read(newick:"t615_all.tre")
+read(newick:"../t615/t615_all.tre")
+read(newick:"../t615/t615_all.tre")
 select(unique)
 report("t623_unique.tre", newick, graphs, overwrite)
 select(atrandom:50)
