@@ -1,8 +1,0 @@
---fuse(steepest), inputting tcm file (dayhoff) with amino acids
-set(seed:1634561640)
-read(prefasta:"metazoa-aa-1.fas", tcm:"dayhoff.mat")
-read(prefasta:"metazoa-aa-2.fas", tcm:"dayhoff.mat")
-read(newick:"../t85/t85.tre")
-fuse(steepest, pairs:3)
-report("t321.csv", data, overwrite)
-report("t321.tre", newick, graphs, overwrite)
