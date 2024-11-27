@@ -1,10 +1,10 @@
-System Info, OS: darwin, Chip Arch: x86_64, Compiler: ghc 9.10, Compile Date: Oct 11 2024 15:52:27
+System Info, OS: darwin, Chip Arch: x86_64, Compiler: ghc 9.10, Compile Date: Oct 29 2024 20:49:29
 CPU Info, No /proc/cpuinfo on darwin
 SearchData
-Random seed, 1729221913
+Random seed, 1730655985
 "Command","Arguments","Min cost in","Max cost in","Num graphs in","Min cost out","Max cost out","Num graphs out","CPU time (secs)","Comment"
-"Input and data processing",,"Infinity","Infinity","0","Infinity","Infinity","0","0.16949","No Comment"
+"Input and data processing",,"Infinity","Infinity","0","Infinity","Infinity","0","0.163963","No Comment"
 "Input graph processing",,"Infinity","Infinity","0","Infinity","Infinity","0","0.0","No Comment"
-"Search","seconds:300","Infinity","Infinity","0","515.0","527.0","10","361.327"
+"Search","seconds:300","Infinity","Infinity","0","515.0","527.0","10","361.481"
 "Iteration","Search Type","Delta","Min Cost out","CPU time (secs)","Arguments"
 "Hit minimum cost 515.0 in 1 of 1 iterations"
