@@ -1,173 +1,5 @@
-[DisplayTree costs : {[1120.0,1116.0,1113.0,1113.0,1111.0,1110.0,1107.0,1105.0,1105.0,1098.0],[{[405.0,715.0],0.0},{[404.0,712.0],0.0},{[398.0,715.0],0.0},{[409.0,704.0],0.0},{[399.0,712.0],0.0},{[392.0,718.0],0.0},{[392.0,715.0],0.0},{[390.0,715.0],0.0},{[393.0,712.0],0.0},{[406.0,692.0],0.0}]}]
+[DisplayTree costs : {[1116.0,1113.0,1113.0,1111.0,1110.0,1107.0,1105.0,1105.0,1099.0,1098.0],[{[404.0,712.0],0.0},{[398.0,715.0],0.0},{[409.0,704.0],0.0},{[399.0,712.0],0.0},{[392.0,718.0],0.0},{[392.0,715.0],0.0},{[390.0,715.0],0.0},{[393.0,712.0],0.0},{[391.0,708.0],0.0},{[406.0,692.0],0.0}]}]
 [Canonical Tree 0]
-[Block 0]
-[Display Tree[s]: 1]
-digraph {
-    0 [label=Alentus];
-    1 [label=Amblypygid];
-    2 [label=Americhernus];
-    3 [label=Aportus];
-    4 [label=Artemia];
-    5 [label=Centruoides];
-    6 [label=Chanbria];
-    7 [label=Gea];
-    8 [label=Hadrurus];
-    9 [label=Hypochilus];
-    10 [label=Limulus];
-    11 [label=Mastigoproctus];
-    12 [label=Pauroctonus];
-    13 [label=Rhiphicephalus];
-    14 [label=Thelichoris];
-    15 [label=Thermobius];
-    16 [label=Vonones];
-    17 [label=HTU17];
-    18 [label=HTU18];
-    19 [label=HTU19];
-    20 [label=HTU20];
-    21 [label=HTU21];
-    22 [label=HTU22];
-    23 [label=HTU23];
-    24 [label=HTU24];
-    25 [label=HTU25];
-    26 [label=HTU26];
-    27 [label=HTU27];
-    28 [label=HTU28];
-    29 [label=HTU29];
-    30 [label=HTU30];
-    31 [label=HTU31];
-    32 [label=HTU32];
-    33 [label=HTU33];
-    34 [label=HTU34];
-    35 [label=HTU35];
-    36 [label=HTU36];
-    37 [label=HTU37];
-    38 [label=HTU38];
-    17 -> 0 [label=0.0];
-    17 -> 33 [label=0.0];
-    18 -> 19 [label=0.0];
-    19 -> 1 [label=0.0];
-    19 -> 21 [label=0.0];
-    20 -> 5 [label=0.0];
-    20 -> 8 [label=0.0];
-    21 -> 3 [label=0.0];
-    22 -> 18 [label=0.0];
-    22 -> 35 [label=0.0];
-    23 -> 25 [label=0.0];
-    23 -> 36 [label=0.0];
-    24 -> 10 [label=0.0];
-    24 -> 31 [label=0.0];
-    25 -> 26 [label=0.0];
-    25 -> 28 [label=0.0];
-    26 -> 15 [label=0.0];
-    26 -> 34 [label=0.0];
-    27 -> 12 [label=0.0];
-    27 -> 24 [label=0.0];
-    28 -> 30 [label=0.0];
-    29 -> 9 [label=0.0];
-    29 -> 14 [label=0.0];
-    30 -> 27 [label=0.0];
-    30 -> 37 [label=0.0];
-    31 -> 11 [label=0.0];
-    31 -> 29 [label=0.0];
-    32 -> 4 [label=0.0];
-    32 -> 23 [label=0.0];
-    33 -> 6 [label=0.0];
-    33 -> 32 [label=0.0];
-    34 -> 7 [label=0.0];
-    35 -> 13 [label=0.0];
-    36 -> 20 [label=0.0];
-    36 -> 22 [label=0.0];
-    37 -> 16 [label=0.0];
-    37 -> 38 [label=0.0];
-    38 -> 2 [label=0.0];
-}
-//1120.0
-
-[Block 1]
-[Display Tree[s]: 1]
-digraph {
-    0 [label=Alentus];
-    1 [label=Amblypygid];
-    2 [label=Americhernus];
-    3 [label=Aportus];
-    4 [label=Artemia];
-    5 [label=Centruoides];
-    6 [label=Chanbria];
-    7 [label=Gea];
-    8 [label=Hadrurus];
-    9 [label=Hypochilus];
-    10 [label=Limulus];
-    11 [label=Mastigoproctus];
-    12 [label=Pauroctonus];
-    13 [label=Rhiphicephalus];
-    14 [label=Thelichoris];
-    15 [label=Thermobius];
-    16 [label=Vonones];
-    17 [label=HTU17];
-    18 [label=HTU18];
-    19 [label=HTU19];
-    20 [label=HTU20];
-    21 [label=HTU21];
-    22 [label=HTU22];
-    23 [label=HTU23];
-    24 [label=HTU24];
-    25 [label=HTU25];
-    26 [label=HTU26];
-    27 [label=HTU27];
-    28 [label=HTU28];
-    29 [label=HTU29];
-    30 [label=HTU30];
-    31 [label=HTU31];
-    32 [label=HTU32];
-    33 [label=HTU33];
-    34 [label=HTU34];
-    35 [label=HTU35];
-    36 [label=HTU36];
-    37 [label=HTU37];
-    38 [label=HTU38];
-    17 -> 0 [label=0.0];
-    17 -> 33 [label=0.0];
-    18 -> 19 [label=0.0];
-    18 -> 34 [label=0.0];
-    19 -> 1 [label=0.0];
-    19 -> 21 [label=0.0];
-    20 -> 5 [label=0.0];
-    20 -> 8 [label=0.0];
-    21 -> 3 [label=0.0];
-    21 -> 38 [label=0.0];
-    22 -> 18 [label=0.0];
-    23 -> 25 [label=0.0];
-    23 -> 36 [label=0.0];
-    24 -> 10 [label=0.0];
-    24 -> 31 [label=0.0];
-    25 -> 26 [label=0.0];
-    25 -> 28 [label=0.0];
-    26 -> 15 [label=0.0];
-    27 -> 12 [label=0.0];
-    27 -> 24 [label=0.0];
-    28 -> 30 [label=0.0];
-    28 -> 35 [label=0.0];
-    29 -> 9 [label=0.0];
-    29 -> 14 [label=0.0];
-    30 -> 27 [label=0.0];
-    30 -> 37 [label=0.0];
-    31 -> 11 [label=0.0];
-    31 -> 29 [label=0.0];
-    32 -> 4 [label=0.0];
-    32 -> 23 [label=0.0];
-    33 -> 6 [label=0.0];
-    33 -> 32 [label=0.0];
-    34 -> 7 [label=0.0];
-    35 -> 13 [label=0.0];
-    36 -> 20 [label=0.0];
-    36 -> 22 [label=0.0];
-    37 -> 16 [label=0.0];
-    38 -> 2 [label=0.0];
-}
-//1120.0
-
-
-[Canonical Tree 1]
 [Block 0]
 [Display Tree[s]: 1]
 digraph {
@@ -249,7 +81,7 @@ digraph {
     37 -> 18 [label=0.0];
     38 -> 26 [label=0.0];
 }
-//1120.0
+//1116.0
 
 [Block 1]
 [Display Tree[s]: 1]
@@ -332,10 +164,10 @@ digraph {
     37 -> 38 [label=0.0];
     38 -> 26 [label=0.0];
 }
-//1120.0
+//1116.0
 
 
-[Canonical Tree 2]
+[Canonical Tree 1]
 [Block 0]
 [Display Tree[s]: 1]
 digraph {
@@ -417,7 +249,7 @@ digraph {
     37 -> 38 [label=0.0];
     38 -> 23 [label=0.0];
 }
-//1120.0
+//1116.0
 
 [Block 1]
 [Display Tree[s]: 1]
@@ -500,10 +332,10 @@ digraph {
     37 -> 5 [label=0.0];
     38 -> 23 [label=0.0];
 }
-//1120.0
+//1116.0
 
 
-[Canonical Tree 3]
+[Canonical Tree 2]
 [Block 0]
 [Display Tree[s]: 1]
 digraph {
@@ -585,7 +417,7 @@ digraph {
     37 -> 28 [label=0.0];
     38 -> 18 [label=0.0];
 }
-//1120.0
+//1116.0
 
 [Block 1]
 [Display Tree[s]: 1]
@@ -668,10 +500,10 @@ digraph {
     37 -> 38 [label=0.0];
     38 -> 18 [label=0.0];
 }
-//1120.0
+//1116.0
 
 
-[Canonical Tree 4]
+[Canonical Tree 3]
 [Block 0]
 [Display Tree[s]: 1]
 digraph {
@@ -753,7 +585,7 @@ digraph {
     37 -> 38 [label=0.0];
     38 -> 13 [label=0.0];
 }
-//1120.0
+//1116.0
 
 [Block 1]
 [Display Tree[s]: 1]
@@ -836,10 +668,10 @@ digraph {
     37 -> 7 [label=0.0];
     38 -> 13 [label=0.0];
 }
-//1120.0
+//1116.0
 
 
-[Canonical Tree 5]
+[Canonical Tree 4]
 [Block 0]
 [Display Tree[s]: 1]
 digraph {
@@ -921,7 +753,7 @@ digraph {
     37 -> 38 [label=0.0];
     38 -> 8 [label=0.0];
 }
-//1120.0
+//1116.0
 
 [Block 1]
 [Display Tree[s]: 1]
@@ -1004,10 +836,10 @@ digraph {
     37 -> 12 [label=0.0];
     38 -> 8 [label=0.0];
 }
-//1120.0
+//1116.0
 
 
-[Canonical Tree 6]
+[Canonical Tree 5]
 [Block 0]
 [Display Tree[s]: 1]
 digraph {
@@ -1089,7 +921,7 @@ digraph {
     37 -> 38 [label=0.0];
     38 -> 35 [label=0.0];
 }
-//1120.0
+//1116.0
 
 [Block 1]
 [Display Tree[s]: 1]
@@ -1172,10 +1004,10 @@ digraph {
     37 -> 20 [label=0.0];
     38 -> 35 [label=0.0];
 }
-//1120.0
+//1116.0
 
 
-[Canonical Tree 7]
+[Canonical Tree 6]
 [Block 0]
 [Display Tree[s]: 1]
 digraph {
@@ -1257,7 +1089,7 @@ digraph {
     37 -> 38 [label=0.0];
     38 -> 12 [label=0.0];
 }
-//1120.0
+//1116.0
 
 [Block 1]
 [Display Tree[s]: 1]
@@ -1340,10 +1172,10 @@ digraph {
     37 -> 8 [label=0.0];
     38 -> 12 [label=0.0];
 }
-//1120.0
+//1116.0
 
 
-[Canonical Tree 8]
+[Canonical Tree 7]
 [Block 0]
 [Display Tree[s]: 1]
 digraph {
@@ -1425,7 +1257,7 @@ digraph {
     37 -> 38 [label=0.0];
     38 -> 12 [label=0.0];
 }
-//1120.0
+//1116.0
 
 [Block 1]
 [Display Tree[s]: 1]
@@ -1508,7 +1340,175 @@ digraph {
     37 -> 35 [label=0.0];
     38 -> 12 [label=0.0];
 }
-//1120.0
+//1116.0
+
+
+[Canonical Tree 8]
+[Block 0]
+[Display Tree[s]: 1]
+digraph {
+    0 [label=Alentus];
+    1 [label=Amblypygid];
+    2 [label=Americhernus];
+    3 [label=Aportus];
+    4 [label=Artemia];
+    5 [label=Centruoides];
+    6 [label=Chanbria];
+    7 [label=Gea];
+    8 [label=Hadrurus];
+    9 [label=Hypochilus];
+    10 [label=Limulus];
+    11 [label=Mastigoproctus];
+    12 [label=Pauroctonus];
+    13 [label=Rhiphicephalus];
+    14 [label=Thelichoris];
+    15 [label=Thermobius];
+    16 [label=Vonones];
+    17 [label=HTU17];
+    18 [label=HTU18];
+    19 [label=HTU19];
+    20 [label=HTU20];
+    21 [label=HTU21];
+    22 [label=HTU22];
+    23 [label=HTU23];
+    24 [label=HTU24];
+    25 [label=HTU25];
+    26 [label=HTU26];
+    27 [label=HTU27];
+    28 [label=HTU28];
+    29 [label=HTU29];
+    30 [label=HTU30];
+    31 [label=HTU31];
+    32 [label=HTU32];
+    33 [label=HTU33];
+    34 [label=HTU34];
+    35 [label=HTU35];
+    36 [label=HTU36];
+    37 [label=HTU37];
+    38 [label=HTU38];
+    17 -> 0 [label=0.0];
+    17 -> 35 [label=0.0];
+    18 -> 8 [label=0.0];
+    18 -> 23 [label=0.0];
+    19 -> 2 [label=0.0];
+    20 -> 1 [label=0.0];
+    20 -> 19 [label=0.0];
+    21 -> 5 [label=0.0];
+    21 -> 18 [label=0.0];
+    22 -> 3 [label=0.0];
+    23 -> 12 [label=0.0];
+    24 -> 10 [label=0.0];
+    25 -> 24 [label=0.0];
+    25 -> 27 [label=0.0];
+    26 -> 22 [label=0.0];
+    26 -> 37 [label=0.0];
+    27 -> 16 [label=0.0];
+    28 -> 7 [label=0.0];
+    29 -> 15 [label=0.0];
+    29 -> 28 [label=0.0];
+    30 -> 25 [label=0.0];
+    30 -> 26 [label=0.0];
+    31 -> 29 [label=0.0];
+    31 -> 30 [label=0.0];
+    32 -> 20 [label=0.0];
+    32 -> 21 [label=0.0];
+    33 -> 31 [label=0.0];
+    33 -> 32 [label=0.0];
+    34 -> 4 [label=0.0];
+    34 -> 33 [label=0.0];
+    35 -> 6 [label=0.0];
+    35 -> 34 [label=0.0];
+    36 -> 11 [label=0.0];
+    36 -> 38 [label=0.0];
+    37 -> 13 [label=0.0];
+    37 -> 36 [label=0.0];
+    38 -> 9 [label=0.0];
+    38 -> 14 [label=0.0];
+}
+//1116.0
+
+[Block 1]
+[Display Tree[s]: 1]
+digraph {
+    0 [label=Alentus];
+    1 [label=Amblypygid];
+    2 [label=Americhernus];
+    3 [label=Aportus];
+    4 [label=Artemia];
+    5 [label=Centruoides];
+    6 [label=Chanbria];
+    7 [label=Gea];
+    8 [label=Hadrurus];
+    9 [label=Hypochilus];
+    10 [label=Limulus];
+    11 [label=Mastigoproctus];
+    12 [label=Pauroctonus];
+    13 [label=Rhiphicephalus];
+    14 [label=Thelichoris];
+    15 [label=Thermobius];
+    16 [label=Vonones];
+    17 [label=HTU17];
+    18 [label=HTU18];
+    19 [label=HTU19];
+    20 [label=HTU20];
+    21 [label=HTU21];
+    22 [label=HTU22];
+    23 [label=HTU23];
+    24 [label=HTU24];
+    25 [label=HTU25];
+    26 [label=HTU26];
+    27 [label=HTU27];
+    28 [label=HTU28];
+    29 [label=HTU29];
+    30 [label=HTU30];
+    31 [label=HTU31];
+    32 [label=HTU32];
+    33 [label=HTU33];
+    34 [label=HTU34];
+    35 [label=HTU35];
+    36 [label=HTU36];
+    37 [label=HTU37];
+    38 [label=HTU38];
+    17 -> 0 [label=0.0];
+    17 -> 35 [label=0.0];
+    18 -> 8 [label=0.0];
+    19 -> 2 [label=0.0];
+    19 -> 22 [label=0.0];
+    20 -> 1 [label=0.0];
+    20 -> 19 [label=0.0];
+    21 -> 5 [label=0.0];
+    21 -> 18 [label=0.0];
+    22 -> 3 [label=0.0];
+    23 -> 12 [label=0.0];
+    24 -> 10 [label=0.0];
+    24 -> 23 [label=0.0];
+    25 -> 24 [label=0.0];
+    26 -> 37 [label=0.0];
+    27 -> 16 [label=0.0];
+    28 -> 7 [label=0.0];
+    28 -> 27 [label=0.0];
+    29 -> 15 [label=0.0];
+    29 -> 28 [label=0.0];
+    30 -> 25 [label=0.0];
+    30 -> 26 [label=0.0];
+    31 -> 29 [label=0.0];
+    31 -> 30 [label=0.0];
+    32 -> 20 [label=0.0];
+    32 -> 21 [label=0.0];
+    33 -> 31 [label=0.0];
+    33 -> 32 [label=0.0];
+    34 -> 4 [label=0.0];
+    34 -> 33 [label=0.0];
+    35 -> 6 [label=0.0];
+    35 -> 34 [label=0.0];
+    36 -> 11 [label=0.0];
+    36 -> 38 [label=0.0];
+    37 -> 13 [label=0.0];
+    37 -> 36 [label=0.0];
+    38 -> 9 [label=0.0];
+    38 -> 14 [label=0.0];
+}
+//1116.0
 
 
 [Canonical Tree 9]
@@ -1593,7 +1593,7 @@ digraph {
     37 -> 2 [label=0.0];
     38 -> 9 [label=0.0];
 }
-//1120.0
+//1116.0
 
 [Block 1]
 [Display Tree[s]: 1]
@@ -1676,6 +1676,6 @@ digraph {
     37 -> 38 [label=0.0];
     38 -> 9 [label=0.0];
 }
-//1120.0
+//1116.0
 
 
