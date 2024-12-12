@@ -1,4 +1,4 @@
---building networks for softwire tests, netadd, maxnetedges, atrandom, steepest
+--building networks for softwire tests, nopenalty, netadd, maxnetedges, atrandom, steepest
 set(seed:1634561640)
 set(graphtype:softwired)
 set(graphfactor:nopenalty) 
@@ -19,7 +19,7 @@ read("woman_allchars.ss")
 read("woman_step.ss")
 read(include:"Include_woman16.txt")
 read(newick:"../t24/t24.tre")
-refine(netadd, maxnetedges:5, atrandom, steepest)
+refine(netadd, maxnetedges:3, atrandom, steepest)
 report("t467_ia.ss", ia, overwrite)
 report("t467.csv", data, overwrite)
 report("t467.tre", graphs, newick, overwrite)
