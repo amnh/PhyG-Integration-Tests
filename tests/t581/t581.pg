@@ -1,8 +1,0 @@
---input t13.tre, swap(joinalternate),  inputting prefastc file
-set(seed:1634561640)
-read(prefastc:"chel-wide.fastc")
-read(prefastc:"chel-huge.fastc")
-read(newick: "../t84/t84.tre")
-swap(joinalternate)
-report("t581.csv", data, overwrite)
-report("t581.tre", newick, graphs, overwrite)

@@ -18,7 +18,7 @@ read(include:"Include_woman16.txt")
 --woman_allchars.ss includes cc+, cc-, continuous, ?, [ ], /N 
 read("woman_allchars.ss")
 read("woman_step.ss")
-read(newick:"t495.tre")
+read(newick:"../t495/t495.tre")
 swap(alternate)
 report("t550.csv", data, overwrite)
 report("t550.tre", newick, graphs, overwrite)

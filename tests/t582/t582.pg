@@ -1,8 +1,0 @@
---input t344.tre, swap(joinalternate),  inputting pre nucleotide fasta files with missing data
-set(seed:1634561640)
-read(prenucleotide:"dec258_12Saln_missing.fasta")
-read(newick: "../t344/t344.tre")
-select(best:3)
-swap(joinalternate)
-report("t582.csv", data, overwrite)
-report("t582.tre", newick, graphs, overwrite)
