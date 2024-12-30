@@ -1,4 +1,4 @@
---softwired, swap(joinalternate), inputting all character types
+--softwired, swap(), inputting all character types
 set(seed:1634561640)
 set(graphtype:softwired)
 set(graphfactor:nopenalty)
