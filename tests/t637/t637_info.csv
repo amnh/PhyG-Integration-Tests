@@ -1,10 +1,12 @@
-System Info, OS: darwin, Chip Arch: x86_64, Compiler: ghc 9.10, Compile Date: Dec  5 2024 14:45:15
+System Info, OS: darwin, Chip Arch: x86_64, Compiler: ghc 9.10, Compile Date: Dec 18 2024 19:24:08
 CPU Info, No /proc/cpuinfo on darwin
 SearchData
-Random seed, 1734386580
+Random seed, 1735369983
 "Command","Arguments","Min cost in","Max cost in","Num graphs in","Min cost out","Max cost out","Num graphs out","CPU time (secs)","Comment"
-"Input and data processing",,"Infinity","Infinity","0","Infinity","Infinity","0","2.512729","No Comment"
+"Input and data processing",,"Infinity","Infinity","0","Infinity","Infinity","0","0.902044","No Comment"
 "Input graph processing",,"Infinity","Infinity","0","Infinity","Infinity","0","0.0","No Comment"
-"Search","minutes:30 instances:2 stop:20","Infinity","Infinity","0","10101.1","10160.9","9","3629.239"
+"Search","minutes:30 instances:2 stop:20","Infinity","Infinity","0","10098.1","10160.9","10","3629.217"
 "Iteration","Search Type","Delta","Min Cost out","CPU time (secs)","Arguments"
-"Hit minimum cost 10101.1 in 2 of 2 iterations"
+"0","swapAlternate","3.0","10098.1","0"," 0.3333333333333333 "," 0.3333333333333333 "," 0.3333333333333333 "," "," 9.090909090909091e-2 "," 9.090909090909091e-2 "," 9.090909090909091e-2 "," 9.090909090909091e-2 "," 9.090909090909091e-2 "," 9.090909090909091e-2 "," 9.090909090909091e-2 "," 9.090909090909091e-2 "," 9.090909090909091e-2 "," 9.090909090909091e-2 "," 9.090909090909091e-2 ","alternate: steepest: keep:4 atrandom: splitsequential: StaticApprox Dynamic "
+,"Final Values",,"10098.1","1801","0.3333333333333333","0.3333333333333333","0.3333333333333333"," ","9.090909090909091e-2","9.090909090909091e-2","9.090909090909091e-2","9.090909090909091e-2","9.090909090909091e-2","9.090909090909091e-2","9.090909090909091e-2","9.090909090909091e-2","9.090909090909091e-2","9.090909090909091e-2","9.090909090909091e-2",
+"Hit minimum cost 10098.1 in 1 of 2 iterations"

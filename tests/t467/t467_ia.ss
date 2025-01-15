@@ -2,53 +2,3739 @@ Implied Alignments for Graph 0
 
 Sequence character woman.fastc#0
 >AlbanianTosk
-- - - - - - - - - - - - ɡ - \textfishhookr u a - -
- - - 
+- - - - - - - - - - - - ɡ - - \textfishhookr u - -
+ - a 
 >AncientIonicGreek
-- - - - - - - - - - - - ɡ - - \”u n e \textlengthm
-ark - - 
+- - - - - - - - - - - - ɡ - - \”u n e - - \textlen
+gthmark 
 >ArmenianWestern
 - - - - - - - - - - - - ɡ - - i n - - - - 
 >Assamese
-- - - - m a \textsci k i - - - m - - a n u \textsu
-perscript{\texthth} - - 
+- - m a \textsci k i - - - - - m - - a n u - - \te
+xtsuperscript{\texthth} 
 >Cornish
-- - - - - - - - - - - b \textepsilon n - j n - - -
- - 
+- - - - - - - - - - - - b - - \textepsilon n - - j
+ n 
 >Danish
-- \textprimstress k \textsuperscript{h} - - - - - 
-- - - v - - e n - \textschwa - - 
+- - - - - - - - - \textprimstress k \textsuperscri
+pt{h} v - - e n - - - \textschwa 
 >EasternFrisianSaterland
 - - - - - - - - - - - - v - - i\texthalflength \te
-xtupsilon - v - - 
+xtupsilon - - - v 
 >Faroese
-- - - k - - - - - - - - o - - \textlengthmark n - 
-a - - 
+- - - - - - - - k - - - o - - \textlengthmark n - 
+- - a 
 >Icelandic
-\textprimstress - - k - - - - - - - - \textsupersc
-ript{h} - - \textopeno n - a - - 
+\textprimstress k - - - - - - - - - - \textsupersc
+ript{h} - - \textopeno n - - - a 
 >Irish
-- - - - - - - - - - - b \textsuperscript{j} \ae - 
-\textlengthmark n - - \textsubbridge \textsuperscr
+- - - - - - - - - - b \textsuperscript{j} \ae - - 
+\textlengthmark n - \textsubbridge - \textsuperscr
 ipt{\textgamma} 
 >KolschColognian
 - - - - - - - - - - - - v - - e\textlengthmark z -
- h - - 
+ - - h 
 >Manx
-- - - - - - - - - - - b \textepsilon - - \textsupe
-rscript{d} n - - - - 
+- - - - - - - - - - - - b - - \textepsilon \textsu
+perscript{d} - - - n 
 >OldPrussian
-- - - - - - - - - - - v i\textlengthmark r - i n -
+- - - - - - - - - - - - v i\textlengthmark r i n -
  - - a 
 >SanskritVedic
-- - - - - - - s \textsubbridge - - - t - - \textsu
-bbridge \textrtailr i \textlengthmark - - 
+- - - - - s \textsubbridge - - - - - t - - \textsu
+bbridge \textrtailr i - - \textlengthmark 
 >Scots
-- - - - - - - - - w \textturnv m m - - \textscript
-a n - - - - 
+- - - - - - - w \textturnv - - - m - - m \textscri
+pta - - - n 
 >Yiddish
-- - - - - - - - - - - - - - - f \textscr - \textop
-enoj - - 
+- - - - - - - - - - - - - - - f \textscr - - - \te
+xtopenoj 
+
+
+Sequence character woman_binary.fasta#0
+>AlbanianTosk
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 1 - 1 - 1 0 
+1 1 - 1 1 1 0 1 0 - - 1 1 0 1 1 1 1 0 0 1 1 1 1 1 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 0 - 1 1 1 0 - 
+0 - 0 1 0 1 1 - - 1 0 1 0 1 - 1 1 1 1 1 1 1 1 - 1 
+0 1 1 1 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 1 1 1 0 1 
+1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 
+1 1 1 1 0 1 - 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1 0 1 1 
+1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 1 
+1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 1 
+1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 
+0 1 0 0 1 1 1 1 1 0 1 0 0 1 0 0 1 1 0 1 0 1 1 0 0 
+0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 
+1 1 0 1 0 1 0 0 1 - 1 1 1 1 1 1 1 1 0 1 0 1 1 0 - 
+1 0 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 1 1 0 
+1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 1 1 
+1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 
+>AncientIonicGreek
+0 1 1 1 0 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 - 1 - 1 1 
+1 1 0 0 1 1 1 1 0 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 1 0 - 
+1 - 1 - 0 1 0 0 - - 1 1 0 1 - 1 1 1 1 1 - 1 1 - 1 
+- 1 0 1 1 - 1 1 - 1 1 1 0 1 0 1 1 0 0 0 0 1 1 1 0 
+1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 0 
+1 1 - 1 0 1 - 1 1 1 0 1 1 0 1 1 0 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 0 0 0 0 0 1 0 1 1 1 1 1 - 1 1 1 1 1 
+1 1 1 0 0 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 1 
+1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 
+0 1 0 1 0 1 1 1 1 0 0 1 - 1 1 0 1 1 1 1 1 1 1 0 0 
+0 1 1 1 0 1 - 1 1 1 0 0 0 0 0 1 0 1 1 1 1 1 1 0 - 
+1 1 1 1 1 0 1 1 1 - 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 
+- 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 1 0 1 1 0 
+1 1 1 1 0 0 0 0 0 0 1 0 0 0 1 1 1 - 1 1 0 - - 1 1 
+0 1 1 1 1 1 0 - 1 1 1 1 1 1 1 1 0 1 0 0 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 1 1 1 0 0 0 1 1 0 1 1 0 0 1 0 0 
+>ArmenianWestern
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 0 0 1 - 1 - 1 0 
+0 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 0 1 1 0 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+0 - 0 - 0 0 1 0 - 1 1 1 0 1 - 1 1 0 1 1 0 1 1 - 1 
+0 0 0 1 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 1 0 1 
+1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 
+1 1 0 1 0 1 - 1 1 1 1 0 0 0 1 1 0 1 1 1 0 1 0 1 1 
+1 0 0 1 1 1 1 0 0 0 0 0 1 1 0 0 1 1 1 0 1 0 1 1 1 
+1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 0 0 1 
+1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 
+0 1 0 0 1 1 1 1 0 0 1 1 - 1 1 0 1 1 0 1 1 1 1 0 0 
+0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 
+1 1 1 0 1 1 1 0 1 - 1 1 1 1 1 1 1 1 0 0 0 1 1 1 - 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 1 1 1 0 1 1 0 
+1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 1 1 
+1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 
+>Assamese
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 - 1 - 1 1 
+1 1 - 1 1 1 1 1 1 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
+- 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 - 1 0 - 
+1 0 0 - 0 1 1 1 - - 1 1 1 1 - 1 1 1 1 1 - 1 1 - 1 
+- 1 0 1 1 - 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 1 1 1 
+1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 1 
+1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 1 0 
+1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 1 
+1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0 0 1 
+1 1 1 1 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 
+0 1 0 1 0 1 1 1 1 1 1 1 - 1 0 0 1 0 0 1 1 1 1 0 0 
+0 1 1 1 0 1 - 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 
+- 1 1 1 1 0 1 1 1 - 1 1 1 1 1 1 1 1 - 1 1 1 1 1 0 
+1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 1 1 0 1 1 0 
+1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 - - 0 0 
+0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 0 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 1 0 0 0 0 0 1 1 0 0 0 0 1 1 1 0 
+>Cornish
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 1 - 
+1 - 0 0 1 1 1 - - 1 1 1 0 1 - 1 1 0 1 0 1 1 1 - 1 
+0 1 0 1 0 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 0 1 1 0 1 
+1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 
+1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 1 
+1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 1 
+1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 1 
+1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 
+0 1 0 0 1 1 1 1 1 0 1 1 1 1 0 0 1 1 0 1 0 1 1 0 0 
+0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 
+1 1 1 1 0 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 1 0 1 0 - 
+1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 0 1 1 0 
+1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 1 1 
+1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 
+>Danish
+0 1 1 1 1 1 1 0 0 1 1 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - 0 0 1 1 1 - - 1 1 1 0 1 - 1 1 0 1 1 1 1 1 - 1 
+0 1 0 1 1 - 1 1 - 1 1 1 - 1 1 1 1 1 0 0 1 1 1 0 1 
+1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 
+1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 1 
+1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 1 
+1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 1 
+1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 
+0 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 1 0 1 0 1 1 0 0 
+0 1 1 1 0 1 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 
+1 1 1 1 0 1 0 1 1 - 1 1 1 1 1 0 1 1 0 1 1 0 1 1 - 
+1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 0 1 1 0 
+1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 1 1 
+1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 
+>EasternFrisianSaterland
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 1 - 1 0 1 1 
+0 1 - 1 1 1 1 1 1 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - 0 - 0 1 1 0 - 1 1 1 1 1 - 0 1 1 1 1 0 1 1 - 1 
+0 1 1 0 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 1 0 0 
+1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 
+1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 1 
+1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 1 
+1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 1 
+1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 
+0 1 0 0 0 1 1 1 1 1 1 1 - 1 0 0 1 1 0 1 0 1 1 0 0 
+0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 
+1 1 1 0 1 1 1 0 1 - 1 1 1 1 1 1 1 1 0 1 0 1 1 1 - 
+1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 1 1 0 
+1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 1 1 
+1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 
+>Faroese
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 0 1 1 
+1 1 - 1 1 1 1 1 1 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - 0 - 0 1 0 0 - 1 1 1 1 1 - 0 1 1 1 0 1 1 1 - 1 
+0 0 0 0 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 1 0 0 
+1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 
+1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 1 
+1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 1 
+1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 1 
+1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 
+0 1 0 0 0 0 1 1 1 0 0 1 - 1 0 0 1 1 0 1 0 1 1 0 0 
+0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 
+1 1 1 1 1 0 1 0 0 - 1 1 1 1 1 0 1 1 0 0 0 1 0 1 - 
+1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 1 1 0 
+1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 1 1 
+1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 
+>Icelandic
+0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 0 1 - 1 - 1 1 
+1 1 - 0 - 0 1 1 0 1 - 1 0 0 1 1 1 1 1 0 1 1 1 1 0 
+0 0 1 0 0 1 1 0 0 0 0 0 0 1 1 1 0 1 0 - 1 - 1 0 - 
+0 - 0 - 0 1 1 0 - - 1 1 0 1 0 1 1 1 1 1 1 1 1 - 1 
+- 1 1 1 1 1 1 1 0 0 1 1 - 1 1 1 1 1 0 0 1 1 1 0 0 
+1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 
+1 1 - 1 1 1 - 1 1 1 1 0 0 1 1 1 0 1 1 1 1 1 0 1 1 
+1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 1 1 0 
+1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 1 1 1 1 1 0 0 1 
+1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 
+0 1 0 0 1 0 1 1 0 1 0 1 - 0 1 0 1 1 1 0 1 1 1 0 0 
+0 1 1 1 0 1 - 0 1 1 0 1 1 0 0 1 1 1 1 1 1 1 1 0 1 
+1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 - 
+1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 0 1 0 1 1 0 
+1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 1 1 1 1 
+1 1 1 1 1 0 1 - 1 0 1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 0 1 0 0 
+>Irish
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - 0 1 0 0 0 - - 1 1 1 0 1 - 1 1 0 1 1 1 1 1 0 0 
+0 1 0 - 0 - 1 1 - 1 1 0 - 1 1 1 0 1 0 0 1 1 1 0 1 
+1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 
+1 1 0 1 0 0 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 0 1 1 
+1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 0 1 1 0 1 0 1 1 1 
+1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 1 
+1 1 0 1 0 0 1 0 0 0 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 
+0 1 0 0 1 1 1 1 0 0 1 1 0 1 - 0 1 1 0 1 0 1 1 0 0 
+0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 0 - 
+1 1 1 1 1 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 1 1 1 1 - 
+1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 0 1 1 0 
+1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 1 1 
+1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 0 1 0 0 
+>KolschColognian
+0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 1 1 0 0 - 1 1 
+1 1 - 1 - 1 1 1 0 - - 1 0 0 1 1 1 1 1 0 0 1 1 1 0 
+0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 0 0 - 
+1 - 1 - 0 1 0 0 - - 1 1 0 1 0 1 1 0 0 1 0 1 1 - 1 
+- 1 1 1 1 0 1 1 0 1 1 1 - 1 1 1 1 1 0 0 1 1 1 0 0 
+1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 
+1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 
+1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 1 1 0 
+1 1 0 0 1 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 1 
+1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 
+0 1 0 0 1 1 1 1 0 1 1 1 - 1 1 0 1 1 1 1 1 1 1 0 0 
+0 1 1 1 0 1 - 0 1 1 0 1 1 0 0 1 1 1 0 1 1 1 1 0 1 
+1 1 1 1 1 1 1 1 0 - 1 1 1 1 1 1 1 1 0 0 1 1 1 1 - 
+1 1 0 0 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 0 1 0 1 1 0 
+1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 1 1 1 1 
+1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 
+1 1 0 1 0 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 0 1 0 0 
+>Manx
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 1 - 
+1 - 0 0 1 1 0 - - 1 1 1 0 1 - 1 1 0 1 1 1 1 1 - 1 
+0 1 0 1 0 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 0 1 1 0 1 
+1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 
+1 1 0 1 0 1 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 0 1 1 
+1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 1 
+1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 1 
+1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 
+0 1 0 0 1 1 1 1 1 0 1 1 0 1 0 0 1 1 0 1 0 1 1 0 0 
+0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 
+1 1 1 0 1 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 1 0 1 1 - 
+1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 0 1 1 0 
+1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 1 1 
+1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 
+>OldPrussian
+0 1 1 1 1 1 1 0 0 1 1 0 0 1 1 0 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 1 0 1 1 1 1 0 1 1 0 1 1 0 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - 0 0 1 0 1 - - 1 1 1 0 1 - 1 1 0 1 1 1 1 1 - 1 
+0 1 0 1 1 - 1 1 - 1 1 1 - 1 1 1 1 1 0 0 1 1 1 0 1 
+1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 
+1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 1 
+1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 1 
+1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 1 
+1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 
+0 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 0 1 0 1 1 0 0 
+0 1 1 1 0 1 0 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 
+1 1 1 0 1 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 1 0 1 1 - 
+1 1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 1 1 1 1 1 0 1 1 0 
+1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 1 1 
+1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 
+>SanskritVedic
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 1 1 1 - 1 - 1 1 
+1 1 - 1 1 0 1 1 1 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
+- 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 - 1 0 - 
+1 0 0 - 0 1 1 1 - - 1 1 1 1 - 1 1 1 1 1 - 1 1 - 1 
+- 1 0 1 1 - 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 1 1 1 
+1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 1 
+1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 1 0 
+1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 1 
+1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0 0 1 
+1 1 1 0 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 
+0 1 0 1 1 1 1 1 1 1 1 1 - 1 0 0 1 0 0 1 1 1 1 0 0 
+0 1 1 1 0 1 - 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 
+- 1 1 1 1 1 1 1 1 - 1 1 1 1 1 1 1 1 - 1 1 1 1 1 0 
+1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 1 1 0 1 1 0 
+1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 - - 0 0 
+0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 0 1 1 1 0 1 
+1 1 0 1 1 0 1 1 0 1 0 0 0 0 0 1 1 0 0 0 0 1 1 1 0 
+>Scots
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 0 1 1 1 1 1 - 1 0 1 1 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - 0 - 0 1 1 1 - 1 1 1 1 1 - 0 1 1 1 1 0 1 1 - 1 
+0 0 1 0 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 1 0 1 
+1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 
+1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 1 
+1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 1 
+1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 0 0 1 
+1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 
+0 1 0 0 1 1 1 1 1 0 1 1 - 1 0 0 1 1 0 1 1 1 1 0 0 
+0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 
+1 1 1 0 1 0 0 0 0 - 1 1 1 1 1 1 1 1 0 0 0 0 1 1 - 
+1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 1 1 0 
+1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 1 1 
+1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 
+>Yiddish
+0 1 1 1 0 1 0 1 0 1 1 0 0 - - 1 1 1 1 1 - 1 - 1 1 
+1 0 - 0 - 1 1 1 0 - - 1 1 0 1 1 0 1 1 0 1 1 1 1 - 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 1 0 1 
+1 - 0 - 0 1 1 0 1 - 1 1 0 1 - 1 1 1 1 1 0 1 1 - 1 
+- 1 1 1 1 0 1 1 - 1 1 1 - 1 1 1 1 1 0 1 1 1 1 1 1 
+1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 0 
+1 1 - 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 
+1 0 1 0 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 
+1 1 1 0 1 0 0 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 0 0 1 
+1 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 
+0 1 0 1 1 1 1 1 1 0 1 1 - 1 1 0 1 1 1 1 1 1 1 0 0 
+1 1 1 1 0 1 - 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 
+1 1 1 1 1 1 1 1 0 - 1 1 1 1 1 1 1 1 0 1 1 1 1 1 - 
+1 1 0 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 1 0 1 0 1 1 0 
+1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 - - 1 1 
+1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 1 0 
+
+
+Sequence character woman_12Saln.fasta#0
+>AlbanianTosk
+GTTTTATCCTGGCTTA-T-TTTTTCATTTTCAGATTTGTGCCAGCAGCCG
+CGGTTACAC-TA-AGGGACAAACTGAAA-TG-TTAAGATAAAGTTATGAA
+CCAGGATTAGATACCCTGTAGTTATT-GTCTTAAAACTCAAAGGATTTGG
+CGGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAAACGATAAACCACG
+TAAAATCTTACCCTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>AncientIonicGreek
+GTTTGATTTTTGCTTATT-TATTTTACGTTTAGTTTTGTGCCAGCAGCCG
+CGGTTATACTTG-AAGAGCA-AGTAAAA-TG-TAAAGTCTAGGGCATAGA
+CTAGGATTAGATACCCT-AAGTTATG-TTCTTGAAAATAAAAAAATTTGG
+CGGT-GTTTAATTTATTTAGGGGAACCTGTTTTATAATCGATACACCACG
+AAGAATCTTACTTACTTCATGTATACCGTTATTATTAGATCAAGGTGCAG
+ACTATGATATAAATACTTAAACATGTACATATCGCCCGTCGCTTTTACA-
+T--CTTAATGTAAAATAAGTCGTAACATAGTAGCTGTATCGGAAGATGCA
+GC
+>ArmenianWestern
+GTTTTATCCTGGCTTA-T-CCTTTCGATTTTAGATTTGTGCCAGCAGCCG
+CGGTTATAC-TG-AGGGGCAGATTGAAA-TA-TTAAGATAAAGGTATGAA
+CCAGGATTAGATACCCTGCAGTTATT-GGCTTGAAACTCAAAGGATTTGG
+CGGTAGCTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAATCCACG
+AAAAATCTCACTTTACGCTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGATTGTAGCTCTAAGCTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Assamese
+GTTTGATTCTTGCTTA-T-GATTTTTATATTATATTTGTGCCAGCAGTCG
+CGGTTATACTTA-GAGGGTA-AATAAAT-TA-TAAATTTTAATATATAAA
+CTAGGATTAGATACCCT-AAGTTATT-TTCTTTAAATCCAGAGAATTTGG
+CGGTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAACCACG
+AA-TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAG
+TCTATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-
+C--CTAAAAATGAAATAAGTCGTAACAAAGTAGGTGTGCCGGAAGGCGTA
+TC
+>Cornish
+GTTTTATCCTGGCTTA-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
+CGGTTATAC-TG-AAAGGTAAATTGAAA-TG-TTAAGATAAAGAGATGAA
+CCAGGATTAGATACCCTGCAGTTATT-GTCTTGAAACTCAAAGGATTTGG
+CGGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACG
+AAGAATCTTACTTTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Danish
+GTTTTATCCTAGCTTA-T-TCTTTCAATTTTAGATTTGTGCCAGCAGCCG
+CGGTTATAC-TG-AGAGGTTAATTGAAA-TA-TTAAAATAAAGGAATGAA
+CCAGGATTAGATACCCTGCAGTTATT-GTCTTGAAACTCAAAGGATTTGG
+CGGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACG
+AAGAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>EasternFrisianSaterland
+GTTTTATCCTGGCTAA-TATTTCTTGTTTTTAAATTTGTGCCAGCAGCCG
+CGGTTATAC-TG-AGAGGTAGATTAAGA-TG-TTAAGTTAAAGGTATGGA
+CCAGGATTAGATACCCTGCAGTTATT-GTCTTGAAACTCAAAGGATTTGG
+CGGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACG
+AAGTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CCAATGATTATAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Faroese
+GTTTTATCCTGGCTAA-TAGTTCTTATTATTAAATTTGTGCCAGCAGCCG
+CGGTTATAC-TG-AGAGGTGGATTAAGA-TG-TTAAGATAAAGGTATGGA
+CCAGGATTAGATACCCTGCAGTTATT-GTCTTGAAACTCAAAGGATTTGG
+CGGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACG
+AAGAATCTTACCTTGTGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CCGATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Icelandic
+GTTTGATTCTTGC-TA-T-GTTTTT--TGCTAGACTTGTGCCAGCATCCG
+CGGTTAGACTTG-GGGATCT-AGTGAAACGA-GGAA-TTTTAGGTATGGA
+CCAGGATTAGATACCCTGAATTAATACGT-TTGAAATTCAAAGAACCTGG
+CGGTACTTTAGTCTAGTTAGAGGAACCTGTTGTATAAACGATAAACCACG
+TAGAATCTTTCTTACTGCTAGTATACCTTCATTATTAGATCAAGGTGCTG
+CTGATGATAATAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CAT
+TAAATTAGA-TGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCA
+CC
+>Irish
+GTTTTATCCTGGCTTA-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
+CGGTTATAC-TG-AGAGACGGATTGAAA-TA-TTAAGATAGAGGAATGAA
+CCAGGATTAGATACCCTGCAGCTATT-ATCTTGAAACTCAAAGGATTTGG
+CGGTAACCTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACG
+CAATATCTTGCTTTATGCTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCA
+CC
+>KolschColognian
+GTTTGATTCTTGC-TA-T-TACCTT--TATTAAACTTGTGCCAGCAGCCG
+CGGTTAAACTCG-ATGTCCT-AGTGAAGCTA-GAAA-ATTTAGGTAAGGA
+CCAGGATTAGATACCCTGAATAAATTAAT-TTTAAATTCAAAGAACCTGG
+CGGTACTTTAGTCTAGTTGGAGGAACCTGTTTTATAAACGATAAACCACG
+TAAAATCTTTCTTATTGTTAGTATACCTTCATTATTAGATCAAGGTGCTG
+CAAATGGTATTAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CAT
+TAAGTTAAA-TGAGATAAGTCGTAACATAGTGGGTGTACTGGAAAGTGCA
+CC
+>Manx
+GTTTTATCCTGGCTTA-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
+CGGTTATAC-TG-AAAGGTAGATTGAAA-TG-TTAAGATAAAGAGATGAA
+CCAGGATTAGATACCCTGCAGTTATT-ATCTTGAAACTCAAAGGATTTGG
+CGGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACG
+AAGAATCTTACTCTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>OldPrussian
+GTTTTATCCTAGCTTG-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
+CGGTTATAC-TG-AGAGGTCAATTGAAA-TA-TTAAAATAAAGGAATGAA
+CCAGGATTAGATACCCTGCAGTTATT-GTCTTGAAACTCAAAGGATTTGG
+CGGTAATTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACG
+AAAAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGACCTTAGCCCTAGATTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>SanskritVedic
+GTTTGATTCTTGCTTA-T-AATTTTTATACTATATTTGTGCCAGCAGTCG
+CGGTTATACTTA-GAGGGTA-AATAAAT-TA-TAAATTTTAATATATAAA
+CTAGGATTAGATACCCT-AAGTTATT-TTCTTTAAATCCAGAGAATTTGG
+CGGTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAGCCACG
+AA-TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAG
+TTTATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-
+C--CTAAAAATGAAATAAGTCGTAACAAAGTAGATGTGCCGGAAGGCGTA
+TC
+>Scots
+GTTTTATCCTGGCTCA-TAATTCTTATTTTTAGATTTGTGCCAGCAGCCG
+CGGTTATAC-TG-AGAGGTAAATTAAGA-TA-TTAAGATAAAGGTATGAA
+CCAGGATTAGATACCCTGCAGTTATT-GTCTTGAAACTCAAAGGATTTGG
+CGGTAATTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAAACCACG
+AAGTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTAATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AGTTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Yiddish
+GTTTGACTCTTGC-TT-T-AATTTT--CGTTA-ACTTGTGCCAGCAGCCG
+CGGTTATACTAGAAGGTTGA-A-TGAAA-TATTAAA-TTTTAGATATAAA
+CCAGGATTAGATACCCTGAATGAATTAAT-TTAAAATTCAAAGAGTTTGG
+CGGTATTTTAGTCCTGTTAGAGGAATCTGTTTTATAAACGATAACCCCCG
+TAATATCTTTCTTATTGCTAGTATACCATCATTATTAGATCATGGTGCTG
+TTTATGAGATTGGCTCTAAAATGTGTACATATTGCCCGTCGC-TTT-CAT
+T--CTTAAA-TGAGATAAGTCGTAACATAGTAGGAGTACTGGAAAGTGTT
+TC
+
+
+Sequence character woman-wide_aa.fas#0
+>AlbanianTosk
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V I V T A H A F V I I F F M V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L S R G I V E S G V G T G 
+- - T V Y P P L S A G I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R R T 
+G I T I D R I P L F V S V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G M I S H I I R Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - - L G 
+T L H G T Q L N Y S P S L I - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S M G A V F G I F A G I A H - - - F 
+P L F T G L T I N P K - L K I H F I V M F V G V N 
+I T F F P Q H F L G L N G M P R R Y S D Y P D A Y 
+T S N V L S S I G S T I S L I A V L G F I V I V E 
+A L V T T R P V L F S L F L P T S I E - - Q H N L 
+P P A D H S Y I E I P L I T N 
+>AncientIonicGreek
+T K R F F S T N H K D I G T L Y F I F G A - - S G 
+M V G T A L R L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L I R G I V E R G V G T G 
+- - T V Y P P L S A R I A H A G A S V D I G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R P V 
+G I S I D R I P L F V A V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V S Q E S G K K E S F G T L G I I Y A 
+I L A I G I L G F I V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A I P T G I K I F - R - - L G 
+T L Q G N Q I N Y R P S I I - - A L G F I F L F T 
+V G G L T G V V L A N S S I D T V L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - - Y 
+P L F T G L S I N P K W L K I H F S V I F L G V N 
+L T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+T P N V L S S I G S I I S L C A V I G F V F I I E 
+S L I S S R P V I F S L F Q P T S I E - - K H H Y 
+P P A D H R F I Q I A L I S N 
+>ArmenianWestern
+T Q R L F S T N H K D I G T L Y F I F G A - - S G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L A A G I A H A G A S V D I G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R A S 
+G I T L D R I P L F V S V F I T A L L L L L S L P 
+V L A G A I T M L L T D R N L N T S F F D P A G G 
+G D P I L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H M F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - - L G 
+T L H G T Q L N Y S P S L L - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - W F 
+P L F T G L T L N P R - L K M H F L T I F V G V N 
+I T F F P Q H F L G L R G M P R R Y S D Y P D A Y 
+T A N V V S S I G S T I S L I A V L G F V I I V E 
+A L S A N R P V I F S L F L P T S I E - - Q H N L 
+P P A D H S Y I E I P L I T N 
+>Assamese
+T K R F F S T N H K D I G T L Y F I F G A W - A G 
+I V G T S L S L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L T S G I V E R G V G T G 
+- - T V Y P P L S A A I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R P Q 
+G I T L D R I P L F V S V F I T A I L L L L S L P 
+V L A G A I T M L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V S Q E S G K A E S F G T L G I I Y A 
+I L A I G I L G F L V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K I F - R - - L G 
+T L H G A Q V N Y R P S L L W - A M G F I F L F T 
+V G G L T G V V L A N S S L D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I T H - - - F 
+P L F T G L S L N P T W L K I H F F V M F V G V N 
+I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+A A N V L S S M G S I V S L V A V L G F I I I V E 
+S L V S S R S V I F T T F F P T S V E - - E H A Y 
+P P A D H R Y I E I P I V S N 
+>Cornish
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F I V M P I I I G G 
+F G N - L V P L M L G A P D M A F P R I N N M S F 
+- - W L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A S I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F M T T V I N I R S T 
+G I T I D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - - L G 
+T L H G T Q L N Y S P S L I - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S M G A V F G I F A G I A H - - - F 
+P L F T G L T L N P K - L K V H F L V M F I G V N 
+I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+S A N V V S S I G S T V S L I A V L G F V I I V E 
+A L T V A R P V I F S L F L P T S I E - - Q H N L 
+P P A D H S Y I E I P L I T N 
+>Danish
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V M I F F I V I P I I I G G 
+F G N - L V P L M L G A P D I A F P R M N N I S F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- W T V Y P P L S A S I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - - L G 
+T L H G T Q L N Y S P S L I - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S M G A V F G I F A G I A H - - - F 
+P L F T G L T L N P K - L K I H F L V I F I G V N 
+I T F F P Q H F L G L N G K P R R Y S D Y P D A Y 
+S A N G V S S I G S T V S L I A V L G F V I I V E 
+A L T A A R P V I F S L F L P T S I E - - Q H N L 
+P P A D H S Y I E I P L I T N 
+>EasternFrisianSaterland
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L S L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F I I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+W - T V Y P P L S A G I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R M P L F V S I F I T T L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I R Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - - L G 
+T L H G T Q L N Y S P S L L - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - - F 
+P L F T G V T L N P K - L K I H F L V I F I G V N 
+I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+T A N V L S S I G S T I S L I A V L G F I I I V E 
+A L T A T R P I I F S L F L P T S I E - - Q H N F 
+P P A D H R Y I E I P L I T N 
+>Faroese
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L S L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F M V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A G I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R M P L F V S V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G I L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S W - L G 
+T L H G T Q L N Y S P S L L - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - - F 
+P L F T G V T L N P K - L K I H F L I I F V G V N 
+I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+T T N V V S S I G S T I S L I A V L G F I I I V E 
+A L T A A R P V I F S L F L P T S I E - - Q H N F 
+P P A D H S Y I E I P L I T N 
+>Icelandic
+T Q R F F S T N H K D I G T L Y F I F G A - - A G 
+M V G T S L R L I I R A E L G Q P G R F I G D D Q 
+I Y N V V V T A H A F I M I F F M V M P I I I G G 
+F G N - L V P I I L G A P D I A F P R M N N M R F 
+- - - L L P P S L T L L L A G G A V E R G A G T G 
+- - T V Y P P L S V G V A H A G A S V D L S I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S S 
+G I T L D R I P L F V S V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P V G G 
+G D P I L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V A Q E S N K K K P F G A L G M I Y A 
+I L A I G I L G F V V A H H M F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K V F - R - - L G 
+T L H G A H F S L T P S L L - W A L G F I F L F T 
+V G G L T G I V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - - F 
+P L F T G I S L N P K - L K I Q F S A I F I G V N 
+T T F F P Q H F L G L R G M P R R Y S D Y P D A Y 
+T T N V V S S I G S S I S L V A V L G F V F I I E 
+G L A S K R P L M F N S F M P T S I E W - Y H S Y 
+P P A D H R Y M E V P I I T A 
+>Irish
+T Q R L F S T N H K D I G T L Y F I F G A - W A G 
+I V G T A L S L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V M I F F I V M P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I S F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A R I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G M I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - W L G 
+T L H G T Q L N Y S P S L I - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - - F 
+P L F T G L T L N P K - L K I H F L V I F V G V N 
+I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+T A N V V S S I G S T I S L I A V L G F I I I V E 
+A L T A A R P V L F S L F L P T S I E - - Q H N L 
+P P A D H S Y I E I P L I T N 
+>KolschColognian
+T Q R F F S K K Y K D I G T L Y F I F G A - - A G 
+I V G T S L R L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F I V M P I I I G G 
+F G N W L V P I M L G A P D M A F P R M N N I R F 
+- - - L L P P S L T L L L A S G I V E R G V G T G 
+- - T V Y P P L A G A V A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N M R S S 
+G I T F D R M P L F V S V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F A P V G A 
+R D P I N Y H H I F V L D N P E V Y I L I L P A F 
+G M I S H I V S Q E S N K K K P F G A L G I I Y A 
+M L S I G L L G F I V A H H M F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K V F - R - - L G 
+T L H G A H F T L T P S L L - W S L G F I F L F T 
+V G G L T G I V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - W - F 
+P L F T G V T L N P K - L K I Q F T A I F I G V N 
+I T F F P Q H F L G L R G I P R R Y S D Y P D A Y 
+S T N V I S S V G S S I S L V A V L L F V F I I E 
+G L A S K R P I L F N S F I P T S I E - - I H P Y 
+P P A D H S Y M E I P L L T A 
+>Manx
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F M V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N M S F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A S I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G M I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - - L G 
+T L H G T Q L N Y S P S L I - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - - F 
+P L F T G L T L N P K - L K I H F I V M F V G V N 
+I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+S A N V V S S I G S T V S L I A V L G F V I I V E 
+A L T V A R P V I F S L F L P T S I E - - Q H N L 
+P P A D H S Y I E I P L I T N 
+>OldPrussian
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F M V I P I M I G G 
+F G N - L V P L I L G A P D M A F P R I N N I S F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A S I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T M D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T M L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T P G M I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - - L G 
+T L H G T Q L N Y S P S L I - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - - F 
+P L F T G L T L N P K - L K I H F L V I F I G V N 
+I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+S A N V V S S I G S T V S L I A V L G F V M I V E 
+A L T A A R P V I F S L F L P T S I E - W Q H N L 
+P P A D H S Y I E I P L I T N 
+>SanskritVedic
+T K R F F S T N H K D I G T L Y F I F G A - - A G 
+I V G T S L S L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I S F 
+- - - L L P P S L T L L L T R G I V E R G V G T G 
+- - T V Y P P L S A A I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R P Q 
+G I T L D R I P L F V S V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V R Q E S G K A E S F G T L G I I Y A 
+I L A I G I L G F L V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K I F - R - - L G 
+T L H G A Q V N Y S P S L L - - A I G F I F L F T 
+V G G L T G V V L A N S S L D I I L H D T Y Y V V 
+A H F H Y V L S M G A V F G I F A G I T H W - - Y 
+P L F T G L S L N P T - L K I H F F V I F V G V N 
+I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+T A N V L S S I G S I V S L V A V L G F I I I V E 
+S L V A S R S V I F S T F F P T S V E - - E H S Y 
+P P A D H R Y I E I P M V S N 
+>Scots
+A Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L S L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F M V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+W - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A G I A H A G A S V D I G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V S V F I T T L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I R Q E S G K K E A F G T L G I I Y A 
+M L A I G I L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - - L G 
+T L H G T Q L N Y S P S L L - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - - F 
+P L F T G V T L N P K - L K I H F L T I F V G V N 
+I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+T A N V L S S I G S T I S L I A V I G F V I I V E 
+A L T A A R P V I F S L F L P T S I E - - Q H S F 
+P P A D H S Y I E I P L I T N 
+>Yiddish
+T Q R F F S T N H K D I G T L Y F I F G A - - A G 
+M V G T S L R L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N M R F 
+- W - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L A A A V A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V S V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V R Q E S G K K E S F G A L G I I Y A 
+I L A I G V L G F V V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K V F S W - - L G 
+T L H G T Q I Y F T P S L L - - A L G F I F L F T 
+I G G L T G I V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - - F 
+P L F T G L S L N P K - I K I H F I T I F I G V N 
+I T F F P Q H F L G L R G I P R R Y S D Y P D A Y 
+I T N V V S S V G S T I S L I A V L R F I I I I E 
+A L R S N R S I I F S F F L P T S I E - - H H N Y 
+P P A D H R Y N E I P I I T S 
+
+
+Sequence character woman_cox1aln.fasta#0
+>AlbanianTosk
+TTATATTAGGAGCACCAGATATAGCTTTCCCTCGAATAAATAATATAAGA
+TTTTGACTTCTTCCACCATCTTTAACTTTACTCCTCTCTAGAGGAATAGT
+AGAAAGTGGAGTGGGAACAGGCTGAACTGTCTATCCTCCTTTATCTGCTG
+GAATTGCACATGCTGGTGCCTCAGTAGATTTAGGAATCTTTTCTTTACAC
+CTAGCAGGAGTTTCATCCATCTTAGGGGCCGTAAACTTTATAACTACCGT
+TATCAATATACGAAGAACAGGTATAACAATAGACCGAATTCCTCTTTTTG
+TATGATCTGTATTTATTACAGCCCTTCTTCTCCTTCTTTCCCTCCCAGTC
+>AncientIonicGreek
+TAATATTAGGTGCCCCTGATATAGCTTTTCCACGAATAAATAATATAAGA
+TTTTGACTCCTTCCACCTTCTCTAACTCTTCTTTTAATAAGAGGAATAGT
+TGAAAGAGGTGTAGGAACTGGATGAACTGTTTACCCTCCTTTATCGGCTA
+GAATCGCTCACGCAGGAGCATCTGTAGATATAGGAATTTTCTCCTTACAT
+CTGGCCGGTGTCTCATCAATTCTTGGTGCAGTAAACTTTATAACCACAGT
+TATTAATATACGCCCTGTTGGTATATCAATAGATCGTATACCTTTATTTG
+TTTGAGCCGTATTTATTACAGCTATTCTTTTATTACTATCCTTACCCGTT
+>ArmenianWestern
+TAATATTAGGAGCTCCAGATATAGCTTTCCCTCGAATAAATAATATAAGA
+TTCTGACTCCTCCCTCCCTCTTTAACTCTTTTACTTTCAAGAGGAATAGT
+AGAAAGAGGAGTAGGAACGGGATGAACCGTTTATCCTCCTCTTGCAGCCG
+GAATTGCTCATGCCGGAGCTTCAGTTGATATAGGAATCTTCTCTCTACAT
+TTAGCAGGAGTATCCTCTATTTTAGGGGCCGTAAATTTTATAACAACAGT
+GATTAACATACGGGCATCTGGAATAACATTAGACCGAATACCTTTATTCG
+TGTGATCTGTATTTATTACTGCACTATTATTACTTTTATCACTACCAGTT
+>Assamese
+TAATACTAGGAGCACCGGATATAGCTTTTCCACGAATAAATAATATAAGA
+TTTTGACTTTTACCCCCATCTTTAACTCTTTTATTAACTAGTGGTATAGT
+AGAAAGAGGTGTAGGTACAGGATGAACTGTGTATCCCCCACTTTCCGCAG
+CTATTGCTCACGCCGGAGCATCGGTAGATTTAGGTATTTTTTCTCTACAT
+TTAGCCGGAGTCTCTTCTATTTTAGGGGCTGTAAATTTTATAACGACAGT
+CATTAATATACGACCCCAGGGAATAACCTTAGATCGCATACCTTTATTTG
+TTTGATCTGTATTTATTACTGCGATTCTACTTTTATTATCACTACCTGTT
+>Cornish
+TAATGTTAGGTGCTCCTGATATGGCTTTTCCACGAATAAACAATATGAGT
+TTCTGGCTCCTACCTCCTTCACTAACACTACTTCTTTCTAGAGGTATAGT
+TGAAAGAGGAGTAGGAACAGGATGAACTGTTTACCCTCCTTTATCAGCCA
+GTATTGCTCATGCTGGGGCTTCGGTAGATTTAGGAATTTTCTCCCTACAC
+TTGGCAGGTGTTTCTTCAATTTTAGGAGCTGTAAATTTTATGACAACTGT
+TATTAACATACGATCTACGGGAATAACTATAGACCGAATACCGCTTTTCG
+TTTGAGCAGTATTTATTACAGCATTACTTCTCTTATTATCTCTACCGGTA
+>Danish
+TAATGTTAGGTGCTCCAGATATAGCTTTCCCTCGAATGAATAATATAAGC
+TTCTGACTTTTACCTCCTTCTCTTACCCTTCTTTTATCTAGAGGGATAGT
+TGAAAGAGGTGTTGGAACTGGTTGGACAGTTTATCCTCCACTCTCTGCTA
+GTATTGCCCACGCTGGAGCTTCAGTAGACCTTGGAATCTTTTCCCTACAT
+CTAGCTGGTGTATCTTCTATTCTAGGAGCAGTAAATTTTATAACTACTGT
+AATCAATATACGATCTACAGGAATAACTATAGACCGAATACCTCTTTTTG
+TTTGAGCAGTATTCATTACTGCTTTACTATTACTTCTATCATTACCAGTC
+>EasternFrisianSaterland
+TAATATTAGGAGCTCCTGATATAGCTTTTCCTCGAATAAATAATATAAGA
+TTCTGACTCTTACCTCCATCCCTAACCCTCCTCCTCTCTAGAGGAATAGT
+AGAAAGAGGAGTTGGAACAGGATGGACTGTTTATCCTCCACTGTCAGCCG
+GAATCGCCCACGCAGGAGCCTCTGTAGATTTAGGAATCTTCTCCCTTCAC
+CTAGCAGGAGTTTCTTCAATTCTAGGTGCAGTAAATTTTATAACAACAGT
+AATTAACATACGATCAACAGGAATAACTATAGACCGAATGCCCTTATTTG
+TCTGATCAATCTTTATTACTACCCTTCTCCTCCTTCTATCTCTCCCAGTA
+>Faroese
+TTATATTAGGTGCCCCAGATATAGCTTTCCCCCGAATAAATAATATAAGA
+TTTTGACTCTTACCTCCTTCTCTAACTCTATTACTTTCTAGAGGAATAGT
+AGAAAGAGGAGTAGGAACAGGATGAACTGTTTATCCTCCTTTATCCGCCG
+GAATTGCTCACGCCGGGGCCTCTGTAGACCTAGGTATTTTCTCACTACAC
+TTAGCAGGAGTATCTTCAATTCTAGGAGCAGTAAATTTTATAACAACTGT
+AATTAATATACGGTCAACTGGAATAACTATAGACCGTATGCCTTTATTTG
+TTTGATCAGTATTCATTACCGCTCTCCTTCTCCTCTTATCTCTACCAGTT
+>Icelandic
+TTATACTAGGAGCTCCCGATATAGCTTTCCCCCGAATGAATAACATGAGA
+TTTTGACTTCTTCCCCCATCGCTAACGCTTCTTCTGGCTGGAGGAGCCGT
+AGAAAGAGGAGCTGGAACCGGTTGAACAGTTTATCCGCCTCTTTCGGTGG
+GAGTGGCACACGCTGGTGCGTCAGTGGACTTAAGTATCTTTTCACTACAC
+CTAGCAGGTGTTTCATCCATTCTTGGAGCCGTCAACTTTATTACTACCGT
+CATCAATATACGGTCATCTGGGATAACACTAGATCGAATACCTCTCTTTG
+TTTGATCTGTTTTCATTACAGCTATCCTATTACTTCTTTCGCTCCCAGTG
+>Irish
+TAATATTAGGAGCACCTGATATAGCATTCCCACGAATAAATAATATAAGC
+TTTTGACTGCTACCTCCTTCTCTCACCCTTCTTCTATCTAGAGGAATAGT
+TGAAAGAGGAGTTGGAACAGGATGAACTGTATATCCTCCCCTATCAGCTA
+GAATCGCACATGCAGGGGCCTCTGTAGATTTGGGAATTTTTTCATTGCAT
+TTAGCAGGAGTTTCATCAATTCTAGGGGCCGTAAATTTCATAACAACTGT
+AATTAATATACGATCTACAGGTATAACTATAGACCGAATACCGTTATTCG
+TCTGAGCAGTTTTTATTACAGCGCTCTTACTCCTTTTATCTTTACCCGTT
+>KolschColognian
+TTATGTTAGGTGCCCCAGATATGGCATTTCCCCGAATGAATAACATAAGA
+TTCTGACTTTTACCTCCCTCTCTAACGCTTCTTCTAGCTAGTGGTATAGT
+GGAGAGGGGAGTAGGAACTGGCTGAACAGTTTATCCCCCTCTAGCAGGGG
+CAGTGGCCCATGCCGGAGCATCAGTAGATTTGGGTATTTTCTCCCTCCAT
+CTTGCCGGTGTGTCATCAATTCTAGGAGCCGTAAATTTTATTACAACAGT
+AATTAATATGCGGTCTTCAGGTATAACATTCGACCGAATGCCTCTATTTG
+TATGATCTGTGTTTATTACTGCCATTTTACTTCTACTTTCTCTTCCCGTA
+>Manx
+TAATATTAGGTGCTCCCGATATAGCTTTCCCTCGAATAAATAATATGAGT
+TTCTGACTTTTACCTCCCTCGCTAACTCTACTTCTTTCTAGAGGTATAGT
+CGAAAGAGGGGTAGGAACAGGATGAACTGTTTACCCTCCTCTATCTGCCA
+GCATTGCCCATGCAGGAGCATCTGTAGATCTAGGAATCTTCTCATTACAT
+TTAGCAGGGGTTTCTTCAATTCTAGGTGCTGTAAATTTTATAACTACCGT
+TATCAATATACGATCAACAGGAATAACTATAGACCGAATACCTCTTTTCG
+TCTGAGCGGTATTTATTACAGCCTTACTACTTTTACTATCATTACCGGTT
+>OldPrussian
+TAATACTAGGTGCCCCGGATATGGCTTTCCCTCGAATAAATAACATAAGT
+TTCTGACTTTTACCCCCATCTCTCACTCTCCTCTTATCTAGAGGAATAGT
+AGAAAGAGGTGTAGGAACTGGATGAACTGTATATCCTCCTTTATCTGCAA
+GTATTGCCCATGCGGGAGCTTCCGTTGATCTCGGAATCTTCTCACTACAC
+TTAGCAGGTGTATCATCAATTTTAGGTGCCGTAAATTTTATAACAACTGT
+TATCAATATACGATCTACCGGAATAACTATGGACCGGATACCTCTTTTTG
+TTTGAGCAGTATTTATTACTGCTTTACTTTTACTACTGTCCTTACCAGTT
+>SanskritVedic
+TAATATTAGGAGCACCAGATATAGCATTTCCACGAATAAATAATATAAGT
+TTTTGACTTCTACCCCCCTCTTTAACTCTTTTATTAACTAGAGGTATAGT
+AGAAAGAGGAGTAGGAACAGGATGAACTGTTTACCCACCACTATCCGCAG
+CAATTGCACATGCAGGAGCATCAGTGGATTTAGGTATTTTTTCTTTGCAT
+TTGGCTGGAGTATCTTCTATTTTAGGGGCTGTAAATTTTATAACTACAGT
+TATTAATATACGTCCACAAGGAATAACCTTAGACCGTATACCTTTATTTG
+TGTGATCCGTATTTATTACTGCAATTCTACTTTTATTATCACTACCAGTT
+>Scots
+TTATACTTGGTGCCCCTGATATAGCTTTCCCCCGTATAAATAATATAAGA
+TTTTGGCTTCTTCCCCCATCTTTAACTCTTCTTCTTTCCAGAGGAATAGT
+AGAAAGAGGGGTAGGAACAGGATGAACTGTTTACCCTCCTTTGTCTGCTG
+GAATCGCCCACGCCGGAGCTTCTGTTGATATAGGAATTTTCTCTCTCCAT
+CTTGCCGGAGTTTCTTCAATTTTAGGGGCAGTAAATTTTATAACAACTGT
+TATTAATATACGTTCAACAGGAATAACTATAGACCGAATCCCCCTTTTTG
+TGTGATCAGTGTTTATTACTACCCTTCTTCTACTTTTATCCCTTCCAGTC
+>Yiddish
+TAATACTTGGAGCCCCAGATATAGCTTTCCCTCGAATAAATAACATGAGA
+TTTTGGTTGCTACCTCCTTCTCTAACCCTTCTTCTATCAAGAGGAATAGT
+TGAAAGAGGTGTAGGAACTGGCTGAACAGTTTATCCTCCCTTAGCAGCCG
+CCGTCGCTCATGCCGGAGCATCCGTAGATTTAGGTATTTTTTCACTTCAT
+CTTGCAGGAGTTTCTTCAATCCTAGGAGCAGTAAATTTCATAACAACTGT
+AATTAATATACGGTCAACTGGGATAACTATAGACCGCATACCCTTATTTG
+TCTGATCTGTTTTTATCACCGCAATTTTACTTCTTCTATCTCTACCTGTC
+
+
+Sequence character woman_cox1_spaced.fastc#0
+>AlbanianTosk
+T T A T A T T A G G A G C A C C A G A T A T A G C 
+T T T C C C T C G A A T A A A T A A T A T A A G A 
+T T T T G A C T T CT T C C A C C A T C T T T A A C
+ T T T A C T C C T C T C T A G A G G A A T A G T A
+ G A A A G T G G A G T G G G A A C A GG C T G A A 
+C T G T C T A T C C T C C T T T A T C T G C T G G 
+A A T T G C A C A T G C T G G T G C C T C A G T A 
+G A T TT A G G A A T C T T T T C T T T A C A C C T
+ A G C A G G A G T T T C A T C C A T C T T A G G G
+ G C C G T A A A C T T T AT A A C T A C C G T T A 
+T C A A T A T A C G A A G A A C A G G T A T A A C 
+A A T A G A C C G A A T T C C T C T T T T T GT A T
+ G A T C T G T A T T T A T T A C A G C C C T T C T
+ T C T C C T T C T T T C C C T C C C A G T C 
+>AncientIonicGreek
+T A A T A T T A G G T G C C C C T G A T A T A G C 
+T T T T C C A C G A A T A A A T A A T A T A A G A 
+T T T T G A C T C CT T C C A C C T T C T C T A A C
+ T C T T C T T T T A A T A A G A G G A A T A G T T
+ G A A A G A G G T G T A G G A A C T GG A T G A A 
+C T G T T T A C C C T C C T T T A T C G G C T A G 
+A A T C G C T C A C G C A G G A G C A T C T G T A 
+G A T AT A G G A A T T T T C T C C T T A C A T C T
+ G G C C G G T G T C T C A T C A A T T C T T G G T
+ G C A G T A A A C T T T AT A A C C A C A G T T A 
+T T A A T A T A C G C C C T G T T G G T A T A T C 
+A A T A G A T C G T A T A C C T T T A T T T GT T T
+ G A G C C G T A T T T A T T A C A G C T A T T C T
+ T T T A T T A C T A T C C T T A C C C G T T 
+>ArmenianWestern
+T A A T A T T A G G A G C T C C A G A T A T A G C 
+T T T C C C T C G A A T A A A T A A T A T A A G A 
+T T C T G A C T C CT C C C T C C C T C T T T A A C
+ T C T T T T A C T T T C A A G A G G A A T A G T A
+ G A A A G A G G A G T A G G A A C G GG A T G A A 
+C C G T T T A T C C T C C T C T T G C A G C C G G 
+A A T T G C T C A T G C C G G A G C T T C A G T T 
+G A T AT A G G A A T C T T C T C T C T A C A T T T
+ A G C A G G A G T A T C C T C T A T T T T A G G G
+ G C C G T A A A T T T T AT A A C A A C A G T G A 
+T T A A C A T A C G G G C A T C T G G A A T A A C 
+A T T A G A C C G A A T A C C T T T A T T C GT G T
+ G A T C T G T A T T T A T T A C T G C A C T A T T
+ A T T A C T T T T A T C A C T A C C A G T T 
+>Assamese
+T A A T A C T A G G A G C A C C G G A T A T A G C 
+T T T T C C A C G A A T A A A T A A T A T A A G A 
+T T T T G A C T T TT A C C C C C A T C T T T A A C
+ T C T T T T A T T A A C T A G T G G T A T A G T A
+ G A A A G A G G T G T A G G T A C A GG A T G A A 
+C T G T G T A T C C C C C A C T T T C C G C A G C 
+T A T T G C T C A C G C C G G A G C A T C G G T A 
+G A T TT A G G T A T T T T T T C T C T A C A T T T
+ A G C C G G A G T C T C T T C T A T T T T A G G G
+ G C T G T A A A T T T T AT A A C G A C A G T C A 
+T T A A T A T A C G A C C C C A G G G A A T A A C 
+C T T A G A T C G C A T A C C T T T A T T T GT T T
+ G A T C T G T A T T T A T T A C T G C G A T T C T
+ A C T T T T A T T A T C A C T A C C T G T T 
+>Cornish
+T A A T G T T A G G T G C T C C T G A T A T G G C 
+T T T T C C A C G A A T A A A C A A T A T G A G T 
+T T C T G G C T C CT A C C T C C T T C A C T A A C
+ A C T A C T T C T T T C T A G A G G T A T A G T T
+ G A A A G A G G A G T A G G A A C A GG A T G A A 
+C T G T T T A C C C T C C T T T A T C A G C C A G 
+T A T T G C T C A T G C T G G G G C T T C G G T A 
+G A T TT A G G A A T T T T C T C C C T A C A C T T
+ G G C A G G T G T T T C T T C A A T T T T A G G A
+ G C T G T A A A T T T T AT G A C A A C T G T T A 
+T T A A C A T A C G A T C T A C G G G A A T A A C 
+T A T A G A C C G A A T A C C G C T T T T C GT T T
+ G A G C A G T A T T T A T T A C A G C A T T A C T
+ T C T C T T A T T A T C T C T A C C G G T A 
+>Danish
+T A A T G T T A G G T G C T C C A G A T A T A G C 
+T T T C C C T C G A A T G A A T A A T A T A A G C 
+T T C T G A C T T TT A C C T C C T T C T C T T A C
+ C C T T C T T T T A T C T A G A G G G A T A G T T
+ G A A A G A G G T G T T G G A A C T GG T T G G A 
+C A G T T T A T C C T C C A C T C T C T G C T A G 
+T A T T G C C C A C G C T G G A G C T T C A G T A 
+G A C CT T G G A A T C T T T T C C C T A C A T C T
+ A G C T G G T G T A T C T T C T A T T C T A G G A
+ G C A G T A A A T T T T AT A A C T A C T G T A A 
+T C A A T A T A C G A T C T A C A G G A A T A A C 
+T A T A G A C C G A A T A C C T C T T T T T GT T T
+ G A G C A G T A T T C A T T A C T G C T T T A C T
+ A T T A C T T C T A T C A T T A C C A G T C 
+>EasternFrisianSaterland
+T A A T A T T A G G A G C T C C T G A T A T A G C 
+T T T T C C T C G A A T A A A T A A T A T A A G A 
+T T C T G A C T C TT A C C T C C A T C C C T A A C
+ C C T C C T C C T C T C T A G A G G A A T A G T A
+ G A A A G A G G A G T T G G A A C A GG A T G G A 
+C T G T T T A T C C T C C A C T G T C A G C C G G 
+A A T C G C C C A C G C A G G A G C C T C T G T A 
+G A T TT A G G A A T C T T C T C C C T T C A C C T
+ A G C A G G A G T T T C T T C A A T T C T A G G T
+ G C A G T A A A T T T T AT A A C A A C A G T A A 
+T T A A C A T A C G A T C A A C A G G A A T A A C 
+T A T A G A C C G A A T G C C C T T A T T T GT C T
+ G A T C A A T C T T T A T T A C T A C C C T T C T
+ C C T C C T T C T A T C T C T C C C A G T A 
+>Faroese
+T T A T A T T A G G T G C C C C A G A T A T A G C 
+T T T C C C C C G A A T A A A T A A T A T A A G A 
+T T T T G A C T C TT A C C T C C T T C T C T A A C
+ T C T A T T A C T T T C T A G A G G A A T A G T A
+ G A A A G A G G A G T A G G A A C A GG A T G A A 
+C T G T T T A T C C T C C T T T A T C C G C C G G 
+A A T T G C T C A C G C C G G G G C C T C T G T A 
+G A C CT A G G T A T T T T C T C A C T A C A C T T
+ A G C A G G A G T A T C T T C A A T T C T A G G A
+ G C A G T A A A T T T T AT A A C A A C T G T A A 
+T T A A T A T A C G G T C A A C T G G A A T A A C 
+T A T A G A C C G T A T G C C T T T A T T T GT T T
+ G A T C A G T A T T C A T T A C C G C T C T C C T
+ T C T C C T C T T A T C T C T A C C A G T T 
+>Icelandic
+T T A T A C T A G G A G C T C C C G A T A T A G C 
+T T T C C C C C G A A T G A A T A A C A T G A G A 
+T T T T G A C T T CT T C C C C C A T C G C T A A C
+ G C T T C T T C T G G C T G G A G G A G C C G T A
+ G A A A G A G G A G C T G G A A C C GG T T G A A 
+C A G T T T A T C C G C C T C T T T C G G T G G G 
+A G T G G C A C A C G C T G G T G C G T C A G T G 
+G A C TT A A G T A T C T T T T C A C T A C A C C T
+ A G C A G G T G T T T C A T C C A T T C T T G G A
+ G C C G T C A A C T T T AT T A C T A C C G T C A 
+T C A A T A T A C G G T C A T C T G G G A T A A C 
+A C T A G A T C G A A T A C C T C T C T T T GT T T
+ G A T C T G T T T T C A T T A C A G C T A T C C T
+ A T T A C T T C T T T C G C T C C C A G T G 
+>Irish
+T A A T A T T A G G A G C A C C T G A T A T A G C 
+A T T C C C A C G A A T A A A T A A T A T A A G C 
+T T T T G A C T G CT A C C T C C T T C T C T C A C
+ C C T T C T T C T A T C T A G A G G A A T A G T T
+ G A A A G A G G A G T T G G A A C A GG A T G A A 
+C T G T A T A T C C T C C C C T A T C A G C T A G 
+A A T C G C A C A T G C A G G G G C C T C T G T A 
+G A T TT G G G A A T T T T T T C A T T G C A T T T
+ A G C A G G A G T T T C A T C A A T T C T A G G G
+ G C C G T A A A T T T C AT A A C A A C T G T A A 
+T T A A T A T A C G A T C T A C A G G T A T A A C 
+T A T A G A C C G A A T A C C G T T A T T C GT C T
+ G A G C A G T T T T T A T T A C A G C G C T C T T
+ A C T C C T T T T A T C T T T A C C C G T T 
+>KolschColognian
+T T A T G T T A G G T G C C C C A G A T A T G G C 
+A T T T C C C C G A A T G A A T A A C A T A A G A 
+T T C T G A C T T TT A C C T C C C T C T C T A A C
+ G C T T C T T C T A G C T A G T G G T A T A G T G
+ G A G A G G G G A G T A G G A A C T GG C T G A A 
+C A G T T T A T C C C C C T C T A G C A G G G G C 
+A G T G G C C C A T G C C G G A G C A T C A G T A 
+G A T TT G G G T A T T T T C T C C C T C C A T C T
+ T G C C G G T G T G T C A T C A A T T C T A G G A
+ G C C G T A A A T T T T AT T A C A A C A G T A A 
+T T A A T A T G C G G T C T T C A G G T A T A A C 
+A T T C G A C C G A A T G C C T C T A T T T GT A T
+ G A T C T G T G T T T A T T A C T G C C A T T T T
+ A C T T C T A C T T T C T C T T C C C G T A 
+>Manx
+T A A T A T T A G G T G C T C C C G A T A T A G C 
+T T T C C C T C G A A T A A A T A A T A T G A G T 
+T T C T G A C T T TT A C C T C C C T C G C T A A C
+ T C T A C T T C T T T C T A G A G G T A T A G T C
+ G A A A G A G G G G T A G G A A C A GG A T G A A 
+C T G T T T A C C C T C C T C T A T C T G C C A G 
+C A T T G C C C A T G C A G G A G C A T C T G T A 
+G A T CT A G G A A T C T T C T C A T T A C A T T T
+ A G C A G G G G T T T C T T C A A T T C T A G G T
+ G C T G T A A A T T T T AT A A C T A C C G T T A 
+T C A A T A T A C G A T C A A C A G G A A T A A C 
+T A T A G A C C G A A T A C C T C T T T T C GT C T
+ G A G C G G T A T T T A T T A C A G C C T T A C T
+ A C T T T T A C T A T C A T T A C C G G T T 
+>OldPrussian
+T A A T A C T A G G T G C C C C G G A T A T G G C 
+T T T C C C T C G A A T A A A T A A C A T A A G T 
+T T C T G A C T T TT A C C C C C A T C T C T C A C
+ T C T C C T C T T A T C T A G A G G A A T A G T A
+ G A A A G A G G T G T A G G A A C T GG A T G A A 
+C T G T A T A T C C T C C T T T A T C T G C A A G 
+T A T T G C C C A T G C G G G A G C T T C C G T T 
+G A T CT C G G A A T C T T C T C A C T A C A C T T
+ A G C A G G T G T A T C A T C A A T T T T A G G T
+ G C C G T A A A T T T T AT A A C A A C T G T T A 
+T C A A T A T A C G A T C T A C C G G A A T A A C 
+T A T G G A C C G G A T A C C T C T T T T T GT T T
+ G A G C A G T A T T T A T T A C T G C T T T A C T
+ T T T A C T A C T G T C C T T A C C A G T T 
+>SanskritVedic
+T A A T A T T A G G A G C A C C A G A T A T A G C 
+A T T T C C A C G A A T A A A T A A T A T A A G T 
+T T T T G A C T T CT A C C C C C C T C T T T A A C
+ T C T T T T A T T A A C T A G A G G T A T A G T A
+ G A A A G A G G A G T A G G A A C A GG A T G A A 
+C T G T T T A C C C A C C A C T A T C C G C A G C 
+A A T T G C A C A T G C A G G A G C A T C A G T G 
+G A T TT A G G T A T T T T T T C T T T G C A T T T
+ G G C T G G A G T A T C T T C T A T T T T A G G G
+ G C T G T A A A T T T T AT A A C T A C A G T T A 
+T T A A T A T A C G T C C A C A A G G A A T A A C 
+C T T A G A C C G T A T A C C T T T A T T T GT G T
+ G A T C C G T A T T T A T T A C T G C A A T T C T
+ A C T T T T A T T A T C A C T A C C A G T T 
+>Scots
+T T A T A C T T G G T G C C C C T G A T A T A G C 
+T T T C C C C C G T A T A A A T A A T A T A A G A 
+T T T T G G C T T CT T C C C C C A T C T T T A A C
+ T C T T C T T C T T T C C A G A G G A A T A G T A
+ G A A A G A G G G G T A G G A A C A GG A T G A A 
+C T G T T T A C C C T C C T T T G T C T G C T G G 
+A A T C G C C C A C G C C G G A G C T T C T G T T 
+G A T AT A G G A A T T T T C T C T C T C C A T C T
+ T G C C G G A G T T T C T T C A A T T T T A G G G
+ G C A G T A A A T T T T AT A A C A A C T G T T A 
+T T A A T A T A C G T T C A A C A G G A A T A A C 
+T A T A G A C C G A A T C C C C C T T T T T GT G T
+ G A T C A G T G T T T A T T A C T A C C C T T C T
+ T C T A C T T T T A T C C C T T C C A G T C 
+>Yiddish
+T A A T A C T T G G A G C C C C A G A T A T A G C 
+T T T C C C T C G A A T A A A T A A C A T G A G A 
+T T T T G G T T G CT A C C T C C T T C T C T A A C
+ C C T T C T T C T A T C A A G A G G A A T A G T T
+ G A A A G A G G T G T A G G A A C T GG C T G A A 
+C A G T T T A T C C T C C C T T A G C A G C C G C 
+C G T C G C T C A T G C C G G A G C A T C C G T A 
+G A T TT A G G T A T T T T T T C A C T T C A T C T
+ T G C A G G A G T T T C T T C A A T C C T A G G A
+ G C A G T A A A T T T C AT A A C A A C T G T A A 
+T T A A T A T A C G G T C A A C T G G G A T A A C 
+T A T A G A C C G C A T A C C C T T A T T T GT C T
+ G A T C T G T T T T T A T C A C C G C A A T T T T
+ A C T T C T T C T A T C T C T A C C T G T C 
+
+Implied Alignments for Graph 1
+
+Sequence character woman.fastc#0
+>AlbanianTosk
+- - - - - - - - - - - ɡ - - \textfishhookr - - u -
+ - a 
+>AncientIonicGreek
+- - - - - - - - - - - ɡ - - \”u - - n e - \textlen
+gthmark 
+>ArmenianWestern
+- - - - - - - - - - - ɡ - - i - - n - - - 
+>Assamese
+- - m a \textsci k - - - - - i - - m a - n u - \te
+xtsuperscript{\texthth} 
+>Cornish
+- - - - - - - - - - - b - - \textepsilon - n j - -
+ n 
+>Danish
+- - - - - - \textprimstress k \textsuperscript{h} 
+- - v - - e - - n - - \textschwa 
+>EasternFrisianSaterland
+- - - - - - - - - - - v - - i\texthalflength - - \
+textupsilon - - v 
+>Faroese
+- - - - - - - - - - k o - - \textlengthmark - - n 
+- - a 
+>Icelandic
+\textprimstress k - - - - - - - - - \textsuperscri
+pt{h} - - \textopeno - - n - - a 
+>Irish
+- - - - - - - - - b \textsuperscript{j} \ae - - \t
+extlengthmark - - n - \textsubbridge \textsuperscr
+ipt{\textgamma} 
+>KolschColognian
+- - - - - - - - - - - v - - e\textlengthmark - - z
+ - - h 
+>Manx
+- - - - - - - - - - - b - - \textepsilon - - \text
+superscript{d} - - n 
+>OldPrussian
+- - - - - - - - - - - v i\textlengthmark r i - - n
+ - - a 
+>SanskritVedic
+- - - - - s - - - - - \textsubbridge - - t \textsu
+bbridge - \textrtailr i - \textlengthmark 
+>Scots
+- - - - - w - - - - - \textturnv - - m - - m \text
+scripta - n 
+>Yiddish
+- - - - - - - - - - - - - - f - - \textscr - - \te
+xtopenoj 
+
+
+Sequence character woman_binary.fasta#0
+>AlbanianTosk
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 1 - 1 - 1 0 
+1 1 - 1 1 1 0 1 0 - - 1 1 0 1 1 1 1 0 0 1 1 1 1 1 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 0 - 1 1 1 0 - 
+0 - - 0 - 1 0 - 1 1 1 0 - 1 0 1 1 1 1 1 - 1 1 1 1 
+- 1 0 1 1 1 1 1 - 1 1 1 - 0 1 1 1 1 1 0 1 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 1 1 0 1 - 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 - 0 0 1 1 1 1 1 0 - 1 0 0 1 0 - 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - - 1 1 0 1 0 1 0 0 - 1 - 1 1 1 1 1 1 1 1 0 
+1 0 1 1 0 - 1 0 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
+>AncientIonicGreek
+0 1 1 1 0 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 - 1 - 1 1 
+1 1 0 0 1 1 1 1 0 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 1 0 - 
+1 - 1 0 1 0 0 - 1 1 0 1 - 1 - 1 1 1 - 1 - 1 1 1 1 
+- 0 1 1 - - 1 1 - 1 1 1 0 - 1 0 1 1 0 0 0 0 1 1 1 
+0 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 
+0 1 1 - 1 0 1 - 1 1 1 0 1 1 0 1 1 0 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 0 0 0 0 0 1 0 1 1 1 1 1 - 1 1 1 1 
+1 1 1 1 0 0 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 1 0 1 1 1 1 0 0 - - - 1 1 1 - 0 1 1 1 1 1 
+1 1 0 0 0 1 1 1 0 - 1 1 1 1 0 0 0 0 0 1 0 1 1 1 1 
+1 1 0 - - 1 1 - 1 1 1 0 1 1 1 - 1 1 1 1 1 1 1 1 0 
+1 1 1 1 1 0 - 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 
+1 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 1 1 1 - 1 
+1 0 - - 1 1 0 1 1 1 1 1 0 - 1 1 1 1 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 0 1 1 0 1 
+1 0 0 1 0 0 
+>ArmenianWestern
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 0 0 1 - 1 - 1 0 
+0 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 0 1 1 0 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+0 - - 0 - 0 0 - 1 0 1 1 - 1 0 1 1 1 0 1 - 1 0 1 1 
+- 1 0 0 0 1 1 1 - 1 1 1 - 0 1 1 1 1 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 0 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 0 0 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 - 0 0 1 1 1 1 0 0 - 1 - 1 1 1 - 0 1 1 0 1 1 
+1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - 1 1 1 0 1 1 1 0 - - 1 - 1 1 1 1 1 1 1 1 0 
+0 0 1 1 1 - 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
+>Assamese
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 - 1 - 1 1 
+1 1 - 1 1 1 1 1 1 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
+- 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 - 1 0 - 
+1 0 0 0 1 1 1 - 1 1 1 1 - 1 - 1 1 1 - 1 - 1 1 1 1 
+- 0 1 1 - - 1 1 - 1 1 1 - - 1 1 1 1 1 1 1 1 1 1 1 
+1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 
+1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 1 
+0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 1 0 1 1 1 1 1 1 - - - 1 1 0 - 0 1 0 0 1 1 
+1 1 0 0 0 1 1 1 0 - 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - - - 1 - 1 1 1 0 1 1 1 - 1 1 1 1 1 1 1 1 - 
+1 1 1 1 1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 
+1 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 
+1 0 - - 0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 0 0 0 0 0 1 1 0 0 
+0 0 1 1 1 0 
+>Cornish
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 1 - 
+1 - - 0 - 0 1 - 1 1 1 1 - 1 0 1 1 1 0 1 - 0 1 1 1 
+- 1 0 1 0 1 0 1 - 1 1 1 - 0 1 1 1 1 1 0 1 0 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 - 0 0 1 1 1 1 1 0 1 1 - 1 1 0 - 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - 1 1 1 - 1 0 1 0 1 - 1 - 1 1 1 1 1 1 1 1 0 
+1 1 0 1 0 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
+>Danish
+0 1 1 1 1 1 1 0 0 1 1 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - - 0 - 0 1 - 1 1 1 1 - 1 0 1 1 1 0 1 - 1 1 1 1 
+- 1 0 1 0 1 1 1 - 1 1 1 - 1 1 1 1 1 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 - 0 0 1 1 1 1 0 0 1 1 - 1 1 0 - 1 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 1 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - 1 1 1 - 1 0 1 0 1 - 1 - 1 1 1 1 1 0 1 1 0 
+1 1 0 1 1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
+>EasternFrisianSaterland
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 1 - 1 0 1 1 
+0 1 - 1 1 1 1 1 1 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - 0 0 1 1 0 - 1 1 1 1 - 1 0 1 1 1 - 1 - 0 1 1 1 
+- 0 1 1 0 - 1 1 - 1 1 1 - 0 1 1 1 1 1 0 0 1 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 0 1 1 1 1 1 1 - - - 1 1 0 - 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - - 1 1 - 1 0 1 1 1 0 1 - 1 1 1 1 1 1 1 1 0 
+1 0 1 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
+>Faroese
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 0 1 1 
+1 1 - 1 1 1 1 1 1 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - 0 0 1 0 0 - 1 1 1 1 - 1 0 1 1 1 - 0 - 1 1 1 1 
+- 0 0 0 0 - 1 1 - 1 1 1 - 0 1 1 1 1 1 0 0 1 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 0 0 1 1 1 0 0 - - - 1 1 0 - 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - - 1 1 - 1 1 1 0 1 0 0 - 1 1 1 1 1 0 1 1 0 
+0 0 1 0 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
+>Icelandic
+0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 0 1 - 1 - 1 1 
+1 1 - 0 - 0 1 1 0 1 - 1 0 0 1 1 1 1 1 0 1 1 1 1 0 
+0 0 1 0 0 1 1 0 0 0 0 0 0 1 1 1 0 1 0 - 1 - 1 0 - 
+0 - 0 0 1 1 0 - 1 1 0 1 0 1 - 1 1 1 - 1 1 1 1 1 1 
+- 1 1 1 1 - 1 1 0 0 1 1 - - 1 1 1 1 1 0 0 1 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 - 1 1 1 - 1 1 1 1 0 0 1 1 1 0 1 1 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 1 1 
+0 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 0 1 1 0 1 0 - - - 1 0 1 - 0 1 1 1 0 1 
+1 1 0 0 0 1 1 1 0 - 1 0 1 1 0 1 1 0 0 1 1 1 1 1 1 
+1 1 0 1 - 1 1 - 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 0 
+0 1 1 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 
+0 1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 
+1 0 1 1 1 1 1 1 1 1 1 0 1 - 1 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 0 1 0 0 
+>Irish
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - - 0 1 0 0 - - 0 1 1 - 1 0 1 1 1 0 1 - 1 1 1 1 
+0 0 0 1 0 - 0 1 - 1 1 1 - 0 1 1 1 0 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 0 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 0 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 0 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 - 0 0 1 1 1 1 0 0 - - - 1 1 0 1 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+0 1 0 - 1 1 1 - 1 1 1 0 1 - 1 - 1 1 1 1 1 1 1 1 0 
+1 1 1 1 1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 0 1 0 0 
+>KolschColognian
+0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 1 1 0 0 - 1 1 
+1 1 - 1 - 1 1 1 0 - - 1 0 0 1 1 1 1 1 0 0 1 1 1 0 
+0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 0 0 - 
+1 - 1 0 1 0 0 - 1 1 0 1 0 1 - 1 0 0 - 1 0 1 1 1 1 
+- 1 1 1 0 - 1 1 0 1 1 1 - - 1 1 1 1 1 0 0 1 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 1 1 
+0 1 1 0 0 1 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 0 1 1 - - - 1 1 1 - 0 1 1 1 1 1 
+1 1 0 0 0 1 1 1 0 - 1 0 1 1 0 1 1 0 0 1 1 1 0 1 1 
+1 1 0 1 - 1 1 - 1 1 1 1 1 1 0 - 1 1 1 1 1 1 1 1 0 
+0 1 1 1 1 - 1 1 0 0 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 
+0 1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 
+1 0 1 1 1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 0 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 0 1 0 0 
+>Manx
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 1 - 
+1 - - 0 - 0 1 - 1 0 1 1 - 1 0 1 1 1 0 1 - 1 1 1 1 
+- 1 0 1 0 1 0 1 - 1 1 1 - 0 1 1 1 1 1 0 1 0 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 - 0 0 1 1 1 1 1 0 1 1 - 0 1 0 - 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - 1 1 1 - 0 1 1 0 1 - 1 - 1 1 1 1 1 1 1 1 0 
+1 1 0 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
+>OldPrussian
+0 1 1 1 1 1 1 0 0 1 1 0 0 1 1 0 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 1 0 1 1 1 1 0 1 1 0 1 1 0 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - - 0 - 0 1 - 0 1 1 1 - 1 0 1 1 1 0 1 - 1 1 1 1 
+- 1 0 1 0 1 1 1 - 1 1 1 - 1 1 1 1 1 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 - 0 0 1 1 1 1 0 0 1 1 - 1 1 0 - 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 1 0 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - 1 1 1 - 0 1 1 0 1 - 1 - 1 1 1 1 1 1 1 1 0 
+1 1 0 1 1 - 1 1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 1 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
+>SanskritVedic
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 1 1 1 - 1 - 1 1 
+1 1 - 1 1 0 1 1 1 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
+- 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 - 1 0 - 
+1 0 0 0 1 1 1 - 1 1 1 1 - 1 - 1 1 1 - 1 - 1 1 1 1 
+- 0 1 1 - - 1 1 - 1 1 1 - - 1 1 1 1 1 1 1 1 1 1 1 
+1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 
+1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 1 
+0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0 0 
+1 1 1 1 0 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 1 1 1 1 1 1 1 1 - - - 1 1 0 - 0 1 0 0 1 1 
+1 1 0 0 0 1 1 1 0 - 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - - - 1 - 1 1 1 1 1 1 1 - 1 1 1 1 1 1 1 1 - 
+1 1 1 1 1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 
+1 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 
+1 0 - - 0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 1 1 0 1 0 0 0 0 0 1 1 0 0 
+0 0 1 1 1 0 
+>Scots
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 0 1 1 1 1 1 - 1 0 1 1 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - 0 0 1 1 1 - 1 1 1 1 - 1 0 1 1 1 - 1 - 0 1 1 1 
+- 0 0 1 0 - 1 1 - 1 1 1 - 0 1 1 1 1 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 1 0 1 - - - 1 1 0 - 0 1 1 0 1 1 
+1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - - 1 1 - 1 0 1 0 0 0 0 - 1 1 1 1 1 1 1 1 0 
+0 0 0 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
+>Yiddish
+0 1 1 1 0 1 0 1 0 1 1 0 0 - - 1 1 1 1 1 - 1 - 1 1 
+1 0 - 0 - 1 1 1 0 - - 1 1 0 1 1 0 1 1 0 1 1 1 1 - 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 1 0 1 
+1 - 0 0 1 1 0 1 1 1 0 1 - 1 - 1 1 1 - 1 0 1 1 1 1 
+- 1 1 1 0 - 1 1 - 1 1 1 - - 1 1 1 1 1 0 1 1 1 1 1 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 
+0 1 1 - 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 
+1 1 0 1 0 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 
+0 1 1 1 0 1 0 0 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 0 0 
+1 1 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 1 1 1 1 1 1 0 1 - - - 1 1 1 - 0 1 1 1 1 1 
+1 1 0 0 1 1 1 1 0 - 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - - 1 1 - 1 1 1 1 1 1 0 - 1 1 1 1 1 1 1 1 0 
+1 1 1 1 1 - 1 1 0 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 1 
+0 1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 
+1 0 - - 1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 1 0 
+
+
+Sequence character woman_12Saln.fasta#0
+>AlbanianTosk
+GTTTTATCCTGGCTTA-TTTTT-TC-ATTTTCAGATTTGTGCCAGCAGCC
+GCGGTTACACTAAGG-GACA-AACTGAAA-TGTTAAGATAAAGTTATGAA
+CCAGGATTAGATACCCTGTAGTTATTGTCTTAAAACTCAAAGGATTTGGC
+GGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAAACGATAAACCACGT
+AAAATCTTACCCTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+TTATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>AncientIonicGreek
+GTTTGATTTTTGCTTATTTATT-TT-ACGTTTAGTTTTGTGCCAGCAGCC
+GCGGTTATACTTGAAGAGCA--AGTAAAA-TGTAAAGTCTAGGGCATAGA
+CTAGGATTAGATACCCT-AAGTTATGTTCTTGAAAATAAAAAAATTTGGC
+GGT-GTTTAATTTATTTAGGGGAACCTGTTTTATAATCGATACACCACGA
+AGAATCTTACTTACTTCATGTATACCGTTATTATTAGATCAAGGTGCAGA
+CTATGATATAAATACTTAAACATGTACATATCGCCCGTCGCTTTTACA-T
+---CTTAATGTAAAATAAGTCGTAACATAGTAGCTGTATCGGAAGATGCA
+GC
+>ArmenianWestern
+GTTTTATCCTGGCTTA-TCCTT-TCGATTTT-AGATTTGTGCCAGCAGCC
+GCGGTTATACTGAGG-GGCA-GATTGAAA-TATTAAGATAAAGGTATGAA
+CCAGGATTAGATACCCTGCAGTTATTGGCTTGAAACTCAAAGGATTTGGC
+GGTAGCTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAATCCACGA
+AAAATCTCACTTTACGCTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+TTATGATTGTAGCTCTAAGCTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Assamese
+GTTTGATTCTTGCTTA-TGATT-TT-TATATTATATTTGTGCCAGCAGTC
+GCGGTTATACTTAGAGGGTA--AATAAAT-TATAAATTTTAATATATAAA
+CTAGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGGC
+GGTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAACCACGA
+A-TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAGT
+CTATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-C
+---CTAAAAATGAAATAAGTCGTAACAAAGTAGGTGTGCCGGAAGGCGTA
+TC
+>Cornish
+GTTTTATCCTGGCTTA-TTCTT-TC-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAAA-GGTA-AATTGAAA-TGTTAAGATAAAGAGATGAA
+CCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGC
+GGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGA
+AGAATCTTACTTTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+TTATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Danish
+GTTTTATCCTAGCTTA-TTCTT-TC-AATTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAGA-GGTT-AATTGAAA-TATTAAAATAAAGGAATGAA
+CCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGC
+GGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGA
+AGAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+TTATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>EasternFrisianSaterland
+GTTTTATCCTGGCTAA-TATTTCTT-GTTTTTAAATTTGTGCCAGCAGCC
+GCGGTTATACTGAGA-GGTA-GATTAAGA-TGTTAAGTTAAAGGTATGGA
+CCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGC
+GGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACGA
+AGTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+CAATGATTATAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Faroese
+GTTTTATCCTGGCTAA-TAGTTCTT-ATTATTAAATTTGTGCCAGCAGCC
+GCGGTTATACTGAGA-GGTG-GATTAAGA-TGTTAAGATAAAGGTATGGA
+CCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGC
+GGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACGA
+AGAATCTTACCTTGTGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+CGATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Icelandic
+GTTTGATTCTTGC-TA-TGTTT-TT---TGCTAGACTTGTGCCAGCATCC
+GCGGTTAGAC-TTGG-GGATCTAGTGAAACGA-GGAATTTTAGGTATGGA
+CCAGGATTAGATACCCTGAATTAATACGTTTGAAATTCAAAGAACCTGGC
+GGTACTTTAGTCTAGTTAGAGGAACCTGTTGTATAAACGATAAACCACGT
+AGAATCTTTCTTACTGCTAGTATACCTTCATTATTAGATCAAGGTGCTGC
+TGATGATAATAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CATT
+-AAATTAGA-TGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCA
+CC
+>Irish
+GTTTTATCCTGGCTTA-TTCTT-TC-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAGA-GACG-GATTGAAA-TATTAAGATAGAGGAATGAA
+CCAGGATTAGATACCCTGCAGCTATTATCTTGAAACTCAAAGGATTTGGC
+GGTAACCTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGC
+AATATCTTGCTTTATGCTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+TTATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCA
+CC
+>KolschColognian
+GTTTGATTCTTGC-TA-TTACC-TT---TATTAAACTTGTGCCAGCAGCC
+GCGGTTAAAC-TCGA-TGTCCTAGTGAAGCTA-GAAAATTTAGGTAAGGA
+CCAGGATTAGATACCCTGAATAAATTAATTTTAAATTCAAAGAACCTGGC
+GGTACTTTAGTCTAGTTGGAGGAACCTGTTTTATAAACGATAAACCACGT
+AAAATCTTTCTTATTGTTAGTATACCTTCATTATTAGATCAAGGTGCTGC
+AAATGGTATTAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CATT
+-AAGTTAAA-TGAGATAAGTCGTAACATAGTGGGTGTACTGGAAAGTGCA
+CC
+>Manx
+GTTTTATCCTGGCTTA-TTCTT-TC-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAAA-GGTA-GATTGAAA-TGTTAAGATAAAGAGATGAA
+CCAGGATTAGATACCCTGCAGTTATTATCTTGAAACTCAAAGGATTTGGC
+GGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGA
+AGAATCTTACTCTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+TTATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>OldPrussian
+GTTTTATCCTAGCTTG-TTCTT-TC-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAGA-GGTC-AATTGAAA-TATTAAAATAAAGGAATGAA
+CCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGC
+GGTAATTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGA
+AAAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+TTATGACCTTAGCCCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>SanskritVedic
+GTTTGATTCTTGCTTA-TAATT-TT-TATACTATATTTGTGCCAGCAGTC
+GCGGTTATACTTAGAGGGTA--AATAAAT-TATAAATTTTAATATATAAA
+CTAGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGGC
+GGTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAGCCACGA
+A-TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAGT
+TTATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-C
+---CTAAAAATGAAATAAGTCGTAACAAAGTAGATGTGCCGGAAGGCGTA
+TC
+>Scots
+GTTTTATCCTGGCTCA-TAATTCTT-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAGA-GGTA-AATTAAGA-TATTAAGATAAAGGTATGAA
+CCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGC
+GGTAATTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAAACCACGA
+AGTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+TAATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--GTTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Yiddish
+GTTTGACTCTTGCTT--TAATT-TT--C-GTTA-ACTTGTGCCAGCAGCC
+GCGGTTATAC-TAGAAGGTT-GAATGAAA-TATTAAATTTTAGATATAAA
+CCAGGATTAGATACCCTGAATGAATTAATTTAAAATTCAAAGAGTTTGGC
+GGTATTTTAGTCCTGTTAGAGGAATCTGTTTTATAAACGATAACCCCCGT
+AATATCTTTCTTATTGCTAGTATACCATCATTATTAGATCATGGTGCTGT
+TTATGAGATTGGCTCTAAAATGTGTACATATTGCCCGTCGC-TTT-CATT
+---CTTAAA-TGAGATAAGTCGTAACATAGTAGGAGTACTGGAAAGTGTT
+TC
+
+
+Sequence character woman-wide_aa.fas#0
+>AlbanianTosk
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V I V T A H A F V I I F F M V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L S R G I V E S G V G T G 
+- - T V Y P P L S A G I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R R T 
+G I T I D R I P L F V S V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G M I S H I I R Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - L G T 
+L H G T Q L N Y S P S L I - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S M G A V F G I F A G I A H - - - F P 
+L F T G L T I N P K - L K I H F I V M F V G V N I 
+T F F P Q H F L G L N G M P R R Y S D Y P D A Y T 
+S N V L S S I G S T I S L I A V L G F I V I V E A 
+L V T T R P V L F S L F L P T S I E - - Q H N L P 
+P A D H S Y I E I P L I T N 
+>AncientIonicGreek
+T K R F F S T N H K D I G T L Y F I F G A - - S G 
+M V G T A L R L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L I R G I V E R G V G T G 
+- - T V Y P P L S A R I A H A G A S V D I G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R P V 
+G I S I D R I P L F V A V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V S Q E S G K K E S F G T L G I I Y A 
+I L A I G I L G F I V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A I P T G I K I F - R - L G T 
+L Q G N Q I N Y R P S I I - - A L G F I F L F T V 
+G G L T G V V L A N S S I D T V L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - - Y P 
+L F T G L S I N P K W L K I H F S V I F L G V N L 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y T 
+P N V L S S I G S I I S L C A V I G F V F I I E S 
+L I S S R P V I F S L F Q P T S I E - - K H H Y P 
+P A D H R F I Q I A L I S N 
+>ArmenianWestern
+T Q R L F S T N H K D I G T L Y F I F G A - - S G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L A A G I A H A G A S V D I G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R A S 
+G I T L D R I P L F V S V F I T A L L L L L S L P 
+V L A G A I T M L L T D R N L N T S F F D P A G G 
+G D P I L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H M F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - L G T 
+L H G T Q L N Y S P S L L - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - W F P 
+L F T G L T L N P R - L K M H F L T I F V G V N I 
+T F F P Q H F L G L R G M P R R Y S D Y P D A Y T 
+A N V V S S I G S T I S L I A V L G F V I I V E A 
+L S A N R P V I F S L F L P T S I E - - Q H N L P 
+P A D H S Y I E I P L I T N 
+>Assamese
+T K R F F S T N H K D I G T L Y F I F G A W - A G 
+I V G T S L S L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L T S G I V E R G V G T G 
+- - T V Y P P L S A A I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R P Q 
+G I T L D R I P L F V S V F I T A I L L L L S L P 
+V L A G A I T M L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V S Q E S G K A E S F G T L G I I Y A 
+I L A I G I L G F L V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K I F - R - L G T 
+L H G A Q V N Y R P S L L W - A M G F I F L F T V 
+G G L T G V V L A N S S L D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I T H - - - F P 
+L F T G L S L N P T W L K I H F F V M F V G V N I 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y A 
+A N V L S S M G S I V S L V A V L G F I I I V E S 
+L V S S R S V I F T T F F P T S V E - - E H A Y P 
+P A D H R Y I E I P I V S N 
+>Cornish
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F I V M P I I I G G 
+F G N - L V P L M L G A P D M A F P R I N N M S F 
+W - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A S I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F M T T V I N I R S T 
+G I T I D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - L G T 
+L H G T Q L N Y S P S L I - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S M G A V F G I F A G I A H - - - F P 
+L F T G L T L N P K - L K V H F L V M F I G V N I 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y S 
+A N V V S S I G S T V S L I A V L G F V I I V E A 
+L T V A R P V I F S L F L P T S I E - - Q H N L P 
+P A D H S Y I E I P L I T N 
+>Danish
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V M I F F I V I P I I I G G 
+F G N - L V P L M L G A P D I A F P R M N N I S F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+W - T V Y P P L S A S I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - L G T 
+L H G T Q L N Y S P S L I - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S M G A V F G I F A G I A H - - - F P 
+L F T G L T L N P K - L K I H F L V I F I G V N I 
+T F F P Q H F L G L N G K P R R Y S D Y P D A Y S 
+A N G V S S I G S T V S L I A V L G F V I I V E A 
+L T A A R P V I F S L F L P T S I E - - Q H N L P 
+P A D H S Y I E I P L I T N 
+>EasternFrisianSaterland
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L S L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F I I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- W T V Y P P L S A G I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R M P L F V S I F I T T L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I R Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - L G T 
+L H G T Q L N Y S P S L L - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - - F P 
+L F T G V T L N P K - L K I H F L V I F I G V N I 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y T 
+A N V L S S I G S T I S L I A V L G F I I I V E A 
+L T A T R P I I F S L F L P T S I E - - Q H N F P 
+P A D H R Y I E I P L I T N 
+>Faroese
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L S L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F M V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A G I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R M P L F V S V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G I L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S W L G T 
+L H G T Q L N Y S P S L L - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - - F P 
+L F T G V T L N P K - L K I H F L I I F V G V N I 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y T 
+T N V V S S I G S T I S L I A V L G F I I I V E A 
+L T A A R P V I F S L F L P T S I E - - Q H N F P 
+P A D H S Y I E I P L I T N 
+>Icelandic
+T Q R F F S T N H K D I G T L Y F I F G A - - A G 
+M V G T S L R L I I R A E L G Q P G R F I G D D Q 
+I Y N V V V T A H A F I M I F F M V M P I I I G G 
+F G N - L V P I I L G A P D I A F P R M N N M R F 
+- - - L L P P S L T L L L A G G A V E R G A G T G 
+- - T V Y P P L S V G V A H A G A S V D L S I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S S 
+G I T L D R I P L F V S V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P V G G 
+G D P I L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V A Q E S N K K K P F G A L G M I Y A 
+I L A I G I L G F V V A H H M F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K V F - R - L G T 
+L H G A H F S L T P S L L - W A L G F I F L F T V 
+G G L T G I V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - - F P 
+L F T G I S L N P K - L K I Q F S A I F I G V N T 
+T F F P Q H F L G L R G M P R R Y S D Y P D A Y T 
+T N V V S S I G S S I S L V A V L G F V F I I E G 
+L A S K R P L M F N S F M P T S I E - W Y H S Y P 
+P A D H R Y M E V P I I T A 
+>Irish
+T Q R L F S T N H K D I G T L Y F I F G A - W A G 
+I V G T A L S L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V M I F F I V M P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I S F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A R I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G M I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S W L G T 
+L H G T Q L N Y S P S L I - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - - F P 
+L F T G L T L N P K - L K I H F L V I F V G V N I 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y T 
+A N V V S S I G S T I S L I A V L G F I I I V E A 
+L T A A R P V L F S L F L P T S I E - - Q H N L P 
+P A D H S Y I E I P L I T N 
+>KolschColognian
+T Q R F F S K K Y K D I G T L Y F I F G A - - A G 
+I V G T S L R L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F I V M P I I I G G 
+F G N W L V P I M L G A P D M A F P R M N N I R F 
+- - - L L P P S L T L L L A S G I V E R G V G T G 
+- - T V Y P P L A G A V A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N M R S S 
+G I T F D R M P L F V S V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F A P V G A 
+R D P I N Y H H I F V L D N P E V Y I L I L P A F 
+G M I S H I V S Q E S N K K K P F G A L G I I Y A 
+M L S I G L L G F I V A H H M F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K V F - R - L G T 
+L H G A H F T L T P S L L - W S L G F I F L F T V 
+G G L T G I V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - W - F P 
+L F T G V T L N P K - L K I Q F T A I F I G V N I 
+T F F P Q H F L G L R G I P R R Y S D Y P D A Y S 
+T N V I S S V G S S I S L V A V L L F V F I I E G 
+L A S K R P I L F N S F I P T S I E - - I H P Y P 
+P A D H S Y M E I P L L T A 
+>Manx
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F M V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N M S F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A S I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G M I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - L G T 
+L H G T Q L N Y S P S L I - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - - F P 
+L F T G L T L N P K - L K I H F I V M F V G V N I 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y S 
+A N V V S S I G S T V S L I A V L G F V I I V E A 
+L T V A R P V I F S L F L P T S I E - - Q H N L P 
+P A D H S Y I E I P L I T N 
+>OldPrussian
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F M V I P I M I G G 
+F G N - L V P L I L G A P D M A F P R I N N I S F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A S I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T M D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T M L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T P G M I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - L G T 
+L H G T Q L N Y S P S L I - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - - F P 
+L F T G L T L N P K - L K I H F L V I F I G V N I 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y S 
+A N V V S S I G S T V S L I A V L G F V M I V E A 
+L T A A R P V I F S L F L P T S I E W - Q H N L P 
+P A D H S Y I E I P L I T N 
+>SanskritVedic
+T K R F F S T N H K D I G T L Y F I F G A - - A G 
+I V G T S L S L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I S F 
+- - - L L P P S L T L L L T R G I V E R G V G T G 
+- - T V Y P P L S A A I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R P Q 
+G I T L D R I P L F V S V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V R Q E S G K A E S F G T L G I I Y A 
+I L A I G I L G F L V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K I F - R - L G T 
+L H G A Q V N Y S P S L L - - A I G F I F L F T V 
+G G L T G V V L A N S S L D I I L H D T Y Y V V A 
+H F H Y V L S M G A V F G I F A G I T H W - - Y P 
+L F T G L S L N P T - L K I H F F V I F V G V N I 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y T 
+A N V L S S I G S I V S L V A V L G F I I I V E S 
+L V A S R S V I F S T F F P T S V E - - E H S Y P 
+P A D H R Y I E I P M V S N 
+>Scots
+A Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L S L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F M V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - W L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A G I A H A G A S V D I G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V S V F I T T L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I R Q E S G K K E A F G T L G I I Y A 
+M L A I G I L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - L G T 
+L H G T Q L N Y S P S L L - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - - F P 
+L F T G V T L N P K - L K I H F L T I F V G V N I 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y T 
+A N V L S S I G S T I S L I A V I G F V I I V E A 
+L T A A R P V I F S L F L P T S I E - - Q H S F P 
+P A D H S Y I E I P L I T N 
+>Yiddish
+T Q R F F S T N H K D I G T L Y F I F G A - - A G 
+M V G T S L R L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N M R F 
+- W - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L A A A V A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V S V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V R Q E S G K K E S F G A L G I I Y A 
+I L A I G V L G F V V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K V F S W - L G T 
+L H G T Q I Y F T P S L L - - A L G F I F L F T I 
+G G L T G I V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - - F P 
+L F T G L S L N P K - I K I H F I T I F I G V N I 
+T F F P Q H F L G L R G I P R R Y S D Y P D A Y I 
+T N V V S S V G S T I S L I A V L R F I I I I E A 
+L R S N R S I I F S F F L P T S I E - - H H N Y P 
+P A D H R Y N E I P I I T S 
+
+
+Sequence character woman_cox1aln.fasta#0
+>AlbanianTosk
+TTATATTAGGAGCACCAGATATAGCTTTCCCTCGAATAAATAATATAAGA
+TTTTGACTTCTTCCACCATCTTTAACTTTACTCCTCTCTAGAGGAATAGT
+AGAAAGTGGAGTGGGAACAGGCTGAACTGTCTATCCTCCTTTATCTGCTG
+GAATTGCACATGCTGGTGCCTCAGTAGATTTAGGAATCTTTTCTTTACAC
+CTAGCAGGAGTTTCATCCATCTTAGGGGCCGTAAACTTTATAACTACCGT
+TATCAATATACGAAGAACAGGTATAACAATAGACCGAATTCCTCTTTTTG
+TATGATCTGTATTTATTACAGCCCTTCTTCTCCTTCTTTCCCTCCCAGTC
+>AncientIonicGreek
+TAATATTAGGTGCCCCTGATATAGCTTTTCCACGAATAAATAATATAAGA
+TTTTGACTCCTTCCACCTTCTCTAACTCTTCTTTTAATAAGAGGAATAGT
+TGAAAGAGGTGTAGGAACTGGATGAACTGTTTACCCTCCTTTATCGGCTA
+GAATCGCTCACGCAGGAGCATCTGTAGATATAGGAATTTTCTCCTTACAT
+CTGGCCGGTGTCTCATCAATTCTTGGTGCAGTAAACTTTATAACCACAGT
+TATTAATATACGCCCTGTTGGTATATCAATAGATCGTATACCTTTATTTG
+TTTGAGCCGTATTTATTACAGCTATTCTTTTATTACTATCCTTACCCGTT
+>ArmenianWestern
+TAATATTAGGAGCTCCAGATATAGCTTTCCCTCGAATAAATAATATAAGA
+TTCTGACTCCTCCCTCCCTCTTTAACTCTTTTACTTTCAAGAGGAATAGT
+AGAAAGAGGAGTAGGAACGGGATGAACCGTTTATCCTCCTCTTGCAGCCG
+GAATTGCTCATGCCGGAGCTTCAGTTGATATAGGAATCTTCTCTCTACAT
+TTAGCAGGAGTATCCTCTATTTTAGGGGCCGTAAATTTTATAACAACAGT
+GATTAACATACGGGCATCTGGAATAACATTAGACCGAATACCTTTATTCG
+TGTGATCTGTATTTATTACTGCACTATTATTACTTTTATCACTACCAGTT
+>Assamese
+TAATACTAGGAGCACCGGATATAGCTTTTCCACGAATAAATAATATAAGA
+TTTTGACTTTTACCCCCATCTTTAACTCTTTTATTAACTAGTGGTATAGT
+AGAAAGAGGTGTAGGTACAGGATGAACTGTGTATCCCCCACTTTCCGCAG
+CTATTGCTCACGCCGGAGCATCGGTAGATTTAGGTATTTTTTCTCTACAT
+TTAGCCGGAGTCTCTTCTATTTTAGGGGCTGTAAATTTTATAACGACAGT
+CATTAATATACGACCCCAGGGAATAACCTTAGATCGCATACCTTTATTTG
+TTTGATCTGTATTTATTACTGCGATTCTACTTTTATTATCACTACCTGTT
+>Cornish
+TAATGTTAGGTGCTCCTGATATGGCTTTTCCACGAATAAACAATATGAGT
+TTCTGGCTCCTACCTCCTTCACTAACACTACTTCTTTCTAGAGGTATAGT
+TGAAAGAGGAGTAGGAACAGGATGAACTGTTTACCCTCCTTTATCAGCCA
+GTATTGCTCATGCTGGGGCTTCGGTAGATTTAGGAATTTTCTCCCTACAC
+TTGGCAGGTGTTTCTTCAATTTTAGGAGCTGTAAATTTTATGACAACTGT
+TATTAACATACGATCTACGGGAATAACTATAGACCGAATACCGCTTTTCG
+TTTGAGCAGTATTTATTACAGCATTACTTCTCTTATTATCTCTACCGGTA
+>Danish
+TAATGTTAGGTGCTCCAGATATAGCTTTCCCTCGAATGAATAATATAAGC
+TTCTGACTTTTACCTCCTTCTCTTACCCTTCTTTTATCTAGAGGGATAGT
+TGAAAGAGGTGTTGGAACTGGTTGGACAGTTTATCCTCCACTCTCTGCTA
+GTATTGCCCACGCTGGAGCTTCAGTAGACCTTGGAATCTTTTCCCTACAT
+CTAGCTGGTGTATCTTCTATTCTAGGAGCAGTAAATTTTATAACTACTGT
+AATCAATATACGATCTACAGGAATAACTATAGACCGAATACCTCTTTTTG
+TTTGAGCAGTATTCATTACTGCTTTACTATTACTTCTATCATTACCAGTC
+>EasternFrisianSaterland
+TAATATTAGGAGCTCCTGATATAGCTTTTCCTCGAATAAATAATATAAGA
+TTCTGACTCTTACCTCCATCCCTAACCCTCCTCCTCTCTAGAGGAATAGT
+AGAAAGAGGAGTTGGAACAGGATGGACTGTTTATCCTCCACTGTCAGCCG
+GAATCGCCCACGCAGGAGCCTCTGTAGATTTAGGAATCTTCTCCCTTCAC
+CTAGCAGGAGTTTCTTCAATTCTAGGTGCAGTAAATTTTATAACAACAGT
+AATTAACATACGATCAACAGGAATAACTATAGACCGAATGCCCTTATTTG
+TCTGATCAATCTTTATTACTACCCTTCTCCTCCTTCTATCTCTCCCAGTA
+>Faroese
+TTATATTAGGTGCCCCAGATATAGCTTTCCCCCGAATAAATAATATAAGA
+TTTTGACTCTTACCTCCTTCTCTAACTCTATTACTTTCTAGAGGAATAGT
+AGAAAGAGGAGTAGGAACAGGATGAACTGTTTATCCTCCTTTATCCGCCG
+GAATTGCTCACGCCGGGGCCTCTGTAGACCTAGGTATTTTCTCACTACAC
+TTAGCAGGAGTATCTTCAATTCTAGGAGCAGTAAATTTTATAACAACTGT
+AATTAATATACGGTCAACTGGAATAACTATAGACCGTATGCCTTTATTTG
+TTTGATCAGTATTCATTACCGCTCTCCTTCTCCTCTTATCTCTACCAGTT
+>Icelandic
+TTATACTAGGAGCTCCCGATATAGCTTTCCCCCGAATGAATAACATGAGA
+TTTTGACTTCTTCCCCCATCGCTAACGCTTCTTCTGGCTGGAGGAGCCGT
+AGAAAGAGGAGCTGGAACCGGTTGAACAGTTTATCCGCCTCTTTCGGTGG
+GAGTGGCACACGCTGGTGCGTCAGTGGACTTAAGTATCTTTTCACTACAC
+CTAGCAGGTGTTTCATCCATTCTTGGAGCCGTCAACTTTATTACTACCGT
+CATCAATATACGGTCATCTGGGATAACACTAGATCGAATACCTCTCTTTG
+TTTGATCTGTTTTCATTACAGCTATCCTATTACTTCTTTCGCTCCCAGTG
+>Irish
+TAATATTAGGAGCACCTGATATAGCATTCCCACGAATAAATAATATAAGC
+TTTTGACTGCTACCTCCTTCTCTCACCCTTCTTCTATCTAGAGGAATAGT
+TGAAAGAGGAGTTGGAACAGGATGAACTGTATATCCTCCCCTATCAGCTA
+GAATCGCACATGCAGGGGCCTCTGTAGATTTGGGAATTTTTTCATTGCAT
+TTAGCAGGAGTTTCATCAATTCTAGGGGCCGTAAATTTCATAACAACTGT
+AATTAATATACGATCTACAGGTATAACTATAGACCGAATACCGTTATTCG
+TCTGAGCAGTTTTTATTACAGCGCTCTTACTCCTTTTATCTTTACCCGTT
+>KolschColognian
+TTATGTTAGGTGCCCCAGATATGGCATTTCCCCGAATGAATAACATAAGA
+TTCTGACTTTTACCTCCCTCTCTAACGCTTCTTCTAGCTAGTGGTATAGT
+GGAGAGGGGAGTAGGAACTGGCTGAACAGTTTATCCCCCTCTAGCAGGGG
+CAGTGGCCCATGCCGGAGCATCAGTAGATTTGGGTATTTTCTCCCTCCAT
+CTTGCCGGTGTGTCATCAATTCTAGGAGCCGTAAATTTTATTACAACAGT
+AATTAATATGCGGTCTTCAGGTATAACATTCGACCGAATGCCTCTATTTG
+TATGATCTGTGTTTATTACTGCCATTTTACTTCTACTTTCTCTTCCCGTA
+>Manx
+TAATATTAGGTGCTCCCGATATAGCTTTCCCTCGAATAAATAATATGAGT
+TTCTGACTTTTACCTCCCTCGCTAACTCTACTTCTTTCTAGAGGTATAGT
+CGAAAGAGGGGTAGGAACAGGATGAACTGTTTACCCTCCTCTATCTGCCA
+GCATTGCCCATGCAGGAGCATCTGTAGATCTAGGAATCTTCTCATTACAT
+TTAGCAGGGGTTTCTTCAATTCTAGGTGCTGTAAATTTTATAACTACCGT
+TATCAATATACGATCAACAGGAATAACTATAGACCGAATACCTCTTTTCG
+TCTGAGCGGTATTTATTACAGCCTTACTACTTTTACTATCATTACCGGTT
+>OldPrussian
+TAATACTAGGTGCCCCGGATATGGCTTTCCCTCGAATAAATAACATAAGT
+TTCTGACTTTTACCCCCATCTCTCACTCTCCTCTTATCTAGAGGAATAGT
+AGAAAGAGGTGTAGGAACTGGATGAACTGTATATCCTCCTTTATCTGCAA
+GTATTGCCCATGCGGGAGCTTCCGTTGATCTCGGAATCTTCTCACTACAC
+TTAGCAGGTGTATCATCAATTTTAGGTGCCGTAAATTTTATAACAACTGT
+TATCAATATACGATCTACCGGAATAACTATGGACCGGATACCTCTTTTTG
+TTTGAGCAGTATTTATTACTGCTTTACTTTTACTACTGTCCTTACCAGTT
+>SanskritVedic
+TAATATTAGGAGCACCAGATATAGCATTTCCACGAATAAATAATATAAGT
+TTTTGACTTCTACCCCCCTCTTTAACTCTTTTATTAACTAGAGGTATAGT
+AGAAAGAGGAGTAGGAACAGGATGAACTGTTTACCCACCACTATCCGCAG
+CAATTGCACATGCAGGAGCATCAGTGGATTTAGGTATTTTTTCTTTGCAT
+TTGGCTGGAGTATCTTCTATTTTAGGGGCTGTAAATTTTATAACTACAGT
+TATTAATATACGTCCACAAGGAATAACCTTAGACCGTATACCTTTATTTG
+TGTGATCCGTATTTATTACTGCAATTCTACTTTTATTATCACTACCAGTT
+>Scots
+TTATACTTGGTGCCCCTGATATAGCTTTCCCCCGTATAAATAATATAAGA
+TTTTGGCTTCTTCCCCCATCTTTAACTCTTCTTCTTTCCAGAGGAATAGT
+AGAAAGAGGGGTAGGAACAGGATGAACTGTTTACCCTCCTTTGTCTGCTG
+GAATCGCCCACGCCGGAGCTTCTGTTGATATAGGAATTTTCTCTCTCCAT
+CTTGCCGGAGTTTCTTCAATTTTAGGGGCAGTAAATTTTATAACAACTGT
+TATTAATATACGTTCAACAGGAATAACTATAGACCGAATCCCCCTTTTTG
+TGTGATCAGTGTTTATTACTACCCTTCTTCTACTTTTATCCCTTCCAGTC
+>Yiddish
+TAATACTTGGAGCCCCAGATATAGCTTTCCCTCGAATAAATAACATGAGA
+TTTTGGTTGCTACCTCCTTCTCTAACCCTTCTTCTATCAAGAGGAATAGT
+TGAAAGAGGTGTAGGAACTGGCTGAACAGTTTATCCTCCCTTAGCAGCCG
+CCGTCGCTCATGCCGGAGCATCCGTAGATTTAGGTATTTTTTCACTTCAT
+CTTGCAGGAGTTTCTTCAATCCTAGGAGCAGTAAATTTCATAACAACTGT
+AATTAATATACGGTCAACTGGGATAACTATAGACCGCATACCCTTATTTG
+TCTGATCTGTTTTTATCACCGCAATTTTACTTCTTCTATCTCTACCTGTC
+
+
+Sequence character woman_cox1_spaced.fastc#0
+>AlbanianTosk
+T T A T A T T A G G A G C A C C A G A T A T A G C 
+T T T C C C T C G A A T A A A T A A T A T A A G A 
+T T T T G A C T T CT T C C A C C A T C T T T A A C
+ T T T A C T C C T C T C T A G A G G A A T A G T A
+ G A A A G T G G A G T G G G A A C A GG C T G A A 
+C T G T C T A T C C T C C T T T A T C T G C T G G 
+A A T T G C A C A T G C T G G T G C C T C A G T A 
+G A T TT A G G A A T C T T T T C T T T A C A C C T
+ A G C A G G A G T T T C A T C C A T C T T A G G G
+ G C C G T A A A C T T T AT A A C T A C C G T T A 
+T C A A T A T A C G A A G A A C A G G T A T A A C 
+A A T A G A C C G A A T T C C T C T T T T T GT A T
+ G A T C T G T A T T T A T T A C A G C C C T T C T
+ T C T C C T T C T T T C C C T C C C A G T C 
+>AncientIonicGreek
+T A A T A T T A G G T G C C C C T G A T A T A G C 
+T T T T C C A C G A A T A A A T A A T A T A A G A 
+T T T T G A C T C CT T C C A C C T T C T C T A A C
+ T C T T C T T T T A A T A A G A G G A A T A G T T
+ G A A A G A G G T G T A G G A A C T GG A T G A A 
+C T G T T T A C C C T C C T T T A T C G G C T A G 
+A A T C G C T C A C G C A G G A G C A T C T G T A 
+G A T AT A G G A A T T T T C T C C T T A C A T C T
+ G G C C G G T G T C T C A T C A A T T C T T G G T
+ G C A G T A A A C T T T AT A A C C A C A G T T A 
+T T A A T A T A C G C C C T G T T G G T A T A T C 
+A A T A G A T C G T A T A C C T T T A T T T GT T T
+ G A G C C G T A T T T A T T A C A G C T A T T C T
+ T T T A T T A C T A T C C T T A C C C G T T 
+>ArmenianWestern
+T A A T A T T A G G A G C T C C A G A T A T A G C 
+T T T C C C T C G A A T A A A T A A T A T A A G A 
+T T C T G A C T C CT C C C T C C C T C T T T A A C
+ T C T T T T A C T T T C A A G A G G A A T A G T A
+ G A A A G A G G A G T A G G A A C G GG A T G A A 
+C C G T T T A T C C T C C T C T T G C A G C C G G 
+A A T T G C T C A T G C C G G A G C T T C A G T T 
+G A T AT A G G A A T C T T C T C T C T A C A T T T
+ A G C A G G A G T A T C C T C T A T T T T A G G G
+ G C C G T A A A T T T T AT A A C A A C A G T G A 
+T T A A C A T A C G G G C A T C T G G A A T A A C 
+A T T A G A C C G A A T A C C T T T A T T C GT G T
+ G A T C T G T A T T T A T T A C T G C A C T A T T
+ A T T A C T T T T A T C A C T A C C A G T T 
+>Assamese
+T A A T A C T A G G A G C A C C G G A T A T A G C 
+T T T T C C A C G A A T A A A T A A T A T A A G A 
+T T T T G A C T T TT A C C C C C A T C T T T A A C
+ T C T T T T A T T A A C T A G T G G T A T A G T A
+ G A A A G A G G T G T A G G T A C A GG A T G A A 
+C T G T G T A T C C C C C A C T T T C C G C A G C 
+T A T T G C T C A C G C C G G A G C A T C G G T A 
+G A T TT A G G T A T T T T T T C T C T A C A T T T
+ A G C C G G A G T C T C T T C T A T T T T A G G G
+ G C T G T A A A T T T T AT A A C G A C A G T C A 
+T T A A T A T A C G A C C C C A G G G A A T A A C 
+C T T A G A T C G C A T A C C T T T A T T T GT T T
+ G A T C T G T A T T T A T T A C T G C G A T T C T
+ A C T T T T A T T A T C A C T A C C T G T T 
+>Cornish
+T A A T G T T A G G T G C T C C T G A T A T G G C 
+T T T T C C A C G A A T A A A C A A T A T G A G T 
+T T C T G G C T C CT A C C T C C T T C A C T A A C
+ A C T A C T T C T T T C T A G A G G T A T A G T T
+ G A A A G A G G A G T A G G A A C A GG A T G A A 
+C T G T T T A C C C T C C T T T A T C A G C C A G 
+T A T T G C T C A T G C T G G G G C T T C G G T A 
+G A T TT A G G A A T T T T C T C C C T A C A C T T
+ G G C A G G T G T T T C T T C A A T T T T A G G A
+ G C T G T A A A T T T T AT G A C A A C T G T T A 
+T T A A C A T A C G A T C T A C G G G A A T A A C 
+T A T A G A C C G A A T A C C G C T T T T C GT T T
+ G A G C A G T A T T T A T T A C A G C A T T A C T
+ T C T C T T A T T A T C T C T A C C G G T A 
+>Danish
+T A A T G T T A G G T G C T C C A G A T A T A G C 
+T T T C C C T C G A A T G A A T A A T A T A A G C 
+T T C T G A C T T TT A C C T C C T T C T C T T A C
+ C C T T C T T T T A T C T A G A G G G A T A G T T
+ G A A A G A G G T G T T G G A A C T GG T T G G A 
+C A G T T T A T C C T C C A C T C T C T G C T A G 
+T A T T G C C C A C G C T G G A G C T T C A G T A 
+G A C CT T G G A A T C T T T T C C C T A C A T C T
+ A G C T G G T G T A T C T T C T A T T C T A G G A
+ G C A G T A A A T T T T AT A A C T A C T G T A A 
+T C A A T A T A C G A T C T A C A G G A A T A A C 
+T A T A G A C C G A A T A C C T C T T T T T GT T T
+ G A G C A G T A T T C A T T A C T G C T T T A C T
+ A T T A C T T C T A T C A T T A C C A G T C 
+>EasternFrisianSaterland
+T A A T A T T A G G A G C T C C T G A T A T A G C 
+T T T T C C T C G A A T A A A T A A T A T A A G A 
+T T C T G A C T C TT A C C T C C A T C C C T A A C
+ C C T C C T C C T C T C T A G A G G A A T A G T A
+ G A A A G A G G A G T T G G A A C A GG A T G G A 
+C T G T T T A T C C T C C A C T G T C A G C C G G 
+A A T C G C C C A C G C A G G A G C C T C T G T A 
+G A T TT A G G A A T C T T C T C C C T T C A C C T
+ A G C A G G A G T T T C T T C A A T T C T A G G T
+ G C A G T A A A T T T T AT A A C A A C A G T A A 
+T T A A C A T A C G A T C A A C A G G A A T A A C 
+T A T A G A C C G A A T G C C C T T A T T T GT C T
+ G A T C A A T C T T T A T T A C T A C C C T T C T
+ C C T C C T T C T A T C T C T C C C A G T A 
+>Faroese
+T T A T A T T A G G T G C C C C A G A T A T A G C 
+T T T C C C C C G A A T A A A T A A T A T A A G A 
+T T T T G A C T C TT A C C T C C T T C T C T A A C
+ T C T A T T A C T T T C T A G A G G A A T A G T A
+ G A A A G A G G A G T A G G A A C A GG A T G A A 
+C T G T T T A T C C T C C T T T A T C C G C C G G 
+A A T T G C T C A C G C C G G G G C C T C T G T A 
+G A C CT A G G T A T T T T C T C A C T A C A C T T
+ A G C A G G A G T A T C T T C A A T T C T A G G A
+ G C A G T A A A T T T T AT A A C A A C T G T A A 
+T T A A T A T A C G G T C A A C T G G A A T A A C 
+T A T A G A C C G T A T G C C T T T A T T T GT T T
+ G A T C A G T A T T C A T T A C C G C T C T C C T
+ T C T C C T C T T A T C T C T A C C A G T T 
+>Icelandic
+T T A T A C T A G G A G C T C C C G A T A T A G C 
+T T T C C C C C G A A T G A A T A A C A T G A G A 
+T T T T G A C T T CT T C C C C C A T C G C T A A C
+ G C T T C T T C T G G C T G G A G G A G C C G T A
+ G A A A G A G G A G C T G G A A C C GG T T G A A 
+C A G T T T A T C C G C C T C T T T C G G T G G G 
+A G T G G C A C A C G C T G G T G C G T C A G T G 
+G A C TT A A G T A T C T T T T C A C T A C A C C T
+ A G C A G G T G T T T C A T C C A T T C T T G G A
+ G C C G T C A A C T T T AT T A C T A C C G T C A 
+T C A A T A T A C G G T C A T C T G G G A T A A C 
+A C T A G A T C G A A T A C C T C T C T T T GT T T
+ G A T C T G T T T T C A T T A C A G C T A T C C T
+ A T T A C T T C T T T C G C T C C C A G T G 
+>Irish
+T A A T A T T A G G A G C A C C T G A T A T A G C 
+A T T C C C A C G A A T A A A T A A T A T A A G C 
+T T T T G A C T G CT A C C T C C T T C T C T C A C
+ C C T T C T T C T A T C T A G A G G A A T A G T T
+ G A A A G A G G A G T T G G A A C A GG A T G A A 
+C T G T A T A T C C T C C C C T A T C A G C T A G 
+A A T C G C A C A T G C A G G G G C C T C T G T A 
+G A T TT G G G A A T T T T T T C A T T G C A T T T
+ A G C A G G A G T T T C A T C A A T T C T A G G G
+ G C C G T A A A T T T C AT A A C A A C T G T A A 
+T T A A T A T A C G A T C T A C A G G T A T A A C 
+T A T A G A C C G A A T A C C G T T A T T C GT C T
+ G A G C A G T T T T T A T T A C A G C G C T C T T
+ A C T C C T T T T A T C T T T A C C C G T T 
+>KolschColognian
+T T A T G T T A G G T G C C C C A G A T A T G G C 
+A T T T C C C C G A A T G A A T A A C A T A A G A 
+T T C T G A C T T TT A C C T C C C T C T C T A A C
+ G C T T C T T C T A G C T A G T G G T A T A G T G
+ G A G A G G G G A G T A G G A A C T GG C T G A A 
+C A G T T T A T C C C C C T C T A G C A G G G G C 
+A G T G G C C C A T G C C G G A G C A T C A G T A 
+G A T TT G G G T A T T T T C T C C C T C C A T C T
+ T G C C G G T G T G T C A T C A A T T C T A G G A
+ G C C G T A A A T T T T AT T A C A A C A G T A A 
+T T A A T A T G C G G T C T T C A G G T A T A A C 
+A T T C G A C C G A A T G C C T C T A T T T GT A T
+ G A T C T G T G T T T A T T A C T G C C A T T T T
+ A C T T C T A C T T T C T C T T C C C G T A 
+>Manx
+T A A T A T T A G G T G C T C C C G A T A T A G C 
+T T T C C C T C G A A T A A A T A A T A T G A G T 
+T T C T G A C T T TT A C C T C C C T C G C T A A C
+ T C T A C T T C T T T C T A G A G G T A T A G T C
+ G A A A G A G G G G T A G G A A C A GG A T G A A 
+C T G T T T A C C C T C C T C T A T C T G C C A G 
+C A T T G C C C A T G C A G G A G C A T C T G T A 
+G A T CT A G G A A T C T T C T C A T T A C A T T T
+ A G C A G G G G T T T C T T C A A T T C T A G G T
+ G C T G T A A A T T T T AT A A C T A C C G T T A 
+T C A A T A T A C G A T C A A C A G G A A T A A C 
+T A T A G A C C G A A T A C C T C T T T T C GT C T
+ G A G C G G T A T T T A T T A C A G C C T T A C T
+ A C T T T T A C T A T C A T T A C C G G T T 
+>OldPrussian
+T A A T A C T A G G T G C C C C G G A T A T G G C 
+T T T C C C T C G A A T A A A T A A C A T A A G T 
+T T C T G A C T T TT A C C C C C A T C T C T C A C
+ T C T C C T C T T A T C T A G A G G A A T A G T A
+ G A A A G A G G T G T A G G A A C T GG A T G A A 
+C T G T A T A T C C T C C T T T A T C T G C A A G 
+T A T T G C C C A T G C G G G A G C T T C C G T T 
+G A T CT C G G A A T C T T C T C A C T A C A C T T
+ A G C A G G T G T A T C A T C A A T T T T A G G T
+ G C C G T A A A T T T T AT A A C A A C T G T T A 
+T C A A T A T A C G A T C T A C C G G A A T A A C 
+T A T G G A C C G G A T A C C T C T T T T T GT T T
+ G A G C A G T A T T T A T T A C T G C T T T A C T
+ T T T A C T A C T G T C C T T A C C A G T T 
+>SanskritVedic
+T A A T A T T A G G A G C A C C A G A T A T A G C 
+A T T T C C A C G A A T A A A T A A T A T A A G T 
+T T T T G A C T T CT A C C C C C C T C T T T A A C
+ T C T T T T A T T A A C T A G A G G T A T A G T A
+ G A A A G A G G A G T A G G A A C A GG A T G A A 
+C T G T T T A C C C A C C A C T A T C C G C A G C 
+A A T T G C A C A T G C A G G A G C A T C A G T G 
+G A T TT A G G T A T T T T T T C T T T G C A T T T
+ G G C T G G A G T A T C T T C T A T T T T A G G G
+ G C T G T A A A T T T T AT A A C T A C A G T T A 
+T T A A T A T A C G T C C A C A A G G A A T A A C 
+C T T A G A C C G T A T A C C T T T A T T T GT G T
+ G A T C C G T A T T T A T T A C T G C A A T T C T
+ A C T T T T A T T A T C A C T A C C A G T T 
+>Scots
+T T A T A C T T G G T G C C C C T G A T A T A G C 
+T T T C C C C C G T A T A A A T A A T A T A A G A 
+T T T T G G C T T CT T C C C C C A T C T T T A A C
+ T C T T C T T C T T T C C A G A G G A A T A G T A
+ G A A A G A G G G G T A G G A A C A GG A T G A A 
+C T G T T T A C C C T C C T T T G T C T G C T G G 
+A A T C G C C C A C G C C G G A G C T T C T G T T 
+G A T AT A G G A A T T T T C T C T C T C C A T C T
+ T G C C G G A G T T T C T T C A A T T T T A G G G
+ G C A G T A A A T T T T AT A A C A A C T G T T A 
+T T A A T A T A C G T T C A A C A G G A A T A A C 
+T A T A G A C C G A A T C C C C C T T T T T GT G T
+ G A T C A G T G T T T A T T A C T A C C C T T C T
+ T C T A C T T T T A T C C C T T C C A G T C 
+>Yiddish
+T A A T A C T T G G A G C C C C A G A T A T A G C 
+T T T C C C T C G A A T A A A T A A C A T G A G A 
+T T T T G G T T G CT A C C T C C T T C T C T A A C
+ C C T T C T T C T A T C A A G A G G A A T A G T T
+ G A A A G A G G T G T A G G A A C T GG C T G A A 
+C A G T T T A T C C T C C C T T A G C A G C C G C 
+C G T C G C T C A T G C C G G A G C A T C C G T A 
+G A T TT A G G T A T T T T T T C A C T T C A T C T
+ T G C A G G A G T T T C T T C A A T C C T A G G A
+ G C A G T A A A T T T C AT A A C A A C T G T A A 
+T T A A T A T A C G G T C A A C T G G G A T A A C 
+T A T A G A C C G C A T A C C C T T A T T T GT C T
+ G A T C T G T T T T T A T C A C C G C A A T T T T
+ A C T T C T T C T A T C T C T A C C T G T C 
+
+Implied Alignments for Graph 2
+
+Sequence character woman.fastc#0
+>AlbanianTosk
+- - - - - - - - - - - - - - ɡ - - \textfishhookr -
+ u - - - a 
+>AncientIonicGreek
+- - - - - - - - - - - - - - ɡ - - \”u - n - e - \t
+extlengthmark 
+>ArmenianWestern
+- - - - - - - - - - - - - - ɡ - - i - n - - - - 
+>Assamese
+m a \textsci k i - - - - - - - - - m - - a - n u -
+ - \textsuperscript{\texthth} 
+>Cornish
+- - - - - - - - - - - - - - b - - \textepsilon n j
+ - - - n 
+>Danish
+- - - - - - - - - \textprimstress k \textsuperscri
+pt{h} - - v - - e - n - - - \textschwa 
+>EasternFrisianSaterland
+- - - - - - - - - - - - - - v - - i\texthalflength
+ - \textupsilon - - - v 
+>Faroese
+- - - - - - - - - - - - - k o - - \textlengthmark 
+- n - - - a 
+>Icelandic
+- - \textprimstress k - - - - - - - - - - \textsup
+erscript{h} - - \textopeno - n - - - a 
+>Irish
+- - - - - - - - - - - - b \textsuperscript{j} \ae 
+- - \textlengthmark - n - - \textsubbridge \textsu
+perscript{\textgamma} 
+>KolschColognian
+- - - - - - - - - - - - - - v - - e\textlengthmark
+ - z - - - h 
+>Manx
+- - - - - - - - - - - - - - b - - \textepsilon - \
+textsuperscript{d} - - - n 
+>OldPrussian
+- - - - - - - - - - - - - - v i\textlengthmark r i
+ - n - - - a 
+>SanskritVedic
+- - - - - s \textsubbridge - - - - - - - t - - \te
+xtsubbridge - \textrtailr - i - \textlengthmark 
+>Scots
+- - - - - - - w \textturnv - - - - - m - - m - \te
+xtscripta - - - n 
+>Yiddish
+- - - - - - - - - - - - - - - - - f - \textscr - -
+ - \textopenoj 
+
+
+Sequence character woman_binary.fasta#0
+>AlbanianTosk
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 1 - 1 - 1 0 
+1 1 - 1 1 1 0 1 0 - - 1 1 0 1 1 1 1 0 0 1 1 1 1 1 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 0 - 1 1 1 0 - 
+0 - - 0 - 1 0 - 1 1 1 0 - 1 0 1 1 1 1 1 - 1 1 1 1 
+- 1 0 1 1 1 1 1 - 1 1 1 - 0 1 1 1 1 1 0 1 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 1 1 0 1 - 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 - 0 0 1 1 1 1 1 0 - 1 0 0 1 0 - 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - - 1 1 0 1 0 1 0 0 - 1 - 1 1 1 1 1 1 1 1 0 
+1 0 1 1 0 - 1 0 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
+>AncientIonicGreek
+0 1 1 1 0 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 - 1 - 1 1 
+1 1 0 0 1 1 1 1 0 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 1 0 - 
+1 - 1 0 1 0 0 - 1 1 0 1 - 1 - 1 1 1 - 1 - 1 1 1 1 
+- 0 1 1 - - 1 1 - 1 1 1 0 - 1 0 1 1 0 0 0 0 1 1 1 
+0 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 
+0 1 1 - 1 0 1 - 1 1 1 0 1 1 0 1 1 0 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 0 0 0 0 0 1 0 1 1 1 1 1 - 1 1 1 1 
+1 1 1 1 0 0 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 1 0 1 1 1 1 0 0 - - - 1 1 1 - 0 1 1 1 1 1 
+1 1 0 0 0 1 1 1 0 - 1 1 1 1 0 0 0 0 0 1 0 1 1 1 1 
+1 1 0 - - 1 1 - 1 1 1 0 1 1 1 - 1 1 1 1 1 1 1 1 0 
+1 1 1 1 1 0 - 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 
+1 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 1 1 1 - 1 
+1 0 - - 1 1 0 1 1 1 1 1 0 - 1 1 1 1 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 0 1 1 0 1 
+1 0 0 1 0 0 
+>ArmenianWestern
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 0 0 1 - 1 - 1 0 
+0 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 0 1 1 0 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+0 - - 0 - 0 0 - 1 0 1 1 - 1 0 1 1 1 0 1 - 1 0 1 1 
+- 1 0 0 0 1 1 1 - 1 1 1 - 0 1 1 1 1 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 0 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 0 0 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 - 0 0 1 1 1 1 0 0 - 1 - 1 1 1 - 0 1 1 0 1 1 
+1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - 1 1 1 0 1 1 1 0 - - 1 - 1 1 1 1 1 1 1 1 0 
+0 0 1 1 1 - 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
+>Assamese
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 - 1 - 1 1 
+1 1 - 1 1 1 1 1 1 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
+- 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 - 1 0 - 
+1 0 0 0 1 1 1 - 1 1 1 1 - 1 - 1 1 1 - 1 - 1 1 1 1 
+- 0 1 1 - - 1 1 - 1 1 1 - - 1 1 1 1 1 1 1 1 1 1 1 
+1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 
+1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 1 
+0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 1 0 1 1 1 1 1 1 - - - 1 1 0 - 0 1 0 0 1 1 
+1 1 0 0 0 1 1 1 0 - 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - - - 1 - 1 1 1 0 1 1 1 - 1 1 1 1 1 1 1 1 - 
+1 1 1 1 1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 
+1 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 
+1 0 - - 0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 0 0 0 0 0 1 1 0 0 
+0 0 1 1 1 0 
+>Cornish
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 1 - 
+1 - - 0 - 0 1 - 1 1 1 1 - 1 0 1 1 1 0 1 - 0 1 1 1 
+- 1 0 1 0 1 0 1 - 1 1 1 - 0 1 1 1 1 1 0 1 0 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 - 0 0 1 1 1 1 1 0 1 1 - 1 1 0 - 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - 1 1 1 - 1 0 1 0 1 - 1 - 1 1 1 1 1 1 1 1 0 
+1 1 0 1 0 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
+>Danish
+0 1 1 1 1 1 1 0 0 1 1 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - - 0 - 0 1 - 1 1 1 1 - 1 0 1 1 1 0 1 - 1 1 1 1 
+- 1 0 1 0 1 1 1 - 1 1 1 - 1 1 1 1 1 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 - 0 0 1 1 1 1 0 0 1 1 - 1 1 0 - 1 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 1 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - 1 1 1 - 1 0 1 0 1 - 1 - 1 1 1 1 1 0 1 1 0 
+1 1 0 1 1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
+>EasternFrisianSaterland
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 1 - 1 0 1 1 
+0 1 - 1 1 1 1 1 1 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - 0 0 1 1 0 - 1 1 1 1 - 1 0 1 1 1 - 1 - 0 1 1 1 
+- 0 1 1 0 - 1 1 - 1 1 1 - 0 1 1 1 1 1 0 0 1 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 0 1 1 1 1 1 1 - - - 1 1 0 - 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - - 1 1 - 1 0 1 1 1 0 1 - 1 1 1 1 1 1 1 1 0 
+1 0 1 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
+>Faroese
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 0 1 1 
+1 1 - 1 1 1 1 1 1 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - 0 0 1 0 0 - 1 1 1 1 - 1 0 1 1 1 - 0 - 1 1 1 1 
+- 0 0 0 0 - 1 1 - 1 1 1 - 0 1 1 1 1 1 0 0 1 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 0 0 1 1 1 0 0 - - - 1 1 0 - 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - - 1 1 - 1 1 1 0 1 0 0 - 1 1 1 1 1 0 1 1 0 
+0 0 1 0 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
+>Icelandic
+0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 0 1 - 1 - 1 1 
+1 1 - 0 - 0 1 1 0 1 - 1 0 0 1 1 1 1 1 0 1 1 1 1 0 
+0 0 1 0 0 1 1 0 0 0 0 0 0 1 1 1 0 1 0 - 1 - 1 0 - 
+0 - 0 0 1 1 0 - 1 1 0 1 0 1 - 1 1 1 - 1 1 1 1 1 1 
+- 1 1 1 1 - 1 1 0 0 1 1 - - 1 1 1 1 1 0 0 1 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 - 1 1 1 - 1 1 1 1 0 0 1 1 1 0 1 1 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 1 1 
+0 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 0 1 1 0 1 0 - - - 1 0 1 - 0 1 1 1 0 1 
+1 1 0 0 0 1 1 1 0 - 1 0 1 1 0 1 1 0 0 1 1 1 1 1 1 
+1 1 0 1 - 1 1 - 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 0 
+0 1 1 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 
+0 1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 
+1 0 1 1 1 1 1 1 1 1 1 0 1 - 1 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 0 1 0 0 
+>Irish
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - - 0 1 0 0 - - 0 1 1 - 1 0 1 1 1 0 1 - 1 1 1 1 
+0 0 0 1 0 - 0 1 - 1 1 1 - 0 1 1 1 0 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 0 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 0 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 0 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 - 0 0 1 1 1 1 0 0 - - - 1 1 0 1 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+0 1 0 - 1 1 1 - 1 1 1 0 1 - 1 - 1 1 1 1 1 1 1 1 0 
+1 1 1 1 1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 0 1 0 0 
+>KolschColognian
+0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 1 1 0 0 - 1 1 
+1 1 - 1 - 1 1 1 0 - - 1 0 0 1 1 1 1 1 0 0 1 1 1 0 
+0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 0 0 - 
+1 - 1 0 1 0 0 - 1 1 0 1 0 1 - 1 0 0 - 1 0 1 1 1 1 
+- 1 1 1 0 - 1 1 0 1 1 1 - - 1 1 1 1 1 0 0 1 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 1 1 
+0 1 1 0 0 1 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 0 1 1 - - - 1 1 1 - 0 1 1 1 1 1 
+1 1 0 0 0 1 1 1 0 - 1 0 1 1 0 1 1 0 0 1 1 1 0 1 1 
+1 1 0 1 - 1 1 - 1 1 1 1 1 1 0 - 1 1 1 1 1 1 1 1 0 
+0 1 1 1 1 - 1 1 0 0 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 
+0 1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 
+1 0 1 1 1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 0 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 0 1 0 0 
+>Manx
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 1 - 
+1 - - 0 - 0 1 - 1 0 1 1 - 1 0 1 1 1 0 1 - 1 1 1 1 
+- 1 0 1 0 1 0 1 - 1 1 1 - 0 1 1 1 1 1 0 1 0 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 - 0 0 1 1 1 1 1 0 1 1 - 0 1 0 - 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - 1 1 1 - 0 1 1 0 1 - 1 - 1 1 1 1 1 1 1 1 0 
+1 1 0 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
+>OldPrussian
+0 1 1 1 1 1 1 0 0 1 1 0 0 1 1 0 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 1 0 1 1 1 1 0 1 1 0 1 1 0 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - - 0 - 0 1 - 0 1 1 1 - 1 0 1 1 1 0 1 - 1 1 1 1 
+- 1 0 1 0 1 1 1 - 1 1 1 - 1 1 1 1 1 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 - 0 0 1 1 1 1 0 0 1 1 - 1 1 0 - 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 1 0 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - 1 1 1 - 0 1 1 0 1 - 1 - 1 1 1 1 1 1 1 1 0 
+1 1 0 1 1 - 1 1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 1 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
+>SanskritVedic
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 1 1 1 - 1 - 1 1 
+1 1 - 1 1 0 1 1 1 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
+- 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 - 1 0 - 
+1 0 0 0 1 1 1 - 1 1 1 1 - 1 - 1 1 1 - 1 - 1 1 1 1 
+- 0 1 1 - - 1 1 - 1 1 1 - - 1 1 1 1 1 1 1 1 1 1 1 
+1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 
+1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 1 
+0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0 0 
+1 1 1 1 0 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 1 1 1 1 1 1 1 1 - - - 1 1 0 - 0 1 0 0 1 1 
+1 1 0 0 0 1 1 1 0 - 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - - - 1 - 1 1 1 1 1 1 1 - 1 1 1 1 1 1 1 1 - 
+1 1 1 1 1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 
+1 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 
+1 0 - - 0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 1 1 0 1 0 0 0 0 0 1 1 0 0 
+0 0 1 1 1 0 
+>Scots
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 0 1 1 1 1 1 - 1 0 1 1 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - 0 0 1 1 1 - 1 1 1 1 - 1 0 1 1 1 - 1 - 0 1 1 1 
+- 0 0 1 0 - 1 1 - 1 1 1 - 0 1 1 1 1 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 1 0 1 - - - 1 1 0 - 0 1 1 0 1 1 
+1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - - 1 1 - 1 0 1 0 0 0 0 - 1 1 1 1 1 1 1 1 0 
+0 0 0 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
+>Yiddish
+0 1 1 1 0 1 0 1 0 1 1 0 0 - - 1 1 1 1 1 - 1 - 1 1 
+1 0 - 0 - 1 1 1 0 - - 1 1 0 1 1 0 1 1 0 1 1 1 1 - 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 1 0 1 
+1 - 0 0 1 1 0 1 1 1 0 1 - 1 - 1 1 1 - 1 0 1 1 1 1 
+- 1 1 1 0 - 1 1 - 1 1 1 - - 1 1 1 1 1 0 1 1 1 1 1 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 
+0 1 1 - 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 
+1 1 0 1 0 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 
+0 1 1 1 0 1 0 0 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 0 0 
+1 1 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 1 1 1 1 1 1 0 1 - - - 1 1 1 - 0 1 1 1 1 1 
+1 1 0 0 1 1 1 1 0 - 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 
+1 1 0 - - 1 1 - 1 1 1 1 1 1 0 - 1 1 1 1 1 1 1 1 0 
+1 1 1 1 1 - 1 1 0 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 1 
+0 1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 
+1 0 - - 1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 1 0 
+
+
+Sequence character woman_12Saln.fasta#0
+>AlbanianTosk
+GTTTTATCCTGGCTTA-TTTTT-TC-ATTTTCAGATTTGTGCCAGCAGCC
+GCGGTTACACTAAGG-GACA-AACTGAAA-TGTTAAGATAAAGTTATGAA
+CCAGGATTAGATACCCTGTAGTTATTGTCTTAAAACTCAAAGGATTTGGC
+GGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAAACGATAAACCACGT
+AAAATCTTACCCTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+TTATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>AncientIonicGreek
+GTTTGATTTTTGCTTATTTATT-TT-ACGTTTAGTTTTGTGCCAGCAGCC
+GCGGTTATACTTGAAGAGCA--AGTAAAA-TGTAAAGTCTAGGGCATAGA
+CTAGGATTAGATACCCT-AAGTTATGTTCTTGAAAATAAAAAAATTTGGC
+GGT-GTTTAATTTATTTAGGGGAACCTGTTTTATAATCGATACACCACGA
+AGAATCTTACTTACTTCATGTATACCGTTATTATTAGATCAAGGTGCAGA
+CTATGATATAAATACTTAAACATGTACATATCGCCCGTCGCTTTTACA-T
+---CTTAATGTAAAATAAGTCGTAACATAGTAGCTGTATCGGAAGATGCA
+GC
+>ArmenianWestern
+GTTTTATCCTGGCTTA-TCCTT-TCGATTTT-AGATTTGTGCCAGCAGCC
+GCGGTTATACTGAGG-GGCA-GATTGAAA-TATTAAGATAAAGGTATGAA
+CCAGGATTAGATACCCTGCAGTTATTGGCTTGAAACTCAAAGGATTTGGC
+GGTAGCTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAATCCACGA
+AAAATCTCACTTTACGCTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+TTATGATTGTAGCTCTAAGCTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Assamese
+GTTTGATTCTTGCTTA-TGATT-TT-TATATTATATTTGTGCCAGCAGTC
+GCGGTTATACTTAGAGGGTA--AATAAAT-TATAAATTTTAATATATAAA
+CTAGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGGC
+GGTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAACCACGA
+A-TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAGT
+CTATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-C
+---CTAAAAATGAAATAAGTCGTAACAAAGTAGGTGTGCCGGAAGGCGTA
+TC
+>Cornish
+GTTTTATCCTGGCTTA-TTCTT-TC-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAAA-GGTA-AATTGAAA-TGTTAAGATAAAGAGATGAA
+CCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGC
+GGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGA
+AGAATCTTACTTTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+TTATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Danish
+GTTTTATCCTAGCTTA-TTCTT-TC-AATTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAGA-GGTT-AATTGAAA-TATTAAAATAAAGGAATGAA
+CCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGC
+GGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGA
+AGAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+TTATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>EasternFrisianSaterland
+GTTTTATCCTGGCTAA-TATTTCTT-GTTTTTAAATTTGTGCCAGCAGCC
+GCGGTTATACTGAGA-GGTA-GATTAAGA-TGTTAAGTTAAAGGTATGGA
+CCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGC
+GGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACGA
+AGTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+CAATGATTATAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Faroese
+GTTTTATCCTGGCTAA-TAGTTCTT-ATTATTAAATTTGTGCCAGCAGCC
+GCGGTTATACTGAGA-GGTG-GATTAAGA-TGTTAAGATAAAGGTATGGA
+CCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGC
+GGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACGA
+AGAATCTTACCTTGTGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+CGATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Icelandic
+GTTTGATTCTTGC-TA-TGTTT-TT---TGCTAGACTTGTGCCAGCATCC
+GCGGTTAGAC-TTGG-GGATCTAGTGAAACGA-GGAATTTTAGGTATGGA
+CCAGGATTAGATACCCTGAATTAATACGTTTGAAATTCAAAGAACCTGGC
+GGTACTTTAGTCTAGTTAGAGGAACCTGTTGTATAAACGATAAACCACGT
+AGAATCTTTCTTACTGCTAGTATACCTTCATTATTAGATCAAGGTGCTGC
+TGATGATAATAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CATT
+-AAATTAGA-TGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCA
+CC
+>Irish
+GTTTTATCCTGGCTTA-TTCTT-TC-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAGA-GACG-GATTGAAA-TATTAAGATAGAGGAATGAA
+CCAGGATTAGATACCCTGCAGCTATTATCTTGAAACTCAAAGGATTTGGC
+GGTAACCTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGC
+AATATCTTGCTTTATGCTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+TTATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCA
+CC
+>KolschColognian
+GTTTGATTCTTGC-TA-TTACC-TT---TATTAAACTTGTGCCAGCAGCC
+GCGGTTAAAC-TCGA-TGTCCTAGTGAAGCTA-GAAAATTTAGGTAAGGA
+CCAGGATTAGATACCCTGAATAAATTAATTTTAAATTCAAAGAACCTGGC
+GGTACTTTAGTCTAGTTGGAGGAACCTGTTTTATAAACGATAAACCACGT
+AAAATCTTTCTTATTGTTAGTATACCTTCATTATTAGATCAAGGTGCTGC
+AAATGGTATTAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CATT
+-AAGTTAAA-TGAGATAAGTCGTAACATAGTGGGTGTACTGGAAAGTGCA
+CC
+>Manx
+GTTTTATCCTGGCTTA-TTCTT-TC-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAAA-GGTA-GATTGAAA-TGTTAAGATAAAGAGATGAA
+CCAGGATTAGATACCCTGCAGTTATTATCTTGAAACTCAAAGGATTTGGC
+GGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGA
+AGAATCTTACTCTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+TTATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>OldPrussian
+GTTTTATCCTAGCTTG-TTCTT-TC-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAGA-GGTC-AATTGAAA-TATTAAAATAAAGGAATGAA
+CCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGC
+GGTAATTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGA
+AAAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+TTATGACCTTAGCCCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>SanskritVedic
+GTTTGATTCTTGCTTA-TAATT-TT-TATACTATATTTGTGCCAGCAGTC
+GCGGTTATACTTAGAGGGTA--AATAAAT-TATAAATTTTAATATATAAA
+CTAGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGGC
+GGTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAGCCACGA
+A-TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAGT
+TTATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-C
+---CTAAAAATGAAATAAGTCGTAACAAAGTAGATGTGCCGGAAGGCGTA
+TC
+>Scots
+GTTTTATCCTGGCTCA-TAATTCTT-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAGA-GGTA-AATTAAGA-TATTAAGATAAAGGTATGAA
+CCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGC
+GGTAATTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAAACCACGA
+AGTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
+TAATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTT
+A--GTTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Yiddish
+GTTTGACTCTTGCTT--TAATT-TT--C-GTTA-ACTTGTGCCAGCAGCC
+GCGGTTATAC-TAGAAGGTT-GAATGAAA-TATTAAATTTTAGATATAAA
+CCAGGATTAGATACCCTGAATGAATTAATTTAAAATTCAAAGAGTTTGGC
+GGTATTTTAGTCCTGTTAGAGGAATCTGTTTTATAAACGATAACCCCCGT
+AATATCTTTCTTATTGCTAGTATACCATCATTATTAGATCATGGTGCTGT
+TTATGAGATTGGCTCTAAAATGTGTACATATTGCCCGTCGC-TTT-CATT
+---CTTAAA-TGAGATAAGTCGTAACATAGTAGGAGTACTGGAAAGTGTT
+TC
+
+
+Sequence character woman-wide_aa.fas#0
+>AlbanianTosk
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V I V T A H A F V I I F F M V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L S R G I V E S G V G T G 
+- - T V Y P P L S A G I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R R T 
+G I T I D R I P L F V S V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G M I S H I I R Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - L G T 
+L H G T Q L N Y S P S L I - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S M G A V F G I F A G I A H - - - F P 
+L F T G L T I N P K - L K I H F I V M F V G V N I 
+T F F P Q H F L G L N G M P R R Y S D Y P D A Y T 
+S N V L S S I G S T I S L I A V L G F I V I V E A 
+L V T T R P V L F S L F L P T S I E - - Q H N L P 
+P A D H S Y I E I P L I T N 
+>AncientIonicGreek
+T K R F F S T N H K D I G T L Y F I F G A - - S G 
+M V G T A L R L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L I R G I V E R G V G T G 
+- - T V Y P P L S A R I A H A G A S V D I G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R P V 
+G I S I D R I P L F V A V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V S Q E S G K K E S F G T L G I I Y A 
+I L A I G I L G F I V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A I P T G I K I F - R - L G T 
+L Q G N Q I N Y R P S I I - - A L G F I F L F T V 
+G G L T G V V L A N S S I D T V L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - - Y P 
+L F T G L S I N P K W L K I H F S V I F L G V N L 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y T 
+P N V L S S I G S I I S L C A V I G F V F I I E S 
+L I S S R P V I F S L F Q P T S I E - - K H H Y P 
+P A D H R F I Q I A L I S N 
+>ArmenianWestern
+T Q R L F S T N H K D I G T L Y F I F G A - - S G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L A A G I A H A G A S V D I G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R A S 
+G I T L D R I P L F V S V F I T A L L L L L S L P 
+V L A G A I T M L L T D R N L N T S F F D P A G G 
+G D P I L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H M F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - L G T 
+L H G T Q L N Y S P S L L - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - W F P 
+L F T G L T L N P R - L K M H F L T I F V G V N I 
+T F F P Q H F L G L R G M P R R Y S D Y P D A Y T 
+A N V V S S I G S T I S L I A V L G F V I I V E A 
+L S A N R P V I F S L F L P T S I E - - Q H N L P 
+P A D H S Y I E I P L I T N 
+>Assamese
+T K R F F S T N H K D I G T L Y F I F G A W - A G 
+I V G T S L S L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L T S G I V E R G V G T G 
+- - T V Y P P L S A A I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R P Q 
+G I T L D R I P L F V S V F I T A I L L L L S L P 
+V L A G A I T M L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V S Q E S G K A E S F G T L G I I Y A 
+I L A I G I L G F L V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K I F - R - L G T 
+L H G A Q V N Y R P S L L W - A M G F I F L F T V 
+G G L T G V V L A N S S L D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I T H - - - F P 
+L F T G L S L N P T W L K I H F F V M F V G V N I 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y A 
+A N V L S S M G S I V S L V A V L G F I I I V E S 
+L V S S R S V I F T T F F P T S V E - - E H A Y P 
+P A D H R Y I E I P I V S N 
+>Cornish
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F I V M P I I I G G 
+F G N - L V P L M L G A P D M A F P R I N N M S F 
+W - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A S I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F M T T V I N I R S T 
+G I T I D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - L G T 
+L H G T Q L N Y S P S L I - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S M G A V F G I F A G I A H - - - F P 
+L F T G L T L N P K - L K V H F L V M F I G V N I 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y S 
+A N V V S S I G S T V S L I A V L G F V I I V E A 
+L T V A R P V I F S L F L P T S I E - - Q H N L P 
+P A D H S Y I E I P L I T N 
+>Danish
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V M I F F I V I P I I I G G 
+F G N - L V P L M L G A P D I A F P R M N N I S F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+W - T V Y P P L S A S I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - L G T 
+L H G T Q L N Y S P S L I - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S M G A V F G I F A G I A H - - - F P 
+L F T G L T L N P K - L K I H F L V I F I G V N I 
+T F F P Q H F L G L N G K P R R Y S D Y P D A Y S 
+A N G V S S I G S T V S L I A V L G F V I I V E A 
+L T A A R P V I F S L F L P T S I E - - Q H N L P 
+P A D H S Y I E I P L I T N 
+>EasternFrisianSaterland
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L S L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F I I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- W T V Y P P L S A G I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R M P L F V S I F I T T L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I R Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - L G T 
+L H G T Q L N Y S P S L L - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - - F P 
+L F T G V T L N P K - L K I H F L V I F I G V N I 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y T 
+A N V L S S I G S T I S L I A V L G F I I I V E A 
+L T A T R P I I F S L F L P T S I E - - Q H N F P 
+P A D H R Y I E I P L I T N 
+>Faroese
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L S L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F M V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A G I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R M P L F V S V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G I L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S W L G T 
+L H G T Q L N Y S P S L L - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - - F P 
+L F T G V T L N P K - L K I H F L I I F V G V N I 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y T 
+T N V V S S I G S T I S L I A V L G F I I I V E A 
+L T A A R P V I F S L F L P T S I E - - Q H N F P 
+P A D H S Y I E I P L I T N 
+>Icelandic
+T Q R F F S T N H K D I G T L Y F I F G A - - A G 
+M V G T S L R L I I R A E L G Q P G R F I G D D Q 
+I Y N V V V T A H A F I M I F F M V M P I I I G G 
+F G N - L V P I I L G A P D I A F P R M N N M R F 
+- - - L L P P S L T L L L A G G A V E R G A G T G 
+- - T V Y P P L S V G V A H A G A S V D L S I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S S 
+G I T L D R I P L F V S V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P V G G 
+G D P I L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V A Q E S N K K K P F G A L G M I Y A 
+I L A I G I L G F V V A H H M F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K V F - R - L G T 
+L H G A H F S L T P S L L - W A L G F I F L F T V 
+G G L T G I V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - - F P 
+L F T G I S L N P K - L K I Q F S A I F I G V N T 
+T F F P Q H F L G L R G M P R R Y S D Y P D A Y T 
+T N V V S S I G S S I S L V A V L G F V F I I E G 
+L A S K R P L M F N S F M P T S I E - W Y H S Y P 
+P A D H R Y M E V P I I T A 
+>Irish
+T Q R L F S T N H K D I G T L Y F I F G A - W A G 
+I V G T A L S L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V M I F F I V M P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I S F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A R I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G M I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S W L G T 
+L H G T Q L N Y S P S L I - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - - F P 
+L F T G L T L N P K - L K I H F L V I F V G V N I 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y T 
+A N V V S S I G S T I S L I A V L G F I I I V E A 
+L T A A R P V L F S L F L P T S I E - - Q H N L P 
+P A D H S Y I E I P L I T N 
+>KolschColognian
+T Q R F F S K K Y K D I G T L Y F I F G A - - A G 
+I V G T S L R L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F I V M P I I I G G 
+F G N W L V P I M L G A P D M A F P R M N N I R F 
+- - - L L P P S L T L L L A S G I V E R G V G T G 
+- - T V Y P P L A G A V A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N M R S S 
+G I T F D R M P L F V S V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F A P V G A 
+R D P I N Y H H I F V L D N P E V Y I L I L P A F 
+G M I S H I V S Q E S N K K K P F G A L G I I Y A 
+M L S I G L L G F I V A H H M F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K V F - R - L G T 
+L H G A H F T L T P S L L - W S L G F I F L F T V 
+G G L T G I V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - W - F P 
+L F T G V T L N P K - L K I Q F T A I F I G V N I 
+T F F P Q H F L G L R G I P R R Y S D Y P D A Y S 
+T N V I S S V G S S I S L V A V L L F V F I I E G 
+L A S K R P I L F N S F I P T S I E - - I H P Y P 
+P A D H S Y M E I P L L T A 
+>Manx
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F M V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N M S F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A S I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G M I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - L G T 
+L H G T Q L N Y S P S L I - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - - F P 
+L F T G L T L N P K - L K I H F I V M F V G V N I 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y S 
+A N V V S S I G S T V S L I A V L G F V I I V E A 
+L T V A R P V I F S L F L P T S I E - - Q H N L P 
+P A D H S Y I E I P L I T N 
+>OldPrussian
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F M V I P I M I G G 
+F G N - L V P L I L G A P D M A F P R I N N I S F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A S I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T M D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T M L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T P G M I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - L G T 
+L H G T Q L N Y S P S L I - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - - F P 
+L F T G L T L N P K - L K I H F L V I F I G V N I 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y S 
+A N V V S S I G S T V S L I A V L G F V M I V E A 
+L T A A R P V I F S L F L P T S I E W - Q H N L P 
+P A D H S Y I E I P L I T N 
+>SanskritVedic
+T K R F F S T N H K D I G T L Y F I F G A - - A G 
+I V G T S L S L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I S F 
+- - - L L P P S L T L L L T R G I V E R G V G T G 
+- - T V Y P P L S A A I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R P Q 
+G I T L D R I P L F V S V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V R Q E S G K A E S F G T L G I I Y A 
+I L A I G I L G F L V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K I F - R - L G T 
+L H G A Q V N Y S P S L L - - A I G F I F L F T V 
+G G L T G V V L A N S S L D I I L H D T Y Y V V A 
+H F H Y V L S M G A V F G I F A G I T H W - - Y P 
+L F T G L S L N P T - L K I H F F V I F V G V N I 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y T 
+A N V L S S I G S I V S L V A V L G F I I I V E S 
+L V A S R S V I F S T F F P T S V E - - E H S Y P 
+P A D H R Y I E I P M V S N 
+>Scots
+A Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L S L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F M V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - W L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A G I A H A G A S V D I G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V S V F I T T L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I R Q E S G K K E A F G T L G I I Y A 
+M L A I G I L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - L G T 
+L H G T Q L N Y S P S L L - - A L G F V F L F T V 
+G G L T G V V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - - F P 
+L F T G V T L N P K - L K I H F L T I F V G V N I 
+T F F P Q H F L G L N G I P R R Y S D Y P D A Y T 
+A N V L S S I G S T I S L I A V I G F V I I V E A 
+L T A A R P V I F S L F L P T S I E - - Q H S F P 
+P A D H S Y I E I P L I T N 
+>Yiddish
+T Q R F F S T N H K D I G T L Y F I F G A - - A G 
+M V G T S L R L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N M R F 
+- W - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L A A A V A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V S V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V R Q E S G K K E S F G A L G I I Y A 
+I L A I G V L G F V V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K V F S W - L G T 
+L H G T Q I Y F T P S L L - - A L G F I F L F T I 
+G G L T G I V L A N S S I D I I L H D T Y Y V V A 
+H F H Y V L S I G A V F G I F A G I A H - - - F P 
+L F T G L S L N P K - I K I H F I T I F I G V N I 
+T F F P Q H F L G L R G I P R R Y S D Y P D A Y I 
+T N V V S S V G S T I S L I A V L R F I I I I E A 
+L R S N R S I I F S F F L P T S I E - - H H N Y P 
+P A D H R Y N E I P I I T S 
+
+
+Sequence character woman_cox1aln.fasta#0
+>AlbanianTosk
+TTATATTAGGAGCACCAGATATAGCTTTCCCTCGAATAAATAATATAAGA
+TTTTGACTTCTTCCACCATCTTTAACTTTACTCCTCTCTAGAGGAATAGT
+AGAAAGTGGAGTGGGAACAGGCTGAACTGTCTATCCTCCTTTATCTGCTG
+GAATTGCACATGCTGGTGCCTCAGTAGATTTAGGAATCTTTTCTTTACAC
+CTAGCAGGAGTTTCATCCATCTTAGGGGCCGTAAACTTTATAACTACCGT
+TATCAATATACGAAGAACAGGTATAACAATAGACCGAATTCCTCTTTTTG
+TATGATCTGTATTTATTACAGCCCTTCTTCTCCTTCTTTCCCTCCCAGTC
+>AncientIonicGreek
+TAATATTAGGTGCCCCTGATATAGCTTTTCCACGAATAAATAATATAAGA
+TTTTGACTCCTTCCACCTTCTCTAACTCTTCTTTTAATAAGAGGAATAGT
+TGAAAGAGGTGTAGGAACTGGATGAACTGTTTACCCTCCTTTATCGGCTA
+GAATCGCTCACGCAGGAGCATCTGTAGATATAGGAATTTTCTCCTTACAT
+CTGGCCGGTGTCTCATCAATTCTTGGTGCAGTAAACTTTATAACCACAGT
+TATTAATATACGCCCTGTTGGTATATCAATAGATCGTATACCTTTATTTG
+TTTGAGCCGTATTTATTACAGCTATTCTTTTATTACTATCCTTACCCGTT
+>ArmenianWestern
+TAATATTAGGAGCTCCAGATATAGCTTTCCCTCGAATAAATAATATAAGA
+TTCTGACTCCTCCCTCCCTCTTTAACTCTTTTACTTTCAAGAGGAATAGT
+AGAAAGAGGAGTAGGAACGGGATGAACCGTTTATCCTCCTCTTGCAGCCG
+GAATTGCTCATGCCGGAGCTTCAGTTGATATAGGAATCTTCTCTCTACAT
+TTAGCAGGAGTATCCTCTATTTTAGGGGCCGTAAATTTTATAACAACAGT
+GATTAACATACGGGCATCTGGAATAACATTAGACCGAATACCTTTATTCG
+TGTGATCTGTATTTATTACTGCACTATTATTACTTTTATCACTACCAGTT
+>Assamese
+TAATACTAGGAGCACCGGATATAGCTTTTCCACGAATAAATAATATAAGA
+TTTTGACTTTTACCCCCATCTTTAACTCTTTTATTAACTAGTGGTATAGT
+AGAAAGAGGTGTAGGTACAGGATGAACTGTGTATCCCCCACTTTCCGCAG
+CTATTGCTCACGCCGGAGCATCGGTAGATTTAGGTATTTTTTCTCTACAT
+TTAGCCGGAGTCTCTTCTATTTTAGGGGCTGTAAATTTTATAACGACAGT
+CATTAATATACGACCCCAGGGAATAACCTTAGATCGCATACCTTTATTTG
+TTTGATCTGTATTTATTACTGCGATTCTACTTTTATTATCACTACCTGTT
+>Cornish
+TAATGTTAGGTGCTCCTGATATGGCTTTTCCACGAATAAACAATATGAGT
+TTCTGGCTCCTACCTCCTTCACTAACACTACTTCTTTCTAGAGGTATAGT
+TGAAAGAGGAGTAGGAACAGGATGAACTGTTTACCCTCCTTTATCAGCCA
+GTATTGCTCATGCTGGGGCTTCGGTAGATTTAGGAATTTTCTCCCTACAC
+TTGGCAGGTGTTTCTTCAATTTTAGGAGCTGTAAATTTTATGACAACTGT
+TATTAACATACGATCTACGGGAATAACTATAGACCGAATACCGCTTTTCG
+TTTGAGCAGTATTTATTACAGCATTACTTCTCTTATTATCTCTACCGGTA
+>Danish
+TAATGTTAGGTGCTCCAGATATAGCTTTCCCTCGAATGAATAATATAAGC
+TTCTGACTTTTACCTCCTTCTCTTACCCTTCTTTTATCTAGAGGGATAGT
+TGAAAGAGGTGTTGGAACTGGTTGGACAGTTTATCCTCCACTCTCTGCTA
+GTATTGCCCACGCTGGAGCTTCAGTAGACCTTGGAATCTTTTCCCTACAT
+CTAGCTGGTGTATCTTCTATTCTAGGAGCAGTAAATTTTATAACTACTGT
+AATCAATATACGATCTACAGGAATAACTATAGACCGAATACCTCTTTTTG
+TTTGAGCAGTATTCATTACTGCTTTACTATTACTTCTATCATTACCAGTC
+>EasternFrisianSaterland
+TAATATTAGGAGCTCCTGATATAGCTTTTCCTCGAATAAATAATATAAGA
+TTCTGACTCTTACCTCCATCCCTAACCCTCCTCCTCTCTAGAGGAATAGT
+AGAAAGAGGAGTTGGAACAGGATGGACTGTTTATCCTCCACTGTCAGCCG
+GAATCGCCCACGCAGGAGCCTCTGTAGATTTAGGAATCTTCTCCCTTCAC
+CTAGCAGGAGTTTCTTCAATTCTAGGTGCAGTAAATTTTATAACAACAGT
+AATTAACATACGATCAACAGGAATAACTATAGACCGAATGCCCTTATTTG
+TCTGATCAATCTTTATTACTACCCTTCTCCTCCTTCTATCTCTCCCAGTA
+>Faroese
+TTATATTAGGTGCCCCAGATATAGCTTTCCCCCGAATAAATAATATAAGA
+TTTTGACTCTTACCTCCTTCTCTAACTCTATTACTTTCTAGAGGAATAGT
+AGAAAGAGGAGTAGGAACAGGATGAACTGTTTATCCTCCTTTATCCGCCG
+GAATTGCTCACGCCGGGGCCTCTGTAGACCTAGGTATTTTCTCACTACAC
+TTAGCAGGAGTATCTTCAATTCTAGGAGCAGTAAATTTTATAACAACTGT
+AATTAATATACGGTCAACTGGAATAACTATAGACCGTATGCCTTTATTTG
+TTTGATCAGTATTCATTACCGCTCTCCTTCTCCTCTTATCTCTACCAGTT
+>Icelandic
+TTATACTAGGAGCTCCCGATATAGCTTTCCCCCGAATGAATAACATGAGA
+TTTTGACTTCTTCCCCCATCGCTAACGCTTCTTCTGGCTGGAGGAGCCGT
+AGAAAGAGGAGCTGGAACCGGTTGAACAGTTTATCCGCCTCTTTCGGTGG
+GAGTGGCACACGCTGGTGCGTCAGTGGACTTAAGTATCTTTTCACTACAC
+CTAGCAGGTGTTTCATCCATTCTTGGAGCCGTCAACTTTATTACTACCGT
+CATCAATATACGGTCATCTGGGATAACACTAGATCGAATACCTCTCTTTG
+TTTGATCTGTTTTCATTACAGCTATCCTATTACTTCTTTCGCTCCCAGTG
+>Irish
+TAATATTAGGAGCACCTGATATAGCATTCCCACGAATAAATAATATAAGC
+TTTTGACTGCTACCTCCTTCTCTCACCCTTCTTCTATCTAGAGGAATAGT
+TGAAAGAGGAGTTGGAACAGGATGAACTGTATATCCTCCCCTATCAGCTA
+GAATCGCACATGCAGGGGCCTCTGTAGATTTGGGAATTTTTTCATTGCAT
+TTAGCAGGAGTTTCATCAATTCTAGGGGCCGTAAATTTCATAACAACTGT
+AATTAATATACGATCTACAGGTATAACTATAGACCGAATACCGTTATTCG
+TCTGAGCAGTTTTTATTACAGCGCTCTTACTCCTTTTATCTTTACCCGTT
+>KolschColognian
+TTATGTTAGGTGCCCCAGATATGGCATTTCCCCGAATGAATAACATAAGA
+TTCTGACTTTTACCTCCCTCTCTAACGCTTCTTCTAGCTAGTGGTATAGT
+GGAGAGGGGAGTAGGAACTGGCTGAACAGTTTATCCCCCTCTAGCAGGGG
+CAGTGGCCCATGCCGGAGCATCAGTAGATTTGGGTATTTTCTCCCTCCAT
+CTTGCCGGTGTGTCATCAATTCTAGGAGCCGTAAATTTTATTACAACAGT
+AATTAATATGCGGTCTTCAGGTATAACATTCGACCGAATGCCTCTATTTG
+TATGATCTGTGTTTATTACTGCCATTTTACTTCTACTTTCTCTTCCCGTA
+>Manx
+TAATATTAGGTGCTCCCGATATAGCTTTCCCTCGAATAAATAATATGAGT
+TTCTGACTTTTACCTCCCTCGCTAACTCTACTTCTTTCTAGAGGTATAGT
+CGAAAGAGGGGTAGGAACAGGATGAACTGTTTACCCTCCTCTATCTGCCA
+GCATTGCCCATGCAGGAGCATCTGTAGATCTAGGAATCTTCTCATTACAT
+TTAGCAGGGGTTTCTTCAATTCTAGGTGCTGTAAATTTTATAACTACCGT
+TATCAATATACGATCAACAGGAATAACTATAGACCGAATACCTCTTTTCG
+TCTGAGCGGTATTTATTACAGCCTTACTACTTTTACTATCATTACCGGTT
+>OldPrussian
+TAATACTAGGTGCCCCGGATATGGCTTTCCCTCGAATAAATAACATAAGT
+TTCTGACTTTTACCCCCATCTCTCACTCTCCTCTTATCTAGAGGAATAGT
+AGAAAGAGGTGTAGGAACTGGATGAACTGTATATCCTCCTTTATCTGCAA
+GTATTGCCCATGCGGGAGCTTCCGTTGATCTCGGAATCTTCTCACTACAC
+TTAGCAGGTGTATCATCAATTTTAGGTGCCGTAAATTTTATAACAACTGT
+TATCAATATACGATCTACCGGAATAACTATGGACCGGATACCTCTTTTTG
+TTTGAGCAGTATTTATTACTGCTTTACTTTTACTACTGTCCTTACCAGTT
+>SanskritVedic
+TAATATTAGGAGCACCAGATATAGCATTTCCACGAATAAATAATATAAGT
+TTTTGACTTCTACCCCCCTCTTTAACTCTTTTATTAACTAGAGGTATAGT
+AGAAAGAGGAGTAGGAACAGGATGAACTGTTTACCCACCACTATCCGCAG
+CAATTGCACATGCAGGAGCATCAGTGGATTTAGGTATTTTTTCTTTGCAT
+TTGGCTGGAGTATCTTCTATTTTAGGGGCTGTAAATTTTATAACTACAGT
+TATTAATATACGTCCACAAGGAATAACCTTAGACCGTATACCTTTATTTG
+TGTGATCCGTATTTATTACTGCAATTCTACTTTTATTATCACTACCAGTT
+>Scots
+TTATACTTGGTGCCCCTGATATAGCTTTCCCCCGTATAAATAATATAAGA
+TTTTGGCTTCTTCCCCCATCTTTAACTCTTCTTCTTTCCAGAGGAATAGT
+AGAAAGAGGGGTAGGAACAGGATGAACTGTTTACCCTCCTTTGTCTGCTG
+GAATCGCCCACGCCGGAGCTTCTGTTGATATAGGAATTTTCTCTCTCCAT
+CTTGCCGGAGTTTCTTCAATTTTAGGGGCAGTAAATTTTATAACAACTGT
+TATTAATATACGTTCAACAGGAATAACTATAGACCGAATCCCCCTTTTTG
+TGTGATCAGTGTTTATTACTACCCTTCTTCTACTTTTATCCCTTCCAGTC
+>Yiddish
+TAATACTTGGAGCCCCAGATATAGCTTTCCCTCGAATAAATAACATGAGA
+TTTTGGTTGCTACCTCCTTCTCTAACCCTTCTTCTATCAAGAGGAATAGT
+TGAAAGAGGTGTAGGAACTGGCTGAACAGTTTATCCTCCCTTAGCAGCCG
+CCGTCGCTCATGCCGGAGCATCCGTAGATTTAGGTATTTTTTCACTTCAT
+CTTGCAGGAGTTTCTTCAATCCTAGGAGCAGTAAATTTCATAACAACTGT
+AATTAATATACGGTCAACTGGGATAACTATAGACCGCATACCCTTATTTG
+TCTGATCTGTTTTTATCACCGCAATTTTACTTCTTCTATCTCTACCTGTC
+
+
+Sequence character woman_cox1_spaced.fastc#0
+>AlbanianTosk
+T T A T A T T A G G A G C A C C A G A T A T A G C 
+T T T C C C T C G A A T A A A T A A T A T A A G A 
+T T T T G A C T T CT T C C A C C A T C T T T A A C
+ T T T A C T C C T C T C T A G A G G A A T A G T A
+ G A A A G T G G A G T G G G A A C A GG C T G A A 
+C T G T C T A T C C T C C T T T A T C T G C T G G 
+A A T T G C A C A T G C T G G T G C C T C A G T A 
+G A T TT A G G A A T C T T T T C T T T A C A C C T
+ A G C A G G A G T T T C A T C C A T C T T A G G G
+ G C C G T A A A C T T T AT A A C T A C C G T T A 
+T C A A T A T A C G A A G A A C A G G T A T A A C 
+A A T A G A C C G A A T T C C T C T T T T T GT A T
+ G A T C T G T A T T T A T T A C A G C C C T T C T
+ T C T C C T T C T T T C C C T C C C A G T C 
+>AncientIonicGreek
+T A A T A T T A G G T G C C C C T G A T A T A G C 
+T T T T C C A C G A A T A A A T A A T A T A A G A 
+T T T T G A C T C CT T C C A C C T T C T C T A A C
+ T C T T C T T T T A A T A A G A G G A A T A G T T
+ G A A A G A G G T G T A G G A A C T GG A T G A A 
+C T G T T T A C C C T C C T T T A T C G G C T A G 
+A A T C G C T C A C G C A G G A G C A T C T G T A 
+G A T AT A G G A A T T T T C T C C T T A C A T C T
+ G G C C G G T G T C T C A T C A A T T C T T G G T
+ G C A G T A A A C T T T AT A A C C A C A G T T A 
+T T A A T A T A C G C C C T G T T G G T A T A T C 
+A A T A G A T C G T A T A C C T T T A T T T GT T T
+ G A G C C G T A T T T A T T A C A G C T A T T C T
+ T T T A T T A C T A T C C T T A C C C G T T 
+>ArmenianWestern
+T A A T A T T A G G A G C T C C A G A T A T A G C 
+T T T C C C T C G A A T A A A T A A T A T A A G A 
+T T C T G A C T C CT C C C T C C C T C T T T A A C
+ T C T T T T A C T T T C A A G A G G A A T A G T A
+ G A A A G A G G A G T A G G A A C G GG A T G A A 
+C C G T T T A T C C T C C T C T T G C A G C C G G 
+A A T T G C T C A T G C C G G A G C T T C A G T T 
+G A T AT A G G A A T C T T C T C T C T A C A T T T
+ A G C A G G A G T A T C C T C T A T T T T A G G G
+ G C C G T A A A T T T T AT A A C A A C A G T G A 
+T T A A C A T A C G G G C A T C T G G A A T A A C 
+A T T A G A C C G A A T A C C T T T A T T C GT G T
+ G A T C T G T A T T T A T T A C T G C A C T A T T
+ A T T A C T T T T A T C A C T A C C A G T T 
+>Assamese
+T A A T A C T A G G A G C A C C G G A T A T A G C 
+T T T T C C A C G A A T A A A T A A T A T A A G A 
+T T T T G A C T T TT A C C C C C A T C T T T A A C
+ T C T T T T A T T A A C T A G T G G T A T A G T A
+ G A A A G A G G T G T A G G T A C A GG A T G A A 
+C T G T G T A T C C C C C A C T T T C C G C A G C 
+T A T T G C T C A C G C C G G A G C A T C G G T A 
+G A T TT A G G T A T T T T T T C T C T A C A T T T
+ A G C C G G A G T C T C T T C T A T T T T A G G G
+ G C T G T A A A T T T T AT A A C G A C A G T C A 
+T T A A T A T A C G A C C C C A G G G A A T A A C 
+C T T A G A T C G C A T A C C T T T A T T T GT T T
+ G A T C T G T A T T T A T T A C T G C G A T T C T
+ A C T T T T A T T A T C A C T A C C T G T T 
+>Cornish
+T A A T G T T A G G T G C T C C T G A T A T G G C 
+T T T T C C A C G A A T A A A C A A T A T G A G T 
+T T C T G G C T C CT A C C T C C T T C A C T A A C
+ A C T A C T T C T T T C T A G A G G T A T A G T T
+ G A A A G A G G A G T A G G A A C A GG A T G A A 
+C T G T T T A C C C T C C T T T A T C A G C C A G 
+T A T T G C T C A T G C T G G G G C T T C G G T A 
+G A T TT A G G A A T T T T C T C C C T A C A C T T
+ G G C A G G T G T T T C T T C A A T T T T A G G A
+ G C T G T A A A T T T T AT G A C A A C T G T T A 
+T T A A C A T A C G A T C T A C G G G A A T A A C 
+T A T A G A C C G A A T A C C G C T T T T C GT T T
+ G A G C A G T A T T T A T T A C A G C A T T A C T
+ T C T C T T A T T A T C T C T A C C G G T A 
+>Danish
+T A A T G T T A G G T G C T C C A G A T A T A G C 
+T T T C C C T C G A A T G A A T A A T A T A A G C 
+T T C T G A C T T TT A C C T C C T T C T C T T A C
+ C C T T C T T T T A T C T A G A G G G A T A G T T
+ G A A A G A G G T G T T G G A A C T GG T T G G A 
+C A G T T T A T C C T C C A C T C T C T G C T A G 
+T A T T G C C C A C G C T G G A G C T T C A G T A 
+G A C CT T G G A A T C T T T T C C C T A C A T C T
+ A G C T G G T G T A T C T T C T A T T C T A G G A
+ G C A G T A A A T T T T AT A A C T A C T G T A A 
+T C A A T A T A C G A T C T A C A G G A A T A A C 
+T A T A G A C C G A A T A C C T C T T T T T GT T T
+ G A G C A G T A T T C A T T A C T G C T T T A C T
+ A T T A C T T C T A T C A T T A C C A G T C 
+>EasternFrisianSaterland
+T A A T A T T A G G A G C T C C T G A T A T A G C 
+T T T T C C T C G A A T A A A T A A T A T A A G A 
+T T C T G A C T C TT A C C T C C A T C C C T A A C
+ C C T C C T C C T C T C T A G A G G A A T A G T A
+ G A A A G A G G A G T T G G A A C A GG A T G G A 
+C T G T T T A T C C T C C A C T G T C A G C C G G 
+A A T C G C C C A C G C A G G A G C C T C T G T A 
+G A T TT A G G A A T C T T C T C C C T T C A C C T
+ A G C A G G A G T T T C T T C A A T T C T A G G T
+ G C A G T A A A T T T T AT A A C A A C A G T A A 
+T T A A C A T A C G A T C A A C A G G A A T A A C 
+T A T A G A C C G A A T G C C C T T A T T T GT C T
+ G A T C A A T C T T T A T T A C T A C C C T T C T
+ C C T C C T T C T A T C T C T C C C A G T A 
+>Faroese
+T T A T A T T A G G T G C C C C A G A T A T A G C 
+T T T C C C C C G A A T A A A T A A T A T A A G A 
+T T T T G A C T C TT A C C T C C T T C T C T A A C
+ T C T A T T A C T T T C T A G A G G A A T A G T A
+ G A A A G A G G A G T A G G A A C A GG A T G A A 
+C T G T T T A T C C T C C T T T A T C C G C C G G 
+A A T T G C T C A C G C C G G G G C C T C T G T A 
+G A C CT A G G T A T T T T C T C A C T A C A C T T
+ A G C A G G A G T A T C T T C A A T T C T A G G A
+ G C A G T A A A T T T T AT A A C A A C T G T A A 
+T T A A T A T A C G G T C A A C T G G A A T A A C 
+T A T A G A C C G T A T G C C T T T A T T T GT T T
+ G A T C A G T A T T C A T T A C C G C T C T C C T
+ T C T C C T C T T A T C T C T A C C A G T T 
+>Icelandic
+T T A T A C T A G G A G C T C C C G A T A T A G C 
+T T T C C C C C G A A T G A A T A A C A T G A G A 
+T T T T G A C T T CT T C C C C C A T C G C T A A C
+ G C T T C T T C T G G C T G G A G G A G C C G T A
+ G A A A G A G G A G C T G G A A C C GG T T G A A 
+C A G T T T A T C C G C C T C T T T C G G T G G G 
+A G T G G C A C A C G C T G G T G C G T C A G T G 
+G A C TT A A G T A T C T T T T C A C T A C A C C T
+ A G C A G G T G T T T C A T C C A T T C T T G G A
+ G C C G T C A A C T T T AT T A C T A C C G T C A 
+T C A A T A T A C G G T C A T C T G G G A T A A C 
+A C T A G A T C G A A T A C C T C T C T T T GT T T
+ G A T C T G T T T T C A T T A C A G C T A T C C T
+ A T T A C T T C T T T C G C T C C C A G T G 
+>Irish
+T A A T A T T A G G A G C A C C T G A T A T A G C 
+A T T C C C A C G A A T A A A T A A T A T A A G C 
+T T T T G A C T G CT A C C T C C T T C T C T C A C
+ C C T T C T T C T A T C T A G A G G A A T A G T T
+ G A A A G A G G A G T T G G A A C A GG A T G A A 
+C T G T A T A T C C T C C C C T A T C A G C T A G 
+A A T C G C A C A T G C A G G G G C C T C T G T A 
+G A T TT G G G A A T T T T T T C A T T G C A T T T
+ A G C A G G A G T T T C A T C A A T T C T A G G G
+ G C C G T A A A T T T C AT A A C A A C T G T A A 
+T T A A T A T A C G A T C T A C A G G T A T A A C 
+T A T A G A C C G A A T A C C G T T A T T C GT C T
+ G A G C A G T T T T T A T T A C A G C G C T C T T
+ A C T C C T T T T A T C T T T A C C C G T T 
+>KolschColognian
+T T A T G T T A G G T G C C C C A G A T A T G G C 
+A T T T C C C C G A A T G A A T A A C A T A A G A 
+T T C T G A C T T TT A C C T C C C T C T C T A A C
+ G C T T C T T C T A G C T A G T G G T A T A G T G
+ G A G A G G G G A G T A G G A A C T GG C T G A A 
+C A G T T T A T C C C C C T C T A G C A G G G G C 
+A G T G G C C C A T G C C G G A G C A T C A G T A 
+G A T TT G G G T A T T T T C T C C C T C C A T C T
+ T G C C G G T G T G T C A T C A A T T C T A G G A
+ G C C G T A A A T T T T AT T A C A A C A G T A A 
+T T A A T A T G C G G T C T T C A G G T A T A A C 
+A T T C G A C C G A A T G C C T C T A T T T GT A T
+ G A T C T G T G T T T A T T A C T G C C A T T T T
+ A C T T C T A C T T T C T C T T C C C G T A 
+>Manx
+T A A T A T T A G G T G C T C C C G A T A T A G C 
+T T T C C C T C G A A T A A A T A A T A T G A G T 
+T T C T G A C T T TT A C C T C C C T C G C T A A C
+ T C T A C T T C T T T C T A G A G G T A T A G T C
+ G A A A G A G G G G T A G G A A C A GG A T G A A 
+C T G T T T A C C C T C C T C T A T C T G C C A G 
+C A T T G C C C A T G C A G G A G C A T C T G T A 
+G A T CT A G G A A T C T T C T C A T T A C A T T T
+ A G C A G G G G T T T C T T C A A T T C T A G G T
+ G C T G T A A A T T T T AT A A C T A C C G T T A 
+T C A A T A T A C G A T C A A C A G G A A T A A C 
+T A T A G A C C G A A T A C C T C T T T T C GT C T
+ G A G C G G T A T T T A T T A C A G C C T T A C T
+ A C T T T T A C T A T C A T T A C C G G T T 
+>OldPrussian
+T A A T A C T A G G T G C C C C G G A T A T G G C 
+T T T C C C T C G A A T A A A T A A C A T A A G T 
+T T C T G A C T T TT A C C C C C A T C T C T C A C
+ T C T C C T C T T A T C T A G A G G A A T A G T A
+ G A A A G A G G T G T A G G A A C T GG A T G A A 
+C T G T A T A T C C T C C T T T A T C T G C A A G 
+T A T T G C C C A T G C G G G A G C T T C C G T T 
+G A T CT C G G A A T C T T C T C A C T A C A C T T
+ A G C A G G T G T A T C A T C A A T T T T A G G T
+ G C C G T A A A T T T T AT A A C A A C T G T T A 
+T C A A T A T A C G A T C T A C C G G A A T A A C 
+T A T G G A C C G G A T A C C T C T T T T T GT T T
+ G A G C A G T A T T T A T T A C T G C T T T A C T
+ T T T A C T A C T G T C C T T A C C A G T T 
+>SanskritVedic
+T A A T A T T A G G A G C A C C A G A T A T A G C 
+A T T T C C A C G A A T A A A T A A T A T A A G T 
+T T T T G A C T T CT A C C C C C C T C T T T A A C
+ T C T T T T A T T A A C T A G A G G T A T A G T A
+ G A A A G A G G A G T A G G A A C A GG A T G A A 
+C T G T T T A C C C A C C A C T A T C C G C A G C 
+A A T T G C A C A T G C A G G A G C A T C A G T G 
+G A T TT A G G T A T T T T T T C T T T G C A T T T
+ G G C T G G A G T A T C T T C T A T T T T A G G G
+ G C T G T A A A T T T T AT A A C T A C A G T T A 
+T T A A T A T A C G T C C A C A A G G A A T A A C 
+C T T A G A C C G T A T A C C T T T A T T T GT G T
+ G A T C C G T A T T T A T T A C T G C A A T T C T
+ A C T T T T A T T A T C A C T A C C A G T T 
+>Scots
+T T A T A C T T G G T G C C C C T G A T A T A G C 
+T T T C C C C C G T A T A A A T A A T A T A A G A 
+T T T T G G C T T CT T C C C C C A T C T T T A A C
+ T C T T C T T C T T T C C A G A G G A A T A G T A
+ G A A A G A G G G G T A G G A A C A GG A T G A A 
+C T G T T T A C C C T C C T T T G T C T G C T G G 
+A A T C G C C C A C G C C G G A G C T T C T G T T 
+G A T AT A G G A A T T T T C T C T C T C C A T C T
+ T G C C G G A G T T T C T T C A A T T T T A G G G
+ G C A G T A A A T T T T AT A A C A A C T G T T A 
+T T A A T A T A C G T T C A A C A G G A A T A A C 
+T A T A G A C C G A A T C C C C C T T T T T GT G T
+ G A T C A G T G T T T A T T A C T A C C C T T C T
+ T C T A C T T T T A T C C C T T C C A G T C 
+>Yiddish
+T A A T A C T T G G A G C C C C A G A T A T A G C 
+T T T C C C T C G A A T A A A T A A C A T G A G A 
+T T T T G G T T G CT A C C T C C T T C T C T A A C
+ C C T T C T T C T A T C A A G A G G A A T A G T T
+ G A A A G A G G T G T A G G A A C T GG C T G A A 
+C A G T T T A T C C T C C C T T A G C A G C C G C 
+C G T C G C T C A T G C C G G A G C A T C C G T A 
+G A T TT A G G T A T T T T T T C A C T T C A T C T
+ T G C A G G A G T T T C T T C A A T C C T A G G A
+ G C A G T A A A T T T C AT A A C A A C T G T A A 
+T T A A T A T A C G G T C A A C T G G G A T A A C 
+T A T A G A C C G C A T A C C C T T A T T T GT C T
+ G A T C T G T T T T T A T C A C C G C A A T T T T
+ A C T T C T T C T A T C T C T A C C T G T C 
+
+Implied Alignments for Graph 3
+
+Sequence character woman.fastc#0
+>AlbanianTosk
+- - - - - - - - - ɡ - \textfishhookr - - u - - a 
+>AncientIonicGreek
+- - - - - - - - - ɡ - \”u - - n - e \textlengthmar
+k 
+>ArmenianWestern
+- - - - - - - - - ɡ - i - - n - - - 
+>Assamese
+- - - - - - m a \textsci k - i m a n - u \textsupe
+rscript{\texthth} 
+>Cornish
+- - b - - - - - - \textepsilon n j - - n - - - 
+>Danish
+- - - \textprimstress k \textsuperscript{h} - - - 
+v - e - - n - - \textschwa 
+>EasternFrisianSaterland
+- - - - - - - - - v - i\texthalflength - - \textup
+silon - - v 
+>Faroese
+- - k - - - - - - o - \textlengthmark - - n - - a 
+>Icelandic
+\textprimstress - k - - - - - - \textsuperscript{h
+} - \textopeno - - n - - a 
+>Irish
+- - b - - - - - - \textsuperscript{j} \ae \textlen
+gthmark - - n \textsubbridge - \textsuperscript{\t
+extgamma} 
+>KolschColognian
+- - - - - - - - - v - e\textlengthmark - - z - - h
+ 
+>Manx
+- - b - - - - - - \textepsilon - \textsuperscript{
+d} - - n - - - 
+>OldPrussian
+- - v - - - - - - i\textlengthmark r i - - n - - a
+ 
+>SanskritVedic
+- - - - - - - - - s - \textsubbridge t \textsubbri
+dge \textrtailr - i \textlengthmark 
+>Scots
+- w \textturnv - - - - - - m - m - - \textscripta 
+- - n 
+>Yiddish
+- - - - - - - - - - - f - - \textscr - - \textopen
+oj 
 
 
 Sequence character woman_binary.fasta#0
@@ -1233,56 +4919,54 @@ T A T A G A C C G C A T A C C C T T A T T T GT C T
  G A T C T G T T T T T A T C A C C G C A A T T T T
  A C T T C T T C T A T C T C T A C C T G T C 
 
-Implied Alignments for Graph 1
+Implied Alignments for Graph 4
 
 Sequence character woman.fastc#0
 >AlbanianTosk
-- - - - - - - - - ɡ - - \textfishhookr u - a - - -
- 
+- - - - - - - - - - - - ɡ \textfishhookr u - - a 
 >AncientIonicGreek
-- - - - - - - - - ɡ - - \”u n - e - - \textlengthm
-ark 
->ArmenianWestern
-- - - - - - - - - ɡ - - i n - - - - - 
->Assamese
-- - m a \textsci - - - - k - - i m - a n u \textsu
-perscript{\texthth} 
->Cornish
-- - - - - - - - - b \textepsilon n j n - - - - - 
->Danish
-- - - - \textprimstress - - - - k - - \textsupersc
-ript{h} v - e n - \textschwa 
->EasternFrisianSaterland
-- - - - - - - - - v - - i\texthalflength \textupsi
-lon - v - - - 
->Faroese
-- - - - - - k - - o - - \textlengthmark n - a - - 
+- - - - ɡ - - \”u - - - - n e \textlengthmark - - 
 - 
+>ArmenianWestern
+- - - - - - - - - - - - ɡ i n - - - 
+>Assamese
+- m a \textsci k i m a - - - - n u \textsuperscrip
+t{\texthth} - - - 
+>Cornish
+- - - - b - - \textepsilon - - - - n j n - - - 
+>Danish
+\textprimstress - - - k - - \textsuperscript{h} - 
+- - - v e n \textschwa - - 
+>EasternFrisianSaterland
+- - - - - - - - - - - - v i\texthalflength \textup
+silon - - v 
+>Faroese
+- - - - - - - - - k - - o \textlengthmark n - - a 
 >Icelandic
-\textprimstress k - - - - - - - \textsuperscript{h
-} - - \textopeno n - a - - - 
+- - - - - - - - \textprimstress k - - \textsupersc
+ript{h} \textopeno n - - a 
 >Irish
-- - - - - - - b \textsuperscript{j} \ae - - \textl
-engthmark n \textsubbridge \textsuperscript{\textg
-amma} - - - 
+- - - - - - - - - - b \textsuperscript{j} \ae \tex
+tlengthmark n - \textsubbridge \textsuperscript{\t
+extgamma} 
 >KolschColognian
-- - - - - - - - - v - - e\textlengthmark z - h - -
- - 
+- - - - - - - - - - - - v e\textlengthmark z - - h
+ 
 >Manx
-- - - - - - - - - b \textepsilon - \textsuperscrip
-t{d} n - - - - - 
+- - - - b - - \textepsilon - - - - - \textsuperscr
+ipt{d} n - - - 
 >OldPrussian
-- - - - - - - - - v i\textlengthmark r i n - a - -
- - 
+- - - - v - - i\textlengthmark - - - - r i n a - -
+ 
 >SanskritVedic
-- - - - - - - - - s - - \textsubbridge t - \textsu
-bbridge \textrtailr i \textlengthmark 
+- - - - s \textsubbridge t \textsubbridge - - - - 
+\textrtailr i \textlengthmark - - - 
 >Scots
-- - - - - w \textturnv - - m - - m \textscripta - 
-n - - - 
+- - - - - - - - w \textturnv - - m m \textscripta 
+- - n 
 >Yiddish
-- - - - - - - - - - - - f \textscr - \textopenoj -
- - - 
+- - - - - - - - - - - - f \textscr \textopenoj - -
+ - 
 
 
 Sequence character woman_binary.fasta#0
@@ -2467,3733 +6151,56 @@ T A T A G A C C G C A T A C C C T T A T T T GT C T
  G A T C T G T T T T T A T C A C C G C A A T T T T
  A C T T C T T C T A T C T C T A C C T G T C 
 
-Implied Alignments for Graph 2
-
-Sequence character woman.fastc#0
->AlbanianTosk
-- - - - - - - ɡ - - \textfishhookr u - - - - a - 
->AncientIonicGreek
-- - - - - - - ɡ - - \”u n e - - - \textlengthmark 
-- 
->ArmenianWestern
-- - - - - - - ɡ - - i n - - - - - - 
->Assamese
-m a \textsci - - - - k - - i m a n u - \textsupers
-cript{\texthth} - 
->Cornish
-- - - - - - - b - - \textepsilon n - - - j n - 
->Danish
-- - \textprimstress - - - - k - - \textsuperscript
-{h} v e n - - \textschwa - 
->EasternFrisianSaterland
-- - - - - - - v - - i\texthalflength \textupsilon 
-- - - - v - 
->Faroese
-- - - - k - - o - - \textlengthmark n - - - - a - 
->Icelandic
-- - - - - \textprimstress k \textsuperscript{h} - 
-- \textopeno n - - - - a - 
->Irish
-- - - - - - - b \textsuperscript{j} \ae \textlengt
-hmark n - - - \textsubbridge \textsuperscript{\tex
-tgamma} - 
->KolschColognian
-- - - - - - - v - - e\textlengthmark z - - - - h -
- 
->Manx
-- - - - - - - b - - \textepsilon - - - - \textsupe
-rscript{d} n - 
->OldPrussian
-- - - - - - - v - - i\textlengthmark r - - - i n a
- 
->SanskritVedic
-- - - - - - - s - - \textsubbridge t \textsubbridg
-e \textrtailr i - \textlengthmark - 
->Scots
-- - - w \textturnv - - m - - m \textscripta - - - 
-- n - 
->Yiddish
-- - - - - - - - - - f \textscr - - - - \textopenoj
- - 
-
-
-Sequence character woman_binary.fasta#0
->AlbanianTosk
-0 1 1 1 1 1 1 0 0 1 0 0 0 - 1 1 1 1 1 1 1 - 1 - 1 
-0 1 - 1 1 1 1 0 1 0 - 1 1 0 1 1 1 1 0 0 1 1 1 1 1 
-0 1 1 0 0 1 0 0 0 0 0 0 0 - - 1 1 1 0 1 0 1 1 - 1 
-0 0 0 1 0 1 1 1 0 1 0 - 1 1 1 1 1 1 1 1 1 1 0 1 1 
-1 1 1 1 - 1 1 0 1 1 1 1 1 0 1 1 1 1 0 1 1 0 0 1 0 
-0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1 1 1 1 0 
-1 - 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1 0 1 1 1 0 0 1 1 
-1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1 
-0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 1 1 1 1 1 0 
-0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 0 1 0 0 1 
-1 1 1 1 0 1 0 0 1 0 0 1 1 0 1 0 1 1 0 0 0 1 1 1 0 
-- 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 1 1 0 1 0 
-1 0 0 1 - 1 1 1 1 1 1 1 1 0 1 0 1 1 0 1 0 0 1 1 1 
-1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 1 1 0 1 0 1 1 0 0 
-0 0 0 0 1 0 0 0 1 0 1 0 0 1 1 1 1 1 1 1 1 1 0 0 0 
-1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 
-1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 
->AncientIonicGreek
-0 1 1 1 0 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 - 1 - 1 
-1 1 0 0 1 1 1 1 0 1 - 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 1 - 1 0 - 1 
-- 1 0 1 0 0 1 1 0 1 - - 1 1 1 1 1 1 1 1 - 1 0 1 1 
-1 1 1 1 - 1 0 1 0 1 1 0 0 0 0 1 1 1 0 - 1 0 1 1 0 
-0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 0 1 1 - 1 0 
-1 - 1 1 1 0 1 1 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 
-1 1 0 0 0 0 0 1 0 1 1 1 1 1 - 1 1 1 1 1 1 1 1 0 0 
-0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 1 1 1 0 1 0 
-0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 0 1 0 1 0 
-1 1 1 1 0 0 1 - 1 1 0 1 1 1 1 1 1 1 0 0 0 1 1 1 0 
-- 1 1 1 1 0 0 0 0 0 1 0 1 1 1 1 1 1 0 - 1 1 1 1 1 
-0 1 1 1 - 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 1 1 1 
-1 1 1 1 1 1 0 1 1 1 1 1 0 1 1 0 1 1 0 1 1 1 1 0 0 
-0 0 0 0 1 0 0 0 1 1 1 1 1 0 1 1 0 1 1 1 1 1 0 1 1 
-1 1 1 1 1 1 0 1 0 0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 
-1 1 0 0 0 1 1 0 1 1 0 0 1 0 0 
->ArmenianWestern
-0 1 1 1 1 1 1 0 0 1 0 0 0 - 1 1 1 1 0 0 1 - 1 - 1 
-0 0 - 1 1 1 1 1 1 0 - 1 0 0 1 1 1 1 0 0 1 0 1 1 0 
-0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 1 0 1 0 - 0 
-0 0 0 1 0 1 1 1 0 1 - - 1 1 0 1 1 0 1 1 - 1 0 0 0 
-1 1 1 1 - 1 1 0 1 1 1 1 1 0 0 1 1 1 0 1 1 0 0 1 0 
-0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1 1 0 1 0 
-1 - 1 1 1 1 0 0 0 1 1 0 1 1 1 0 1 0 1 1 1 0 0 1 1 
-1 1 0 0 0 0 0 1 1 0 0 1 1 1 0 1 0 1 1 1 1 1 1 0 1 
-0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 0 0 1 1 1 1 1 0 
-0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 0 1 0 0 1 
-1 1 1 0 0 1 1 - 1 1 0 1 1 0 1 1 1 1 0 0 0 1 1 1 0 
-- 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 1 1 1 0 1 
-1 1 0 1 - 1 1 1 1 1 1 1 1 0 0 0 1 1 1 1 1 0 1 1 1 
-0 1 1 0 0 1 0 1 1 1 0 0 1 1 1 0 1 1 0 1 0 1 1 0 0 
-0 0 0 0 1 0 0 0 1 0 1 0 0 1 1 1 1 1 1 1 1 1 0 0 0 
-1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 
-1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 
->Assamese
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 - 1 - 1 
-1 1 - 1 1 1 1 1 1 1 - 1 1 0 1 1 1 1 0 0 1 1 1 1 - 
-0 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 1 0 - 1 
-0 0 0 1 1 1 1 1 1 1 - - 1 1 1 1 1 1 1 1 - 1 0 1 1 
-1 1 1 1 - 1 1 1 1 1 1 1 1 - - 1 1 1 1 1 1 0 1 1 0 
-0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 1 1 1 - 1 0 
-1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 1 0 1 0 1 1 1 
-1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 1 1 1 1 0 1 
-0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0 0 1 1 1 1 1 0 
-0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 0 1 0 1 0 
-1 1 1 1 1 1 1 - 1 0 0 1 0 0 1 1 1 1 0 0 0 1 1 1 0 
-- 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 1 1 1 1 0 
-1 1 1 1 - 1 1 1 1 1 1 1 1 - 1 1 1 1 0 1 1 0 1 1 1 
-1 1 0 0 0 1 0 1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 1 0 0 
-0 0 0 0 1 0 0 0 1 1 1 0 0 0 0 1 1 1 1 1 1 1 0 1 - 
-1 - 1 1 1 1 0 1 0 0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 
-0 0 0 0 0 1 1 0 0 0 0 1 1 1 0 
->Cornish
-0 1 1 1 1 1 1 0 0 1 0 0 0 - 1 1 1 1 1 0 1 - 1 - 1 
-0 1 - 1 1 1 1 1 1 0 - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 1 0 1 1 - 1 
-0 0 1 1 1 1 1 1 0 1 - - 1 1 0 1 0 1 1 1 - 1 0 1 0 
-1 0 1 1 - 1 1 0 1 1 1 1 1 0 1 0 1 1 0 1 1 0 0 1 0 
-0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1 1 0 1 0 
-1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 1 1 0 0 1 1 
-1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 1 1 1 1 0 1 
-0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 1 1 1 0 1 0 
-0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 0 1 0 0 1 
-1 1 1 1 0 1 1 1 1 0 0 1 1 0 1 0 1 1 0 0 0 1 1 1 0 
-- 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 1 1 1 1 0 
-1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 1 0 1 0 1 1 0 1 1 1 
-1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 0 1 1 0 1 0 1 1 0 0 
-0 0 0 0 1 0 0 0 1 0 1 0 0 1 1 1 1 1 1 1 1 1 0 0 0 
-1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 
-1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 
->Danish
-0 1 1 1 1 1 1 0 0 1 1 0 0 - 1 1 1 1 1 0 1 - 1 - 1 
-0 1 - 1 1 1 1 1 1 0 - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 1 0 1 0 - 1 
-0 0 1 1 1 1 1 1 0 1 - - 1 1 0 1 1 1 1 1 - 1 0 1 0 
-1 1 1 1 - 1 1 1 1 1 1 1 1 0 0 1 1 1 0 1 1 0 0 1 0 
-0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1 1 0 1 0 
-1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 1 1 0 0 1 1 
-1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 1 1 1 1 0 1 
-0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 1 1 1 0 1 0 
-0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 0 1 0 0 1 
-1 1 1 0 0 1 1 1 1 0 1 1 1 0 1 0 1 1 0 0 0 1 1 1 0 
-1 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 1 1 1 1 0 
-1 0 1 1 - 1 1 1 1 1 0 1 1 0 1 1 0 1 1 1 1 0 1 0 1 
-1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 0 1 1 0 1 0 1 1 0 0 
-0 0 0 0 1 0 0 0 1 0 1 0 0 1 1 1 1 1 1 1 1 1 0 0 0 
-1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 
-1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 
->EasternFrisianSaterland
-0 1 1 1 1 1 1 0 0 1 0 0 0 - 1 1 1 1 1 1 1 - 1 0 1 
-1 0 - 1 1 1 1 1 1 1 - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 1 0 1 0 - 1 
-0 0 1 1 0 1 1 1 1 1 - - 0 1 1 1 1 0 1 1 - 1 0 1 1 
-0 1 1 1 - 1 1 0 1 1 1 1 1 0 0 1 1 1 0 0 1 0 0 1 0 
-0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1 1 0 1 0 
-1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 1 1 0 0 1 1 
-1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1 
-0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 1 1 1 1 1 0 
-0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 0 1 0 0 0 
-1 1 1 1 1 1 1 - 1 0 0 1 1 0 1 0 1 1 0 0 0 1 1 1 0 
-- 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 1 1 1 0 1 
-1 1 0 1 - 1 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 1 
-1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 1 1 0 1 0 1 1 0 0 
-0 0 0 0 1 0 0 0 1 0 1 0 0 1 1 1 1 1 1 1 1 1 0 0 0 
-1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 
-1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 
->Faroese
-0 1 1 1 1 1 1 0 0 1 0 0 0 - 1 1 1 1 1 0 1 - 1 0 1 
-1 1 - 1 1 1 1 1 1 1 - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 1 0 1 0 - 1 
-0 0 1 0 0 1 1 1 1 1 - - 0 1 1 1 0 1 1 1 - 1 0 0 0 
-0 1 1 1 - 1 1 0 1 1 1 1 1 0 0 1 1 1 0 0 1 0 0 1 0 
-0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1 1 0 1 0 
-1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 1 1 0 0 1 1 
-1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1 
-0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 1 1 1 1 1 0 
-0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 0 1 0 0 0 
-0 1 1 1 0 0 1 - 1 0 0 1 1 0 1 0 1 1 0 0 0 1 1 1 0 
-- 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 1 1 1 1 1 
-0 1 0 0 - 1 1 1 1 1 0 1 1 0 0 0 1 0 1 1 1 0 1 1 1 
-1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 1 1 0 1 0 1 1 0 0 
-0 0 0 0 1 0 0 0 1 0 1 0 0 1 1 1 1 1 1 1 1 1 0 0 0 
-1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 
-1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 
->Icelandic
-0 1 1 1 0 1 1 1 0 1 1 0 0 - - - 1 1 1 0 1 - 1 - 1 
-- 1 - 1 1 0 0 1 1 0 1 1 0 0 1 1 1 1 1 0 1 1 1 1 0 
-0 0 1 0 0 1 1 0 0 0 0 0 0 1 1 1 0 1 0 1 - 1 0 - 0 
-0 0 1 1 0 - 1 1 0 1 - 0 1 1 1 1 1 1 1 1 - 1 1 1 1 
-1 1 1 1 0 0 1 1 1 1 1 1 1 0 0 1 1 1 0 0 1 0 0 1 0 
-0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1 1 - 1 1 
-1 - 1 1 1 1 0 0 1 1 1 0 1 1 1 1 1 0 1 1 1 0 1 1 0 
-0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
-0 0 1 1 0 0 1 0 1 1 0 1 1 1 1 1 1 0 0 1 1 1 1 1 0 
-0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 0 1 0 0 1 
-0 1 1 0 1 0 1 - 0 1 0 1 1 1 0 1 1 1 0 0 0 1 1 1 0 
-- 1 0 1 1 0 1 1 0 0 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 
-1 1 0 0 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 0 1 1 1 
-1 1 1 0 0 1 0 1 1 1 1 0 1 0 1 0 1 1 0 1 1 1 1 1 0 
-0 0 0 0 1 0 0 0 1 1 1 0 1 1 1 1 1 1 1 1 1 0 1 1 0 
-1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 
-1 0 1 0 0 1 1 1 0 1 0 0 1 0 0 
->Irish
-0 1 1 1 1 1 1 0 0 1 0 0 0 - 1 1 1 1 1 0 1 - 1 - 1 
-0 1 - 1 1 1 1 1 1 0 - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
-0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 1 0 1 0 - 1 
-0 1 0 0 0 1 1 1 0 1 - - 1 1 0 1 1 1 1 1 0 0 0 1 0 
-- 0 1 1 - 1 1 0 1 1 1 0 1 0 0 1 1 1 0 1 1 0 0 1 0 
-0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1 1 0 1 0 
-0 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 0 1 1 1 0 0 1 1 
-1 1 0 0 0 0 0 1 1 1 0 0 1 1 0 1 0 1 1 1 1 1 1 0 1 
-0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 1 1 1 0 1 0 
-0 1 0 0 0 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 0 1 0 0 1 
-1 1 1 0 0 1 1 0 1 - 0 1 1 0 1 0 1 1 0 0 0 1 1 1 0 
-- 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 0 - 1 1 1 1 1 
-1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 1 0 1 
-1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 0 1 1 0 1 0 1 1 0 0 
-0 0 0 0 1 0 0 0 1 0 1 0 0 1 1 1 1 1 1 1 1 1 0 0 0 
-1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 
-1 0 1 0 0 1 1 1 0 1 0 0 1 0 0 
->KolschColognian
-0 1 1 1 0 1 1 1 0 1 1 0 0 - - - 1 1 1 1 1 0 0 - 1 
-- 1 - 1 1 1 1 1 1 0 - 1 0 0 1 1 1 1 1 0 0 1 1 1 0 
-0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 1 - 0 0 - 1 
-1 0 1 0 0 - 1 1 0 1 - 0 1 1 0 0 1 0 1 1 - 1 1 1 1 
-1 0 1 1 0 1 1 1 1 1 1 1 1 0 0 1 1 1 0 0 1 0 0 1 0 
-0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1 1 - 1 1 
-1 - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 1 1 0 
-0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 1 1 0 1 1 0 0 1 
-0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 0 
-0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 0 1 0 0 1 
-1 1 1 0 1 1 1 - 1 1 0 1 1 1 1 1 1 1 0 0 0 1 1 1 0 
-- 1 0 1 1 0 1 1 0 0 1 1 1 0 1 1 1 1 0 1 1 1 1 1 1 
-1 1 1 0 - 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 0 0 1 1 
-1 1 1 0 0 1 0 1 1 1 1 0 1 0 1 0 1 1 0 1 1 1 1 1 0 
-0 0 0 0 1 0 0 0 1 1 1 0 1 1 1 1 1 0 1 1 1 1 1 1 0 
-1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 1 1 0 1 0 0 0 1 0 1 
-1 0 1 0 0 1 1 1 0 1 0 0 1 0 0 
->Manx
-0 1 1 1 1 1 1 0 0 1 0 0 0 - 1 1 1 1 1 0 1 - 1 - 1 
-0 1 - 1 1 1 1 1 1 0 - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
-0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 1 0 1 1 - 1 
-0 0 1 1 0 1 1 1 0 1 - - 1 1 0 1 1 1 1 1 - 1 0 1 0 
-1 0 1 1 - 1 1 0 1 1 1 1 1 0 1 0 1 1 0 1 1 0 0 1 0 
-0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1 1 0 1 0 
-1 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 0 1 1 1 0 0 1 1 
-1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 1 1 1 1 0 1 
-0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 1 1 1 0 1 0 
-0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 0 1 0 0 1 
-1 1 1 1 0 1 1 0 1 0 0 1 1 0 1 0 1 1 0 0 0 1 1 1 0 
-- 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 1 1 1 0 1 
-1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 1 0 1 1 1 
-1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 0 1 1 0 1 0 1 1 0 0 
-0 0 0 0 1 0 0 0 1 0 1 0 0 1 1 1 1 1 1 1 1 1 0 0 0 
-1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 
-1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 
->OldPrussian
-0 1 1 1 1 1 1 0 0 1 1 0 0 - 1 1 0 1 1 0 1 - 1 - 1 
-0 1 - 1 1 1 1 1 1 0 - 1 1 0 1 1 1 1 0 1 1 0 1 1 0 
-0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 1 0 1 0 - 1 
-0 0 1 0 1 1 1 1 0 1 - - 1 1 0 1 1 1 1 1 - 1 0 1 0 
-1 1 1 1 - 1 1 1 1 1 1 1 1 0 0 1 1 1 0 1 1 0 0 1 0 
-0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1 1 0 1 0 
-1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 1 1 0 0 1 1 
-1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1 
-0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 1 1 1 0 1 0 
-0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 0 1 0 0 1 
-1 1 1 0 0 1 1 1 1 0 0 1 1 0 1 0 1 1 0 0 0 1 1 1 0 
-1 0 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 1 1 1 0 1 
-1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 0 0 0 1 1 0 1 1 1 1 1 0 1 1 0 1 0 1 1 0 0 
-0 0 0 0 1 0 0 0 1 0 1 0 0 1 1 1 1 1 1 1 1 1 0 0 0 
-1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 
-1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 
->SanskritVedic
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 1 1 1 1 - 1 - 1 
-1 1 - 1 1 0 1 1 1 1 - 1 1 0 1 1 1 1 0 0 1 1 1 1 - 
-0 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 1 0 - 1 
-0 0 0 1 1 1 1 1 1 1 - - 1 1 1 1 1 1 1 1 - 1 0 1 1 
-1 1 1 1 - 1 1 1 1 1 1 1 1 - - 1 1 1 1 1 1 0 1 1 0 
-0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 1 1 1 - 1 0 
-1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 1 0 1 0 1 1 1 
-1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 1 1 1 1 0 1 
-0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0 0 1 1 1 1 0 0 
-0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 0 1 0 1 1 
-1 1 1 1 1 1 1 - 1 0 0 1 0 0 1 1 1 1 0 0 0 1 1 1 0 
-- 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 1 1 1 1 1 
-1 1 1 1 - 1 1 1 1 1 1 1 1 - 1 1 1 1 0 1 1 0 1 1 1 
-1 1 0 0 0 1 0 1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 1 0 0 
-0 0 0 0 1 0 0 0 1 1 1 0 0 0 0 1 1 1 1 1 1 1 0 1 - 
-1 - 1 1 1 1 0 1 0 0 1 1 1 0 1 1 1 0 1 1 0 1 1 0 1 
-0 0 0 0 0 1 1 0 0 0 0 1 1 1 0 
->Scots
-0 1 1 1 1 1 1 0 0 1 0 0 0 - 1 0 1 1 1 1 1 - 1 0 1 
-1 1 - 1 1 1 1 1 1 0 - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 1 0 1 0 - 1 
-0 0 1 1 1 1 1 1 1 1 - - 0 1 1 1 1 0 1 1 - 1 0 0 1 
-0 1 1 1 - 1 1 0 1 1 1 1 1 0 0 1 1 1 0 1 1 0 0 1 0 
-0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 0 1 1 0 1 0 
-1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 1 1 0 0 1 1 
-1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1 
-0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 0 0 1 1 1 1 1 0 
-0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 0 1 0 0 1 
-1 1 1 1 0 1 1 - 1 0 0 1 1 0 1 1 1 1 0 0 0 1 1 1 0 
-- 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 1 1 1 0 1 
-0 0 0 0 - 1 1 1 1 1 1 1 1 0 0 0 0 1 1 1 1 0 1 1 1 
-1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 1 1 0 1 0 1 1 0 0 
-0 0 0 0 1 0 0 0 1 0 1 0 0 1 1 1 0 1 1 1 1 1 0 0 0 
-1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 
-1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 
->Yiddish
-0 1 1 1 0 1 0 1 0 1 1 0 0 - - - 1 1 1 1 1 - 1 - 1 
-- 1 - 1 0 0 1 1 1 0 - 1 1 0 1 1 0 1 1 0 1 1 1 1 - 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 1 - 1 0 1 1 
-0 0 1 1 0 1 1 1 0 1 - - 1 1 1 1 1 0 1 1 - 1 1 1 1 
-1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 1 0 
-0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 0 1 1 - 1 1 
-1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 1 0 1 
-1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 1 1 0 1 
-0 0 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 0 0 
-0 0 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 0 1 0 1 1 
-1 1 1 1 0 1 1 - 1 1 0 1 1 1 1 1 1 1 0 0 1 1 1 1 0 
-- 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 - 1 1 1 1 1 
-1 1 1 0 - 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 1 0 1 
-1 1 0 0 0 1 0 1 1 1 1 1 1 0 1 0 1 1 0 1 1 1 1 1 0 
-0 0 0 0 1 0 0 0 1 1 1 0 - - 1 1 1 0 1 1 1 1 1 1 0 
-1 0 1 1 1 1 0 1 0 0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 
-1 0 1 0 0 1 1 1 0 1 0 1 1 1 0 
-
-
-Sequence character woman_12Saln.fasta#0
->AlbanianTosk
-GTTTTATCCTGGCTTA-TTTTTTC--ATTTTCAGATTTGTGCCAGCAGCC
-GCGGTTACAC-TA-AGGGACAAACTGAAA-TG-TTAAGATAAAGTTATGA
-ACCAGGATTAGATACCCTGTAGTTATT-GTCTTAAAACTCAAAGGATTTG
-GCGGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAAACGATAAACCAC
-GTAAAATCTTACCCTACGTTTGTATACCGTCATTATTAGATCAAGGTGCA
-GCTTATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CG
-TT-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGT
-ACC
->AncientIonicGreek
-GTTTGATTTTTGCTTATTTATTT--TACGTTTAGTTTTGTGCCAGCAGCC
-GCGGTTATACTTG-AAGAGCA-AGTAAAA-TG-TAAAGTCTAGGGCATAG
-ACTAGGATTAGATACCCT-AAGTTATG-TTCTTGAAAATAAAAAAATTTG
-GCGGT-GTTTAATTTATTTAGGGGAACCTGTTTTATAATCGATACACCAC
-GAAGAATCTTACTTACTTCATGTATACCGTTATTATTAGATCAAGGTGCA
-GACTATGATATAAATACTTAAACATGTACATATCGCCCGTCGCTTTTACA
--T--CTTAATGTAAAATAAGTCGTAACATAGTAGCTGTATCGGAAGATGC
-AGC
->ArmenianWestern
-GTTTTATCCTGGCTTA-TCCTTTC-GA-TTTTAGATTTGTGCCAGCAGCC
-GCGGTTATAC-TG-AGGGGCAGATTGAAA-TA-TTAAGATAAAGGTATGA
-ACCAGGATTAGATACCCTGCAGTTATT-GGCTTGAAACTCAAAGGATTTG
-GCGGTAGCTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAATCCAC
-GAAAAATCTCACTTTACGCTTGTATACCGTCATTATTAGATCAAGGTGCA
-GCTTATGATTGTAGCTCTAAGCTATGTACACATCGCCCGTCGC-TCT-CG
-TT-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGT
-ACC
->Assamese
-GTTTGATTCTTGCTTA-TGATTT--TTATATTATATTTGTGCCAGCAGTC
-GCGGTTATACTTA-GAGGGTA-AATAAAT-TA-TAAATTTTAATATATAA
-ACTAGGATTAGATACCCT-AAGTTATT-TTCTTTAAATCCAGAGAATTTG
-GCGGTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAACCAC
-GAA-TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCA
-GTCTATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG
--C--CTAAAAATGAAATAAGTCGTAACAAAGTAGGTGTGCCGGAAGGCGT
-ATC
->Cornish
-GTTTTATCCTGGCTTA-TTCTTTC--ATTTTTAGATTTGTGCCAGCAGCC
-GCGGTTATAC-TG-AAAGGTAAATTGAAA-TG-TTAAGATAAAGAGATGA
-ACCAGGATTAGATACCCTGCAGTTATT-GTCTTGAAACTCAAAGGATTTG
-GCGGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCAC
-GAAGAATCTTACTTTACGTTTGTATACCGTCATTATTAGATCAAGGTGCA
-GCTTATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CG
-TT-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGT
-ACC
->Danish
-GTTTTATCCTAGCTTA-TTCTTTC--AATTTTAGATTTGTGCCAGCAGCC
-GCGGTTATAC-TG-AGAGGTTAATTGAAA-TA-TTAAAATAAAGGAATGA
-ACCAGGATTAGATACCCTGCAGTTATT-GTCTTGAAACTCAAAGGATTTG
-GCGGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCAC
-GAAGAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCA
-GCTTATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CG
-TT-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGT
-ACC
->EasternFrisianSaterland
-GTTTTATCCTGGCTAA-T-ATTTCTTGTTTTTAAATTTGTGCCAGCAGCC
-GCGGTTATAC-TG-AGAGGTAGATTAAGA-TG-TTAAGTTAAAGGTATGG
-ACCAGGATTAGATACCCTGCAGTTATT-GTCTTGAAACTCAAAGGATTTG
-GCGGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCAC
-GAAGTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCA
-GCCAATGATTATAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CG
-TT-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGT
-ACC
->Faroese
-GTTTTATCCTGGCTAA-T-AGTTCTTATTATTAAATTTGTGCCAGCAGCC
-GCGGTTATAC-TG-AGAGGTGGATTAAGA-TG-TTAAGATAAAGGTATGG
-ACCAGGATTAGATACCCTGCAGTTATT-GTCTTGAAACTCAAAGGATTTG
-GCGGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCAC
-GAAGAATCTTACCTTGTGTTTGTATACCGTCATTATTAGATCAAGGTGCA
-GCCGATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CG
-TT-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGT
-ACC
->Icelandic
-GTTTGATTCTTGC-TA-TG-TTT--T-TTGCTAGACTTGTGCCAGCATCC
-GCGGTTAGACTTG-GGGATCT-AGTGAAACGA-GGAA-TTTTAGGTATGG
-ACCAGGATTAGATACCCTGAATTAATACGT-TTGAAATTCAAAGAACCTG
-GCGGTACTTTAGTCTAGTTAGAGGAACCTGTTGTATAAACGATAAACCAC
-GTAGAATCTTTCTTACTGCTAGTATACCTTCATTATTAGATCAAGGTGCT
-GCTGATGATAATAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CA
-TTAAATTAGA-TGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGC
-ACC
->Irish
-GTTTTATCCTGGCTTA-TTCTTTC--ATTTTTAGATTTGTGCCAGCAGCC
-GCGGTTATAC-TG-AGAGACGGATTGAAA-TA-TTAAGATAGAGGAATGA
-ACCAGGATTAGATACCCTGCAGCTATT-ATCTTGAAACTCAAAGGATTTG
-GCGGTAACCTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCAC
-GCAATATCTTGCTTTATGCTTGTATACCGTCATTATTAGATCAAGGTGCA
-GCTTATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CG
-TT-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGC
-ACC
->KolschColognian
-GTTTGATTCTTGC-TA-TT-ACC--T-TTATTAAACTTGTGCCAGCAGCC
-GCGGTTAAACTCG-ATGTCCT-AGTGAAGCTA-GAAA-ATTTAGGTAAGG
-ACCAGGATTAGATACCCTGAATAAATTAAT-TTTAAATTCAAAGAACCTG
-GCGGTACTTTAGTCTAGTTGGAGGAACCTGTTTTATAAACGATAAACCAC
-GTAAAATCTTTCTTATTGTTAGTATACCTTCATTATTAGATCAAGGTGCT
-GCAAATGGTATTAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CA
-TTAAGTTAAA-TGAGATAAGTCGTAACATAGTGGGTGTACTGGAAAGTGC
-ACC
->Manx
-GTTTTATCCTGGCTTA-TTCTTTC--ATTTTTAGATTTGTGCCAGCAGCC
-GCGGTTATAC-TG-AAAGGTAGATTGAAA-TG-TTAAGATAAAGAGATGA
-ACCAGGATTAGATACCCTGCAGTTATT-ATCTTGAAACTCAAAGGATTTG
-GCGGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCAC
-GAAGAATCTTACTCTATGTTTGTATACCGTCATTATTAGATCAAGGTGCA
-GCTTATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CG
-TT-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGT
-ACC
->OldPrussian
-GTTTTATCCTAGCTTG-TTCTTTC--ATTTTTAGATTTGTGCCAGCAGCC
-GCGGTTATAC-TG-AGAGGTCAATTGAAA-TA-TTAAAATAAAGGAATGA
-ACCAGGATTAGATACCCTGCAGTTATT-GTCTTGAAACTCAAAGGATTTG
-GCGGTAATTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCAC
-GAAAAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCA
-GCTTATGACCTTAGCCCTAGATTATGTACACATCGCCCGTCGC-TCT-CG
-TT-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGT
-ACC
->SanskritVedic
-GTTTGATTCTTGCTTA-TAATTT--TTATACTATATTTGTGCCAGCAGTC
-GCGGTTATACTTA-GAGGGTA-AATAAAT-TA-TAAATTTTAATATATAA
-ACTAGGATTAGATACCCT-AAGTTATT-TTCTTTAAATCCAGAGAATTTG
-GCGGTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAGCCAC
-GAA-TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCA
-GTTTATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG
--C--CTAAAAATGAAATAAGTCGTAACAAAGTAGATGTGCCGGAAGGCGT
-ATC
->Scots
-GTTTTATCCTGGCTCA-T-AATTCTTATTTTTAGATTTGTGCCAGCAGCC
-GCGGTTATAC-TG-AGAGGTAAATTAAGA-TA-TTAAGATAAAGGTATGA
-ACCAGGATTAGATACCCTGCAGTTATT-GTCTTGAAACTCAAAGGATTTG
-GCGGTAATTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAAACCAC
-GAAGTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCA
-GCTAATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CG
-TT-AGTTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGT
-ACC
->Yiddish
-GTTTGACTCTTGC-T--TTAATT--T-TCGTTA-ACTTGTGCCAGCAGCC
-GCGGTTATACTAGAAGGTTGA-A-TGAAA-TATTAAA-TTTTAGATATAA
-ACCAGGATTAGATACCCTGAATGAATTAAT-TTAAAATTCAAAGAGTTTG
-GCGGTATTTTAGTCCTGTTAGAGGAATCTGTTTTATAAACGATAACCCCC
-GTAATATCTTTCTTATTGCTAGTATACCATCATTATTAGATCATGGTGCT
-GTTTATGAGATTGGCTCTAAAATGTGTACATATTGCCCGTCGC-TTT-CA
-TT--CTTAAA-TGAGATAAGTCGTAACATAGTAGGAGTACTGGAAAGTGT
-TTC
-
-
-Sequence character woman-wide_aa.fas#0
->AlbanianTosk
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V I V T A H A F V I I F F M V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L S R G I V E S G V G T G 
-- - T V Y P P L S A G I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R R T 
-G I T I D R I P L F V S V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G M I S H I I R Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S M G A V F G I F A G I A H - - - F 
-P L F T G L T I N P K - L K I H F I V M F V G V N 
-I T F F P Q H F L G L N G M P R R Y S D Y P D A Y 
-T S N V L S S I G S T I S L I A V L G F I V I V E 
-A L V T T R P V L F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->AncientIonicGreek
-T K R F F S T N H K D I G T L Y F I F G A - - S G 
-M V G T A L R L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L I R G I V E R G V G T G 
-- - T V Y P P L S A R I A H A G A S V D I G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R P V 
-G I S I D R I P L F V A V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V S Q E S G K K E S F G T L G I I Y A 
-I L A I G I L G F I V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A I P T G I K I F - R - - L G 
-T L Q G N Q I N Y R P S I I - - A L G F I F L F T 
-V G G L T G V V L A N S S I D T V L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - Y 
-P L F T G L S I N P K W L K I H F S V I F L G V N 
-L T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T P N V L S S I G S I I S L C A V I G F V F I I E 
-S L I S S R P V I F S L F Q P T S I E - - K H H Y 
-P P A D H R F I Q I A L I S N 
->ArmenianWestern
-T Q R L F S T N H K D I G T L Y F I F G A - - S G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L A A G I A H A G A S V D I G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R A S 
-G I T L D R I P L F V S V F I T A L L L L L S L P 
-V L A G A I T M L L T D R N L N T S F F D P A G G 
-G D P I L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H M F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L L - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - W F 
-P L F T G L T L N P R - L K M H F L T I F V G V N 
-I T F F P Q H F L G L R G M P R R Y S D Y P D A Y 
-T A N V V S S I G S T I S L I A V L G F V I I V E 
-A L S A N R P V I F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->Assamese
-T K R F F S T N H K D I G T L Y F I F G A W - A G 
-I V G T S L S L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L T S G I V E R G V G T G 
-- - T V Y P P L S A A I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R P Q 
-G I T L D R I P L F V S V F I T A I L L L L S L P 
-V L A G A I T M L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V S Q E S G K A E S F G T L G I I Y A 
-I L A I G I L G F L V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K I F - R - - L G 
-T L H G A Q V N Y R P S L L W - A M G F I F L F T 
-V G G L T G V V L A N S S L D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I T H - - - F 
-P L F T G L S L N P T W L K I H F F V M F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-A A N V L S S M G S I V S L V A V L G F I I I V E 
-S L V S S R S V I F T T F F P T S V E - - E H A Y 
-P P A D H R Y I E I P I V S N 
->Cornish
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F I V M P I I I G G 
-F G N - L V P L M L G A P D M A F P R I N N M S F 
-- - W L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A S I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F M T T V I N I R S T 
-G I T I D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S M G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K V H F L V M F I G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-S A N V V S S I G S T V S L I A V L G F V I I V E 
-A L T V A R P V I F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->Danish
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V M I F F I V I P I I I G G 
-F G N - L V P L M L G A P D I A F P R M N N I S F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- W T V Y P P L S A S I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S M G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K I H F L V I F I G V N 
-I T F F P Q H F L G L N G K P R R Y S D Y P D A Y 
-S A N G V S S I G S T V S L I A V L G F V I I V E 
-A L T A A R P V I F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->EasternFrisianSaterland
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L S L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F I I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-W - T V Y P P L S A G I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R M P L F V S I F I T T L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I R Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L L - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G V T L N P K - L K I H F L V I F I G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T A N V L S S I G S T I S L I A V L G F I I I V E 
-A L T A T R P I I F S L F L P T S I E - - Q H N F 
-P P A D H R Y I E I P L I T N 
->Faroese
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L S L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F M V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A G I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R M P L F V S V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G I L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S W - L G 
-T L H G T Q L N Y S P S L L - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G V T L N P K - L K I H F L I I F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T T N V V S S I G S T I S L I A V L G F I I I V E 
-A L T A A R P V I F S L F L P T S I E - - Q H N F 
-P P A D H S Y I E I P L I T N 
->Icelandic
-T Q R F F S T N H K D I G T L Y F I F G A - - A G 
-M V G T S L R L I I R A E L G Q P G R F I G D D Q 
-I Y N V V V T A H A F I M I F F M V M P I I I G G 
-F G N - L V P I I L G A P D I A F P R M N N M R F 
-- - - L L P P S L T L L L A G G A V E R G A G T G 
-- - T V Y P P L S V G V A H A G A S V D L S I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S S 
-G I T L D R I P L F V S V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P V G G 
-G D P I L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V A Q E S N K K K P F G A L G M I Y A 
-I L A I G I L G F V V A H H M F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K V F - R - - L G 
-T L H G A H F S L T P S L L - W A L G F I F L F T 
-V G G L T G I V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G I S L N P K - L K I Q F S A I F I G V N 
-T T F F P Q H F L G L R G M P R R Y S D Y P D A Y 
-T T N V V S S I G S S I S L V A V L G F V F I I E 
-G L A S K R P L M F N S F M P T S I E W - Y H S Y 
-P P A D H R Y M E V P I I T A 
->Irish
-T Q R L F S T N H K D I G T L Y F I F G A - W A G 
-I V G T A L S L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V M I F F I V M P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I S F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A R I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G M I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - W L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K I H F L V I F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T A N V V S S I G S T I S L I A V L G F I I I V E 
-A L T A A R P V L F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->KolschColognian
-T Q R F F S K K Y K D I G T L Y F I F G A - - A G 
-I V G T S L R L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F I V M P I I I G G 
-F G N W L V P I M L G A P D M A F P R M N N I R F 
-- - - L L P P S L T L L L A S G I V E R G V G T G 
-- - T V Y P P L A G A V A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N M R S S 
-G I T F D R M P L F V S V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F A P V G A 
-R D P I N Y H H I F V L D N P E V Y I L I L P A F 
-G M I S H I V S Q E S N K K K P F G A L G I I Y A 
-M L S I G L L G F I V A H H M F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K V F - R - - L G 
-T L H G A H F T L T P S L L - W S L G F I F L F T 
-V G G L T G I V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - W - F 
-P L F T G V T L N P K - L K I Q F T A I F I G V N 
-I T F F P Q H F L G L R G I P R R Y S D Y P D A Y 
-S T N V I S S V G S S I S L V A V L L F V F I I E 
-G L A S K R P I L F N S F I P T S I E - - I H P Y 
-P P A D H S Y M E I P L L T A 
->Manx
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F M V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N M S F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A S I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G M I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K I H F I V M F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-S A N V V S S I G S T V S L I A V L G F V I I V E 
-A L T V A R P V I F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->OldPrussian
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F M V I P I M I G G 
-F G N - L V P L I L G A P D M A F P R I N N I S F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A S I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T M D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T M L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T P G M I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K I H F L V I F I G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-S A N V V S S I G S T V S L I A V L G F V M I V E 
-A L T A A R P V I F S L F L P T S I E - W Q H N L 
-P P A D H S Y I E I P L I T N 
->SanskritVedic
-T K R F F S T N H K D I G T L Y F I F G A - - A G 
-I V G T S L S L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I S F 
-- - - L L P P S L T L L L T R G I V E R G V G T G 
-- - T V Y P P L S A A I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R P Q 
-G I T L D R I P L F V S V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V R Q E S G K A E S F G T L G I I Y A 
-I L A I G I L G F L V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K I F - R - - L G 
-T L H G A Q V N Y S P S L L - - A I G F I F L F T 
-V G G L T G V V L A N S S L D I I L H D T Y Y V V 
-A H F H Y V L S M G A V F G I F A G I T H W - - Y 
-P L F T G L S L N P T - L K I H F F V I F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T A N V L S S I G S I V S L V A V L G F I I I V E 
-S L V A S R S V I F S T F F P T S V E - - E H S Y 
-P P A D H R Y I E I P M V S N 
->Scots
-A Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L S L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F M V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-W - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A G I A H A G A S V D I G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V S V F I T T L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I R Q E S G K K E A F G T L G I I Y A 
-M L A I G I L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L L - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G V T L N P K - L K I H F L T I F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T A N V L S S I G S T I S L I A V I G F V I I V E 
-A L T A A R P V I F S L F L P T S I E - - Q H S F 
-P P A D H S Y I E I P L I T N 
->Yiddish
-T Q R F F S T N H K D I G T L Y F I F G A - - A G 
-M V G T S L R L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N M R F 
-- W - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L A A A V A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V S V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V R Q E S G K K E S F G A L G I I Y A 
-I L A I G V L G F V V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K V F S W - - L G 
-T L H G T Q I Y F T P S L L - - A L G F I F L F T 
-I G G L T G I V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G L S L N P K - I K I H F I T I F I G V N 
-I T F F P Q H F L G L R G I P R R Y S D Y P D A Y 
-I T N V V S S V G S T I S L I A V L R F I I I I E 
-A L R S N R S I I F S F F L P T S I E - - H H N Y 
-P P A D H R Y N E I P I I T S 
-
-
-Sequence character woman_cox1aln.fasta#0
->AlbanianTosk
-TTATATTAGGAGCACCAGATATAGCTTTCCCTCGAATAAATAATATAAGA
-TTTTGACTTCTTCCACCATCTTTAACTTTACTCCTCTCTAGAGGAATAGT
-AGAAAGTGGAGTGGGAACAGGCTGAACTGTCTATCCTCCTTTATCTGCTG
-GAATTGCACATGCTGGTGCCTCAGTAGATTTAGGAATCTTTTCTTTACAC
-CTAGCAGGAGTTTCATCCATCTTAGGGGCCGTAAACTTTATAACTACCGT
-TATCAATATACGAAGAACAGGTATAACAATAGACCGAATTCCTCTTTTTG
-TATGATCTGTATTTATTACAGCCCTTCTTCTCCTTCTTTCCCTCCCAGTC
->AncientIonicGreek
-TAATATTAGGTGCCCCTGATATAGCTTTTCCACGAATAAATAATATAAGA
-TTTTGACTCCTTCCACCTTCTCTAACTCTTCTTTTAATAAGAGGAATAGT
-TGAAAGAGGTGTAGGAACTGGATGAACTGTTTACCCTCCTTTATCGGCTA
-GAATCGCTCACGCAGGAGCATCTGTAGATATAGGAATTTTCTCCTTACAT
-CTGGCCGGTGTCTCATCAATTCTTGGTGCAGTAAACTTTATAACCACAGT
-TATTAATATACGCCCTGTTGGTATATCAATAGATCGTATACCTTTATTTG
-TTTGAGCCGTATTTATTACAGCTATTCTTTTATTACTATCCTTACCCGTT
->ArmenianWestern
-TAATATTAGGAGCTCCAGATATAGCTTTCCCTCGAATAAATAATATAAGA
-TTCTGACTCCTCCCTCCCTCTTTAACTCTTTTACTTTCAAGAGGAATAGT
-AGAAAGAGGAGTAGGAACGGGATGAACCGTTTATCCTCCTCTTGCAGCCG
-GAATTGCTCATGCCGGAGCTTCAGTTGATATAGGAATCTTCTCTCTACAT
-TTAGCAGGAGTATCCTCTATTTTAGGGGCCGTAAATTTTATAACAACAGT
-GATTAACATACGGGCATCTGGAATAACATTAGACCGAATACCTTTATTCG
-TGTGATCTGTATTTATTACTGCACTATTATTACTTTTATCACTACCAGTT
->Assamese
-TAATACTAGGAGCACCGGATATAGCTTTTCCACGAATAAATAATATAAGA
-TTTTGACTTTTACCCCCATCTTTAACTCTTTTATTAACTAGTGGTATAGT
-AGAAAGAGGTGTAGGTACAGGATGAACTGTGTATCCCCCACTTTCCGCAG
-CTATTGCTCACGCCGGAGCATCGGTAGATTTAGGTATTTTTTCTCTACAT
-TTAGCCGGAGTCTCTTCTATTTTAGGGGCTGTAAATTTTATAACGACAGT
-CATTAATATACGACCCCAGGGAATAACCTTAGATCGCATACCTTTATTTG
-TTTGATCTGTATTTATTACTGCGATTCTACTTTTATTATCACTACCTGTT
->Cornish
-TAATGTTAGGTGCTCCTGATATGGCTTTTCCACGAATAAACAATATGAGT
-TTCTGGCTCCTACCTCCTTCACTAACACTACTTCTTTCTAGAGGTATAGT
-TGAAAGAGGAGTAGGAACAGGATGAACTGTTTACCCTCCTTTATCAGCCA
-GTATTGCTCATGCTGGGGCTTCGGTAGATTTAGGAATTTTCTCCCTACAC
-TTGGCAGGTGTTTCTTCAATTTTAGGAGCTGTAAATTTTATGACAACTGT
-TATTAACATACGATCTACGGGAATAACTATAGACCGAATACCGCTTTTCG
-TTTGAGCAGTATTTATTACAGCATTACTTCTCTTATTATCTCTACCGGTA
->Danish
-TAATGTTAGGTGCTCCAGATATAGCTTTCCCTCGAATGAATAATATAAGC
-TTCTGACTTTTACCTCCTTCTCTTACCCTTCTTTTATCTAGAGGGATAGT
-TGAAAGAGGTGTTGGAACTGGTTGGACAGTTTATCCTCCACTCTCTGCTA
-GTATTGCCCACGCTGGAGCTTCAGTAGACCTTGGAATCTTTTCCCTACAT
-CTAGCTGGTGTATCTTCTATTCTAGGAGCAGTAAATTTTATAACTACTGT
-AATCAATATACGATCTACAGGAATAACTATAGACCGAATACCTCTTTTTG
-TTTGAGCAGTATTCATTACTGCTTTACTATTACTTCTATCATTACCAGTC
->EasternFrisianSaterland
-TAATATTAGGAGCTCCTGATATAGCTTTTCCTCGAATAAATAATATAAGA
-TTCTGACTCTTACCTCCATCCCTAACCCTCCTCCTCTCTAGAGGAATAGT
-AGAAAGAGGAGTTGGAACAGGATGGACTGTTTATCCTCCACTGTCAGCCG
-GAATCGCCCACGCAGGAGCCTCTGTAGATTTAGGAATCTTCTCCCTTCAC
-CTAGCAGGAGTTTCTTCAATTCTAGGTGCAGTAAATTTTATAACAACAGT
-AATTAACATACGATCAACAGGAATAACTATAGACCGAATGCCCTTATTTG
-TCTGATCAATCTTTATTACTACCCTTCTCCTCCTTCTATCTCTCCCAGTA
->Faroese
-TTATATTAGGTGCCCCAGATATAGCTTTCCCCCGAATAAATAATATAAGA
-TTTTGACTCTTACCTCCTTCTCTAACTCTATTACTTTCTAGAGGAATAGT
-AGAAAGAGGAGTAGGAACAGGATGAACTGTTTATCCTCCTTTATCCGCCG
-GAATTGCTCACGCCGGGGCCTCTGTAGACCTAGGTATTTTCTCACTACAC
-TTAGCAGGAGTATCTTCAATTCTAGGAGCAGTAAATTTTATAACAACTGT
-AATTAATATACGGTCAACTGGAATAACTATAGACCGTATGCCTTTATTTG
-TTTGATCAGTATTCATTACCGCTCTCCTTCTCCTCTTATCTCTACCAGTT
->Icelandic
-TTATACTAGGAGCTCCCGATATAGCTTTCCCCCGAATGAATAACATGAGA
-TTTTGACTTCTTCCCCCATCGCTAACGCTTCTTCTGGCTGGAGGAGCCGT
-AGAAAGAGGAGCTGGAACCGGTTGAACAGTTTATCCGCCTCTTTCGGTGG
-GAGTGGCACACGCTGGTGCGTCAGTGGACTTAAGTATCTTTTCACTACAC
-CTAGCAGGTGTTTCATCCATTCTTGGAGCCGTCAACTTTATTACTACCGT
-CATCAATATACGGTCATCTGGGATAACACTAGATCGAATACCTCTCTTTG
-TTTGATCTGTTTTCATTACAGCTATCCTATTACTTCTTTCGCTCCCAGTG
->Irish
-TAATATTAGGAGCACCTGATATAGCATTCCCACGAATAAATAATATAAGC
-TTTTGACTGCTACCTCCTTCTCTCACCCTTCTTCTATCTAGAGGAATAGT
-TGAAAGAGGAGTTGGAACAGGATGAACTGTATATCCTCCCCTATCAGCTA
-GAATCGCACATGCAGGGGCCTCTGTAGATTTGGGAATTTTTTCATTGCAT
-TTAGCAGGAGTTTCATCAATTCTAGGGGCCGTAAATTTCATAACAACTGT
-AATTAATATACGATCTACAGGTATAACTATAGACCGAATACCGTTATTCG
-TCTGAGCAGTTTTTATTACAGCGCTCTTACTCCTTTTATCTTTACCCGTT
->KolschColognian
-TTATGTTAGGTGCCCCAGATATGGCATTTCCCCGAATGAATAACATAAGA
-TTCTGACTTTTACCTCCCTCTCTAACGCTTCTTCTAGCTAGTGGTATAGT
-GGAGAGGGGAGTAGGAACTGGCTGAACAGTTTATCCCCCTCTAGCAGGGG
-CAGTGGCCCATGCCGGAGCATCAGTAGATTTGGGTATTTTCTCCCTCCAT
-CTTGCCGGTGTGTCATCAATTCTAGGAGCCGTAAATTTTATTACAACAGT
-AATTAATATGCGGTCTTCAGGTATAACATTCGACCGAATGCCTCTATTTG
-TATGATCTGTGTTTATTACTGCCATTTTACTTCTACTTTCTCTTCCCGTA
->Manx
-TAATATTAGGTGCTCCCGATATAGCTTTCCCTCGAATAAATAATATGAGT
-TTCTGACTTTTACCTCCCTCGCTAACTCTACTTCTTTCTAGAGGTATAGT
-CGAAAGAGGGGTAGGAACAGGATGAACTGTTTACCCTCCTCTATCTGCCA
-GCATTGCCCATGCAGGAGCATCTGTAGATCTAGGAATCTTCTCATTACAT
-TTAGCAGGGGTTTCTTCAATTCTAGGTGCTGTAAATTTTATAACTACCGT
-TATCAATATACGATCAACAGGAATAACTATAGACCGAATACCTCTTTTCG
-TCTGAGCGGTATTTATTACAGCCTTACTACTTTTACTATCATTACCGGTT
->OldPrussian
-TAATACTAGGTGCCCCGGATATGGCTTTCCCTCGAATAAATAACATAAGT
-TTCTGACTTTTACCCCCATCTCTCACTCTCCTCTTATCTAGAGGAATAGT
-AGAAAGAGGTGTAGGAACTGGATGAACTGTATATCCTCCTTTATCTGCAA
-GTATTGCCCATGCGGGAGCTTCCGTTGATCTCGGAATCTTCTCACTACAC
-TTAGCAGGTGTATCATCAATTTTAGGTGCCGTAAATTTTATAACAACTGT
-TATCAATATACGATCTACCGGAATAACTATGGACCGGATACCTCTTTTTG
-TTTGAGCAGTATTTATTACTGCTTTACTTTTACTACTGTCCTTACCAGTT
->SanskritVedic
-TAATATTAGGAGCACCAGATATAGCATTTCCACGAATAAATAATATAAGT
-TTTTGACTTCTACCCCCCTCTTTAACTCTTTTATTAACTAGAGGTATAGT
-AGAAAGAGGAGTAGGAACAGGATGAACTGTTTACCCACCACTATCCGCAG
-CAATTGCACATGCAGGAGCATCAGTGGATTTAGGTATTTTTTCTTTGCAT
-TTGGCTGGAGTATCTTCTATTTTAGGGGCTGTAAATTTTATAACTACAGT
-TATTAATATACGTCCACAAGGAATAACCTTAGACCGTATACCTTTATTTG
-TGTGATCCGTATTTATTACTGCAATTCTACTTTTATTATCACTACCAGTT
->Scots
-TTATACTTGGTGCCCCTGATATAGCTTTCCCCCGTATAAATAATATAAGA
-TTTTGGCTTCTTCCCCCATCTTTAACTCTTCTTCTTTCCAGAGGAATAGT
-AGAAAGAGGGGTAGGAACAGGATGAACTGTTTACCCTCCTTTGTCTGCTG
-GAATCGCCCACGCCGGAGCTTCTGTTGATATAGGAATTTTCTCTCTCCAT
-CTTGCCGGAGTTTCTTCAATTTTAGGGGCAGTAAATTTTATAACAACTGT
-TATTAATATACGTTCAACAGGAATAACTATAGACCGAATCCCCCTTTTTG
-TGTGATCAGTGTTTATTACTACCCTTCTTCTACTTTTATCCCTTCCAGTC
->Yiddish
-TAATACTTGGAGCCCCAGATATAGCTTTCCCTCGAATAAATAACATGAGA
-TTTTGGTTGCTACCTCCTTCTCTAACCCTTCTTCTATCAAGAGGAATAGT
-TGAAAGAGGTGTAGGAACTGGCTGAACAGTTTATCCTCCCTTAGCAGCCG
-CCGTCGCTCATGCCGGAGCATCCGTAGATTTAGGTATTTTTTCACTTCAT
-CTTGCAGGAGTTTCTTCAATCCTAGGAGCAGTAAATTTCATAACAACTGT
-AATTAATATACGGTCAACTGGGATAACTATAGACCGCATACCCTTATTTG
-TCTGATCTGTTTTTATCACCGCAATTTTACTTCTTCTATCTCTACCTGTC
-
-
-Sequence character woman_cox1_spaced.fastc#0
->AlbanianTosk
-T T A T A T T A G G A G C A C C A G A T A T A G C 
-T T T C C C T C G A A T A A A T A A T A T A A G A 
-T T T T G A C T T CT T C C A C C A T C T T T A A C
- T T T A C T C C T C T C T A G A G G A A T A G T A
- G A A A G T G G A G T G G G A A C A GG C T G A A 
-C T G T C T A T C C T C C T T T A T C T G C T G G 
-A A T T G C A C A T G C T G G T G C C T C A G T A 
-G A T TT A G G A A T C T T T T C T T T A C A C C T
- A G C A G G A G T T T C A T C C A T C T T A G G G
- G C C G T A A A C T T T AT A A C T A C C G T T A 
-T C A A T A T A C G A A G A A C A G G T A T A A C 
-A A T A G A C C G A A T T C C T C T T T T T GT A T
- G A T C T G T A T T T A T T A C A G C C C T T C T
- T C T C C T T C T T T C C C T C C C A G T C 
->AncientIonicGreek
-T A A T A T T A G G T G C C C C T G A T A T A G C 
-T T T T C C A C G A A T A A A T A A T A T A A G A 
-T T T T G A C T C CT T C C A C C T T C T C T A A C
- T C T T C T T T T A A T A A G A G G A A T A G T T
- G A A A G A G G T G T A G G A A C T GG A T G A A 
-C T G T T T A C C C T C C T T T A T C G G C T A G 
-A A T C G C T C A C G C A G G A G C A T C T G T A 
-G A T AT A G G A A T T T T C T C C T T A C A T C T
- G G C C G G T G T C T C A T C A A T T C T T G G T
- G C A G T A A A C T T T AT A A C C A C A G T T A 
-T T A A T A T A C G C C C T G T T G G T A T A T C 
-A A T A G A T C G T A T A C C T T T A T T T GT T T
- G A G C C G T A T T T A T T A C A G C T A T T C T
- T T T A T T A C T A T C C T T A C C C G T T 
->ArmenianWestern
-T A A T A T T A G G A G C T C C A G A T A T A G C 
-T T T C C C T C G A A T A A A T A A T A T A A G A 
-T T C T G A C T C CT C C C T C C C T C T T T A A C
- T C T T T T A C T T T C A A G A G G A A T A G T A
- G A A A G A G G A G T A G G A A C G GG A T G A A 
-C C G T T T A T C C T C C T C T T G C A G C C G G 
-A A T T G C T C A T G C C G G A G C T T C A G T T 
-G A T AT A G G A A T C T T C T C T C T A C A T T T
- A G C A G G A G T A T C C T C T A T T T T A G G G
- G C C G T A A A T T T T AT A A C A A C A G T G A 
-T T A A C A T A C G G G C A T C T G G A A T A A C 
-A T T A G A C C G A A T A C C T T T A T T C GT G T
- G A T C T G T A T T T A T T A C T G C A C T A T T
- A T T A C T T T T A T C A C T A C C A G T T 
->Assamese
-T A A T A C T A G G A G C A C C G G A T A T A G C 
-T T T T C C A C G A A T A A A T A A T A T A A G A 
-T T T T G A C T T TT A C C C C C A T C T T T A A C
- T C T T T T A T T A A C T A G T G G T A T A G T A
- G A A A G A G G T G T A G G T A C A GG A T G A A 
-C T G T G T A T C C C C C A C T T T C C G C A G C 
-T A T T G C T C A C G C C G G A G C A T C G G T A 
-G A T TT A G G T A T T T T T T C T C T A C A T T T
- A G C C G G A G T C T C T T C T A T T T T A G G G
- G C T G T A A A T T T T AT A A C G A C A G T C A 
-T T A A T A T A C G A C C C C A G G G A A T A A C 
-C T T A G A T C G C A T A C C T T T A T T T GT T T
- G A T C T G T A T T T A T T A C T G C G A T T C T
- A C T T T T A T T A T C A C T A C C T G T T 
->Cornish
-T A A T G T T A G G T G C T C C T G A T A T G G C 
-T T T T C C A C G A A T A A A C A A T A T G A G T 
-T T C T G G C T C CT A C C T C C T T C A C T A A C
- A C T A C T T C T T T C T A G A G G T A T A G T T
- G A A A G A G G A G T A G G A A C A GG A T G A A 
-C T G T T T A C C C T C C T T T A T C A G C C A G 
-T A T T G C T C A T G C T G G G G C T T C G G T A 
-G A T TT A G G A A T T T T C T C C C T A C A C T T
- G G C A G G T G T T T C T T C A A T T T T A G G A
- G C T G T A A A T T T T AT G A C A A C T G T T A 
-T T A A C A T A C G A T C T A C G G G A A T A A C 
-T A T A G A C C G A A T A C C G C T T T T C GT T T
- G A G C A G T A T T T A T T A C A G C A T T A C T
- T C T C T T A T T A T C T C T A C C G G T A 
->Danish
-T A A T G T T A G G T G C T C C A G A T A T A G C 
-T T T C C C T C G A A T G A A T A A T A T A A G C 
-T T C T G A C T T TT A C C T C C T T C T C T T A C
- C C T T C T T T T A T C T A G A G G G A T A G T T
- G A A A G A G G T G T T G G A A C T GG T T G G A 
-C A G T T T A T C C T C C A C T C T C T G C T A G 
-T A T T G C C C A C G C T G G A G C T T C A G T A 
-G A C CT T G G A A T C T T T T C C C T A C A T C T
- A G C T G G T G T A T C T T C T A T T C T A G G A
- G C A G T A A A T T T T AT A A C T A C T G T A A 
-T C A A T A T A C G A T C T A C A G G A A T A A C 
-T A T A G A C C G A A T A C C T C T T T T T GT T T
- G A G C A G T A T T C A T T A C T G C T T T A C T
- A T T A C T T C T A T C A T T A C C A G T C 
->EasternFrisianSaterland
-T A A T A T T A G G A G C T C C T G A T A T A G C 
-T T T T C C T C G A A T A A A T A A T A T A A G A 
-T T C T G A C T C TT A C C T C C A T C C C T A A C
- C C T C C T C C T C T C T A G A G G A A T A G T A
- G A A A G A G G A G T T G G A A C A GG A T G G A 
-C T G T T T A T C C T C C A C T G T C A G C C G G 
-A A T C G C C C A C G C A G G A G C C T C T G T A 
-G A T TT A G G A A T C T T C T C C C T T C A C C T
- A G C A G G A G T T T C T T C A A T T C T A G G T
- G C A G T A A A T T T T AT A A C A A C A G T A A 
-T T A A C A T A C G A T C A A C A G G A A T A A C 
-T A T A G A C C G A A T G C C C T T A T T T GT C T
- G A T C A A T C T T T A T T A C T A C C C T T C T
- C C T C C T T C T A T C T C T C C C A G T A 
->Faroese
-T T A T A T T A G G T G C C C C A G A T A T A G C 
-T T T C C C C C G A A T A A A T A A T A T A A G A 
-T T T T G A C T C TT A C C T C C T T C T C T A A C
- T C T A T T A C T T T C T A G A G G A A T A G T A
- G A A A G A G G A G T A G G A A C A GG A T G A A 
-C T G T T T A T C C T C C T T T A T C C G C C G G 
-A A T T G C T C A C G C C G G G G C C T C T G T A 
-G A C CT A G G T A T T T T C T C A C T A C A C T T
- A G C A G G A G T A T C T T C A A T T C T A G G A
- G C A G T A A A T T T T AT A A C A A C T G T A A 
-T T A A T A T A C G G T C A A C T G G A A T A A C 
-T A T A G A C C G T A T G C C T T T A T T T GT T T
- G A T C A G T A T T C A T T A C C G C T C T C C T
- T C T C C T C T T A T C T C T A C C A G T T 
->Icelandic
-T T A T A C T A G G A G C T C C C G A T A T A G C 
-T T T C C C C C G A A T G A A T A A C A T G A G A 
-T T T T G A C T T CT T C C C C C A T C G C T A A C
- G C T T C T T C T G G C T G G A G G A G C C G T A
- G A A A G A G G A G C T G G A A C C GG T T G A A 
-C A G T T T A T C C G C C T C T T T C G G T G G G 
-A G T G G C A C A C G C T G G T G C G T C A G T G 
-G A C TT A A G T A T C T T T T C A C T A C A C C T
- A G C A G G T G T T T C A T C C A T T C T T G G A
- G C C G T C A A C T T T AT T A C T A C C G T C A 
-T C A A T A T A C G G T C A T C T G G G A T A A C 
-A C T A G A T C G A A T A C C T C T C T T T GT T T
- G A T C T G T T T T C A T T A C A G C T A T C C T
- A T T A C T T C T T T C G C T C C C A G T G 
->Irish
-T A A T A T T A G G A G C A C C T G A T A T A G C 
-A T T C C C A C G A A T A A A T A A T A T A A G C 
-T T T T G A C T G CT A C C T C C T T C T C T C A C
- C C T T C T T C T A T C T A G A G G A A T A G T T
- G A A A G A G G A G T T G G A A C A GG A T G A A 
-C T G T A T A T C C T C C C C T A T C A G C T A G 
-A A T C G C A C A T G C A G G G G C C T C T G T A 
-G A T TT G G G A A T T T T T T C A T T G C A T T T
- A G C A G G A G T T T C A T C A A T T C T A G G G
- G C C G T A A A T T T C AT A A C A A C T G T A A 
-T T A A T A T A C G A T C T A C A G G T A T A A C 
-T A T A G A C C G A A T A C C G T T A T T C GT C T
- G A G C A G T T T T T A T T A C A G C G C T C T T
- A C T C C T T T T A T C T T T A C C C G T T 
->KolschColognian
-T T A T G T T A G G T G C C C C A G A T A T G G C 
-A T T T C C C C G A A T G A A T A A C A T A A G A 
-T T C T G A C T T TT A C C T C C C T C T C T A A C
- G C T T C T T C T A G C T A G T G G T A T A G T G
- G A G A G G G G A G T A G G A A C T GG C T G A A 
-C A G T T T A T C C C C C T C T A G C A G G G G C 
-A G T G G C C C A T G C C G G A G C A T C A G T A 
-G A T TT G G G T A T T T T C T C C C T C C A T C T
- T G C C G G T G T G T C A T C A A T T C T A G G A
- G C C G T A A A T T T T AT T A C A A C A G T A A 
-T T A A T A T G C G G T C T T C A G G T A T A A C 
-A T T C G A C C G A A T G C C T C T A T T T GT A T
- G A T C T G T G T T T A T T A C T G C C A T T T T
- A C T T C T A C T T T C T C T T C C C G T A 
->Manx
-T A A T A T T A G G T G C T C C C G A T A T A G C 
-T T T C C C T C G A A T A A A T A A T A T G A G T 
-T T C T G A C T T TT A C C T C C C T C G C T A A C
- T C T A C T T C T T T C T A G A G G T A T A G T C
- G A A A G A G G G G T A G G A A C A GG A T G A A 
-C T G T T T A C C C T C C T C T A T C T G C C A G 
-C A T T G C C C A T G C A G G A G C A T C T G T A 
-G A T CT A G G A A T C T T C T C A T T A C A T T T
- A G C A G G G G T T T C T T C A A T T C T A G G T
- G C T G T A A A T T T T AT A A C T A C C G T T A 
-T C A A T A T A C G A T C A A C A G G A A T A A C 
-T A T A G A C C G A A T A C C T C T T T T C GT C T
- G A G C G G T A T T T A T T A C A G C C T T A C T
- A C T T T T A C T A T C A T T A C C G G T T 
->OldPrussian
-T A A T A C T A G G T G C C C C G G A T A T G G C 
-T T T C C C T C G A A T A A A T A A C A T A A G T 
-T T C T G A C T T TT A C C C C C A T C T C T C A C
- T C T C C T C T T A T C T A G A G G A A T A G T A
- G A A A G A G G T G T A G G A A C T GG A T G A A 
-C T G T A T A T C C T C C T T T A T C T G C A A G 
-T A T T G C C C A T G C G G G A G C T T C C G T T 
-G A T CT C G G A A T C T T C T C A C T A C A C T T
- A G C A G G T G T A T C A T C A A T T T T A G G T
- G C C G T A A A T T T T AT A A C A A C T G T T A 
-T C A A T A T A C G A T C T A C C G G A A T A A C 
-T A T G G A C C G G A T A C C T C T T T T T GT T T
- G A G C A G T A T T T A T T A C T G C T T T A C T
- T T T A C T A C T G T C C T T A C C A G T T 
->SanskritVedic
-T A A T A T T A G G A G C A C C A G A T A T A G C 
-A T T T C C A C G A A T A A A T A A T A T A A G T 
-T T T T G A C T T CT A C C C C C C T C T T T A A C
- T C T T T T A T T A A C T A G A G G T A T A G T A
- G A A A G A G G A G T A G G A A C A GG A T G A A 
-C T G T T T A C C C A C C A C T A T C C G C A G C 
-A A T T G C A C A T G C A G G A G C A T C A G T G 
-G A T TT A G G T A T T T T T T C T T T G C A T T T
- G G C T G G A G T A T C T T C T A T T T T A G G G
- G C T G T A A A T T T T AT A A C T A C A G T T A 
-T T A A T A T A C G T C C A C A A G G A A T A A C 
-C T T A G A C C G T A T A C C T T T A T T T GT G T
- G A T C C G T A T T T A T T A C T G C A A T T C T
- A C T T T T A T T A T C A C T A C C A G T T 
->Scots
-T T A T A C T T G G T G C C C C T G A T A T A G C 
-T T T C C C C C G T A T A A A T A A T A T A A G A 
-T T T T G G C T T CT T C C C C C A T C T T T A A C
- T C T T C T T C T T T C C A G A G G A A T A G T A
- G A A A G A G G G G T A G G A A C A GG A T G A A 
-C T G T T T A C C C T C C T T T G T C T G C T G G 
-A A T C G C C C A C G C C G G A G C T T C T G T T 
-G A T AT A G G A A T T T T C T C T C T C C A T C T
- T G C C G G A G T T T C T T C A A T T T T A G G G
- G C A G T A A A T T T T AT A A C A A C T G T T A 
-T T A A T A T A C G T T C A A C A G G A A T A A C 
-T A T A G A C C G A A T C C C C C T T T T T GT G T
- G A T C A G T G T T T A T T A C T A C C C T T C T
- T C T A C T T T T A T C C C T T C C A G T C 
->Yiddish
-T A A T A C T T G G A G C C C C A G A T A T A G C 
-T T T C C C T C G A A T A A A T A A C A T G A G A 
-T T T T G G T T G CT A C C T C C T T C T C T A A C
- C C T T C T T C T A T C A A G A G G A A T A G T T
- G A A A G A G G T G T A G G A A C T GG C T G A A 
-C A G T T T A T C C T C C C T T A G C A G C C G C 
-C G T C G C T C A T G C C G G A G C A T C C G T A 
-G A T TT A G G T A T T T T T T C A C T T C A T C T
- T G C A G G A G T T T C T T C A A T C C T A G G A
- G C A G T A A A T T T C AT A A C A A C T G T A A 
-T T A A T A T A C G G T C A A C T G G G A T A A C 
-T A T A G A C C G C A T A C C C T T A T T T GT C T
- G A T C T G T T T T T A T C A C C G C A A T T T T
- A C T T C T T C T A T C T C T A C C T G T C 
-
-Implied Alignments for Graph 3
-
-Sequence character woman.fastc#0
->AlbanianTosk
-- - - - - - - - - - - - ɡ \textfishhookr - u - - a
- - - - - 
->AncientIonicGreek
-- - - - - - - - - - - - ɡ - - \”u - - n - - e \tex
-tlengthmark 
->ArmenianWestern
-- - - - - - - - - - - - ɡ - - i - - n - - - - 
->Assamese
-- - m a \textsci - - - - - - - k - - i m a n - - u
- \textsuperscript{\texthth} 
->Cornish
-- - - - - - - - - - - - b \textepsilon n j - - n -
- - - - 
->Danish
-- - - - - \textprimstress - k \textsuperscript{h} 
-- - - v - - e - - n - - - \textschwa 
->EasternFrisianSaterland
-- - - - - - - - - - - - v - - i\texthalflength - -
- \textupsilon - - - v 
->Faroese
-- - - - - - - k - - - - o - - \textlengthmark - - 
-n - - - a 
->Icelandic
-- - - - - - \textprimstress k - - - - \textsupersc
-ript{h} - - \textopeno - - n - - - a 
->Irish
-- - - - - - - b \textsuperscript{j} - - - \ae - - 
-\textlengthmark - - n - \textsubbridge - \textsupe
-rscript{\textgamma} 
->KolschColognian
-- - - - - - - - - - - - v - - e\textlengthmark - -
- z - - - h 
->Manx
-- - - - - - - - - - - - b \textepsilon - \textsupe
-rscript{d} - - n - - - - 
->OldPrussian
-v - - - - - - - - - - - i\textlengthmark r - i - -
- n a - - - 
->SanskritVedic
-- s \textsubbridge t \textsubbridge - - - - - - - 
-\textrtailr - - i - - - - - - \textlengthmark 
->Scots
-- - - - - - - - - w \textturnv m m - - \textscript
-a - - n - - - - 
->Yiddish
-- - - - - - - - - - - - f - - \textscr - - - - - -
- \textopenoj 
-
-
-Sequence character woman_binary.fasta#0
->AlbanianTosk
-0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 1 - 1 - 1 0 
-1 1 - 1 1 1 0 1 0 - - 1 1 0 1 1 1 1 0 0 1 1 1 1 1 
-0 1 1 0 0 1 0 0 0 0 0 0 0 - - 1 1 1 0 - 1 0 1 1 - 
-1 - 0 0 0 1 0 - 1 1 1 0 1 0 1 - 1 - 1 1 1 1 1 1 1 
-- 1 0 1 1 1 - 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 1 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 1 1 0 1 - 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 1 0 1 0 0 1 0 - 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 - 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 
-1 1 1 0 - - 1 1 0 1 0 1 0 0 1 - 1 1 1 1 1 1 1 1 0 
-1 0 1 1 0 - 1 0 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 
-1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
-0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
-1 0 1 1 0 0 
->AncientIonicGreek
-0 1 1 1 0 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 - 1 - 1 1 
-1 1 0 0 1 1 1 1 0 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 1 0 - 
-1 - 1 0 1 0 0 - - - 1 - 1 0 1 - 1 - 1 1 1 1 - 1 1 
-- 1 - 1 0 1 - 1 - 1 1 - 1 1 1 0 1 0 1 1 0 0 0 0 1 
-1 1 0 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 
-1 1 0 1 1 - 1 0 1 - 1 1 1 0 1 1 0 1 1 0 1 1 1 1 1 
-1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 1 0 1 1 1 1 1 - 1 1 
-1 1 1 1 1 1 0 0 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 
-0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 1 0 1 1 1 1 0 0 - 1 1 1 - 0 1 1 1 1 1 
-1 1 0 0 0 1 1 1 0 - 1 1 - 1 1 0 0 0 0 0 1 0 1 1 1 
-1 1 1 0 - 1 1 1 1 1 0 1 1 - 1 - 1 1 1 1 1 1 1 1 0 
-1 1 1 1 1 0 - 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 
-1 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 1 1 1 - 1 
-1 0 - - 1 1 0 1 1 1 1 1 0 - 1 1 1 1 1 1 1 1 0 1 0 
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 0 1 1 0 1 
-1 0 0 1 0 0 
->ArmenianWestern
-0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 0 0 1 - 1 - 1 0 
-0 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 0 1 1 0 
-0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-0 - 0 0 0 1 0 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 0 1 1 
-- 1 0 0 0 1 - 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 0 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 0 0 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 0 1 - 1 1 1 - 0 1 1 0 1 1 
-1 1 0 0 0 1 1 1 0 - 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 
-1 1 1 0 - 1 1 1 0 1 1 1 0 - 1 - 1 1 1 1 1 1 1 1 0 
-0 0 1 1 1 - 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 1 
-1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
-0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
-1 0 1 1 0 0 
->Assamese
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 - 1 - 1 1 
-1 1 - 1 1 1 1 1 1 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
-- 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 - 1 0 - 
-1 0 0 0 1 1 1 - - - 1 - 1 1 1 - 1 - 1 1 1 1 - 1 1 
-- 1 - 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 
-1 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 
-1 1 1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 
-0 1 0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-0 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 1 0 1 1 1 1 1 1 - 1 1 0 - 0 1 0 0 1 1 
-1 1 0 0 0 1 1 1 0 - 1 0 - 1 1 0 0 1 0 0 1 1 1 1 1 
-1 1 1 0 - - 1 1 1 1 0 1 1 - 1 - 1 1 1 1 1 1 1 1 - 
-1 1 1 1 1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 
-1 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 
-1 0 - - 0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 0 0 0 0 0 1 1 0 0 
-0 0 1 1 1 0 
->Cornish
-0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
-1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 1 - 
-1 - 0 0 1 1 1 - - 1 1 - 1 0 1 - 1 - 1 0 1 0 1 1 1 
-- 1 0 1 0 1 - 0 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 0 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
-0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 1 0 1 - 1 1 1 0 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 - 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 
-1 1 1 0 - 1 1 1 - 1 0 1 0 1 1 - 1 1 1 1 1 1 1 1 0 
-1 1 0 1 0 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 
-1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
-0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
-1 0 1 1 0 0 
->Danish
-0 1 1 1 1 1 1 0 0 1 1 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
-1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 1 1 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 1 1 1 
-- 1 0 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 0 0 1 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
-0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 0 1 - 1 1 1 0 1 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 1 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 
-1 1 1 0 - 1 1 1 - 1 0 1 0 1 1 - 1 1 1 1 1 0 1 1 0 
-1 1 0 1 1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 
-1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
-0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
-1 0 1 1 0 0 
->EasternFrisianSaterland
-0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 1 - 1 0 1 1 
-0 1 - 1 1 1 1 1 1 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 1 0 - - - 1 - 1 1 1 - 1 0 1 1 1 1 0 1 1 
-- 1 - 0 1 1 0 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 
-1 0 0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 0 1 1 1 1 1 1 - 1 1 0 - 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 - 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 
-1 1 1 0 - 1 1 1 0 1 1 1 0 - 1 - 1 1 1 1 1 1 1 1 0 
-1 0 1 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 
-1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
-0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
-1 0 1 1 0 0 
->Faroese
-0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 0 1 1 
-1 1 - 1 1 1 1 1 1 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 0 0 - - - 1 - 1 1 1 - 1 0 1 1 1 0 1 1 1 
-- 1 - 0 0 0 0 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 
-1 0 0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 0 0 1 1 1 0 0 - 1 1 0 - 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 - 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 
-1 1 1 0 - 1 1 1 1 1 0 1 0 - 0 - 1 1 1 1 1 0 1 1 0 
-0 0 1 0 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 
-1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
-0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
-1 0 1 1 0 0 
->Icelandic
-0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 0 1 - 1 - 1 1 
-1 1 - 0 - 0 1 1 0 1 - 1 0 0 1 1 1 1 1 0 1 1 1 1 0 
-0 0 1 0 0 1 1 0 0 0 0 0 0 1 1 1 0 1 0 - 1 - 1 0 - 
-0 - 0 0 1 1 0 - - - 1 - 1 0 1 0 1 - 1 1 1 1 1 1 1 
-- 1 - 1 1 1 - 1 1 1 1 0 0 1 1 - 1 1 1 1 1 0 0 1 1 
-1 0 0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 - 1 1 1 - 1 1 1 1 0 0 1 1 1 0 1 1 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 
-1 1 0 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 1 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 0 1 1 0 1 0 - 1 0 1 - 0 1 1 1 0 1 
-1 1 0 0 0 1 1 1 0 - 1 0 - 1 1 0 1 1 0 0 1 1 1 1 1 
-1 1 1 0 1 1 1 1 1 1 1 1 0 - 0 1 1 1 1 1 1 1 1 1 0 
-0 1 1 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 
-0 1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 
-1 0 1 1 1 1 1 1 1 1 1 0 1 - 1 0 1 0 1 1 1 1 0 1 0 
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
-1 0 0 1 0 0 
->Irish
-0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
-1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
-0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 1 0 0 0 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 1 1 1 
-0 0 0 1 0 - - 0 - 1 1 - 1 1 0 - 1 1 1 0 1 0 0 1 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 0 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 0 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
-0 0 1 1 1 0 1 0 0 1 0 0 0 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 0 1 - 1 0 1 - 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 - 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 
-1 0 1 0 - 1 1 1 - 1 1 1 0 1 1 - 1 1 1 1 1 1 1 1 0 
-1 1 1 1 1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 
-1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
-0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
-1 0 0 1 0 0 
->KolschColognian
-0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 1 1 0 0 - 1 1 
-1 1 - 1 - 1 1 1 0 - - 1 0 0 1 1 1 1 1 0 0 1 1 1 0 
-0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 0 0 - 
-1 - 1 0 1 0 0 - - - 1 - 1 0 1 0 1 - 1 0 0 1 0 1 1 
-- 1 - 1 1 1 - 1 0 1 1 0 1 1 1 - 1 1 1 1 1 0 0 1 1 
-1 0 0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 
-1 1 0 1 1 0 0 1 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 1 1 - 1 1 1 - 0 1 1 1 1 1 
-1 1 0 0 0 1 1 1 0 - 1 0 - 1 1 0 1 1 0 0 1 1 1 0 1 
-1 1 1 0 1 1 1 1 1 1 1 1 1 - 0 - 1 1 1 1 1 1 1 1 0 
-0 1 1 1 1 - 1 1 0 0 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 
-0 1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 
-1 0 1 1 1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 
-0 1 1 1 0 1 1 1 0 1 0 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
-1 0 0 1 0 0 
->Manx
-0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
-1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
-0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 1 - 
-1 - 0 0 1 1 0 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 1 1 1 
-- 1 0 1 0 1 - 0 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 0 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
-0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 1 0 1 - 1 0 1 0 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 - 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 
-1 1 1 0 - 1 1 1 - 0 1 1 0 1 1 - 1 1 1 1 1 1 1 1 0 
-1 1 0 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 
-1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
-0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
-1 0 1 1 0 0 
->OldPrussian
-0 1 1 1 1 1 1 0 0 1 1 0 0 1 1 0 1 1 0 1 - 1 - 1 0 
-1 1 - 1 1 1 1 1 0 - - 1 1 0 1 1 1 1 0 1 1 0 1 1 0 
-0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 0 1 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 1 1 1 
-- 1 0 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 0 0 1 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
-0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 0 1 - 1 1 1 0 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 - 1 - 0 1 1 0 0 1 0 0 1 1 1 1 1 
-1 1 1 0 - 1 1 1 - 0 1 1 0 1 1 - 1 1 1 1 1 1 1 1 0 
-1 1 0 1 1 - 1 1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 1 1 1 
-1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
-0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
-1 0 1 1 0 0 
->SanskritVedic
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 1 1 1 - 1 - 1 1 
-1 1 - 1 1 0 1 1 1 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
-- 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 - 1 0 - 
-1 0 0 0 1 1 1 - - - 1 - 1 1 1 - 1 - 1 1 1 1 - 1 1 
-- 1 - 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 
-1 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 
-1 1 1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 
-0 1 0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-0 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 
-0 0 1 1 1 1 0 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 1 1 1 1 1 1 1 1 - 1 1 0 - 0 1 0 0 1 1 
-1 1 0 0 0 1 1 1 0 - 1 0 - 1 1 0 0 1 0 0 1 1 1 1 1 
-1 1 1 0 - - 1 1 1 1 1 1 1 - 1 - 1 1 1 1 1 1 1 1 - 
-1 1 1 1 1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 
-1 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 
-1 0 - - 0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 
-0 1 1 1 0 1 1 1 0 1 1 0 1 1 0 1 0 0 0 0 0 1 1 0 0 
-0 0 1 1 1 0 
->Scots
-0 1 1 1 1 1 1 0 0 1 0 0 0 1 0 1 1 1 1 1 - 1 0 1 1 
-1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 1 1 - - - 1 - 1 1 1 - 1 0 1 1 1 1 0 1 1 
-- 1 - 0 0 1 0 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 1 0 1 - 1 1 0 - 0 1 1 0 1 1 
-1 1 0 0 0 1 1 1 0 - 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 
-1 1 1 0 - 1 1 1 0 1 0 0 0 - 0 - 1 1 1 1 1 1 1 1 0 
-0 0 0 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 
-1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
-0 0 - - 1 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
-1 0 1 1 0 0 
->Yiddish
-0 1 1 1 0 1 0 1 0 1 1 0 0 - - 1 1 1 1 1 - 1 - 1 1 
-1 0 - 0 - 1 1 1 0 - - 1 1 0 1 1 0 1 1 0 1 1 1 1 - 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 1 0 1 
-1 - 0 0 1 1 0 1 - - 1 - 1 0 1 - 1 - 1 1 1 1 0 1 1 
-- 1 - 1 1 1 - 1 0 1 1 - 1 1 1 - 1 1 1 1 1 0 1 1 1 
-1 1 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-1 1 0 1 1 - 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
-0 1 1 1 0 1 0 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-0 1 0 1 1 1 0 1 0 0 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 
-0 0 1 1 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 1 1 1 1 1 1 0 1 - 1 1 1 - 0 1 1 1 1 1 
-1 1 0 0 1 1 1 1 0 - 1 0 - 1 1 0 0 1 0 0 1 1 1 1 1 
-1 1 1 0 - 1 1 1 1 1 1 1 1 - 0 - 1 1 1 1 1 1 1 1 0 
-1 1 1 1 1 - 1 1 0 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 1 
-0 1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 
-1 0 - - 1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
-1 0 1 1 1 0 
-
-
-Sequence character woman_12Saln.fasta#0
->AlbanianTosk
-GTTTTATCCTGGCTTA-T-TTTTTCATTTTCAGATTTGTGCCAGCAGCCG
-CGGTTACAC-TAAGGGAC-AAACTGAAA-TGTTAAGATAAAGTTATGAAC
-CAGGATTAGATACCCTGTAGTTATTGTCTTAAAACTCAAAGGATTTGGCG
-GTAATTTAGTCTATTTAGAGGAACCTGTCCTATAAACGATAAACCACGTA
-AAATCTTACCCTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
->AncientIonicGreek
-GTTTGATTTTTGCTTATT-TATTTTACGTTTAGTTTTGTGCCAGCAGCCG
-CGGTTATACTTGAAGAGC-AAG-TAAAA-TGTAAAGTCTAGGGCATAGAC
-TAGGATTAGATACCCT-AAGTTATGTTCTTGAAAATAAAAAAATTTGGCG
-GT-GTTTAATTTATTTAGGGGAACCTGTTTTATAATCGATACACCACGAA
-GAATCTTACTTACTTCATGTATACCGTTATTATTAGATCAAGGTGCAGAC
-TATGATATAAATACTTAAACATGTACATATCGCCCGTCGCTTTTACA-T-
---CTTAATGTAAAATAAGTCGTAACATAGTAGCTGTATCGGAAGATGCAG
-C
->ArmenianWestern
-GTTTTATCCTGGCTTA-T-CCTTTCGATTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGGGGC-AGATTGAAA-TATTAAGATAAAGGTATGAAC
-CAGGATTAGATACCCTGCAGTTATTGGCTTGAAACTCAAAGGATTTGGCG
-GTAGCTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAATCCACGAA
-AAATCTCACTTTACGCTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGATTGTAGCTCTAAGCTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
->Assamese
-GTTTGATTCTTGCTTA-T-GATTTTTATATTATATTTGTGCCAGCAGTCG
-CGGTTATACTTAGAGGGT-AAA-TAAAT-TATAAATTTTAATATATAAAC
-TAGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGGCG
-GTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAACCACGAA
--TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAGTC
-TATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-C-
---CTAAAAATGAAATAAGTCGTAACAAAGTAGGTGTGCCGGAAGGCGTAT
-C
->Cornish
-GTTTTATCCTGGCTTA-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAAAGGT-AAATTGAAA-TGTTAAGATAAAGAGATGAAC
-CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
-GTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAA
-GAATCTTACTTTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
->Danish
-GTTTTATCCTAGCTTA-T-TCTTTCAATTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGT-TAATTGAAA-TATTAAAATAAAGGAATGAAC
-CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
-GTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAA
-GAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
->EasternFrisianSaterland
-GTTTTATCCTGGCTAA-TATTTCTTGTTTTTAAATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGT-AGATTAAGA-TGTTAAGTTAAAGGTATGGAC
-CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
-GTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACGAA
-GTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCC
-AATGATTATAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
->Faroese
-GTTTTATCCTGGCTAA-TAGTTCTTATTATTAAATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGT-GGATTAAGA-TGTTAAGATAAAGGTATGGAC
-CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
-GTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACGAA
-GAATCTTACCTTGTGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCC
-GATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
->Icelandic
-GTTTGATTCTTGC-TA-T-GTTTTT--TGCTAGACTTGTGCCAGCATCCG
-CGGTTAGACTTG-GGGATCTAG-TGAAACGA-GGAATTTTAGGTATGGAC
-CAGGATTAGATACCCTGAATTAATACGTTTGAAATTCAAAGAACCTGGCG
-GTACTTTAGTCTAGTTAGAGGAACCTGTTGTATAAACGATAAACCACGTA
-GAATCTTTCTTACTGCTAGTATACCTTCATTATTAGATCAAGGTGCTGCT
-GATGATAATAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CATT-
-AAATTAGA-TGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCAC
-C
->Irish
-GTTTTATCCTGGCTTA-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGAC-GGATTGAAA-TATTAAGATAGAGGAATGAAC
-CAGGATTAGATACCCTGCAGCTATTATCTTGAAACTCAAAGGATTTGGCG
-GTAACCTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGCA
-ATATCTTGCTTTATGCTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCAC
-C
->KolschColognian
-GTTTGATTCTTGC-TA-T-TACCTT--TATTAAACTTGTGCCAGCAGCCG
-CGGTTAAACTCG-ATGTCCTAG-TGAAGCTA-GAAAATTTAGGTAAGGAC
-CAGGATTAGATACCCTGAATAAATTAATTTTAAATTCAAAGAACCTGGCG
-GTACTTTAGTCTAGTTGGAGGAACCTGTTTTATAAACGATAAACCACGTA
-AAATCTTTCTTATTGTTAGTATACCTTCATTATTAGATCAAGGTGCTGCA
-AATGGTATTAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CATT-
-AAGTTAAA-TGAGATAAGTCGTAACATAGTGGGTGTACTGGAAAGTGCAC
-C
->Manx
-GTTTTATCCTGGCTTA-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAAAGGT-AGATTGAAA-TGTTAAGATAAAGAGATGAAC
-CAGGATTAGATACCCTGCAGTTATTATCTTGAAACTCAAAGGATTTGGCG
-GTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAA
-GAATCTTACTCTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
->OldPrussian
-GTTTTATCCTAGCTTG-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGT-CAATTGAAA-TATTAAAATAAAGGAATGAAC
-CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
-GTAATTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAA
-AAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGACCTTAGCCCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
->SanskritVedic
-GTTTGATTCTTGCTTA-T-AATTTTTATACTATATTTGTGCCAGCAGTCG
-CGGTTATACTTAGAGGGT-AAA-TAAAT-TATAAATTTTAATATATAAAC
-TAGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGGCG
-GTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAGCCACGAA
--TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAGTT
-TATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-C-
---CTAAAAATGAAATAAGTCGTAACAAAGTAGATGTGCCGGAAGGCGTAT
-C
->Scots
-GTTTTATCCTGGCTCA-TAATTCTTATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGT-AAATTAAGA-TATTAAGATAAAGGTATGAAC
-CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
-GTAATTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAAACCACGAA
-GTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-AATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
---GTTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
->Yiddish
-GTTTGACTCTTGCTT--T-AATTTT-C-GTTA-ACTTGTGCCAGCAGCCG
-CGGTTATACTAGAAGGTT-GAA-TGAAA-TATTAAATTTTAGATATAAAC
-CAGGATTAGATACCCTGAATGAATTAATTTAAAATTCAAAGAGTTTGGCG
-GTATTTTAGTCCTGTTAGAGGAATCTGTTTTATAAACGATAACCCCCGTA
-ATATCTTTCTTATTGCTAGTATACCATCATTATTAGATCATGGTGCTGTT
-TATGAGATTGGCTCTAAAATGTGTACATATTGCCCGTCGC-TTT-CATT-
---CTTAAA-TGAGATAAGTCGTAACATAGTAGGAGTACTGGAAAGTGTTT
-C
-
-
-Sequence character woman-wide_aa.fas#0
->AlbanianTosk
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V I V T A H A F V I I F F M V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L S R G I V E S G V G T G 
-- - T V Y P P L S A G I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R R T 
-G I T I D R I P L F V S V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G M I S H I I R Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S M G A V F G I F A G I A H - - - F 
-P L F T G L T I N P K - L K I H F I V M F V G V N 
-I T F F P Q H F L G L N G M P R R Y S D Y P D A Y 
-T S N V L S S I G S T I S L I A V L G F I V I V E 
-A L V T T R P V L F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->AncientIonicGreek
-T K R F F S T N H K D I G T L Y F I F G A - - S G 
-M V G T A L R L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L I R G I V E R G V G T G 
-- - T V Y P P L S A R I A H A G A S V D I G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R P V 
-G I S I D R I P L F V A V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V S Q E S G K K E S F G T L G I I Y A 
-I L A I G I L G F I V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A I P T G I K I F - R - - L G 
-T L Q G N Q I N Y R P S I I - - A L G F I F L F T 
-V G G L T G V V L A N S S I D T V L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - Y 
-P L F T G L S I N P K W L K I H F S V I F L G V N 
-L T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T P N V L S S I G S I I S L C A V I G F V F I I E 
-S L I S S R P V I F S L F Q P T S I E - - K H H Y 
-P P A D H R F I Q I A L I S N 
->ArmenianWestern
-T Q R L F S T N H K D I G T L Y F I F G A - - S G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L A A G I A H A G A S V D I G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R A S 
-G I T L D R I P L F V S V F I T A L L L L L S L P 
-V L A G A I T M L L T D R N L N T S F F D P A G G 
-G D P I L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H M F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L L - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - W F 
-P L F T G L T L N P R - L K M H F L T I F V G V N 
-I T F F P Q H F L G L R G M P R R Y S D Y P D A Y 
-T A N V V S S I G S T I S L I A V L G F V I I V E 
-A L S A N R P V I F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->Assamese
-T K R F F S T N H K D I G T L Y F I F G A W - A G 
-I V G T S L S L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L T S G I V E R G V G T G 
-- - T V Y P P L S A A I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R P Q 
-G I T L D R I P L F V S V F I T A I L L L L S L P 
-V L A G A I T M L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V S Q E S G K A E S F G T L G I I Y A 
-I L A I G I L G F L V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K I F - R - - L G 
-T L H G A Q V N Y R P S L L W - A M G F I F L F T 
-V G G L T G V V L A N S S L D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I T H - - - F 
-P L F T G L S L N P T W L K I H F F V M F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-A A N V L S S M G S I V S L V A V L G F I I I V E 
-S L V S S R S V I F T T F F P T S V E - - E H A Y 
-P P A D H R Y I E I P I V S N 
->Cornish
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F I V M P I I I G G 
-F G N - L V P L M L G A P D M A F P R I N N M S F 
-- - W L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A S I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F M T T V I N I R S T 
-G I T I D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S M G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K V H F L V M F I G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-S A N V V S S I G S T V S L I A V L G F V I I V E 
-A L T V A R P V I F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->Danish
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V M I F F I V I P I I I G G 
-F G N - L V P L M L G A P D I A F P R M N N I S F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- W T V Y P P L S A S I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S M G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K I H F L V I F I G V N 
-I T F F P Q H F L G L N G K P R R Y S D Y P D A Y 
-S A N G V S S I G S T V S L I A V L G F V I I V E 
-A L T A A R P V I F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->EasternFrisianSaterland
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L S L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F I I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-W - T V Y P P L S A G I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R M P L F V S I F I T T L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I R Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L L - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G V T L N P K - L K I H F L V I F I G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T A N V L S S I G S T I S L I A V L G F I I I V E 
-A L T A T R P I I F S L F L P T S I E - - Q H N F 
-P P A D H R Y I E I P L I T N 
->Faroese
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L S L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F M V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A G I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R M P L F V S V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G I L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S W - L G 
-T L H G T Q L N Y S P S L L - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G V T L N P K - L K I H F L I I F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T T N V V S S I G S T I S L I A V L G F I I I V E 
-A L T A A R P V I F S L F L P T S I E - - Q H N F 
-P P A D H S Y I E I P L I T N 
->Icelandic
-T Q R F F S T N H K D I G T L Y F I F G A - - A G 
-M V G T S L R L I I R A E L G Q P G R F I G D D Q 
-I Y N V V V T A H A F I M I F F M V M P I I I G G 
-F G N - L V P I I L G A P D I A F P R M N N M R F 
-- - - L L P P S L T L L L A G G A V E R G A G T G 
-- - T V Y P P L S V G V A H A G A S V D L S I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S S 
-G I T L D R I P L F V S V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P V G G 
-G D P I L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V A Q E S N K K K P F G A L G M I Y A 
-I L A I G I L G F V V A H H M F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K V F - R - - L G 
-T L H G A H F S L T P S L L - W A L G F I F L F T 
-V G G L T G I V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G I S L N P K - L K I Q F S A I F I G V N 
-T T F F P Q H F L G L R G M P R R Y S D Y P D A Y 
-T T N V V S S I G S S I S L V A V L G F V F I I E 
-G L A S K R P L M F N S F M P T S I E W - Y H S Y 
-P P A D H R Y M E V P I I T A 
->Irish
-T Q R L F S T N H K D I G T L Y F I F G A - W A G 
-I V G T A L S L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V M I F F I V M P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I S F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A R I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G M I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - W L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K I H F L V I F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T A N V V S S I G S T I S L I A V L G F I I I V E 
-A L T A A R P V L F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->KolschColognian
-T Q R F F S K K Y K D I G T L Y F I F G A - - A G 
-I V G T S L R L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F I V M P I I I G G 
-F G N W L V P I M L G A P D M A F P R M N N I R F 
-- - - L L P P S L T L L L A S G I V E R G V G T G 
-- - T V Y P P L A G A V A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N M R S S 
-G I T F D R M P L F V S V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F A P V G A 
-R D P I N Y H H I F V L D N P E V Y I L I L P A F 
-G M I S H I V S Q E S N K K K P F G A L G I I Y A 
-M L S I G L L G F I V A H H M F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K V F - R - - L G 
-T L H G A H F T L T P S L L - W S L G F I F L F T 
-V G G L T G I V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - W - F 
-P L F T G V T L N P K - L K I Q F T A I F I G V N 
-I T F F P Q H F L G L R G I P R R Y S D Y P D A Y 
-S T N V I S S V G S S I S L V A V L L F V F I I E 
-G L A S K R P I L F N S F I P T S I E - - I H P Y 
-P P A D H S Y M E I P L L T A 
->Manx
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F M V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N M S F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A S I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G M I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K I H F I V M F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-S A N V V S S I G S T V S L I A V L G F V I I V E 
-A L T V A R P V I F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->OldPrussian
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F M V I P I M I G G 
-F G N - L V P L I L G A P D M A F P R I N N I S F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A S I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T M D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T M L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T P G M I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K I H F L V I F I G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-S A N V V S S I G S T V S L I A V L G F V M I V E 
-A L T A A R P V I F S L F L P T S I E - W Q H N L 
-P P A D H S Y I E I P L I T N 
->SanskritVedic
-T K R F F S T N H K D I G T L Y F I F G A - - A G 
-I V G T S L S L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I S F 
-- - - L L P P S L T L L L T R G I V E R G V G T G 
-- - T V Y P P L S A A I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R P Q 
-G I T L D R I P L F V S V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V R Q E S G K A E S F G T L G I I Y A 
-I L A I G I L G F L V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K I F - R - - L G 
-T L H G A Q V N Y S P S L L - - A I G F I F L F T 
-V G G L T G V V L A N S S L D I I L H D T Y Y V V 
-A H F H Y V L S M G A V F G I F A G I T H W - - Y 
-P L F T G L S L N P T - L K I H F F V I F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T A N V L S S I G S I V S L V A V L G F I I I V E 
-S L V A S R S V I F S T F F P T S V E - - E H S Y 
-P P A D H R Y I E I P M V S N 
->Scots
-A Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L S L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F M V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- W - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A G I A H A G A S V D I G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V S V F I T T L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I R Q E S G K K E A F G T L G I I Y A 
-M L A I G I L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L L - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G V T L N P K - L K I H F L T I F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T A N V L S S I G S T I S L I A V I G F V I I V E 
-A L T A A R P V I F S L F L P T S I E - - Q H S F 
-P P A D H S Y I E I P L I T N 
->Yiddish
-T Q R F F S T N H K D I G T L Y F I F G A - - A G 
-M V G T S L R L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N M R F 
-W - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L A A A V A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V S V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V R Q E S G K K E S F G A L G I I Y A 
-I L A I G V L G F V V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K V F S W - - L G 
-T L H G T Q I Y F T P S L L - - A L G F I F L F T 
-I G G L T G I V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G L S L N P K - I K I H F I T I F I G V N 
-I T F F P Q H F L G L R G I P R R Y S D Y P D A Y 
-I T N V V S S V G S T I S L I A V L R F I I I I E 
-A L R S N R S I I F S F F L P T S I E - - H H N Y 
-P P A D H R Y N E I P I I T S 
-
-
-Sequence character woman_cox1aln.fasta#0
->AlbanianTosk
-TTATATTAGGAGCACCAGATATAGCTTTCCCTCGAATAAATAATATAAGA
-TTTTGACTTCTTCCACCATCTTTAACTTTACTCCTCTCTAGAGGAATAGT
-AGAAAGTGGAGTGGGAACAGGCTGAACTGTCTATCCTCCTTTATCTGCTG
-GAATTGCACATGCTGGTGCCTCAGTAGATTTAGGAATCTTTTCTTTACAC
-CTAGCAGGAGTTTCATCCATCTTAGGGGCCGTAAACTTTATAACTACCGT
-TATCAATATACGAAGAACAGGTATAACAATAGACCGAATTCCTCTTTTTG
-TATGATCTGTATTTATTACAGCCCTTCTTCTCCTTCTTTCCCTCCCAGTC
->AncientIonicGreek
-TAATATTAGGTGCCCCTGATATAGCTTTTCCACGAATAAATAATATAAGA
-TTTTGACTCCTTCCACCTTCTCTAACTCTTCTTTTAATAAGAGGAATAGT
-TGAAAGAGGTGTAGGAACTGGATGAACTGTTTACCCTCCTTTATCGGCTA
-GAATCGCTCACGCAGGAGCATCTGTAGATATAGGAATTTTCTCCTTACAT
-CTGGCCGGTGTCTCATCAATTCTTGGTGCAGTAAACTTTATAACCACAGT
-TATTAATATACGCCCTGTTGGTATATCAATAGATCGTATACCTTTATTTG
-TTTGAGCCGTATTTATTACAGCTATTCTTTTATTACTATCCTTACCCGTT
->ArmenianWestern
-TAATATTAGGAGCTCCAGATATAGCTTTCCCTCGAATAAATAATATAAGA
-TTCTGACTCCTCCCTCCCTCTTTAACTCTTTTACTTTCAAGAGGAATAGT
-AGAAAGAGGAGTAGGAACGGGATGAACCGTTTATCCTCCTCTTGCAGCCG
-GAATTGCTCATGCCGGAGCTTCAGTTGATATAGGAATCTTCTCTCTACAT
-TTAGCAGGAGTATCCTCTATTTTAGGGGCCGTAAATTTTATAACAACAGT
-GATTAACATACGGGCATCTGGAATAACATTAGACCGAATACCTTTATTCG
-TGTGATCTGTATTTATTACTGCACTATTATTACTTTTATCACTACCAGTT
->Assamese
-TAATACTAGGAGCACCGGATATAGCTTTTCCACGAATAAATAATATAAGA
-TTTTGACTTTTACCCCCATCTTTAACTCTTTTATTAACTAGTGGTATAGT
-AGAAAGAGGTGTAGGTACAGGATGAACTGTGTATCCCCCACTTTCCGCAG
-CTATTGCTCACGCCGGAGCATCGGTAGATTTAGGTATTTTTTCTCTACAT
-TTAGCCGGAGTCTCTTCTATTTTAGGGGCTGTAAATTTTATAACGACAGT
-CATTAATATACGACCCCAGGGAATAACCTTAGATCGCATACCTTTATTTG
-TTTGATCTGTATTTATTACTGCGATTCTACTTTTATTATCACTACCTGTT
->Cornish
-TAATGTTAGGTGCTCCTGATATGGCTTTTCCACGAATAAACAATATGAGT
-TTCTGGCTCCTACCTCCTTCACTAACACTACTTCTTTCTAGAGGTATAGT
-TGAAAGAGGAGTAGGAACAGGATGAACTGTTTACCCTCCTTTATCAGCCA
-GTATTGCTCATGCTGGGGCTTCGGTAGATTTAGGAATTTTCTCCCTACAC
-TTGGCAGGTGTTTCTTCAATTTTAGGAGCTGTAAATTTTATGACAACTGT
-TATTAACATACGATCTACGGGAATAACTATAGACCGAATACCGCTTTTCG
-TTTGAGCAGTATTTATTACAGCATTACTTCTCTTATTATCTCTACCGGTA
->Danish
-TAATGTTAGGTGCTCCAGATATAGCTTTCCCTCGAATGAATAATATAAGC
-TTCTGACTTTTACCTCCTTCTCTTACCCTTCTTTTATCTAGAGGGATAGT
-TGAAAGAGGTGTTGGAACTGGTTGGACAGTTTATCCTCCACTCTCTGCTA
-GTATTGCCCACGCTGGAGCTTCAGTAGACCTTGGAATCTTTTCCCTACAT
-CTAGCTGGTGTATCTTCTATTCTAGGAGCAGTAAATTTTATAACTACTGT
-AATCAATATACGATCTACAGGAATAACTATAGACCGAATACCTCTTTTTG
-TTTGAGCAGTATTCATTACTGCTTTACTATTACTTCTATCATTACCAGTC
->EasternFrisianSaterland
-TAATATTAGGAGCTCCTGATATAGCTTTTCCTCGAATAAATAATATAAGA
-TTCTGACTCTTACCTCCATCCCTAACCCTCCTCCTCTCTAGAGGAATAGT
-AGAAAGAGGAGTTGGAACAGGATGGACTGTTTATCCTCCACTGTCAGCCG
-GAATCGCCCACGCAGGAGCCTCTGTAGATTTAGGAATCTTCTCCCTTCAC
-CTAGCAGGAGTTTCTTCAATTCTAGGTGCAGTAAATTTTATAACAACAGT
-AATTAACATACGATCAACAGGAATAACTATAGACCGAATGCCCTTATTTG
-TCTGATCAATCTTTATTACTACCCTTCTCCTCCTTCTATCTCTCCCAGTA
->Faroese
-TTATATTAGGTGCCCCAGATATAGCTTTCCCCCGAATAAATAATATAAGA
-TTTTGACTCTTACCTCCTTCTCTAACTCTATTACTTTCTAGAGGAATAGT
-AGAAAGAGGAGTAGGAACAGGATGAACTGTTTATCCTCCTTTATCCGCCG
-GAATTGCTCACGCCGGGGCCTCTGTAGACCTAGGTATTTTCTCACTACAC
-TTAGCAGGAGTATCTTCAATTCTAGGAGCAGTAAATTTTATAACAACTGT
-AATTAATATACGGTCAACTGGAATAACTATAGACCGTATGCCTTTATTTG
-TTTGATCAGTATTCATTACCGCTCTCCTTCTCCTCTTATCTCTACCAGTT
->Icelandic
-TTATACTAGGAGCTCCCGATATAGCTTTCCCCCGAATGAATAACATGAGA
-TTTTGACTTCTTCCCCCATCGCTAACGCTTCTTCTGGCTGGAGGAGCCGT
-AGAAAGAGGAGCTGGAACCGGTTGAACAGTTTATCCGCCTCTTTCGGTGG
-GAGTGGCACACGCTGGTGCGTCAGTGGACTTAAGTATCTTTTCACTACAC
-CTAGCAGGTGTTTCATCCATTCTTGGAGCCGTCAACTTTATTACTACCGT
-CATCAATATACGGTCATCTGGGATAACACTAGATCGAATACCTCTCTTTG
-TTTGATCTGTTTTCATTACAGCTATCCTATTACTTCTTTCGCTCCCAGTG
->Irish
-TAATATTAGGAGCACCTGATATAGCATTCCCACGAATAAATAATATAAGC
-TTTTGACTGCTACCTCCTTCTCTCACCCTTCTTCTATCTAGAGGAATAGT
-TGAAAGAGGAGTTGGAACAGGATGAACTGTATATCCTCCCCTATCAGCTA
-GAATCGCACATGCAGGGGCCTCTGTAGATTTGGGAATTTTTTCATTGCAT
-TTAGCAGGAGTTTCATCAATTCTAGGGGCCGTAAATTTCATAACAACTGT
-AATTAATATACGATCTACAGGTATAACTATAGACCGAATACCGTTATTCG
-TCTGAGCAGTTTTTATTACAGCGCTCTTACTCCTTTTATCTTTACCCGTT
->KolschColognian
-TTATGTTAGGTGCCCCAGATATGGCATTTCCCCGAATGAATAACATAAGA
-TTCTGACTTTTACCTCCCTCTCTAACGCTTCTTCTAGCTAGTGGTATAGT
-GGAGAGGGGAGTAGGAACTGGCTGAACAGTTTATCCCCCTCTAGCAGGGG
-CAGTGGCCCATGCCGGAGCATCAGTAGATTTGGGTATTTTCTCCCTCCAT
-CTTGCCGGTGTGTCATCAATTCTAGGAGCCGTAAATTTTATTACAACAGT
-AATTAATATGCGGTCTTCAGGTATAACATTCGACCGAATGCCTCTATTTG
-TATGATCTGTGTTTATTACTGCCATTTTACTTCTACTTTCTCTTCCCGTA
->Manx
-TAATATTAGGTGCTCCCGATATAGCTTTCCCTCGAATAAATAATATGAGT
-TTCTGACTTTTACCTCCCTCGCTAACTCTACTTCTTTCTAGAGGTATAGT
-CGAAAGAGGGGTAGGAACAGGATGAACTGTTTACCCTCCTCTATCTGCCA
-GCATTGCCCATGCAGGAGCATCTGTAGATCTAGGAATCTTCTCATTACAT
-TTAGCAGGGGTTTCTTCAATTCTAGGTGCTGTAAATTTTATAACTACCGT
-TATCAATATACGATCAACAGGAATAACTATAGACCGAATACCTCTTTTCG
-TCTGAGCGGTATTTATTACAGCCTTACTACTTTTACTATCATTACCGGTT
->OldPrussian
-TAATACTAGGTGCCCCGGATATGGCTTTCCCTCGAATAAATAACATAAGT
-TTCTGACTTTTACCCCCATCTCTCACTCTCCTCTTATCTAGAGGAATAGT
-AGAAAGAGGTGTAGGAACTGGATGAACTGTATATCCTCCTTTATCTGCAA
-GTATTGCCCATGCGGGAGCTTCCGTTGATCTCGGAATCTTCTCACTACAC
-TTAGCAGGTGTATCATCAATTTTAGGTGCCGTAAATTTTATAACAACTGT
-TATCAATATACGATCTACCGGAATAACTATGGACCGGATACCTCTTTTTG
-TTTGAGCAGTATTTATTACTGCTTTACTTTTACTACTGTCCTTACCAGTT
->SanskritVedic
-TAATATTAGGAGCACCAGATATAGCATTTCCACGAATAAATAATATAAGT
-TTTTGACTTCTACCCCCCTCTTTAACTCTTTTATTAACTAGAGGTATAGT
-AGAAAGAGGAGTAGGAACAGGATGAACTGTTTACCCACCACTATCCGCAG
-CAATTGCACATGCAGGAGCATCAGTGGATTTAGGTATTTTTTCTTTGCAT
-TTGGCTGGAGTATCTTCTATTTTAGGGGCTGTAAATTTTATAACTACAGT
-TATTAATATACGTCCACAAGGAATAACCTTAGACCGTATACCTTTATTTG
-TGTGATCCGTATTTATTACTGCAATTCTACTTTTATTATCACTACCAGTT
->Scots
-TTATACTTGGTGCCCCTGATATAGCTTTCCCCCGTATAAATAATATAAGA
-TTTTGGCTTCTTCCCCCATCTTTAACTCTTCTTCTTTCCAGAGGAATAGT
-AGAAAGAGGGGTAGGAACAGGATGAACTGTTTACCCTCCTTTGTCTGCTG
-GAATCGCCCACGCCGGAGCTTCTGTTGATATAGGAATTTTCTCTCTCCAT
-CTTGCCGGAGTTTCTTCAATTTTAGGGGCAGTAAATTTTATAACAACTGT
-TATTAATATACGTTCAACAGGAATAACTATAGACCGAATCCCCCTTTTTG
-TGTGATCAGTGTTTATTACTACCCTTCTTCTACTTTTATCCCTTCCAGTC
->Yiddish
-TAATACTTGGAGCCCCAGATATAGCTTTCCCTCGAATAAATAACATGAGA
-TTTTGGTTGCTACCTCCTTCTCTAACCCTTCTTCTATCAAGAGGAATAGT
-TGAAAGAGGTGTAGGAACTGGCTGAACAGTTTATCCTCCCTTAGCAGCCG
-CCGTCGCTCATGCCGGAGCATCCGTAGATTTAGGTATTTTTTCACTTCAT
-CTTGCAGGAGTTTCTTCAATCCTAGGAGCAGTAAATTTCATAACAACTGT
-AATTAATATACGGTCAACTGGGATAACTATAGACCGCATACCCTTATTTG
-TCTGATCTGTTTTTATCACCGCAATTTTACTTCTTCTATCTCTACCTGTC
-
-
-Sequence character woman_cox1_spaced.fastc#0
->AlbanianTosk
-T T A T A T T A G G A G C A C C A G A T A T A G C 
-T T T C C C T C G A A T A A A T A A T A T A A G A 
-T T T T G A C T T CT T C C A C C A T C T T T A A C
- T T T A C T C C T C T C T A G A G G A A T A G T A
- G A A A G T G G A G T G G G A A C A GG C T G A A 
-C T G T C T A T C C T C C T T T A T C T G C T G G 
-A A T T G C A C A T G C T G G T G C C T C A G T A 
-G A T TT A G G A A T C T T T T C T T T A C A C C T
- A G C A G G A G T T T C A T C C A T C T T A G G G
- G C C G T A A A C T T T AT A A C T A C C G T T A 
-T C A A T A T A C G A A G A A C A G G T A T A A C 
-A A T A G A C C G A A T T C C T C T T T T T GT A T
- G A T C T G T A T T T A T T A C A G C C C T T C T
- T C T C C T T C T T T C C C T C C C A G T C 
->AncientIonicGreek
-T A A T A T T A G G T G C C C C T G A T A T A G C 
-T T T T C C A C G A A T A A A T A A T A T A A G A 
-T T T T G A C T C CT T C C A C C T T C T C T A A C
- T C T T C T T T T A A T A A G A G G A A T A G T T
- G A A A G A G G T G T A G G A A C T GG A T G A A 
-C T G T T T A C C C T C C T T T A T C G G C T A G 
-A A T C G C T C A C G C A G G A G C A T C T G T A 
-G A T AT A G G A A T T T T C T C C T T A C A T C T
- G G C C G G T G T C T C A T C A A T T C T T G G T
- G C A G T A A A C T T T AT A A C C A C A G T T A 
-T T A A T A T A C G C C C T G T T G G T A T A T C 
-A A T A G A T C G T A T A C C T T T A T T T GT T T
- G A G C C G T A T T T A T T A C A G C T A T T C T
- T T T A T T A C T A T C C T T A C C C G T T 
->ArmenianWestern
-T A A T A T T A G G A G C T C C A G A T A T A G C 
-T T T C C C T C G A A T A A A T A A T A T A A G A 
-T T C T G A C T C CT C C C T C C C T C T T T A A C
- T C T T T T A C T T T C A A G A G G A A T A G T A
- G A A A G A G G A G T A G G A A C G GG A T G A A 
-C C G T T T A T C C T C C T C T T G C A G C C G G 
-A A T T G C T C A T G C C G G A G C T T C A G T T 
-G A T AT A G G A A T C T T C T C T C T A C A T T T
- A G C A G G A G T A T C C T C T A T T T T A G G G
- G C C G T A A A T T T T AT A A C A A C A G T G A 
-T T A A C A T A C G G G C A T C T G G A A T A A C 
-A T T A G A C C G A A T A C C T T T A T T C GT G T
- G A T C T G T A T T T A T T A C T G C A C T A T T
- A T T A C T T T T A T C A C T A C C A G T T 
->Assamese
-T A A T A C T A G G A G C A C C G G A T A T A G C 
-T T T T C C A C G A A T A A A T A A T A T A A G A 
-T T T T G A C T T TT A C C C C C A T C T T T A A C
- T C T T T T A T T A A C T A G T G G T A T A G T A
- G A A A G A G G T G T A G G T A C A GG A T G A A 
-C T G T G T A T C C C C C A C T T T C C G C A G C 
-T A T T G C T C A C G C C G G A G C A T C G G T A 
-G A T TT A G G T A T T T T T T C T C T A C A T T T
- A G C C G G A G T C T C T T C T A T T T T A G G G
- G C T G T A A A T T T T AT A A C G A C A G T C A 
-T T A A T A T A C G A C C C C A G G G A A T A A C 
-C T T A G A T C G C A T A C C T T T A T T T GT T T
- G A T C T G T A T T T A T T A C T G C G A T T C T
- A C T T T T A T T A T C A C T A C C T G T T 
->Cornish
-T A A T G T T A G G T G C T C C T G A T A T G G C 
-T T T T C C A C G A A T A A A C A A T A T G A G T 
-T T C T G G C T C CT A C C T C C T T C A C T A A C
- A C T A C T T C T T T C T A G A G G T A T A G T T
- G A A A G A G G A G T A G G A A C A GG A T G A A 
-C T G T T T A C C C T C C T T T A T C A G C C A G 
-T A T T G C T C A T G C T G G G G C T T C G G T A 
-G A T TT A G G A A T T T T C T C C C T A C A C T T
- G G C A G G T G T T T C T T C A A T T T T A G G A
- G C T G T A A A T T T T AT G A C A A C T G T T A 
-T T A A C A T A C G A T C T A C G G G A A T A A C 
-T A T A G A C C G A A T A C C G C T T T T C GT T T
- G A G C A G T A T T T A T T A C A G C A T T A C T
- T C T C T T A T T A T C T C T A C C G G T A 
->Danish
-T A A T G T T A G G T G C T C C A G A T A T A G C 
-T T T C C C T C G A A T G A A T A A T A T A A G C 
-T T C T G A C T T TT A C C T C C T T C T C T T A C
- C C T T C T T T T A T C T A G A G G G A T A G T T
- G A A A G A G G T G T T G G A A C T GG T T G G A 
-C A G T T T A T C C T C C A C T C T C T G C T A G 
-T A T T G C C C A C G C T G G A G C T T C A G T A 
-G A C CT T G G A A T C T T T T C C C T A C A T C T
- A G C T G G T G T A T C T T C T A T T C T A G G A
- G C A G T A A A T T T T AT A A C T A C T G T A A 
-T C A A T A T A C G A T C T A C A G G A A T A A C 
-T A T A G A C C G A A T A C C T C T T T T T GT T T
- G A G C A G T A T T C A T T A C T G C T T T A C T
- A T T A C T T C T A T C A T T A C C A G T C 
->EasternFrisianSaterland
-T A A T A T T A G G A G C T C C T G A T A T A G C 
-T T T T C C T C G A A T A A A T A A T A T A A G A 
-T T C T G A C T C TT A C C T C C A T C C C T A A C
- C C T C C T C C T C T C T A G A G G A A T A G T A
- G A A A G A G G A G T T G G A A C A GG A T G G A 
-C T G T T T A T C C T C C A C T G T C A G C C G G 
-A A T C G C C C A C G C A G G A G C C T C T G T A 
-G A T TT A G G A A T C T T C T C C C T T C A C C T
- A G C A G G A G T T T C T T C A A T T C T A G G T
- G C A G T A A A T T T T AT A A C A A C A G T A A 
-T T A A C A T A C G A T C A A C A G G A A T A A C 
-T A T A G A C C G A A T G C C C T T A T T T GT C T
- G A T C A A T C T T T A T T A C T A C C C T T C T
- C C T C C T T C T A T C T C T C C C A G T A 
->Faroese
-T T A T A T T A G G T G C C C C A G A T A T A G C 
-T T T C C C C C G A A T A A A T A A T A T A A G A 
-T T T T G A C T C TT A C C T C C T T C T C T A A C
- T C T A T T A C T T T C T A G A G G A A T A G T A
- G A A A G A G G A G T A G G A A C A GG A T G A A 
-C T G T T T A T C C T C C T T T A T C C G C C G G 
-A A T T G C T C A C G C C G G G G C C T C T G T A 
-G A C CT A G G T A T T T T C T C A C T A C A C T T
- A G C A G G A G T A T C T T C A A T T C T A G G A
- G C A G T A A A T T T T AT A A C A A C T G T A A 
-T T A A T A T A C G G T C A A C T G G A A T A A C 
-T A T A G A C C G T A T G C C T T T A T T T GT T T
- G A T C A G T A T T C A T T A C C G C T C T C C T
- T C T C C T C T T A T C T C T A C C A G T T 
->Icelandic
-T T A T A C T A G G A G C T C C C G A T A T A G C 
-T T T C C C C C G A A T G A A T A A C A T G A G A 
-T T T T G A C T T CT T C C C C C A T C G C T A A C
- G C T T C T T C T G G C T G G A G G A G C C G T A
- G A A A G A G G A G C T G G A A C C GG T T G A A 
-C A G T T T A T C C G C C T C T T T C G G T G G G 
-A G T G G C A C A C G C T G G T G C G T C A G T G 
-G A C TT A A G T A T C T T T T C A C T A C A C C T
- A G C A G G T G T T T C A T C C A T T C T T G G A
- G C C G T C A A C T T T AT T A C T A C C G T C A 
-T C A A T A T A C G G T C A T C T G G G A T A A C 
-A C T A G A T C G A A T A C C T C T C T T T GT T T
- G A T C T G T T T T C A T T A C A G C T A T C C T
- A T T A C T T C T T T C G C T C C C A G T G 
->Irish
-T A A T A T T A G G A G C A C C T G A T A T A G C 
-A T T C C C A C G A A T A A A T A A T A T A A G C 
-T T T T G A C T G CT A C C T C C T T C T C T C A C
- C C T T C T T C T A T C T A G A G G A A T A G T T
- G A A A G A G G A G T T G G A A C A GG A T G A A 
-C T G T A T A T C C T C C C C T A T C A G C T A G 
-A A T C G C A C A T G C A G G G G C C T C T G T A 
-G A T TT G G G A A T T T T T T C A T T G C A T T T
- A G C A G G A G T T T C A T C A A T T C T A G G G
- G C C G T A A A T T T C AT A A C A A C T G T A A 
-T T A A T A T A C G A T C T A C A G G T A T A A C 
-T A T A G A C C G A A T A C C G T T A T T C GT C T
- G A G C A G T T T T T A T T A C A G C G C T C T T
- A C T C C T T T T A T C T T T A C C C G T T 
->KolschColognian
-T T A T G T T A G G T G C C C C A G A T A T G G C 
-A T T T C C C C G A A T G A A T A A C A T A A G A 
-T T C T G A C T T TT A C C T C C C T C T C T A A C
- G C T T C T T C T A G C T A G T G G T A T A G T G
- G A G A G G G G A G T A G G A A C T GG C T G A A 
-C A G T T T A T C C C C C T C T A G C A G G G G C 
-A G T G G C C C A T G C C G G A G C A T C A G T A 
-G A T TT G G G T A T T T T C T C C C T C C A T C T
- T G C C G G T G T G T C A T C A A T T C T A G G A
- G C C G T A A A T T T T AT T A C A A C A G T A A 
-T T A A T A T G C G G T C T T C A G G T A T A A C 
-A T T C G A C C G A A T G C C T C T A T T T GT A T
- G A T C T G T G T T T A T T A C T G C C A T T T T
- A C T T C T A C T T T C T C T T C C C G T A 
->Manx
-T A A T A T T A G G T G C T C C C G A T A T A G C 
-T T T C C C T C G A A T A A A T A A T A T G A G T 
-T T C T G A C T T TT A C C T C C C T C G C T A A C
- T C T A C T T C T T T C T A G A G G T A T A G T C
- G A A A G A G G G G T A G G A A C A GG A T G A A 
-C T G T T T A C C C T C C T C T A T C T G C C A G 
-C A T T G C C C A T G C A G G A G C A T C T G T A 
-G A T CT A G G A A T C T T C T C A T T A C A T T T
- A G C A G G G G T T T C T T C A A T T C T A G G T
- G C T G T A A A T T T T AT A A C T A C C G T T A 
-T C A A T A T A C G A T C A A C A G G A A T A A C 
-T A T A G A C C G A A T A C C T C T T T T C GT C T
- G A G C G G T A T T T A T T A C A G C C T T A C T
- A C T T T T A C T A T C A T T A C C G G T T 
->OldPrussian
-T A A T A C T A G G T G C C C C G G A T A T G G C 
-T T T C C C T C G A A T A A A T A A C A T A A G T 
-T T C T G A C T T TT A C C C C C A T C T C T C A C
- T C T C C T C T T A T C T A G A G G A A T A G T A
- G A A A G A G G T G T A G G A A C T GG A T G A A 
-C T G T A T A T C C T C C T T T A T C T G C A A G 
-T A T T G C C C A T G C G G G A G C T T C C G T T 
-G A T CT C G G A A T C T T C T C A C T A C A C T T
- A G C A G G T G T A T C A T C A A T T T T A G G T
- G C C G T A A A T T T T AT A A C A A C T G T T A 
-T C A A T A T A C G A T C T A C C G G A A T A A C 
-T A T G G A C C G G A T A C C T C T T T T T GT T T
- G A G C A G T A T T T A T T A C T G C T T T A C T
- T T T A C T A C T G T C C T T A C C A G T T 
->SanskritVedic
-T A A T A T T A G G A G C A C C A G A T A T A G C 
-A T T T C C A C G A A T A A A T A A T A T A A G T 
-T T T T G A C T T CT A C C C C C C T C T T T A A C
- T C T T T T A T T A A C T A G A G G T A T A G T A
- G A A A G A G G A G T A G G A A C A GG A T G A A 
-C T G T T T A C C C A C C A C T A T C C G C A G C 
-A A T T G C A C A T G C A G G A G C A T C A G T G 
-G A T TT A G G T A T T T T T T C T T T G C A T T T
- G G C T G G A G T A T C T T C T A T T T T A G G G
- G C T G T A A A T T T T AT A A C T A C A G T T A 
-T T A A T A T A C G T C C A C A A G G A A T A A C 
-C T T A G A C C G T A T A C C T T T A T T T GT G T
- G A T C C G T A T T T A T T A C T G C A A T T C T
- A C T T T T A T T A T C A C T A C C A G T T 
->Scots
-T T A T A C T T G G T G C C C C T G A T A T A G C 
-T T T C C C C C G T A T A A A T A A T A T A A G A 
-T T T T G G C T T CT T C C C C C A T C T T T A A C
- T C T T C T T C T T T C C A G A G G A A T A G T A
- G A A A G A G G G G T A G G A A C A GG A T G A A 
-C T G T T T A C C C T C C T T T G T C T G C T G G 
-A A T C G C C C A C G C C G G A G C T T C T G T T 
-G A T AT A G G A A T T T T C T C T C T C C A T C T
- T G C C G G A G T T T C T T C A A T T T T A G G G
- G C A G T A A A T T T T AT A A C A A C T G T T A 
-T T A A T A T A C G T T C A A C A G G A A T A A C 
-T A T A G A C C G A A T C C C C C T T T T T GT G T
- G A T C A G T G T T T A T T A C T A C C C T T C T
- T C T A C T T T T A T C C C T T C C A G T C 
->Yiddish
-T A A T A C T T G G A G C C C C A G A T A T A G C 
-T T T C C C T C G A A T A A A T A A C A T G A G A 
-T T T T G G T T G CT A C C T C C T T C T C T A A C
- C C T T C T T C T A T C A A G A G G A A T A G T T
- G A A A G A G G T G T A G G A A C T GG C T G A A 
-C A G T T T A T C C T C C C T T A G C A G C C G C 
-C G T C G C T C A T G C C G G A G C A T C C G T A 
-G A T TT A G G T A T T T T T T C A C T T C A T C T
- T G C A G G A G T T T C T T C A A T C C T A G G A
- G C A G T A A A T T T C AT A A C A A C T G T A A 
-T T A A T A T A C G G T C A A C T G G G A T A A C 
-T A T A G A C C G C A T A C C C T T A T T T GT C T
- G A T C T G T T T T T A T C A C C G C A A T T T T
- A C T T C T T C T A T C T C T A C C T G T C 
-
-Implied Alignments for Graph 4
-
-Sequence character woman.fastc#0
->AlbanianTosk
-- - - - - - - ɡ - - \textfishhookr - u - - a 
->AncientIonicGreek
-- - - - - - - ɡ - - \”u n e - - \textlengthmark 
->ArmenianWestern
-- - - - - - - ɡ - - i - n - - - 
->Assamese
-m a \textsci - k i - m - - a - n u - \textsuperscr
-ipt{\texthth} 
->Cornish
-- - - - - - - b - - \textepsilon n j - - n 
->Danish
-- - - \textprimstress k \textsuperscript{h} - v - 
-- e - n - - \textschwa 
->EasternFrisianSaterland
-- - - - - - - v - - i\texthalflength - \textupsilo
-n - - v 
->Faroese
-- - - - k - - o - - \textlengthmark - n - - a 
->Icelandic
-- - \textprimstress - k - - \textsuperscript{h} - 
-- \textopeno - n - - a 
->Irish
-- - - - - - - b \textsuperscript{j} \ae \textlengt
-hmark - n - \textsubbridge \textsuperscript{\textg
-amma} 
->KolschColognian
-- - - - - - - v - - e\textlengthmark - z - - h 
->Manx
-- - - - - - - b - - \textepsilon - \textsuperscrip
-t{d} - - n 
->OldPrussian
-- - - - - - v i\textlengthmark - - r i n - - a 
->SanskritVedic
-- - - - s \textsubbridge - t - - \textsubbridge - 
-\textrtailr i - \textlengthmark 
->Scots
-- - - w \textturnv - - m - - m - \textscripta - - 
-n 
->Yiddish
-- - - - - - - f - - \textscr - \textopenoj - - - 
-
-
-Sequence character woman_binary.fasta#0
->AlbanianTosk
-0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 1 - 1 - 1 0 
-1 1 - 1 1 1 0 1 0 - - 1 1 0 1 1 1 1 0 0 1 1 1 1 1 
-0 1 1 0 0 1 0 0 0 0 0 0 0 - - 1 1 1 0 - 1 0 1 1 - 
-1 - 0 0 0 1 0 - 1 1 1 0 1 0 1 - 1 - 1 1 1 1 1 1 1 
-- 1 0 1 1 1 - 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 1 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 1 1 0 1 - 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 1 0 1 0 0 1 - 0 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - - 1 1 0 1 0 1 0 0 1 - 1 1 1 1 1 1 1 1 0 1 
-0 1 1 0 - 1 0 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 0 0 
->AncientIonicGreek
-0 1 1 1 0 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 - 1 - 1 1 
-1 1 0 0 1 1 1 1 0 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 1 0 - 
-1 - 1 0 1 0 0 - - - 1 - 1 0 1 - 1 - 1 1 1 1 - 1 1 
-- 1 - 1 0 1 - 1 - 1 1 - 1 1 1 0 1 0 1 1 0 0 0 0 1 
-1 1 0 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 
-1 1 0 1 1 - 1 0 1 - 1 1 1 0 1 1 0 1 1 0 1 1 1 1 1 
-1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 1 0 1 1 1 1 1 - 1 1 
-1 1 1 1 1 1 0 0 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 
-0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 1 0 1 1 1 1 0 0 1 1 1 - - 0 1 1 1 1 1 
-1 1 0 0 0 1 1 1 0 - 1 1 1 1 0 0 0 0 0 1 0 1 1 1 1 
-1 1 0 - 1 1 1 1 1 - 0 1 1 1 - 1 1 1 1 1 1 1 1 0 1 
-1 1 1 1 0 - 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 
-1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 1 1 1 - 1 1 
-0 - - 1 1 0 1 1 1 1 1 0 - 1 1 1 1 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 0 1 1 0 1 1 
-0 0 1 0 0 
->ArmenianWestern
-0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 0 0 1 - 1 - 1 0 
-0 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 0 1 1 0 
-0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-0 - 0 0 0 1 0 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 0 1 1 
-- 1 0 0 0 1 - 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 0 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 0 0 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 0 1 1 1 1 - - 0 1 1 0 1 1 
-1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - 1 1 1 0 1 - 1 1 0 1 - 1 1 1 1 1 1 1 1 0 0 
-0 1 1 1 - 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 0 0 
->Assamese
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 - 1 - 1 1 
-1 1 - 1 1 1 1 1 1 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
-- 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 - 1 0 - 
-1 0 0 0 1 1 1 - - - 1 - 1 1 1 - 1 - 1 1 1 1 - 1 1 
-- 1 - 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 
-1 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 
-1 1 1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 
-0 1 0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-0 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 1 0 1 1 1 1 1 1 1 1 0 - - 0 1 0 0 1 1 
-1 1 0 0 0 1 1 1 0 - 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - - 1 1 1 1 - 0 1 1 1 - 1 1 1 1 1 1 1 1 - 1 
-1 1 1 1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 1 
-1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 
-0 - - 0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 0 0 0 0 0 1 1 0 0 0 
-0 1 1 1 0 
->Cornish
-0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
-1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 1 - 
-1 - 0 0 1 1 1 - - 1 1 - 1 0 1 - 1 - 1 0 1 0 1 1 1 
-- 1 0 1 0 1 - 0 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 0 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
-0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 1 0 1 1 1 1 0 - 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - 1 1 1 1 0 - 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 
-1 0 1 0 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 0 0 
->Danish
-0 1 1 1 1 1 1 0 0 1 1 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
-1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 1 1 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 1 1 1 
-- 1 0 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 0 0 1 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
-0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 0 1 1 1 1 0 - 1 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 1 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - 1 1 1 1 0 - 1 0 1 1 - 1 1 1 1 1 0 1 1 0 1 
-1 0 1 1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 0 0 
->EasternFrisianSaterland
-0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 1 - 1 0 1 1 
-0 1 - 1 1 1 1 1 1 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 1 0 - - - 1 - 1 1 1 - 1 0 1 1 1 1 0 1 1 
-- 1 - 0 1 1 0 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 
-1 0 0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 0 1 1 1 1 1 1 1 1 0 - - 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - 1 1 1 0 1 - 1 1 0 1 - 1 1 1 1 1 1 1 1 0 1 
-0 1 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 0 0 
->Faroese
-0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 0 1 1 
-1 1 - 1 1 1 1 1 1 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 0 0 - - - 1 - 1 1 1 - 1 0 1 1 1 0 1 1 1 
-- 1 - 0 0 0 0 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 
-1 0 0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 0 0 1 1 1 0 0 1 1 0 - - 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - 1 1 1 1 1 - 0 1 0 0 - 1 1 1 1 1 0 1 1 0 0 
-0 1 0 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 0 0 
->Icelandic
-0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 0 1 - 1 - 1 1 
-1 1 - 0 - 0 1 1 0 1 - 1 0 0 1 1 1 1 1 0 1 1 1 1 0 
-0 0 1 0 0 1 1 0 0 0 0 0 0 1 1 1 0 1 0 - 1 - 1 0 - 
-0 - 0 0 1 1 0 - - - 1 - 1 0 1 0 1 - 1 1 1 1 1 1 1 
-- 1 - 1 1 1 - 1 1 1 1 0 0 1 1 - 1 1 1 1 1 0 0 1 1 
-1 0 0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 - 1 1 1 - 1 1 1 1 0 0 1 1 1 0 1 1 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 
-1 1 0 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 1 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 0 1 1 0 1 0 1 0 1 - - 0 1 1 1 0 1 
-1 1 0 0 0 1 1 1 0 - 1 0 1 1 0 1 1 0 0 1 1 1 1 1 1 
-1 1 0 1 1 1 1 1 1 - 1 1 0 0 1 1 1 1 1 1 1 1 1 0 0 
-1 1 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 0 
-1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 
-0 1 1 1 1 1 1 1 1 1 0 1 - 1 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 0 1 0 0 
->Irish
-0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
-1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
-0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 1 0 0 0 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 1 1 1 
-0 0 0 1 0 - - 0 - 1 1 - 1 1 0 - 1 1 1 0 1 0 0 1 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 0 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 0 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
-0 0 1 1 1 0 1 0 0 1 0 0 0 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 0 1 1 0 1 - - 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-0 1 0 - 1 1 1 1 1 - 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 
-1 1 1 1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 0 1 0 0 
->KolschColognian
-0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 1 1 0 0 - 1 1 
-1 1 - 1 - 1 1 1 0 - - 1 0 0 1 1 1 1 1 0 0 1 1 1 0 
-0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 0 0 - 
-1 - 1 0 1 0 0 - - - 1 - 1 0 1 0 1 - 1 0 0 1 0 1 1 
-- 1 - 1 1 1 - 1 0 1 1 0 1 1 1 - 1 1 1 1 1 0 0 1 1 
-1 0 0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 
-1 1 0 1 1 0 0 1 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 1 1 - - 0 1 1 1 1 1 
-1 1 0 0 0 1 1 1 0 - 1 0 1 1 0 1 1 0 0 1 1 1 0 1 1 
-1 1 0 1 1 1 1 1 1 - 1 1 1 0 - 1 1 1 1 1 1 1 1 0 0 
-1 1 1 1 - 1 1 0 0 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 0 
-1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 
-0 1 1 1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 0 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 0 1 0 0 
->Manx
-0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
-1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
-0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 1 - 
-1 - 0 0 1 1 0 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 1 1 1 
-- 1 0 1 0 1 - 0 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 0 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
-0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 1 0 1 1 0 1 0 - 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - 1 1 1 0 1 - 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 
-1 0 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 0 0 
->OldPrussian
-0 1 1 1 1 1 1 0 0 1 1 0 0 1 1 0 1 1 0 1 - 1 - 1 0 
-1 1 - 1 1 1 1 1 0 - - 1 1 0 1 1 1 1 0 1 1 0 1 1 0 
-0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 0 1 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 1 1 1 
-- 1 0 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 0 0 1 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
-0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 0 1 1 1 1 0 - 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 1 0 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - 1 1 1 0 1 - 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 
-1 0 1 1 - 1 1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 1 1 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 0 0 
->SanskritVedic
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 1 1 1 - 1 - 1 1 
-1 1 - 1 1 0 1 1 1 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
-- 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 - 1 0 - 
-1 0 0 0 1 1 1 - - - 1 - 1 1 1 - 1 - 1 1 1 1 - 1 1 
-- 1 - 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 
-1 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 
-1 1 1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 
-0 1 0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-0 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 
-0 0 1 1 1 1 0 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 1 1 1 1 1 1 1 1 1 1 0 - - 0 1 0 0 1 1 
-1 1 0 0 0 1 1 1 0 - 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - - 1 1 1 1 - 1 1 1 1 - 1 1 1 1 1 1 1 1 - 1 
-1 1 1 1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 1 
-1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 
-0 - - 0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 1 1 0 1 0 0 0 0 0 1 1 0 0 0 
-0 1 1 1 0 
->Scots
-0 1 1 1 1 1 1 0 0 1 0 0 0 1 0 1 1 1 1 1 - 1 0 1 1 
-1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 1 1 - - - 1 - 1 1 1 - 1 0 1 1 1 1 0 1 1 
-- 1 - 0 0 1 0 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 1 0 1 1 1 0 - - 0 1 1 0 1 1 
-1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - 1 1 1 0 1 - 0 0 0 0 - 1 1 1 1 1 1 1 1 0 0 
-0 0 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 0 0 
->Yiddish
-0 1 1 1 0 1 0 1 0 1 1 0 0 - - 1 1 1 1 1 - 1 - 1 1 
-1 0 - 0 - 1 1 1 0 - - 1 1 0 1 1 0 1 1 0 1 1 1 1 - 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 1 0 1 
-1 - 0 0 1 1 0 1 - - 1 - 1 0 1 - 1 - 1 1 1 1 0 1 1 
-- 1 - 1 1 1 - 1 0 1 1 - 1 1 1 - 1 1 1 1 1 0 1 1 1 
-1 1 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-1 1 0 1 1 - 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
-0 1 1 1 0 1 0 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-0 1 0 1 1 1 0 1 0 0 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 
-0 0 1 1 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 1 1 1 1 1 1 0 1 1 1 1 - - 0 1 1 1 1 1 
-1 1 0 0 1 1 1 1 0 - 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - 1 1 1 1 1 - 1 1 1 0 - 1 1 1 1 1 1 1 1 0 1 
-1 1 1 1 - 1 1 0 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 1 0 
-1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 
-0 - - 1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 1 0 
-
-
-Sequence character woman_12Saln.fasta#0
->AlbanianTosk
-GTTTTATCCTGGCTTA-T-TTTTTCATTTTCAGATTTGTGCCAGCAGCCG
-CGGTTACAC-TAAGGGACA-AACTGAAA-TGTTAAGATAAAGTTATGAAC
-CAGGATTAGATACCCTGTAGTTATTGTCTTAAAACTCAAAGGATTTGGCG
-GTAATTTAGTCTATTTAGAGGAACCTGTCCTATAAACGATAAACCACGTA
-AAATCTTACCCTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
->AncientIonicGreek
-GTTTGATTTTTGCTTATT-TATTTTACGTTTAGTTTTGTGCCAGCAGCCG
-CGGTTATACTTGAAGAGCA--AGTAAAA-TGTAAAGTCTAGGGCATAGAC
-TAGGATTAGATACCCT-AAGTTATGTTCTTGAAAATAAAAAAATTTGGCG
-GT-GTTTAATTTATTTAGGGGAACCTGTTTTATAATCGATACACCACGAA
-GAATCTTACTTACTTCATGTATACCGTTATTATTAGATCAAGGTGCAGAC
-TATGATATAAATACTTAAACATGTACATATCGCCCGTCGCTTTTACA-T-
---CTTAATGTAAAATAAGTCGTAACATAGTAGCTGTATCGGAAGATGCAG
-C
->ArmenianWestern
-GTTTTATCCTGGCTTA-T-CCTTTCGATTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGGGGCA-GATTGAAA-TATTAAGATAAAGGTATGAAC
-CAGGATTAGATACCCTGCAGTTATTGGCTTGAAACTCAAAGGATTTGGCG
-GTAGCTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAATCCACGAA
-AAATCTCACTTTACGCTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGATTGTAGCTCTAAGCTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
->Assamese
-GTTTGATTCTTGCTTA-T-GATTTTTATATTATATTTGTGCCAGCAGTCG
-CGGTTATACTTAGAGGGTA--AATAAAT-TATAAATTTTAATATATAAAC
-TAGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGGCG
-GTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAACCACGAA
--TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAGTC
-TATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-C-
---CTAAAAATGAAATAAGTCGTAACAAAGTAGGTGTGCCGGAAGGCGTAT
-C
->Cornish
-GTTTTATCCTGGCTTA-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAAAGGTA-AATTGAAA-TGTTAAGATAAAGAGATGAAC
-CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
-GTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAA
-GAATCTTACTTTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
->Danish
-GTTTTATCCTAGCTTA-T-TCTTTCAATTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGTT-AATTGAAA-TATTAAAATAAAGGAATGAAC
-CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
-GTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAA
-GAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
->EasternFrisianSaterland
-GTTTTATCCTGGCTAA-TATTTCTTGTTTTTAAATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGTA-GATTAAGA-TGTTAAGTTAAAGGTATGGAC
-CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
-GTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACGAA
-GTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCC
-AATGATTATAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
->Faroese
-GTTTTATCCTGGCTAA-TAGTTCTTATTATTAAATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGTG-GATTAAGA-TGTTAAGATAAAGGTATGGAC
-CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
-GTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACGAA
-GAATCTTACCTTGTGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCC
-GATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
->Icelandic
-GTTTGATTCTTGC-TA-T-GTTTTT--TGCTAGACTTGTGCCAGCATCCG
-CGGTTAGACTTG-G-GGATCTAGTGAAACGA-GGAATTTTAGGTATGGAC
-CAGGATTAGATACCCTGAATTAATACGTTTGAAATTCAAAGAACCTGGCG
-GTACTTTAGTCTAGTTAGAGGAACCTGTTGTATAAACGATAAACCACGTA
-GAATCTTTCTTACTGCTAGTATACCTTCATTATTAGATCAAGGTGCTGCT
-GATGATAATAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CATT-
-AAATTAGA-TGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCAC
-C
->Irish
-GTTTTATCCTGGCTTA-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGACG-GATTGAAA-TATTAAGATAGAGGAATGAAC
-CAGGATTAGATACCCTGCAGCTATTATCTTGAAACTCAAAGGATTTGGCG
-GTAACCTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGCA
-ATATCTTGCTTTATGCTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCAC
-C
->KolschColognian
-GTTTGATTCTTGC-TA-T-TACCTT--TATTAAACTTGTGCCAGCAGCCG
-CGGTTAAACTCG-A-TGTCCTAGTGAAGCTA-GAAAATTTAGGTAAGGAC
-CAGGATTAGATACCCTGAATAAATTAATTTTAAATTCAAAGAACCTGGCG
-GTACTTTAGTCTAGTTGGAGGAACCTGTTTTATAAACGATAAACCACGTA
-AAATCTTTCTTATTGTTAGTATACCTTCATTATTAGATCAAGGTGCTGCA
-AATGGTATTAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CATT-
-AAGTTAAA-TGAGATAAGTCGTAACATAGTGGGTGTACTGGAAAGTGCAC
-C
->Manx
-GTTTTATCCTGGCTTA-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAAAGGTA-GATTGAAA-TGTTAAGATAAAGAGATGAAC
-CAGGATTAGATACCCTGCAGTTATTATCTTGAAACTCAAAGGATTTGGCG
-GTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAA
-GAATCTTACTCTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
->OldPrussian
-GTTTTATCCTAGCTTG-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGTC-AATTGAAA-TATTAAAATAAAGGAATGAAC
-CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
-GTAATTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAA
-AAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGACCTTAGCCCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
->SanskritVedic
-GTTTGATTCTTGCTTA-T-AATTTTTATACTATATTTGTGCCAGCAGTCG
-CGGTTATACTTAGAGGGTA--AATAAAT-TATAAATTTTAATATATAAAC
-TAGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGGCG
-GTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAGCCACGAA
--TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAGTT
-TATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-C-
---CTAAAAATGAAATAAGTCGTAACAAAGTAGATGTGCCGGAAGGCGTAT
-C
->Scots
-GTTTTATCCTGGCTCA-TAATTCTTATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGTA-AATTAAGA-TATTAAGATAAAGGTATGAAC
-CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
-GTAATTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAAACCACGAA
-GTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-AATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
---GTTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
->Yiddish
-GTTTGACTCTTGCTT--T-AATTTT-C-GTTA-ACTTGTGCCAGCAGCCG
-CGGTTATACTAGAA-GGTT-GAATGAAA-TATTAAATTTTAGATATAAAC
-CAGGATTAGATACCCTGAATGAATTAATTTAAAATTCAAAGAGTTTGGCG
-GTATTTTAGTCCTGTTAGAGGAATCTGTTTTATAAACGATAACCCCCGTA
-ATATCTTTCTTATTGCTAGTATACCATCATTATTAGATCATGGTGCTGTT
-TATGAGATTGGCTCTAAAATGTGTACATATTGCCCGTCGC-TTT-CATT-
---CTTAAA-TGAGATAAGTCGTAACATAGTAGGAGTACTGGAAAGTGTTT
-C
-
-
-Sequence character woman-wide_aa.fas#0
->AlbanianTosk
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V I V T A H A F V I I F F M V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L S R G I V E S G V G T G 
-- - T V Y P P L S A G I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R R T 
-G I T I D R I P L F V S V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G M I S H I I R Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S M G A V F G I F A G I A H - - - F 
-P L F T G L T I N P K - L K I H F I V M F V G V N 
-I T F F P Q H F L G L N G M P R R Y S D Y P D A Y 
-T S N V L S S I G S T I S L I A V L G F I V I V E 
-A L V T T R P V L F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->AncientIonicGreek
-T K R F F S T N H K D I G T L Y F I F G A - - S G 
-M V G T A L R L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L I R G I V E R G V G T G 
-- - T V Y P P L S A R I A H A G A S V D I G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R P V 
-G I S I D R I P L F V A V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V S Q E S G K K E S F G T L G I I Y A 
-I L A I G I L G F I V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A I P T G I K I F - R - - L G 
-T L Q G N Q I N Y R P S I I - - A L G F I F L F T 
-V G G L T G V V L A N S S I D T V L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - Y 
-P L F T G L S I N P K W L K I H F S V I F L G V N 
-L T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T P N V L S S I G S I I S L C A V I G F V F I I E 
-S L I S S R P V I F S L F Q P T S I E - - K H H Y 
-P P A D H R F I Q I A L I S N 
->ArmenianWestern
-T Q R L F S T N H K D I G T L Y F I F G A - - S G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L A A G I A H A G A S V D I G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R A S 
-G I T L D R I P L F V S V F I T A L L L L L S L P 
-V L A G A I T M L L T D R N L N T S F F D P A G G 
-G D P I L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H M F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L L - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - W F 
-P L F T G L T L N P R - L K M H F L T I F V G V N 
-I T F F P Q H F L G L R G M P R R Y S D Y P D A Y 
-T A N V V S S I G S T I S L I A V L G F V I I V E 
-A L S A N R P V I F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->Assamese
-T K R F F S T N H K D I G T L Y F I F G A W - A G 
-I V G T S L S L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L T S G I V E R G V G T G 
-- - T V Y P P L S A A I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R P Q 
-G I T L D R I P L F V S V F I T A I L L L L S L P 
-V L A G A I T M L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V S Q E S G K A E S F G T L G I I Y A 
-I L A I G I L G F L V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K I F - R - - L G 
-T L H G A Q V N Y R P S L L W - A M G F I F L F T 
-V G G L T G V V L A N S S L D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I T H - - - F 
-P L F T G L S L N P T W L K I H F F V M F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-A A N V L S S M G S I V S L V A V L G F I I I V E 
-S L V S S R S V I F T T F F P T S V E - - E H A Y 
-P P A D H R Y I E I P I V S N 
->Cornish
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F I V M P I I I G G 
-F G N - L V P L M L G A P D M A F P R I N N M S F 
-- - W L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A S I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F M T T V I N I R S T 
-G I T I D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S M G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K V H F L V M F I G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-S A N V V S S I G S T V S L I A V L G F V I I V E 
-A L T V A R P V I F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->Danish
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V M I F F I V I P I I I G G 
-F G N - L V P L M L G A P D I A F P R M N N I S F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- W T V Y P P L S A S I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S M G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K I H F L V I F I G V N 
-I T F F P Q H F L G L N G K P R R Y S D Y P D A Y 
-S A N G V S S I G S T V S L I A V L G F V I I V E 
-A L T A A R P V I F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->EasternFrisianSaterland
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L S L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F I I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-W - T V Y P P L S A G I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R M P L F V S I F I T T L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I R Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L L - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G V T L N P K - L K I H F L V I F I G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T A N V L S S I G S T I S L I A V L G F I I I V E 
-A L T A T R P I I F S L F L P T S I E - - Q H N F 
-P P A D H R Y I E I P L I T N 
->Faroese
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L S L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F M V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A G I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R M P L F V S V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G I L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S W - L G 
-T L H G T Q L N Y S P S L L - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G V T L N P K - L K I H F L I I F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T T N V V S S I G S T I S L I A V L G F I I I V E 
-A L T A A R P V I F S L F L P T S I E - - Q H N F 
-P P A D H S Y I E I P L I T N 
->Icelandic
-T Q R F F S T N H K D I G T L Y F I F G A - - A G 
-M V G T S L R L I I R A E L G Q P G R F I G D D Q 
-I Y N V V V T A H A F I M I F F M V M P I I I G G 
-F G N - L V P I I L G A P D I A F P R M N N M R F 
-- - - L L P P S L T L L L A G G A V E R G A G T G 
-- - T V Y P P L S V G V A H A G A S V D L S I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S S 
-G I T L D R I P L F V S V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P V G G 
-G D P I L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V A Q E S N K K K P F G A L G M I Y A 
-I L A I G I L G F V V A H H M F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K V F - R - - L G 
-T L H G A H F S L T P S L L - W A L G F I F L F T 
-V G G L T G I V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G I S L N P K - L K I Q F S A I F I G V N 
-T T F F P Q H F L G L R G M P R R Y S D Y P D A Y 
-T T N V V S S I G S S I S L V A V L G F V F I I E 
-G L A S K R P L M F N S F M P T S I E W - Y H S Y 
-P P A D H R Y M E V P I I T A 
->Irish
-T Q R L F S T N H K D I G T L Y F I F G A - W A G 
-I V G T A L S L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V M I F F I V M P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I S F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A R I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G M I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - W L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K I H F L V I F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T A N V V S S I G S T I S L I A V L G F I I I V E 
-A L T A A R P V L F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->KolschColognian
-T Q R F F S K K Y K D I G T L Y F I F G A - - A G 
-I V G T S L R L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F I V M P I I I G G 
-F G N W L V P I M L G A P D M A F P R M N N I R F 
-- - - L L P P S L T L L L A S G I V E R G V G T G 
-- - T V Y P P L A G A V A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N M R S S 
-G I T F D R M P L F V S V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F A P V G A 
-R D P I N Y H H I F V L D N P E V Y I L I L P A F 
-G M I S H I V S Q E S N K K K P F G A L G I I Y A 
-M L S I G L L G F I V A H H M F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K V F - R - - L G 
-T L H G A H F T L T P S L L - W S L G F I F L F T 
-V G G L T G I V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - W - F 
-P L F T G V T L N P K - L K I Q F T A I F I G V N 
-I T F F P Q H F L G L R G I P R R Y S D Y P D A Y 
-S T N V I S S V G S S I S L V A V L L F V F I I E 
-G L A S K R P I L F N S F I P T S I E - - I H P Y 
-P P A D H S Y M E I P L L T A 
->Manx
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F M V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N M S F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A S I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G M I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K I H F I V M F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-S A N V V S S I G S T V S L I A V L G F V I I V E 
-A L T V A R P V I F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->OldPrussian
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F M V I P I M I G G 
-F G N - L V P L I L G A P D M A F P R I N N I S F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A S I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T M D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T M L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T P G M I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K I H F L V I F I G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-S A N V V S S I G S T V S L I A V L G F V M I V E 
-A L T A A R P V I F S L F L P T S I E - W Q H N L 
-P P A D H S Y I E I P L I T N 
->SanskritVedic
-T K R F F S T N H K D I G T L Y F I F G A - - A G 
-I V G T S L S L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I S F 
-- - - L L P P S L T L L L T R G I V E R G V G T G 
-- - T V Y P P L S A A I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R P Q 
-G I T L D R I P L F V S V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V R Q E S G K A E S F G T L G I I Y A 
-I L A I G I L G F L V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K I F - R - - L G 
-T L H G A Q V N Y S P S L L - - A I G F I F L F T 
-V G G L T G V V L A N S S L D I I L H D T Y Y V V 
-A H F H Y V L S M G A V F G I F A G I T H W - - Y 
-P L F T G L S L N P T - L K I H F F V I F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T A N V L S S I G S I V S L V A V L G F I I I V E 
-S L V A S R S V I F S T F F P T S V E - - E H S Y 
-P P A D H R Y I E I P M V S N 
->Scots
-A Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L S L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F M V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- W - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A G I A H A G A S V D I G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V S V F I T T L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I R Q E S G K K E A F G T L G I I Y A 
-M L A I G I L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L L - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G V T L N P K - L K I H F L T I F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T A N V L S S I G S T I S L I A V I G F V I I V E 
-A L T A A R P V I F S L F L P T S I E - - Q H S F 
-P P A D H S Y I E I P L I T N 
->Yiddish
-T Q R F F S T N H K D I G T L Y F I F G A - - A G 
-M V G T S L R L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N M R F 
-W - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L A A A V A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V S V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V R Q E S G K K E S F G A L G I I Y A 
-I L A I G V L G F V V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K V F S W - - L G 
-T L H G T Q I Y F T P S L L - - A L G F I F L F T 
-I G G L T G I V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G L S L N P K - I K I H F I T I F I G V N 
-I T F F P Q H F L G L R G I P R R Y S D Y P D A Y 
-I T N V V S S V G S T I S L I A V L R F I I I I E 
-A L R S N R S I I F S F F L P T S I E - - H H N Y 
-P P A D H R Y N E I P I I T S 
-
-
-Sequence character woman_cox1aln.fasta#0
->AlbanianTosk
-TTATATTAGGAGCACCAGATATAGCTTTCCCTCGAATAAATAATATAAGA
-TTTTGACTTCTTCCACCATCTTTAACTTTACTCCTCTCTAGAGGAATAGT
-AGAAAGTGGAGTGGGAACAGGCTGAACTGTCTATCCTCCTTTATCTGCTG
-GAATTGCACATGCTGGTGCCTCAGTAGATTTAGGAATCTTTTCTTTACAC
-CTAGCAGGAGTTTCATCCATCTTAGGGGCCGTAAACTTTATAACTACCGT
-TATCAATATACGAAGAACAGGTATAACAATAGACCGAATTCCTCTTTTTG
-TATGATCTGTATTTATTACAGCCCTTCTTCTCCTTCTTTCCCTCCCAGTC
->AncientIonicGreek
-TAATATTAGGTGCCCCTGATATAGCTTTTCCACGAATAAATAATATAAGA
-TTTTGACTCCTTCCACCTTCTCTAACTCTTCTTTTAATAAGAGGAATAGT
-TGAAAGAGGTGTAGGAACTGGATGAACTGTTTACCCTCCTTTATCGGCTA
-GAATCGCTCACGCAGGAGCATCTGTAGATATAGGAATTTTCTCCTTACAT
-CTGGCCGGTGTCTCATCAATTCTTGGTGCAGTAAACTTTATAACCACAGT
-TATTAATATACGCCCTGTTGGTATATCAATAGATCGTATACCTTTATTTG
-TTTGAGCCGTATTTATTACAGCTATTCTTTTATTACTATCCTTACCCGTT
->ArmenianWestern
-TAATATTAGGAGCTCCAGATATAGCTTTCCCTCGAATAAATAATATAAGA
-TTCTGACTCCTCCCTCCCTCTTTAACTCTTTTACTTTCAAGAGGAATAGT
-AGAAAGAGGAGTAGGAACGGGATGAACCGTTTATCCTCCTCTTGCAGCCG
-GAATTGCTCATGCCGGAGCTTCAGTTGATATAGGAATCTTCTCTCTACAT
-TTAGCAGGAGTATCCTCTATTTTAGGGGCCGTAAATTTTATAACAACAGT
-GATTAACATACGGGCATCTGGAATAACATTAGACCGAATACCTTTATTCG
-TGTGATCTGTATTTATTACTGCACTATTATTACTTTTATCACTACCAGTT
->Assamese
-TAATACTAGGAGCACCGGATATAGCTTTTCCACGAATAAATAATATAAGA
-TTTTGACTTTTACCCCCATCTTTAACTCTTTTATTAACTAGTGGTATAGT
-AGAAAGAGGTGTAGGTACAGGATGAACTGTGTATCCCCCACTTTCCGCAG
-CTATTGCTCACGCCGGAGCATCGGTAGATTTAGGTATTTTTTCTCTACAT
-TTAGCCGGAGTCTCTTCTATTTTAGGGGCTGTAAATTTTATAACGACAGT
-CATTAATATACGACCCCAGGGAATAACCTTAGATCGCATACCTTTATTTG
-TTTGATCTGTATTTATTACTGCGATTCTACTTTTATTATCACTACCTGTT
->Cornish
-TAATGTTAGGTGCTCCTGATATGGCTTTTCCACGAATAAACAATATGAGT
-TTCTGGCTCCTACCTCCTTCACTAACACTACTTCTTTCTAGAGGTATAGT
-TGAAAGAGGAGTAGGAACAGGATGAACTGTTTACCCTCCTTTATCAGCCA
-GTATTGCTCATGCTGGGGCTTCGGTAGATTTAGGAATTTTCTCCCTACAC
-TTGGCAGGTGTTTCTTCAATTTTAGGAGCTGTAAATTTTATGACAACTGT
-TATTAACATACGATCTACGGGAATAACTATAGACCGAATACCGCTTTTCG
-TTTGAGCAGTATTTATTACAGCATTACTTCTCTTATTATCTCTACCGGTA
->Danish
-TAATGTTAGGTGCTCCAGATATAGCTTTCCCTCGAATGAATAATATAAGC
-TTCTGACTTTTACCTCCTTCTCTTACCCTTCTTTTATCTAGAGGGATAGT
-TGAAAGAGGTGTTGGAACTGGTTGGACAGTTTATCCTCCACTCTCTGCTA
-GTATTGCCCACGCTGGAGCTTCAGTAGACCTTGGAATCTTTTCCCTACAT
-CTAGCTGGTGTATCTTCTATTCTAGGAGCAGTAAATTTTATAACTACTGT
-AATCAATATACGATCTACAGGAATAACTATAGACCGAATACCTCTTTTTG
-TTTGAGCAGTATTCATTACTGCTTTACTATTACTTCTATCATTACCAGTC
->EasternFrisianSaterland
-TAATATTAGGAGCTCCTGATATAGCTTTTCCTCGAATAAATAATATAAGA
-TTCTGACTCTTACCTCCATCCCTAACCCTCCTCCTCTCTAGAGGAATAGT
-AGAAAGAGGAGTTGGAACAGGATGGACTGTTTATCCTCCACTGTCAGCCG
-GAATCGCCCACGCAGGAGCCTCTGTAGATTTAGGAATCTTCTCCCTTCAC
-CTAGCAGGAGTTTCTTCAATTCTAGGTGCAGTAAATTTTATAACAACAGT
-AATTAACATACGATCAACAGGAATAACTATAGACCGAATGCCCTTATTTG
-TCTGATCAATCTTTATTACTACCCTTCTCCTCCTTCTATCTCTCCCAGTA
->Faroese
-TTATATTAGGTGCCCCAGATATAGCTTTCCCCCGAATAAATAATATAAGA
-TTTTGACTCTTACCTCCTTCTCTAACTCTATTACTTTCTAGAGGAATAGT
-AGAAAGAGGAGTAGGAACAGGATGAACTGTTTATCCTCCTTTATCCGCCG
-GAATTGCTCACGCCGGGGCCTCTGTAGACCTAGGTATTTTCTCACTACAC
-TTAGCAGGAGTATCTTCAATTCTAGGAGCAGTAAATTTTATAACAACTGT
-AATTAATATACGGTCAACTGGAATAACTATAGACCGTATGCCTTTATTTG
-TTTGATCAGTATTCATTACCGCTCTCCTTCTCCTCTTATCTCTACCAGTT
->Icelandic
-TTATACTAGGAGCTCCCGATATAGCTTTCCCCCGAATGAATAACATGAGA
-TTTTGACTTCTTCCCCCATCGCTAACGCTTCTTCTGGCTGGAGGAGCCGT
-AGAAAGAGGAGCTGGAACCGGTTGAACAGTTTATCCGCCTCTTTCGGTGG
-GAGTGGCACACGCTGGTGCGTCAGTGGACTTAAGTATCTTTTCACTACAC
-CTAGCAGGTGTTTCATCCATTCTTGGAGCCGTCAACTTTATTACTACCGT
-CATCAATATACGGTCATCTGGGATAACACTAGATCGAATACCTCTCTTTG
-TTTGATCTGTTTTCATTACAGCTATCCTATTACTTCTTTCGCTCCCAGTG
->Irish
-TAATATTAGGAGCACCTGATATAGCATTCCCACGAATAAATAATATAAGC
-TTTTGACTGCTACCTCCTTCTCTCACCCTTCTTCTATCTAGAGGAATAGT
-TGAAAGAGGAGTTGGAACAGGATGAACTGTATATCCTCCCCTATCAGCTA
-GAATCGCACATGCAGGGGCCTCTGTAGATTTGGGAATTTTTTCATTGCAT
-TTAGCAGGAGTTTCATCAATTCTAGGGGCCGTAAATTTCATAACAACTGT
-AATTAATATACGATCTACAGGTATAACTATAGACCGAATACCGTTATTCG
-TCTGAGCAGTTTTTATTACAGCGCTCTTACTCCTTTTATCTTTACCCGTT
->KolschColognian
-TTATGTTAGGTGCCCCAGATATGGCATTTCCCCGAATGAATAACATAAGA
-TTCTGACTTTTACCTCCCTCTCTAACGCTTCTTCTAGCTAGTGGTATAGT
-GGAGAGGGGAGTAGGAACTGGCTGAACAGTTTATCCCCCTCTAGCAGGGG
-CAGTGGCCCATGCCGGAGCATCAGTAGATTTGGGTATTTTCTCCCTCCAT
-CTTGCCGGTGTGTCATCAATTCTAGGAGCCGTAAATTTTATTACAACAGT
-AATTAATATGCGGTCTTCAGGTATAACATTCGACCGAATGCCTCTATTTG
-TATGATCTGTGTTTATTACTGCCATTTTACTTCTACTTTCTCTTCCCGTA
->Manx
-TAATATTAGGTGCTCCCGATATAGCTTTCCCTCGAATAAATAATATGAGT
-TTCTGACTTTTACCTCCCTCGCTAACTCTACTTCTTTCTAGAGGTATAGT
-CGAAAGAGGGGTAGGAACAGGATGAACTGTTTACCCTCCTCTATCTGCCA
-GCATTGCCCATGCAGGAGCATCTGTAGATCTAGGAATCTTCTCATTACAT
-TTAGCAGGGGTTTCTTCAATTCTAGGTGCTGTAAATTTTATAACTACCGT
-TATCAATATACGATCAACAGGAATAACTATAGACCGAATACCTCTTTTCG
-TCTGAGCGGTATTTATTACAGCCTTACTACTTTTACTATCATTACCGGTT
->OldPrussian
-TAATACTAGGTGCCCCGGATATGGCTTTCCCTCGAATAAATAACATAAGT
-TTCTGACTTTTACCCCCATCTCTCACTCTCCTCTTATCTAGAGGAATAGT
-AGAAAGAGGTGTAGGAACTGGATGAACTGTATATCCTCCTTTATCTGCAA
-GTATTGCCCATGCGGGAGCTTCCGTTGATCTCGGAATCTTCTCACTACAC
-TTAGCAGGTGTATCATCAATTTTAGGTGCCGTAAATTTTATAACAACTGT
-TATCAATATACGATCTACCGGAATAACTATGGACCGGATACCTCTTTTTG
-TTTGAGCAGTATTTATTACTGCTTTACTTTTACTACTGTCCTTACCAGTT
->SanskritVedic
-TAATATTAGGAGCACCAGATATAGCATTTCCACGAATAAATAATATAAGT
-TTTTGACTTCTACCCCCCTCTTTAACTCTTTTATTAACTAGAGGTATAGT
-AGAAAGAGGAGTAGGAACAGGATGAACTGTTTACCCACCACTATCCGCAG
-CAATTGCACATGCAGGAGCATCAGTGGATTTAGGTATTTTTTCTTTGCAT
-TTGGCTGGAGTATCTTCTATTTTAGGGGCTGTAAATTTTATAACTACAGT
-TATTAATATACGTCCACAAGGAATAACCTTAGACCGTATACCTTTATTTG
-TGTGATCCGTATTTATTACTGCAATTCTACTTTTATTATCACTACCAGTT
->Scots
-TTATACTTGGTGCCCCTGATATAGCTTTCCCCCGTATAAATAATATAAGA
-TTTTGGCTTCTTCCCCCATCTTTAACTCTTCTTCTTTCCAGAGGAATAGT
-AGAAAGAGGGGTAGGAACAGGATGAACTGTTTACCCTCCTTTGTCTGCTG
-GAATCGCCCACGCCGGAGCTTCTGTTGATATAGGAATTTTCTCTCTCCAT
-CTTGCCGGAGTTTCTTCAATTTTAGGGGCAGTAAATTTTATAACAACTGT
-TATTAATATACGTTCAACAGGAATAACTATAGACCGAATCCCCCTTTTTG
-TGTGATCAGTGTTTATTACTACCCTTCTTCTACTTTTATCCCTTCCAGTC
->Yiddish
-TAATACTTGGAGCCCCAGATATAGCTTTCCCTCGAATAAATAACATGAGA
-TTTTGGTTGCTACCTCCTTCTCTAACCCTTCTTCTATCAAGAGGAATAGT
-TGAAAGAGGTGTAGGAACTGGCTGAACAGTTTATCCTCCCTTAGCAGCCG
-CCGTCGCTCATGCCGGAGCATCCGTAGATTTAGGTATTTTTTCACTTCAT
-CTTGCAGGAGTTTCTTCAATCCTAGGAGCAGTAAATTTCATAACAACTGT
-AATTAATATACGGTCAACTGGGATAACTATAGACCGCATACCCTTATTTG
-TCTGATCTGTTTTTATCACCGCAATTTTACTTCTTCTATCTCTACCTGTC
-
-
-Sequence character woman_cox1_spaced.fastc#0
->AlbanianTosk
-T T A T A T T A G G A G C A C C A G A T A T A G C 
-T T T C C C T C G A A T A A A T A A T A T A A G A 
-T T T T G A C T T CT T C C A C C A T C T T T A A C
- T T T A C T C C T C T C T A G A G G A A T A G T A
- G A A A G T G G A G T G G G A A C A GG C T G A A 
-C T G T C T A T C C T C C T T T A T C T G C T G G 
-A A T T G C A C A T G C T G G T G C C T C A G T A 
-G A T TT A G G A A T C T T T T C T T T A C A C C T
- A G C A G G A G T T T C A T C C A T C T T A G G G
- G C C G T A A A C T T T AT A A C T A C C G T T A 
-T C A A T A T A C G A A G A A C A G G T A T A A C 
-A A T A G A C C G A A T T C C T C T T T T T GT A T
- G A T C T G T A T T T A T T A C A G C C C T T C T
- T C T C C T T C T T T C C C T C C C A G T C 
->AncientIonicGreek
-T A A T A T T A G G T G C C C C T G A T A T A G C 
-T T T T C C A C G A A T A A A T A A T A T A A G A 
-T T T T G A C T C CT T C C A C C T T C T C T A A C
- T C T T C T T T T A A T A A G A G G A A T A G T T
- G A A A G A G G T G T A G G A A C T GG A T G A A 
-C T G T T T A C C C T C C T T T A T C G G C T A G 
-A A T C G C T C A C G C A G G A G C A T C T G T A 
-G A T AT A G G A A T T T T C T C C T T A C A T C T
- G G C C G G T G T C T C A T C A A T T C T T G G T
- G C A G T A A A C T T T AT A A C C A C A G T T A 
-T T A A T A T A C G C C C T G T T G G T A T A T C 
-A A T A G A T C G T A T A C C T T T A T T T GT T T
- G A G C C G T A T T T A T T A C A G C T A T T C T
- T T T A T T A C T A T C C T T A C C C G T T 
->ArmenianWestern
-T A A T A T T A G G A G C T C C A G A T A T A G C 
-T T T C C C T C G A A T A A A T A A T A T A A G A 
-T T C T G A C T C CT C C C T C C C T C T T T A A C
- T C T T T T A C T T T C A A G A G G A A T A G T A
- G A A A G A G G A G T A G G A A C G GG A T G A A 
-C C G T T T A T C C T C C T C T T G C A G C C G G 
-A A T T G C T C A T G C C G G A G C T T C A G T T 
-G A T AT A G G A A T C T T C T C T C T A C A T T T
- A G C A G G A G T A T C C T C T A T T T T A G G G
- G C C G T A A A T T T T AT A A C A A C A G T G A 
-T T A A C A T A C G G G C A T C T G G A A T A A C 
-A T T A G A C C G A A T A C C T T T A T T C GT G T
- G A T C T G T A T T T A T T A C T G C A C T A T T
- A T T A C T T T T A T C A C T A C C A G T T 
->Assamese
-T A A T A C T A G G A G C A C C G G A T A T A G C 
-T T T T C C A C G A A T A A A T A A T A T A A G A 
-T T T T G A C T T TT A C C C C C A T C T T T A A C
- T C T T T T A T T A A C T A G T G G T A T A G T A
- G A A A G A G G T G T A G G T A C A GG A T G A A 
-C T G T G T A T C C C C C A C T T T C C G C A G C 
-T A T T G C T C A C G C C G G A G C A T C G G T A 
-G A T TT A G G T A T T T T T T C T C T A C A T T T
- A G C C G G A G T C T C T T C T A T T T T A G G G
- G C T G T A A A T T T T AT A A C G A C A G T C A 
-T T A A T A T A C G A C C C C A G G G A A T A A C 
-C T T A G A T C G C A T A C C T T T A T T T GT T T
- G A T C T G T A T T T A T T A C T G C G A T T C T
- A C T T T T A T T A T C A C T A C C T G T T 
->Cornish
-T A A T G T T A G G T G C T C C T G A T A T G G C 
-T T T T C C A C G A A T A A A C A A T A T G A G T 
-T T C T G G C T C CT A C C T C C T T C A C T A A C
- A C T A C T T C T T T C T A G A G G T A T A G T T
- G A A A G A G G A G T A G G A A C A GG A T G A A 
-C T G T T T A C C C T C C T T T A T C A G C C A G 
-T A T T G C T C A T G C T G G G G C T T C G G T A 
-G A T TT A G G A A T T T T C T C C C T A C A C T T
- G G C A G G T G T T T C T T C A A T T T T A G G A
- G C T G T A A A T T T T AT G A C A A C T G T T A 
-T T A A C A T A C G A T C T A C G G G A A T A A C 
-T A T A G A C C G A A T A C C G C T T T T C GT T T
- G A G C A G T A T T T A T T A C A G C A T T A C T
- T C T C T T A T T A T C T C T A C C G G T A 
->Danish
-T A A T G T T A G G T G C T C C A G A T A T A G C 
-T T T C C C T C G A A T G A A T A A T A T A A G C 
-T T C T G A C T T TT A C C T C C T T C T C T T A C
- C C T T C T T T T A T C T A G A G G G A T A G T T
- G A A A G A G G T G T T G G A A C T GG T T G G A 
-C A G T T T A T C C T C C A C T C T C T G C T A G 
-T A T T G C C C A C G C T G G A G C T T C A G T A 
-G A C CT T G G A A T C T T T T C C C T A C A T C T
- A G C T G G T G T A T C T T C T A T T C T A G G A
- G C A G T A A A T T T T AT A A C T A C T G T A A 
-T C A A T A T A C G A T C T A C A G G A A T A A C 
-T A T A G A C C G A A T A C C T C T T T T T GT T T
- G A G C A G T A T T C A T T A C T G C T T T A C T
- A T T A C T T C T A T C A T T A C C A G T C 
->EasternFrisianSaterland
-T A A T A T T A G G A G C T C C T G A T A T A G C 
-T T T T C C T C G A A T A A A T A A T A T A A G A 
-T T C T G A C T C TT A C C T C C A T C C C T A A C
- C C T C C T C C T C T C T A G A G G A A T A G T A
- G A A A G A G G A G T T G G A A C A GG A T G G A 
-C T G T T T A T C C T C C A C T G T C A G C C G G 
-A A T C G C C C A C G C A G G A G C C T C T G T A 
-G A T TT A G G A A T C T T C T C C C T T C A C C T
- A G C A G G A G T T T C T T C A A T T C T A G G T
- G C A G T A A A T T T T AT A A C A A C A G T A A 
-T T A A C A T A C G A T C A A C A G G A A T A A C 
-T A T A G A C C G A A T G C C C T T A T T T GT C T
- G A T C A A T C T T T A T T A C T A C C C T T C T
- C C T C C T T C T A T C T C T C C C A G T A 
->Faroese
-T T A T A T T A G G T G C C C C A G A T A T A G C 
-T T T C C C C C G A A T A A A T A A T A T A A G A 
-T T T T G A C T C TT A C C T C C T T C T C T A A C
- T C T A T T A C T T T C T A G A G G A A T A G T A
- G A A A G A G G A G T A G G A A C A GG A T G A A 
-C T G T T T A T C C T C C T T T A T C C G C C G G 
-A A T T G C T C A C G C C G G G G C C T C T G T A 
-G A C CT A G G T A T T T T C T C A C T A C A C T T
- A G C A G G A G T A T C T T C A A T T C T A G G A
- G C A G T A A A T T T T AT A A C A A C T G T A A 
-T T A A T A T A C G G T C A A C T G G A A T A A C 
-T A T A G A C C G T A T G C C T T T A T T T GT T T
- G A T C A G T A T T C A T T A C C G C T C T C C T
- T C T C C T C T T A T C T C T A C C A G T T 
->Icelandic
-T T A T A C T A G G A G C T C C C G A T A T A G C 
-T T T C C C C C G A A T G A A T A A C A T G A G A 
-T T T T G A C T T CT T C C C C C A T C G C T A A C
- G C T T C T T C T G G C T G G A G G A G C C G T A
- G A A A G A G G A G C T G G A A C C GG T T G A A 
-C A G T T T A T C C G C C T C T T T C G G T G G G 
-A G T G G C A C A C G C T G G T G C G T C A G T G 
-G A C TT A A G T A T C T T T T C A C T A C A C C T
- A G C A G G T G T T T C A T C C A T T C T T G G A
- G C C G T C A A C T T T AT T A C T A C C G T C A 
-T C A A T A T A C G G T C A T C T G G G A T A A C 
-A C T A G A T C G A A T A C C T C T C T T T GT T T
- G A T C T G T T T T C A T T A C A G C T A T C C T
- A T T A C T T C T T T C G C T C C C A G T G 
->Irish
-T A A T A T T A G G A G C A C C T G A T A T A G C 
-A T T C C C A C G A A T A A A T A A T A T A A G C 
-T T T T G A C T G CT A C C T C C T T C T C T C A C
- C C T T C T T C T A T C T A G A G G A A T A G T T
- G A A A G A G G A G T T G G A A C A GG A T G A A 
-C T G T A T A T C C T C C C C T A T C A G C T A G 
-A A T C G C A C A T G C A G G G G C C T C T G T A 
-G A T TT G G G A A T T T T T T C A T T G C A T T T
- A G C A G G A G T T T C A T C A A T T C T A G G G
- G C C G T A A A T T T C AT A A C A A C T G T A A 
-T T A A T A T A C G A T C T A C A G G T A T A A C 
-T A T A G A C C G A A T A C C G T T A T T C GT C T
- G A G C A G T T T T T A T T A C A G C G C T C T T
- A C T C C T T T T A T C T T T A C C C G T T 
->KolschColognian
-T T A T G T T A G G T G C C C C A G A T A T G G C 
-A T T T C C C C G A A T G A A T A A C A T A A G A 
-T T C T G A C T T TT A C C T C C C T C T C T A A C
- G C T T C T T C T A G C T A G T G G T A T A G T G
- G A G A G G G G A G T A G G A A C T GG C T G A A 
-C A G T T T A T C C C C C T C T A G C A G G G G C 
-A G T G G C C C A T G C C G G A G C A T C A G T A 
-G A T TT G G G T A T T T T C T C C C T C C A T C T
- T G C C G G T G T G T C A T C A A T T C T A G G A
- G C C G T A A A T T T T AT T A C A A C A G T A A 
-T T A A T A T G C G G T C T T C A G G T A T A A C 
-A T T C G A C C G A A T G C C T C T A T T T GT A T
- G A T C T G T G T T T A T T A C T G C C A T T T T
- A C T T C T A C T T T C T C T T C C C G T A 
->Manx
-T A A T A T T A G G T G C T C C C G A T A T A G C 
-T T T C C C T C G A A T A A A T A A T A T G A G T 
-T T C T G A C T T TT A C C T C C C T C G C T A A C
- T C T A C T T C T T T C T A G A G G T A T A G T C
- G A A A G A G G G G T A G G A A C A GG A T G A A 
-C T G T T T A C C C T C C T C T A T C T G C C A G 
-C A T T G C C C A T G C A G G A G C A T C T G T A 
-G A T CT A G G A A T C T T C T C A T T A C A T T T
- A G C A G G G G T T T C T T C A A T T C T A G G T
- G C T G T A A A T T T T AT A A C T A C C G T T A 
-T C A A T A T A C G A T C A A C A G G A A T A A C 
-T A T A G A C C G A A T A C C T C T T T T C GT C T
- G A G C G G T A T T T A T T A C A G C C T T A C T
- A C T T T T A C T A T C A T T A C C G G T T 
->OldPrussian
-T A A T A C T A G G T G C C C C G G A T A T G G C 
-T T T C C C T C G A A T A A A T A A C A T A A G T 
-T T C T G A C T T TT A C C C C C A T C T C T C A C
- T C T C C T C T T A T C T A G A G G A A T A G T A
- G A A A G A G G T G T A G G A A C T GG A T G A A 
-C T G T A T A T C C T C C T T T A T C T G C A A G 
-T A T T G C C C A T G C G G G A G C T T C C G T T 
-G A T CT C G G A A T C T T C T C A C T A C A C T T
- A G C A G G T G T A T C A T C A A T T T T A G G T
- G C C G T A A A T T T T AT A A C A A C T G T T A 
-T C A A T A T A C G A T C T A C C G G A A T A A C 
-T A T G G A C C G G A T A C C T C T T T T T GT T T
- G A G C A G T A T T T A T T A C T G C T T T A C T
- T T T A C T A C T G T C C T T A C C A G T T 
->SanskritVedic
-T A A T A T T A G G A G C A C C A G A T A T A G C 
-A T T T C C A C G A A T A A A T A A T A T A A G T 
-T T T T G A C T T CT A C C C C C C T C T T T A A C
- T C T T T T A T T A A C T A G A G G T A T A G T A
- G A A A G A G G A G T A G G A A C A GG A T G A A 
-C T G T T T A C C C A C C A C T A T C C G C A G C 
-A A T T G C A C A T G C A G G A G C A T C A G T G 
-G A T TT A G G T A T T T T T T C T T T G C A T T T
- G G C T G G A G T A T C T T C T A T T T T A G G G
- G C T G T A A A T T T T AT A A C T A C A G T T A 
-T T A A T A T A C G T C C A C A A G G A A T A A C 
-C T T A G A C C G T A T A C C T T T A T T T GT G T
- G A T C C G T A T T T A T T A C T G C A A T T C T
- A C T T T T A T T A T C A C T A C C A G T T 
->Scots
-T T A T A C T T G G T G C C C C T G A T A T A G C 
-T T T C C C C C G T A T A A A T A A T A T A A G A 
-T T T T G G C T T CT T C C C C C A T C T T T A A C
- T C T T C T T C T T T C C A G A G G A A T A G T A
- G A A A G A G G G G T A G G A A C A GG A T G A A 
-C T G T T T A C C C T C C T T T G T C T G C T G G 
-A A T C G C C C A C G C C G G A G C T T C T G T T 
-G A T AT A G G A A T T T T C T C T C T C C A T C T
- T G C C G G A G T T T C T T C A A T T T T A G G G
- G C A G T A A A T T T T AT A A C A A C T G T T A 
-T T A A T A T A C G T T C A A C A G G A A T A A C 
-T A T A G A C C G A A T C C C C C T T T T T GT G T
- G A T C A G T G T T T A T T A C T A C C C T T C T
- T C T A C T T T T A T C C C T T C C A G T C 
->Yiddish
-T A A T A C T T G G A G C C C C A G A T A T A G C 
-T T T C C C T C G A A T A A A T A A C A T G A G A 
-T T T T G G T T G CT A C C T C C T T C T C T A A C
- C C T T C T T C T A T C A A G A G G A A T A G T T
- G A A A G A G G T G T A G G A A C T GG C T G A A 
-C A G T T T A T C C T C C C T T A G C A G C C G C 
-C G T C G C T C A T G C C G G A G C A T C C G T A 
-G A T TT A G G T A T T T T T T C A C T T C A T C T
- T G C A G G A G T T T C T T C A A T C C T A G G A
- G C A G T A A A T T T C AT A A C A A C T G T A A 
-T T A A T A T A C G G T C A A C T G G G A T A A C 
-T A T A G A C C G C A T A C C C T T A T T T GT C T
- G A T C T G T T T T T A T C A C C G C A A T T T T
- A C T T C T T C T A T C T C T A C C T G T C 
-
 Implied Alignments for Graph 5
 
 Sequence character woman.fastc#0
 >AlbanianTosk
-- - - - - - - - - ɡ - - \textfishhookr u - - a - 
+- - - - - - - - - - ɡ - - \textfishhookr u - - a -
+ 
 >AncientIonicGreek
-- - - - - - - - - ɡ - - \”u n e - \textlengthmark 
-- 
+- - - - - - - - - - ɡ - - \”u n e - \textlengthmar
+k - 
 >ArmenianWestern
-- - - - - - - - - ɡ - - i n - - - - 
+- - - - - - - - - - ɡ - - i n - - - - 
 >Assamese
-m a \textsci k i - - - - m - - a n u - \textsupers
-cript{\texthth} - 
+- - m a \textsci k i - - - m - - a n u - \textsupe
+rscript{\texthth} - 
 >Cornish
-- - - - - - - - - b - - \textepsilon n - j n - 
+- - - - - - - - - - b - - \textepsilon n - j n - 
 >Danish
-- - - - - - \textprimstress k \textsuperscript{h} 
-v - - e n - - \textschwa - 
+- - - - - - - - - \textprimstress k - - \textsuper
+script{h} v - e n \textschwa 
 >EasternFrisianSaterland
-- - - - - - - - - v - - i\texthalflength \textupsi
-lon - - v - 
+- - - - - - - - - - v - - i\texthalflength \textup
+silon - - v - 
 >Faroese
-- - - - - k - - - o - - \textlengthmark n - - a - 
+- - - - - - - - k - o - - \textlengthmark n - - a 
+- 
 >Icelandic
-- - - \textprimstress k - - - - \textsuperscript{h
-} - - \textopeno n - - a - 
+\textprimstress k - - - - - - - - \textsuperscript
+{h} - - \textopeno n - - a - 
 >Irish
-- - - - - - - - - b \textsuperscript{j} \ae \textl
-engthmark n - \textsubbridge \textsuperscript{\tex
-tgamma} - 
+- - - - - - - - - - b \textsuperscript{j} \ae \tex
+tlengthmark n - \textsubbridge \textsuperscript{\t
+extgamma} - 
 >KolschColognian
-- - - - - - - - - v - - e\textlengthmark z - - h -
- 
->Manx
-- - - - - - - - - b - - \textepsilon - - \textsupe
-rscript{d} n - 
->OldPrussian
-- - - - - - - - - v - - i\textlengthmark r - i n a
- 
->SanskritVedic
-- - - s \textsubbridge - - - - t - - \textsubbridg
-e \textrtailr i - \textlengthmark - 
->Scots
-- - - - - - - w \textturnv m - - m \textscripta - 
-- n - 
->Yiddish
-- - - - - - - - - - - - f \textscr - - \textopenoj
+- - - - - - - - - - v - - e\textlengthmark z - - h
  - 
+>Manx
+- - - - - - - - - - b - - \textepsilon - - \textsu
+perscript{d} n - 
+>OldPrussian
+- - - - - - - - - - v - - i\textlengthmark r - i n
+ a 
+>SanskritVedic
+- - - - - s \textsubbridge - - - t - - \textsubbri
+dge \textrtailr i - \textlengthmark - 
+>Scots
+- - - - - - - w \textturnv - m - - m \textscripta 
+- - n - 
+>Yiddish
+- - - - - - - - - - - - - f \textscr - - \textopen
+oj - 
 
 
 Sequence character woman_binary.fasta#0
@@ -7382,507 +7389,507 @@ Implied Alignments for Graph 6
 
 Sequence character woman.fastc#0
 >AlbanianTosk
-- - - - - - - - - - - ɡ - - \textfishhookr u - - a
- - 
+- - - - - - - - - - - - - ɡ \textfishhookr - u - -
+ a - 
 >AncientIonicGreek
-- - - - - - - - - - - ɡ - - \”u n e - \textlengthm
-ark - 
+- - - - - - - - - - - - - ɡ \”u - n e - \textlengt
+hmark - 
 >ArmenianWestern
-- - - - - - - - - - - ɡ - - i n - - - - 
+- - - - - - - - - - - - - ɡ i - n - - - - 
 >Assamese
-- - m a \textsci k i - - - - m - - a n u - \textsu
-perscript{\texthth} - 
+- m a \textsci k - - - - - - - - i m a n u - \text
+superscript{\texthth} - 
 >Cornish
-- - - - - - - - - - - b - - \textepsilon n - j n -
- 
+- - - - - - - - - - - - - b \textepsilon - n j - n
+ - 
 >Danish
 - - - - - - - \textprimstress k \textsuperscript{h
-} - v - - e n - - \textschwa - 
+} - - - v e - n - - \textschwa - 
 >EasternFrisianSaterland
-- - - - - - - - - - - v - - i\texthalflength \text
-upsilon - - v - 
+- - - - - - - - - - - - - v i\texthalflength - \te
+xtupsilon - - v - 
 >Faroese
-- - - - - - - - k - - o - - \textlengthmark n - - 
-a - 
+- - - - - - - - - - k - - o \textlengthmark - n - 
+- a - 
 >Icelandic
-\textprimstress k - - - - - - - - - \textsuperscri
-pt{h} - - \textopeno n - - a - 
+- - - - - \textprimstress k - - - - - - \textsuper
+script{h} \textopeno - n - - a - 
 >Irish
 - - - - - - - - - - - b \textsuperscript{j} \ae \t
-extlengthmark n - \textsubbridge \textsuperscript{
-\textgamma} - 
+extlengthmark - n - \textsubbridge \textsuperscrip
+t{\textgamma} - 
 >KolschColognian
-- - - - - - - - - - - v - - e\textlengthmark z - -
- h - 
+- - - - - - - - - - - - - v e\textlengthmark - z -
+ - h - 
 >Manx
-- - - - - - - - - - - b - - \textepsilon - - \text
-superscript{d} n - 
+- - - - - - - - - - - - - b \textepsilon - - \text
+superscript{d} - n - 
 >OldPrussian
-- - - - - - - - - - - v - - i\textlengthmark r - i
- n a 
+- - - - - - - - - - - - - v i\textlengthmark - r i
+ - n a 
 >SanskritVedic
-- - - - - s \textsubbridge - - - - t - - \textsubb
-ridge \textrtailr i - \textlengthmark - 
+- - - s \textsubbridge - - - - - - - - t \textsubb
+ridge - \textrtailr i - \textlengthmark - 
 >Scots
-- - - - - - - - - - w \textturnv - - m m - \textsc
-ripta n - 
+w - - - - - - - - - - - - \textturnv m - m \textsc
+ripta - n - 
 >Yiddish
-- - - - - - - - - - - - - - f \textscr - - \textop
-enoj - 
+- - - - - - - - - - - - - - f - \textscr - - \text
+openoj - 
 
 
 Sequence character woman_binary.fasta#0
 >AlbanianTosk
 0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 1 - 1 - 1 0 
 1 1 - 1 1 1 0 1 0 - - 1 1 0 1 1 1 1 0 0 1 1 1 1 1 
-0 1 1 0 0 1 0 0 0 0 0 0 0 - - 1 1 1 0 - 1 0 1 1 - 
-1 - 0 0 0 1 0 - 1 1 1 0 1 0 1 - 1 - 1 1 1 1 1 1 1 
-- 1 0 1 1 1 - 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 1 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 1 1 0 1 - 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 1 0 1 0 0 1 - 0 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - - 1 1 0 1 0 1 0 0 1 - 1 1 1 1 1 1 1 1 0 1 
-0 1 1 0 - 1 0 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 0 0 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 0 - 1 1 1 0 - 
+0 - 0 1 0 1 1 - 1 0 1 0 - 1 - 1 1 1 1 1 1 1 1 - 1 
+0 1 1 - 1 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 1 1 0 1 - 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 1 0 1 0 0 1 0 - 0 1 1 0 1 0 1 1 
+0 0 0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - - - 1 1 0 1 0 1 0 0 - 1 1 1 1 1 1 1 1 1 0 1 0 
+1 1 0 - 1 0 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 0 0 
 >AncientIonicGreek
 0 1 1 1 0 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 - 1 - 1 1 
 1 1 0 0 1 1 1 1 0 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
 1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 1 0 - 
-1 - 1 0 1 0 0 - - - 1 - 1 0 1 - 1 - 1 1 1 1 - 1 1 
-- 1 - 1 0 1 - 1 - 1 1 - 1 1 1 0 1 0 1 1 0 0 0 0 1 
-1 1 0 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 
-1 1 0 1 1 - 1 0 1 - 1 1 1 0 1 1 0 1 1 0 1 1 1 1 1 
-1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 1 0 1 1 1 1 1 - 1 1 
-1 1 1 1 1 1 0 0 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 
-0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 1 0 1 1 1 1 0 0 1 1 1 - - 0 1 1 1 1 1 
-1 1 0 0 0 1 1 1 0 - 1 1 1 1 0 0 0 0 0 1 0 1 1 1 1 
-1 1 0 - 1 1 1 1 1 - 0 1 1 1 - 1 1 1 1 1 1 1 1 0 1 
-1 1 1 1 0 - 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 
-1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 1 1 1 - 1 1 
-0 - - 1 1 0 1 1 1 1 1 0 - 1 1 1 1 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 0 1 1 0 1 1 
-0 0 1 0 0 
+1 - 1 0 1 0 0 - 1 1 0 1 - 1 - 1 1 1 1 - 1 1 1 - 1 
+0 1 - - - 1 - 1 1 - 1 1 1 0 1 0 1 1 0 0 0 0 1 1 1 
+0 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 
+0 1 1 - 1 0 1 - 1 1 1 0 1 1 0 1 1 0 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 0 0 0 0 0 1 0 1 1 1 1 1 - 1 1 1 1 
+1 1 1 1 0 0 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 1 0 1 1 1 1 0 0 - 1 1 1 - 0 1 1 1 1 1 1 1 
+0 0 0 1 1 1 0 1 - 1 1 1 0 0 0 0 0 1 0 1 1 1 1 1 1 
+0 - - 1 1 1 1 1 0 1 1 1 - - 1 1 1 1 1 1 1 1 0 1 1 
+1 1 1 0 - 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 1 
+0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 1 1 1 - 1 1 0 
+- - 1 1 0 1 1 1 1 1 0 - 1 1 1 1 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 0 1 1 0 1 1 0 
+0 1 0 0 
 >ArmenianWestern
 0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 0 0 1 - 1 - 1 0 
 0 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 0 1 1 0 
 0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-0 - 0 0 0 1 0 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 0 1 1 
-- 1 0 0 0 1 - 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 0 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 0 0 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 0 1 1 1 1 - - 0 1 1 0 1 1 
-1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - 1 1 1 0 1 - 1 1 0 1 - 1 1 1 1 1 1 1 1 0 0 
-0 1 1 1 - 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 0 0 
+0 - 0 0 0 1 0 - 1 1 1 0 - 1 - 1 1 0 1 1 0 1 1 - 1 
+0 0 0 - 1 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 0 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 0 0 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 0 0 1 - 1 1 1 - 0 1 1 0 1 1 1 1 
+0 0 0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - - 1 1 1 0 1 - 1 1 0 - 1 1 1 1 1 1 1 1 1 0 0 0 
+1 1 1 - 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 0 0 
 >Assamese
 0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 - 1 - 1 1 
 1 1 - 1 1 1 1 1 1 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
 - 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 - 1 0 - 
-1 0 0 0 1 1 1 - - - 1 - 1 1 1 - 1 - 1 1 1 1 - 1 1 
-- 1 - 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 
-1 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 
-1 1 1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 
-0 1 0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-0 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 1 0 1 1 1 1 1 1 1 1 0 - - 0 1 0 0 1 1 
-1 1 0 0 0 1 1 1 0 - 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - - 1 1 1 1 - 0 1 1 1 - 1 1 1 1 1 1 1 1 - 1 
-1 1 1 1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 1 
-1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 
-0 - - 0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 0 0 0 0 0 1 1 0 0 0 
-0 1 1 1 0 
+1 0 0 0 1 1 1 - 1 1 1 1 - 1 - 1 1 1 1 - 1 1 1 - 1 
+0 1 - - - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 1 1 
+1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 
+1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 1 
+0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 1 0 1 1 1 1 1 1 - 1 1 0 - 0 1 0 0 1 1 1 1 
+0 0 0 1 1 1 0 1 - 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - - - 1 1 1 1 0 1 1 1 - - 1 1 1 1 1 1 1 1 - 1 1 
+1 1 1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 1 1 
+0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 
+- - 0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 0 0 0 0 0 1 1 0 0 0 0 
+1 1 1 0 
 >Cornish
 0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
 1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
 1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 1 - 
-1 - 0 0 1 1 1 - - 1 1 - 1 0 1 - 1 - 1 0 1 0 1 1 1 
-- 1 0 1 0 1 - 0 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 0 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
-0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 1 0 1 1 1 1 0 - 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - 1 1 1 1 0 - 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 
-1 0 1 0 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 0 0 
+1 - 0 0 1 1 1 - 1 1 1 0 - 1 - 1 1 0 1 0 1 1 1 - 1 
+0 1 0 1 - 0 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 0 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 1 0 1 - 1 1 1 0 0 1 1 0 1 0 1 1 
+0 0 0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - 1 1 1 1 0 1 0 1 1 - - - 1 1 1 1 1 1 1 1 0 1 1 
+0 1 0 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 0 0 
 >Danish
 0 1 1 1 1 1 1 0 0 1 1 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
 1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
 1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 1 1 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 1 1 1 
-- 1 0 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 0 0 1 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
-0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 0 1 1 1 1 0 - 1 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 1 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - 1 1 1 1 0 - 1 0 1 1 - 1 1 1 1 1 0 1 1 0 1 
-1 0 1 1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 0 0 
+1 - 0 0 1 1 1 - 1 1 1 0 - 1 - 1 1 0 1 1 1 1 1 - 1 
+0 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 0 0 1 - 1 1 1 0 1 1 1 0 1 0 1 1 
+0 0 0 1 1 1 0 1 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - 1 1 1 1 0 1 0 1 1 - - - 1 1 1 1 1 0 1 1 0 1 1 
+0 1 1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 0 0 
 >EasternFrisianSaterland
 0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 1 - 1 0 1 1 
 0 1 - 1 1 1 1 1 1 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
 1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 1 0 - - - 1 - 1 1 1 - 1 0 1 1 1 1 0 1 1 
-- 1 - 0 1 1 0 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 
-1 0 0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 0 1 1 1 1 1 1 1 1 0 - - 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - 1 1 1 0 1 - 1 1 0 1 - 1 1 1 1 1 1 1 1 0 1 
-0 1 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 0 0 
+1 - 0 0 1 1 0 - 1 1 1 1 - 1 0 1 1 1 1 0 1 1 1 - 0 
+1 1 0 - - 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 0 1 1 1 1 1 1 - 1 1 0 - 0 1 1 0 1 0 1 1 
+0 0 0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - - 1 1 1 0 1 1 1 0 1 - - 1 1 1 1 1 1 1 1 0 1 0 
+1 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 0 0 
 >Faroese
 0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 0 1 1 
 1 1 - 1 1 1 1 1 1 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
 1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 0 0 - - - 1 - 1 1 1 - 1 0 1 1 1 0 1 1 1 
-- 1 - 0 0 0 0 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 
-1 0 0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 0 0 1 1 1 0 0 1 1 0 - - 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - 1 1 1 1 1 - 0 1 0 0 - 1 1 1 1 1 0 1 1 0 0 
-0 1 0 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 0 0 
+1 - 0 0 1 0 0 - 1 1 1 1 - 1 0 1 1 1 0 1 1 1 1 - 0 
+0 0 0 - - 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 0 0 1 1 1 0 0 - 1 1 0 - 0 1 1 0 1 0 1 1 
+0 0 0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - - 1 1 1 1 1 0 1 0 0 - - 1 1 1 1 1 0 1 1 0 0 0 
+1 0 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 0 0 
 >Icelandic
 0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 0 1 - 1 - 1 1 
 1 1 - 0 - 0 1 1 0 1 - 1 0 0 1 1 1 1 1 0 1 1 1 1 0 
 0 0 1 0 0 1 1 0 0 0 0 0 0 1 1 1 0 1 0 - 1 - 1 0 - 
-0 - 0 0 1 1 0 - - - 1 - 1 0 1 0 1 - 1 1 1 1 1 1 1 
-- 1 - 1 1 1 - 1 1 1 1 0 0 1 1 - 1 1 1 1 1 0 0 1 1 
-1 0 0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 - 1 1 1 - 1 1 1 1 0 0 1 1 1 0 1 1 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 
-1 1 0 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 1 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 0 1 1 0 1 0 1 0 1 - - 0 1 1 1 0 1 
-1 1 0 0 0 1 1 1 0 - 1 0 1 1 0 1 1 0 0 1 1 1 1 1 1 
-1 1 0 1 1 1 1 1 1 - 1 1 0 0 1 1 1 1 1 1 1 1 1 0 0 
-1 1 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 0 
-1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 
-0 1 1 1 1 1 1 1 1 1 0 1 - 1 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 0 1 0 0 
+0 - 0 0 1 1 0 - 1 1 0 1 0 1 - 1 1 1 1 1 1 1 1 - 1 
+1 1 - - - 1 1 1 1 0 0 1 1 - 1 1 1 1 1 0 0 1 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 - 1 1 1 - 1 1 1 1 0 0 1 1 1 0 1 1 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 1 1 
+0 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 0 1 1 0 1 0 - 1 0 1 - 0 1 1 1 0 1 1 1 
+0 0 0 1 1 1 0 1 - 0 1 1 0 1 1 0 0 1 1 1 1 1 1 1 1 
+0 1 - 1 1 1 1 1 1 1 0 0 1 - 1 1 1 1 1 1 1 1 0 0 1 
+1 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 0 1 
+0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 
+1 1 1 1 1 1 1 1 1 0 1 - 1 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+0 1 0 0 
 >Irish
 0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
 1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
 0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 1 0 0 0 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 1 1 1 
-0 0 0 1 0 - - 0 - 1 1 - 1 1 0 - 1 1 1 0 1 0 0 1 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 0 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 0 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
-0 0 1 1 1 0 1 0 0 1 0 0 0 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 0 1 1 0 1 - - 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-0 1 0 - 1 1 1 1 1 - 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 
-1 1 1 1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 0 1 0 0 
+1 - 0 1 0 0 0 - 1 1 1 0 - 1 - 1 1 0 1 1 1 1 1 0 0 
+0 1 0 - - 0 - 1 1 - 1 1 0 - 1 1 1 0 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 0 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 0 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 0 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 0 0 1 - 1 0 1 - 0 1 1 0 1 0 1 1 
+0 0 0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 
+0 - 1 1 1 1 1 1 0 1 1 - - - 1 1 1 1 1 1 1 1 0 1 1 
+1 1 1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+0 1 0 0 
 >KolschColognian
 0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 1 1 0 0 - 1 1 
 1 1 - 1 - 1 1 1 0 - - 1 0 0 1 1 1 1 1 0 0 1 1 1 0 
 0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 0 0 - 
-1 - 1 0 1 0 0 - - - 1 - 1 0 1 0 1 - 1 0 0 1 0 1 1 
-- 1 - 1 1 1 - 1 0 1 1 0 1 1 1 - 1 1 1 1 1 0 0 1 1 
-1 0 0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 
-1 1 0 1 1 0 0 1 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 1 1 - - 0 1 1 1 1 1 
-1 1 0 0 0 1 1 1 0 - 1 0 1 1 0 1 1 0 0 1 1 1 0 1 1 
-1 1 0 1 1 1 1 1 1 - 1 1 1 0 - 1 1 1 1 1 1 1 1 0 0 
-1 1 1 1 - 1 1 0 0 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 0 
-1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 
-0 1 1 1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 0 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 0 1 0 0 
+1 - 1 0 1 0 0 - 1 1 0 1 0 1 - 1 0 0 1 0 1 1 1 - 1 
+1 1 - - - 1 0 1 1 0 1 1 1 - 1 1 1 1 1 0 0 1 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 1 1 
+0 1 1 0 0 1 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 0 1 1 - 1 1 1 - 0 1 1 1 1 1 1 1 
+0 0 0 1 1 1 0 1 - 0 1 1 0 1 1 0 0 1 1 1 0 1 1 1 1 
+0 1 - 1 1 1 1 1 1 1 1 0 - - 1 1 1 1 1 1 1 1 0 0 1 
+1 1 1 - 1 1 0 0 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 0 1 
+0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 
+1 1 1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 0 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+0 1 0 0 
 >Manx
 0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
 1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
 0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 1 - 
-1 - 0 0 1 1 0 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 1 1 1 
-- 1 0 1 0 1 - 0 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 0 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
-0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 1 0 1 1 0 1 0 - 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - 1 1 1 0 1 - 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 
-1 0 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 0 0 
+1 - 0 0 1 1 0 - 1 1 1 0 - 1 - 1 1 0 1 1 1 1 1 - 1 
+0 1 0 1 - 0 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 0 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 1 0 1 - 1 0 1 0 0 1 1 0 1 0 1 1 
+0 0 0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - 1 1 1 0 1 1 0 1 1 - - - 1 1 1 1 1 1 1 1 0 1 1 
+0 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 0 0 
 >OldPrussian
 0 1 1 1 1 1 1 0 0 1 1 0 0 1 1 0 1 1 0 1 - 1 - 1 0 
 1 1 - 1 1 1 1 1 0 - - 1 1 0 1 1 1 1 0 1 1 0 1 1 0 
 0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 0 1 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 1 1 1 
-- 1 0 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 0 0 1 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
-0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 0 1 1 1 1 0 - 0 1 1 0 1 0 
-1 1 0 0 0 1 1 1 0 1 0 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - 1 1 1 0 1 - 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 
-1 0 1 1 - 1 1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 1 1 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 0 0 
+1 - 0 0 1 0 1 - 1 1 1 0 - 1 - 1 1 0 1 1 1 1 1 - 1 
+0 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 0 0 1 - 1 1 1 0 0 1 1 0 1 0 1 1 
+0 0 0 1 1 1 0 1 0 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - 1 1 1 0 1 1 0 1 1 - - - 1 1 1 1 1 1 1 1 0 1 1 
+0 1 1 - 1 1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 1 1 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 0 0 
 >SanskritVedic
 0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 1 1 1 - 1 - 1 1 
 1 1 - 1 1 0 1 1 1 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
 - 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 - 1 0 - 
-1 0 0 0 1 1 1 - - - 1 - 1 1 1 - 1 - 1 1 1 1 - 1 1 
-- 1 - 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 
-1 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 
-1 1 1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 
-0 1 0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-0 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 
-0 0 1 1 1 1 0 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 1 1 1 1 1 1 1 1 1 1 0 - - 0 1 0 0 1 1 
-1 1 0 0 0 1 1 1 0 - 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - - 1 1 1 1 - 1 1 1 1 - 1 1 1 1 1 1 1 1 - 1 
-1 1 1 1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 1 
-1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 
-0 - - 0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 1 1 0 1 0 0 0 0 0 1 1 0 0 0 
-0 1 1 1 0 
+1 0 0 0 1 1 1 - 1 1 1 1 - 1 - 1 1 1 1 - 1 1 1 - 1 
+0 1 - - - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 1 1 
+1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 
+1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 1 
+0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0 0 
+1 1 1 1 0 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 1 1 1 1 1 1 1 1 - 1 1 0 - 0 1 0 0 1 1 1 1 
+0 0 0 1 1 1 0 1 - 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - - - 1 1 1 1 1 1 1 1 - - 1 1 1 1 1 1 1 1 - 1 1 
+1 1 1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 1 1 
+0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 
+- - 0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 1 1 0 1 0 0 0 0 0 1 1 0 0 0 0 
+1 1 1 0 
 >Scots
 0 1 1 1 1 1 1 0 0 1 0 0 0 1 0 1 1 1 1 1 - 1 0 1 1 
 1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
 1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 1 1 - - - 1 - 1 1 1 - 1 0 1 1 1 1 0 1 1 
-- 1 - 0 0 1 0 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 
-1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
-0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 
-0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 1 0 1 1 1 0 - - 0 1 1 0 1 1 
-1 1 0 0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - 1 1 1 0 1 - 0 0 0 0 - 1 1 1 1 1 1 1 1 0 0 
-0 0 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 
-1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 
-0 - - 1 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 0 0 
+1 - 0 0 1 1 1 - 1 1 1 1 - 1 0 1 1 1 1 0 1 1 1 - 0 
+0 1 0 - - 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 1 0 1 - 1 1 0 - 0 1 1 0 1 1 1 1 
+0 0 0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - - 1 1 1 0 1 0 0 0 0 - - 1 1 1 1 1 1 1 1 0 0 0 
+0 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 0 0 
 >Yiddish
 0 1 1 1 0 1 0 1 0 1 1 0 0 - - 1 1 1 1 1 - 1 - 1 1 
 1 0 - 0 - 1 1 1 0 - - 1 1 0 1 1 0 1 1 0 1 1 1 1 - 
 1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 1 0 1 
-1 - 0 0 1 1 0 1 - - 1 - 1 0 1 - 1 - 1 1 1 1 0 1 1 
-- 1 - 1 1 1 - 1 0 1 1 - 1 1 1 - 1 1 1 1 1 0 1 1 1 
-1 1 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
-1 1 0 1 1 - 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
-0 1 1 1 0 1 0 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
-0 1 0 1 1 1 0 1 0 0 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 
-0 0 1 1 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
-0 1 0 0 1 0 1 1 1 1 1 1 0 1 1 1 1 - - 0 1 1 1 1 1 
-1 1 0 0 1 1 1 1 0 - 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 
-1 1 0 - 1 1 1 1 1 - 1 1 1 0 - 1 1 1 1 1 1 1 1 0 1 
-1 1 1 1 - 1 1 0 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 1 0 
-1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 
-0 - - 1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 0 
-1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 
-0 1 1 1 0 
+1 - 0 0 1 1 0 1 1 1 0 1 - 1 - 1 1 1 1 0 1 1 1 - 1 
+1 1 - - - 1 0 1 1 - 1 1 1 - 1 1 1 1 1 0 1 1 1 1 1 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 
+0 1 1 - 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 
+1 1 0 1 0 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 
+0 1 1 1 0 1 0 0 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 0 0 
+1 1 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 1 1 1 1 1 1 0 1 - 1 1 1 - 0 1 1 1 1 1 1 1 
+0 0 1 1 1 1 0 1 - 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - - 1 1 1 1 1 1 1 1 0 - - 1 1 1 1 1 1 1 1 0 1 1 
+1 1 1 - 1 1 0 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 1 0 1 
+0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 
+- - 1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 1 0 
 
 
 Sequence character woman_12Saln.fasta#0
 >AlbanianTosk
-GTTTTATCCTGGCTTA-T-TTTTTCATTTTCAGATTTGTGCCAGCAGCCG
-CGGTTACAC-TAAGGGACA-AACTGAAA-TGTTAAGATAAAGTTATGAAC
-CAGGATTAGATACCCTGTAGTTATTGTCTTAAAACTCAAAGGATTTGGCG
-GTAATTTAGTCTATTTAGAGGAACCTGTCCTATAAACGATAAACCACGTA
-AAATCTTACCCTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
+GTTTTATCCTGGCTTA-T-TTTTTC-ATTTTCAGATTTGTGCCAGCAGCC
+GCGGTTACACTAAG-G-GAC-AAACTGAAA-TGTTAAGATAAAGTTATGA
+ACCAGGATTAGATACCCTGTAGTTATTGTCTTAAAACTCAAAGGATTTGG
+CGGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAAACGATAAACCACG
+TAAAATCTTACCCTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
 >AncientIonicGreek
-GTTTGATTTTTGCTTATT-TATTTTACGTTTAGTTTTGTGCCAGCAGCCG
-CGGTTATACTTGAAGAGCA--AGTAAAA-TGTAAAGTCTAGGGCATAGAC
-TAGGATTAGATACCCT-AAGTTATGTTCTTGAAAATAAAAAAATTTGGCG
-GT-GTTTAATTTATTTAGGGGAACCTGTTTTATAATCGATACACCACGAA
-GAATCTTACTTACTTCATGTATACCGTTATTATTAGATCAAGGTGCAGAC
-TATGATATAAATACTTAAACATGTACATATCGCCCGTCGCTTTTACA-T-
---CTTAATGTAAAATAAGTCGTAACATAGTAGCTGTATCGGAAGATGCAG
-C
+GTTTGATTTTTGCTTATT-TATTTT-ACGTTTAGTTTTGTGCCAGCAGCC
+GCGGTTATACTTGA-AGAGC-AAG-TAAAA-TGTAAAGTCTAGGGCATAG
+ACTAGGATTAGATACCCT-AAGTTATGTTCTTGAAAATAAAAAAATTTGG
+CGGT-GTTTAATTTATTTAGGGGAACCTGTTTTATAATCGATACACCACG
+AAGAATCTTACTTACTTCATGTATACCGTTATTATTAGATCAAGGTGCAG
+ACTATGATATAAATACTTAAACATGTACATATCGCCCGTCGCTTTTACA-
+T--CTTAATGTAAAATAAGTCGTAACATAGTAGCTGTATCGGAAGATGCA
+GC
 >ArmenianWestern
-GTTTTATCCTGGCTTA-T-CCTTTCGATTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGGGGCA-GATTGAAA-TATTAAGATAAAGGTATGAAC
-CAGGATTAGATACCCTGCAGTTATTGGCTTGAAACTCAAAGGATTTGGCG
-GTAGCTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAATCCACGAA
-AAATCTCACTTTACGCTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGATTGTAGCTCTAAGCTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
+GTTTTATCCTGGCTTA-T-CCTTTCGATTTT-AGATTTGTGCCAGCAGCC
+GCGGTTATACTGAG-G-GGC-AGATTGAAA-TATTAAGATAAAGGTATGA
+ACCAGGATTAGATACCCTGCAGTTATTGGCTTGAAACTCAAAGGATTTGG
+CGGTAGCTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAATCCACG
+AAAAATCTCACTTTACGCTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGATTGTAGCTCTAAGCTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
 >Assamese
-GTTTGATTCTTGCTTA-T-GATTTTTATATTATATTTGTGCCAGCAGTCG
-CGGTTATACTTAGAGGGTA--AATAAAT-TATAAATTTTAATATATAAAC
-TAGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGGCG
-GTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAACCACGAA
--TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAGTC
-TATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-C-
---CTAAAAATGAAATAAGTCGTAACAAAGTAGGTGTGCCGGAAGGCGTAT
-C
+GTTTGATTCTTGCTTA-T-GATTTT-TATATTATATTTGTGCCAGCAGTC
+GCGGTTATACTTAG-AGGGT-AAA-TAAAT-TATAAATTTTAATATATAA
+ACTAGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGG
+CGGTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAACCACG
+AA-TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAG
+TCTATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-
+C--CTAAAAATGAAATAAGTCGTAACAAAGTAGGTGTGCCGGAAGGCGTA
+TC
 >Cornish
-GTTTTATCCTGGCTTA-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAAAGGTA-AATTGAAA-TGTTAAGATAAAGAGATGAAC
-CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
-GTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAA
-GAATCTTACTTTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
+GTTTTATCCTGGCTTA-T-TCTTTC-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAA-A-GGT-AAATTGAAA-TGTTAAGATAAAGAGATGA
+ACCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGG
+CGGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACG
+AAGAATCTTACTTTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
 >Danish
-GTTTTATCCTAGCTTA-T-TCTTTCAATTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGTT-AATTGAAA-TATTAAAATAAAGGAATGAAC
-CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
-GTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAA
-GAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
+GTTTTATCCTAGCTTA-T-TCTTTC-AATTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAG-A-GGT-TAATTGAAA-TATTAAAATAAAGGAATGA
+ACCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGG
+CGGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACG
+AAGAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
 >EasternFrisianSaterland
-GTTTTATCCTGGCTAA-TATTTCTTGTTTTTAAATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGTA-GATTAAGA-TGTTAAGTTAAAGGTATGGAC
-CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
-GTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACGAA
-GTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCC
-AATGATTATAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
+GTTTTATCCTGGCTAA-TATTTCTT-GTTTTTAAATTTGTGCCAGCAGCC
+GCGGTTATACTGAG-A-GGT-AGATTAAGA-TGTTAAGTTAAAGGTATGG
+ACCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGG
+CGGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACG
+AAGTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CCAATGATTATAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
 >Faroese
-GTTTTATCCTGGCTAA-TAGTTCTTATTATTAAATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGTG-GATTAAGA-TGTTAAGATAAAGGTATGGAC
-CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
-GTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACGAA
-GAATCTTACCTTGTGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCC
-GATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
+GTTTTATCCTGGCTAA-TAGTTCTT-ATTATTAAATTTGTGCCAGCAGCC
+GCGGTTATACTGAG-A-GGT-GGATTAAGA-TGTTAAGATAAAGGTATGG
+ACCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGG
+CGGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACG
+AAGAATCTTACCTTGTGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CCGATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
 >Icelandic
-GTTTGATTCTTGC-TA-T-GTTTTT--TGCTAGACTTGTGCCAGCATCCG
-CGGTTAGACTTG-G-GGATCTAGTGAAACGA-GGAATTTTAGGTATGGAC
-CAGGATTAGATACCCTGAATTAATACGTTTGAAATTCAAAGAACCTGGCG
-GTACTTTAGTCTAGTTAGAGGAACCTGTTGTATAAACGATAAACCACGTA
-GAATCTTTCTTACTGCTAGTATACCTTCATTATTAGATCAAGGTGCTGCT
-GATGATAATAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CATT-
-AAATTAGA-TGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCAC
-C
+GTTTGATTCTTGC-TA-T-GT-TTT--TTGCTAGACTTGTGCCAGCATCC
+GCGGTTAGAC-TTG-GGGATCTAG-TGAAACGA-GGAATTTTAGGTATGG
+ACCAGGATTAGATACCCTGAATTAATACGTTTGAAATTCAAAGAACCTGG
+CGGTACTTTAGTCTAGTTAGAGGAACCTGTTGTATAAACGATAAACCACG
+TAGAATCTTTCTTACTGCTAGTATACCTTCATTATTAGATCAAGGTGCTG
+CTGATGATAATAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CAT
+TAAATTAGA-TGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCA
+CC
 >Irish
-GTTTTATCCTGGCTTA-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGACG-GATTGAAA-TATTAAGATAGAGGAATGAAC
-CAGGATTAGATACCCTGCAGCTATTATCTTGAAACTCAAAGGATTTGGCG
-GTAACCTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGCA
-ATATCTTGCTTTATGCTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCAC
-C
+GTTTTATCCTGGCTTA-T-TCTTTC-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAG-A-GAC-GGATTGAAA-TATTAAGATAGAGGAATGA
+ACCAGGATTAGATACCCTGCAGCTATTATCTTGAAACTCAAAGGATTTGG
+CGGTAACCTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACG
+CAATATCTTGCTTTATGCTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCA
+CC
 >KolschColognian
-GTTTGATTCTTGC-TA-T-TACCTT--TATTAAACTTGTGCCAGCAGCCG
-CGGTTAAACTCG-A-TGTCCTAGTGAAGCTA-GAAAATTTAGGTAAGGAC
-CAGGATTAGATACCCTGAATAAATTAATTTTAAATTCAAAGAACCTGGCG
-GTACTTTAGTCTAGTTGGAGGAACCTGTTTTATAAACGATAAACCACGTA
-AAATCTTTCTTATTGTTAGTATACCTTCATTATTAGATCAAGGTGCTGCA
-AATGGTATTAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CATT-
-AAGTTAAA-TGAGATAAGTCGTAACATAGTGGGTGTACTGGAAAGTGCAC
-C
+GTTTGATTCTTGC-TA-T-TA-CCT--TTATTAAACTTGTGCCAGCAGCC
+GCGGTTAAAC-TCG-ATGTCCTAG-TGAAGCTA-GAAAATTTAGGTAAGG
+ACCAGGATTAGATACCCTGAATAAATTAATTTTAAATTCAAAGAACCTGG
+CGGTACTTTAGTCTAGTTGGAGGAACCTGTTTTATAAACGATAAACCACG
+TAAAATCTTTCTTATTGTTAGTATACCTTCATTATTAGATCAAGGTGCTG
+CAAATGGTATTAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CAT
+TAAGTTAAA-TGAGATAAGTCGTAACATAGTGGGTGTACTGGAAAGTGCA
+CC
 >Manx
-GTTTTATCCTGGCTTA-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAAAGGTA-GATTGAAA-TGTTAAGATAAAGAGATGAAC
-CAGGATTAGATACCCTGCAGTTATTATCTTGAAACTCAAAGGATTTGGCG
-GTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAA
-GAATCTTACTCTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
+GTTTTATCCTGGCTTA-T-TCTTTC-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAA-A-GGT-AGATTGAAA-TGTTAAGATAAAGAGATGA
+ACCAGGATTAGATACCCTGCAGTTATTATCTTGAAACTCAAAGGATTTGG
+CGGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACG
+AAGAATCTTACTCTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
 >OldPrussian
-GTTTTATCCTAGCTTG-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGTC-AATTGAAA-TATTAAAATAAAGGAATGAAC
-CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
-GTAATTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAA
-AAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-TATGACCTTAGCCCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
---ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
+GTTTTATCCTAGCTTG-T-TCTTTC-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAG-A-GGT-CAATTGAAA-TATTAAAATAAAGGAATGA
+ACCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGG
+CGGTAATTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACG
+AAAAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGACCTTAGCCCTAGATTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
 >SanskritVedic
-GTTTGATTCTTGCTTA-T-AATTTTTATACTATATTTGTGCCAGCAGTCG
-CGGTTATACTTAGAGGGTA--AATAAAT-TATAAATTTTAATATATAAAC
-TAGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGGCG
-GTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAGCCACGAA
--TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAGTT
-TATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-C-
---CTAAAAATGAAATAAGTCGTAACAAAGTAGATGTGCCGGAAGGCGTAT
-C
+GTTTGATTCTTGCTTA-T-AATTTT-TATACTATATTTGTGCCAGCAGTC
+GCGGTTATACTTAG-AGGGT-AAA-TAAAT-TATAAATTTTAATATATAA
+ACTAGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGG
+CGGTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAGCCACG
+AA-TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAG
+TTTATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-
+C--CTAAAAATGAAATAAGTCGTAACAAAGTAGATGTGCCGGAAGGCGTA
+TC
 >Scots
-GTTTTATCCTGGCTCA-TAATTCTTATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGTA-AATTAAGA-TATTAAGATAAAGGTATGAAC
-CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
-GTAATTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAAACCACGAA
-GTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
-AATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
---GTTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
-C
+GTTTTATCCTGGCTCA-TAATTCTT-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAG-A-GGT-AAATTAAGA-TATTAAGATAAAGGTATGA
+ACCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGG
+CGGTAATTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAAACCACG
+AAGTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTAATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AGTTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
 >Yiddish
-GTTTGACTCTTGCTT--T-AATTTT-C-GTTA-ACTTGTGCCAGCAGCCG
-CGGTTATACTAGAA-GGTT-GAATGAAA-TATTAAATTTTAGATATAAAC
-CAGGATTAGATACCCTGAATGAATTAATTTAAAATTCAAAGAGTTTGGCG
-GTATTTTAGTCCTGTTAGAGGAATCTGTTTTATAAACGATAACCCCCGTA
-ATATCTTTCTTATTGCTAGTATACCATCATTATTAGATCATGGTGCTGTT
-TATGAGATTGGCTCTAAAATGTGTACATATTGCCCGTCGC-TTT-CATT-
---CTTAAA-TGAGATAAGTCGTAACATAGTAGGAGTACTGGAAAGTGTTT
-C
+GTTTGACTCTTGC-TT-T-AA-TTT--TCGTT-AACTTGTGCCAGCAGCC
+GCGGTTATAC-TAGAAGGTT-GAA-TGAAA-TATTAAATTTTAGATATAA
+ACCAGGATTAGATACCCTGAATGAATTAATTTAAAATTCAAAGAGTTTGG
+CGGTATTTTAGTCCTGTTAGAGGAATCTGTTTTATAAACGATAACCCCCG
+TAATATCTTTCTTATTGCTAGTATACCATCATTATTAGATCATGGTGCTG
+TTTATGAGATTGGCTCTAAAATGTGTACATATTGCCCGTCGC-TTT-CAT
+T--CTTAAA-TGAGATAAGTCGTAACATAGTAGGAGTACTGGAAAGTGTT
+TC
 
 
 Sequence character woman-wide_aa.fas#0
@@ -8617,53 +8624,1287 @@ Implied Alignments for Graph 7
 
 Sequence character woman.fastc#0
 >AlbanianTosk
-- - - ɡ - - - - - - - - \textfishhookr - u a - - -
- - - - - - 
+- - - - - - - - - - ɡ - - \textfishhookr - u - - a
+ 
 >AncientIonicGreek
-- - - - - - - - - - - - ɡ - \”u n - - - e \textlen
-gthmark - - - 
+- - - - - - - - - - ɡ - - \”u - n e - \textlengthm
+ark 
 >ArmenianWestern
-- - - - - - - - - - - - ɡ - i n - - - - - - - - 
+- - - - - - - - - - ɡ - - i - n - - - 
 >Assamese
-- - - - - - - m a \textsci k i m - a n - - - - - -
- u \textsuperscript{\texthth} 
+m a \textsci k - - - - - - i - - m a n u - \textsu
+perscript{\texthth} 
 >Cornish
-- - - b - - - - - - - - \textepsilon n j n - - - -
- - - - - 
+- - - - - - - - - - b - - \textepsilon - n j - n 
 >Danish
-\textprimstress k \textsuperscript{h} - - - - - - 
-- - - v - e n - - - - \textschwa - - - 
+- - - - - - \textprimstress k \textsuperscript{h} 
+- v - - e - n - - \textschwa 
 >EasternFrisianSaterland
-- - - - - - - - - - - - v - i\texthalflength \text
-upsilon - - - - v - - - 
+- - - - - - - - - - v - - i\texthalflength - \text
+upsilon - - v 
 >Faroese
-- - - - - - - - - - k - o - \textlengthmark n - - 
-- - - a - - 
+- - - - - - - - - k o - - \textlengthmark - n - - 
+a 
 >Icelandic
-- - - - - - \textprimstress - - - k - \textsupersc
-ript{h} - \textopeno n - - - - - a - - 
+- - - - \textprimstress k - - - - \textsuperscript
+{h} - - \textopeno - n - - a 
 >Irish
-- - - b \textsuperscript{j} - - - - - - - \ae - \t
-extlengthmark n - \textsubbridge \textsuperscript{
-\textgamma} - - - - - 
+- - - - - - - - - - b \textsuperscript{j} \ae \tex
+tlengthmark - n - \textsubbridge \textsuperscript{
+\textgamma} 
 >KolschColognian
-- - - - - - - - - - - - v - e\textlengthmark z - -
- - - h - - - 
+- - - - - - - - - - v - - e\textlengthmark - z - -
+ h 
 >Manx
-- - - b - - - - - - - - \textepsilon - \textsupers
-cript{d} n - - - - - - - - 
+- - - - - - - - - - b - - \textepsilon - - \textsu
+perscript{d} - n 
 >OldPrussian
-- - - v - - - - - - - - i\textlengthmark r i n a -
- - - - - - - 
+- - - - - - - - - - v i\textlengthmark r i - n - -
+ a 
 >SanskritVedic
-- - - - - - - s \textsubbridge t \textsubbridge - 
-\textrtailr - i \textlengthmark - - - - - - - - 
+- - - s - - - - - - \textsubbridge - - t \textsubb
+ridge \textrtailr i - \textlengthmark 
 >Scots
-- - - - - w \textturnv - - - m - m - \textscripta 
-n - - - - - - - - 
+- - - w - - - - - - \textturnv - - m - m \textscri
+pta - n 
 >Yiddish
-- - - - - - - - - - - - - - f \textscr - - - - \te
-xtopenoj - - - 
+- - - - - - - - - - - - - f - \textscr - - \textop
+enoj 
+
+
+Sequence character woman_binary.fasta#0
+>AlbanianTosk
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 1 - 1 - 1 0 
+1 1 - 1 1 1 0 1 0 - - 1 1 0 1 1 1 1 0 0 1 1 1 1 1 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 0 - 1 1 1 0 - 
+0 - 0 1 0 1 1 - 1 0 1 0 - 1 - 1 1 1 1 1 1 1 1 - 1 
+0 1 1 - 1 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 1 1 0 1 - 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 1 0 1 0 0 1 0 - 0 1 1 0 1 0 1 1 
+0 0 0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - - - 1 1 0 1 0 1 0 0 - 1 1 1 1 1 1 1 1 1 0 1 0 
+1 1 0 - 1 0 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 0 0 
+>AncientIonicGreek
+0 1 1 1 0 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 - 1 - 1 1 
+1 1 0 0 1 1 1 1 0 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 1 0 - 
+1 - 1 0 1 0 0 - 1 1 0 1 - 1 - 1 1 1 1 - 1 1 1 - 1 
+0 1 - - - 1 - 1 1 - 1 1 1 0 1 0 1 1 0 0 0 0 1 1 1 
+0 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 
+0 1 1 - 1 0 1 - 1 1 1 0 1 1 0 1 1 0 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 0 0 0 0 0 1 0 1 1 1 1 1 - 1 1 1 1 
+1 1 1 1 0 0 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 1 0 1 1 1 1 0 0 - 1 1 1 - 0 1 1 1 1 1 1 1 
+0 0 0 1 1 1 0 1 - 1 1 1 0 0 0 0 0 1 0 1 1 1 1 1 1 
+0 - - 1 1 1 1 1 0 1 1 1 - - 1 1 1 1 1 1 1 1 0 1 1 
+1 1 1 0 - 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 1 
+0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 1 1 1 - 1 1 0 
+- - 1 1 0 1 1 1 1 1 0 - 1 1 1 1 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 0 1 1 0 1 1 0 
+0 1 0 0 
+>ArmenianWestern
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 0 0 1 - 1 - 1 0 
+0 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 0 1 1 0 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+0 - 0 0 0 1 0 - 1 1 1 0 - 1 - 1 1 0 1 1 0 1 1 - 1 
+0 0 0 - 1 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 0 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 0 0 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 0 0 1 - 1 1 1 - 0 1 1 0 1 1 1 1 
+0 0 0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - - 1 1 1 0 1 - 1 1 0 - 1 1 1 1 1 1 1 1 1 0 0 0 
+1 1 1 - 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 0 0 
+>Assamese
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 - 1 - 1 1 
+1 1 - 1 1 1 1 1 1 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
+- 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 - 1 0 - 
+1 0 0 0 1 1 1 - 1 1 1 1 - 1 - 1 1 1 1 - 1 1 1 - 1 
+0 1 - - - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 1 1 
+1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 
+1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 1 
+0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 1 0 1 1 1 1 1 1 - 1 1 0 - 0 1 0 0 1 1 1 1 
+0 0 0 1 1 1 0 1 - 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - - - 1 1 1 1 0 1 1 1 - - 1 1 1 1 1 1 1 1 - 1 1 
+1 1 1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 1 1 
+0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 
+- - 0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 0 0 0 0 0 1 1 0 0 0 0 
+1 1 1 0 
+>Cornish
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 1 - 
+1 - 0 0 1 1 1 - 1 1 1 0 - 1 - 1 1 0 1 0 1 1 1 - 1 
+0 1 0 1 - 0 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 0 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 1 0 1 - 1 1 1 0 0 1 1 0 1 0 1 1 
+0 0 0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - 1 1 1 1 0 1 0 1 1 - - - 1 1 1 1 1 1 1 1 0 1 1 
+0 1 0 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 0 0 
+>Danish
+0 1 1 1 1 1 1 0 0 1 1 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - 0 0 1 1 1 - 1 1 1 0 - 1 - 1 1 0 1 1 1 1 1 - 1 
+0 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 0 0 1 - 1 1 1 0 1 1 1 0 1 0 1 1 
+0 0 0 1 1 1 0 1 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - 1 1 1 1 0 1 0 1 1 - - - 1 1 1 1 1 0 1 1 0 1 1 
+0 1 1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 0 0 
+>EasternFrisianSaterland
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 1 - 1 0 1 1 
+0 1 - 1 1 1 1 1 1 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - 0 0 1 1 0 - 1 1 1 1 - 1 0 1 1 1 1 0 1 1 1 - 0 
+1 1 0 - - 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 0 1 1 1 1 1 1 - 1 1 0 - 0 1 1 0 1 0 1 1 
+0 0 0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - - 1 1 1 0 1 1 1 0 1 - - 1 1 1 1 1 1 1 1 0 1 0 
+1 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 0 0 
+>Faroese
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 0 1 1 
+1 1 - 1 1 1 1 1 1 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - 0 0 1 0 0 - 1 1 1 1 - 1 0 1 1 1 0 1 1 1 1 - 0 
+0 0 0 - - 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 0 0 1 1 1 0 0 - 1 1 0 - 0 1 1 0 1 0 1 1 
+0 0 0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - - 1 1 1 1 1 0 1 0 0 - - 1 1 1 1 1 0 1 1 0 0 0 
+1 0 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 0 0 
+>Icelandic
+0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 0 1 - 1 - 1 1 
+1 1 - 0 - 0 1 1 0 1 - 1 0 0 1 1 1 1 1 0 1 1 1 1 0 
+0 0 1 0 0 1 1 0 0 0 0 0 0 1 1 1 0 1 0 - 1 - 1 0 - 
+0 - 0 0 1 1 0 - 1 1 0 1 0 1 - 1 1 1 1 1 1 1 1 - 1 
+1 1 - - - 1 1 1 1 0 0 1 1 - 1 1 1 1 1 0 0 1 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 - 1 1 1 - 1 1 1 1 0 0 1 1 1 0 1 1 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 1 1 
+0 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 0 1 1 0 1 0 - 1 0 1 - 0 1 1 1 0 1 1 1 
+0 0 0 1 1 1 0 1 - 0 1 1 0 1 1 0 0 1 1 1 1 1 1 1 1 
+0 1 - 1 1 1 1 1 1 1 0 0 1 - 1 1 1 1 1 1 1 1 0 0 1 
+1 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 0 1 
+0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 
+1 1 1 1 1 1 1 1 1 0 1 - 1 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+0 1 0 0 
+>Irish
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - 0 1 0 0 0 - 1 1 1 0 - 1 - 1 1 0 1 1 1 1 1 0 0 
+0 1 0 - - 0 - 1 1 - 1 1 0 - 1 1 1 0 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 0 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 0 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 0 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 0 0 1 - 1 0 1 - 0 1 1 0 1 0 1 1 
+0 0 0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 
+0 - 1 1 1 1 1 1 0 1 1 - - - 1 1 1 1 1 1 1 1 0 1 1 
+1 1 1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+0 1 0 0 
+>KolschColognian
+0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 1 1 0 0 - 1 1 
+1 1 - 1 - 1 1 1 0 - - 1 0 0 1 1 1 1 1 0 0 1 1 1 0 
+0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 0 0 - 
+1 - 1 0 1 0 0 - 1 1 0 1 0 1 - 1 0 0 1 0 1 1 1 - 1 
+1 1 - - - 1 0 1 1 0 1 1 1 - 1 1 1 1 1 0 0 1 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 
+1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 1 1 
+0 1 1 0 0 1 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 0 1 1 - 1 1 1 - 0 1 1 1 1 1 1 1 
+0 0 0 1 1 1 0 1 - 0 1 1 0 1 1 0 0 1 1 1 0 1 1 1 1 
+0 1 - 1 1 1 1 1 1 1 1 0 - - 1 1 1 1 1 1 1 1 0 0 1 
+1 1 1 - 1 1 0 0 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 0 1 
+0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 
+1 1 1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 0 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+0 1 0 0 
+>Manx
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 1 - 
+1 - 0 0 1 1 0 - 1 1 1 0 - 1 - 1 1 0 1 1 1 1 1 - 1 
+0 1 0 1 - 0 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 0 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 1 0 1 - 1 0 1 0 0 1 1 0 1 0 1 1 
+0 0 0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - 1 1 1 0 1 1 0 1 1 - - - 1 1 1 1 1 1 1 1 0 1 1 
+0 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 0 0 
+>OldPrussian
+0 1 1 1 1 1 1 0 0 1 1 0 0 1 1 0 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 1 0 1 1 1 1 0 1 1 0 1 1 0 
+0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - 0 0 1 0 1 - 1 1 1 0 - 1 - 1 1 0 1 1 1 1 1 - 1 
+0 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
+1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 0 0 1 - 1 1 1 0 0 1 1 0 1 0 1 1 
+0 0 0 1 1 1 0 1 0 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - 1 1 1 0 1 1 0 1 1 - - - 1 1 1 1 1 1 1 1 0 1 1 
+0 1 1 - 1 1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 1 1 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 0 0 
+>SanskritVedic
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 1 1 1 - 1 - 1 1 
+1 1 - 1 1 0 1 1 1 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
+- 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 - 1 0 - 
+1 0 0 0 1 1 1 - 1 1 1 1 - 1 - 1 1 1 1 - 1 1 1 - 1 
+0 1 - - - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 1 1 
+1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 
+1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 1 
+0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0 0 
+1 1 1 1 0 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 1 1 1 1 1 1 1 1 - 1 1 0 - 0 1 0 0 1 1 1 1 
+0 0 0 1 1 1 0 1 - 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - - - 1 1 1 1 1 1 1 1 - - 1 1 1 1 1 1 1 1 - 1 1 
+1 1 1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 1 1 
+0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 
+- - 0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 1 1 0 1 0 0 0 0 0 1 1 0 0 0 0 
+1 1 1 0 
+>Scots
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 0 1 1 1 1 1 - 1 0 1 1 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
+1 - 0 0 1 1 1 - 1 1 1 1 - 1 0 1 1 1 1 0 1 1 1 - 0 
+0 1 0 - - 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 1 0 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
+0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
+1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
+1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 0 0 
+1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 0 1 1 1 1 1 0 1 - 1 1 0 - 0 1 1 0 1 1 1 1 
+0 0 0 1 1 1 0 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - - 1 1 1 0 1 0 0 0 0 - - 1 1 1 1 1 1 1 1 0 0 0 
+0 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 
+0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 
+- - 1 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 0 0 
+>Yiddish
+0 1 1 1 0 1 0 1 0 1 1 0 0 - - 1 1 1 1 1 - 1 - 1 1 
+1 0 - 0 - 1 1 1 0 - - 1 1 0 1 1 0 1 1 0 1 1 1 1 - 
+1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 1 0 1 
+1 - 0 0 1 1 0 1 1 1 0 1 - 1 - 1 1 1 1 0 1 1 1 - 1 
+1 1 - - - 1 0 1 1 - 1 1 1 - 1 1 1 1 1 0 1 1 1 1 1 
+1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 
+0 1 1 - 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 
+1 1 0 1 0 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 
+0 1 1 1 0 1 0 0 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 0 0 
+1 1 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
+0 0 1 0 1 1 1 1 1 1 0 1 - 1 1 1 - 0 1 1 1 1 1 1 1 
+0 0 1 1 1 1 0 1 - 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 
+0 - - 1 1 1 1 1 1 1 1 0 - - 1 1 1 1 1 1 1 1 0 1 1 
+1 1 1 - 1 1 0 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 1 0 1 
+0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 
+- - 1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 0 1 
+1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 
+1 1 1 0 
+
+
+Sequence character woman_12Saln.fasta#0
+>AlbanianTosk
+GTTTTATCCTGGCTTA-T-TTTTTC-ATTTTCAGATTTGTGCCAGCAGCC
+GCGGTTACACTAAG-G-GAC-AAACTGAAA-TGTTAAGATAAAGTTATGA
+ACCAGGATTAGATACCCTGTAGTTATTGTCTTAAAACTCAAAGGATTTGG
+CGGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAAACGATAAACCACG
+TAAAATCTTACCCTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>AncientIonicGreek
+GTTTGATTTTTGCTTATT-TATTTT-ACGTTTAGTTTTGTGCCAGCAGCC
+GCGGTTATACTTGA-AGAGC-AAG-TAAAA-TGTAAAGTCTAGGGCATAG
+ACTAGGATTAGATACCCT-AAGTTATGTTCTTGAAAATAAAAAAATTTGG
+CGGT-GTTTAATTTATTTAGGGGAACCTGTTTTATAATCGATACACCACG
+AAGAATCTTACTTACTTCATGTATACCGTTATTATTAGATCAAGGTGCAG
+ACTATGATATAAATACTTAAACATGTACATATCGCCCGTCGCTTTTACA-
+T--CTTAATGTAAAATAAGTCGTAACATAGTAGCTGTATCGGAAGATGCA
+GC
+>ArmenianWestern
+GTTTTATCCTGGCTTA-T-CCTTTCGATTTT-AGATTTGTGCCAGCAGCC
+GCGGTTATACTGAG-G-GGC-AGATTGAAA-TATTAAGATAAAGGTATGA
+ACCAGGATTAGATACCCTGCAGTTATTGGCTTGAAACTCAAAGGATTTGG
+CGGTAGCTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAATCCACG
+AAAAATCTCACTTTACGCTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGATTGTAGCTCTAAGCTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Assamese
+GTTTGATTCTTGCTTA-T-GATTTT-TATATTATATTTGTGCCAGCAGTC
+GCGGTTATACTTAG-AGGGT-AAA-TAAAT-TATAAATTTTAATATATAA
+ACTAGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGG
+CGGTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAACCACG
+AA-TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAG
+TCTATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-
+C--CTAAAAATGAAATAAGTCGTAACAAAGTAGGTGTGCCGGAAGGCGTA
+TC
+>Cornish
+GTTTTATCCTGGCTTA-T-TCTTTC-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAA-A-GGT-AAATTGAAA-TGTTAAGATAAAGAGATGA
+ACCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGG
+CGGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACG
+AAGAATCTTACTTTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Danish
+GTTTTATCCTAGCTTA-T-TCTTTC-AATTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAG-A-GGT-TAATTGAAA-TATTAAAATAAAGGAATGA
+ACCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGG
+CGGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACG
+AAGAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>EasternFrisianSaterland
+GTTTTATCCTGGCTAA-TATTTCTT-GTTTTTAAATTTGTGCCAGCAGCC
+GCGGTTATACTGAG-A-GGT-AGATTAAGA-TGTTAAGTTAAAGGTATGG
+ACCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGG
+CGGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACG
+AAGTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CCAATGATTATAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Faroese
+GTTTTATCCTGGCTAA-TAGTTCTT-ATTATTAAATTTGTGCCAGCAGCC
+GCGGTTATACTGAG-A-GGT-GGATTAAGA-TGTTAAGATAAAGGTATGG
+ACCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGG
+CGGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACG
+AAGAATCTTACCTTGTGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CCGATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Icelandic
+GTTTGATTCTTGC-TA-T-GT-TTT--TTGCTAGACTTGTGCCAGCATCC
+GCGGTTAGAC-TTG-GGGATCTAG-TGAAACGA-GGAATTTTAGGTATGG
+ACCAGGATTAGATACCCTGAATTAATACGTTTGAAATTCAAAGAACCTGG
+CGGTACTTTAGTCTAGTTAGAGGAACCTGTTGTATAAACGATAAACCACG
+TAGAATCTTTCTTACTGCTAGTATACCTTCATTATTAGATCAAGGTGCTG
+CTGATGATAATAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CAT
+TAAATTAGA-TGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCA
+CC
+>Irish
+GTTTTATCCTGGCTTA-T-TCTTTC-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAG-A-GAC-GGATTGAAA-TATTAAGATAGAGGAATGA
+ACCAGGATTAGATACCCTGCAGCTATTATCTTGAAACTCAAAGGATTTGG
+CGGTAACCTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACG
+CAATATCTTGCTTTATGCTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCA
+CC
+>KolschColognian
+GTTTGATTCTTGC-TA-T-TA-CCT--TTATTAAACTTGTGCCAGCAGCC
+GCGGTTAAAC-TCG-ATGTCCTAG-TGAAGCTA-GAAAATTTAGGTAAGG
+ACCAGGATTAGATACCCTGAATAAATTAATTTTAAATTCAAAGAACCTGG
+CGGTACTTTAGTCTAGTTGGAGGAACCTGTTTTATAAACGATAAACCACG
+TAAAATCTTTCTTATTGTTAGTATACCTTCATTATTAGATCAAGGTGCTG
+CAAATGGTATTAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CAT
+TAAGTTAAA-TGAGATAAGTCGTAACATAGTGGGTGTACTGGAAAGTGCA
+CC
+>Manx
+GTTTTATCCTGGCTTA-T-TCTTTC-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAA-A-GGT-AGATTGAAA-TGTTAAGATAAAGAGATGA
+ACCAGGATTAGATACCCTGCAGTTATTATCTTGAAACTCAAAGGATTTGG
+CGGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACG
+AAGAATCTTACTCTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>OldPrussian
+GTTTTATCCTAGCTTG-T-TCTTTC-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAG-A-GGT-CAATTGAAA-TATTAAAATAAAGGAATGA
+ACCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGG
+CGGTAATTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACG
+AAAAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTTATGACCTTAGCCCTAGATTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>SanskritVedic
+GTTTGATTCTTGCTTA-T-AATTTT-TATACTATATTTGTGCCAGCAGTC
+GCGGTTATACTTAG-AGGGT-AAA-TAAAT-TATAAATTTTAATATATAA
+ACTAGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGG
+CGGTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAGCCACG
+AA-TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAG
+TTTATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-
+C--CTAAAAATGAAATAAGTCGTAACAAAGTAGATGTGCCGGAAGGCGTA
+TC
+>Scots
+GTTTTATCCTGGCTCA-TAATTCTT-ATTTTTAGATTTGTGCCAGCAGCC
+GCGGTTATACTGAG-A-GGT-AAATTAAGA-TATTAAGATAAAGGTATGA
+ACCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGG
+CGGTAATTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAAACCACG
+AAGTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAG
+CTAATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGT
+T-AGTTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
+CC
+>Yiddish
+GTTTGACTCTTGC-TT-T-AA-TTT--TCGTT-AACTTGTGCCAGCAGCC
+GCGGTTATAC-TAGAAGGTT-GAA-TGAAA-TATTAAATTTTAGATATAA
+ACCAGGATTAGATACCCTGAATGAATTAATTTAAAATTCAAAGAGTTTGG
+CGGTATTTTAGTCCTGTTAGAGGAATCTGTTTTATAAACGATAACCCCCG
+TAATATCTTTCTTATTGCTAGTATACCATCATTATTAGATCATGGTGCTG
+TTTATGAGATTGGCTCTAAAATGTGTACATATTGCCCGTCGC-TTT-CAT
+T--CTTAAA-TGAGATAAGTCGTAACATAGTAGGAGTACTGGAAAGTGTT
+TC
+
+
+Sequence character woman-wide_aa.fas#0
+>AlbanianTosk
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V I V T A H A F V I I F F M V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L S R G I V E S G V G T G 
+- - T V Y P P L S A G I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R R T 
+G I T I D R I P L F V S V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G M I S H I I R Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - - L G 
+T L H G T Q L N Y S P S L I - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S M G A V F G I F A G I A H - - - F 
+P L F T G L T I N P K - L K I H F I V M F V G V N 
+I T F F P Q H F L G L N G M P R R Y S D Y P D A Y 
+T S N V L S S I G S T I S L I A V L G F I V I V E 
+A L V T T R P V L F S L F L P T S I E - - Q H N L 
+P P A D H S Y I E I P L I T N 
+>AncientIonicGreek
+T K R F F S T N H K D I G T L Y F I F G A - - S G 
+M V G T A L R L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L I R G I V E R G V G T G 
+- - T V Y P P L S A R I A H A G A S V D I G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R P V 
+G I S I D R I P L F V A V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V S Q E S G K K E S F G T L G I I Y A 
+I L A I G I L G F I V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A I P T G I K I F - R - - L G 
+T L Q G N Q I N Y R P S I I - - A L G F I F L F T 
+V G G L T G V V L A N S S I D T V L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - - Y 
+P L F T G L S I N P K W L K I H F S V I F L G V N 
+L T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+T P N V L S S I G S I I S L C A V I G F V F I I E 
+S L I S S R P V I F S L F Q P T S I E - - K H H Y 
+P P A D H R F I Q I A L I S N 
+>ArmenianWestern
+T Q R L F S T N H K D I G T L Y F I F G A - - S G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L A A G I A H A G A S V D I G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R A S 
+G I T L D R I P L F V S V F I T A L L L L L S L P 
+V L A G A I T M L L T D R N L N T S F F D P A G G 
+G D P I L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H M F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - - L G 
+T L H G T Q L N Y S P S L L - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - W F 
+P L F T G L T L N P R - L K M H F L T I F V G V N 
+I T F F P Q H F L G L R G M P R R Y S D Y P D A Y 
+T A N V V S S I G S T I S L I A V L G F V I I V E 
+A L S A N R P V I F S L F L P T S I E - - Q H N L 
+P P A D H S Y I E I P L I T N 
+>Assamese
+T K R F F S T N H K D I G T L Y F I F G A W - A G 
+I V G T S L S L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L T S G I V E R G V G T G 
+- - T V Y P P L S A A I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R P Q 
+G I T L D R I P L F V S V F I T A I L L L L S L P 
+V L A G A I T M L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V S Q E S G K A E S F G T L G I I Y A 
+I L A I G I L G F L V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K I F - R - - L G 
+T L H G A Q V N Y R P S L L W - A M G F I F L F T 
+V G G L T G V V L A N S S L D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I T H - - - F 
+P L F T G L S L N P T W L K I H F F V M F V G V N 
+I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+A A N V L S S M G S I V S L V A V L G F I I I V E 
+S L V S S R S V I F T T F F P T S V E - - E H A Y 
+P P A D H R Y I E I P I V S N 
+>Cornish
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F I V M P I I I G G 
+F G N - L V P L M L G A P D M A F P R I N N M S F 
+- - W L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A S I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F M T T V I N I R S T 
+G I T I D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - - L G 
+T L H G T Q L N Y S P S L I - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S M G A V F G I F A G I A H - - - F 
+P L F T G L T L N P K - L K V H F L V M F I G V N 
+I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+S A N V V S S I G S T V S L I A V L G F V I I V E 
+A L T V A R P V I F S L F L P T S I E - - Q H N L 
+P P A D H S Y I E I P L I T N 
+>Danish
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V M I F F I V I P I I I G G 
+F G N - L V P L M L G A P D I A F P R M N N I S F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- W T V Y P P L S A S I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - - L G 
+T L H G T Q L N Y S P S L I - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S M G A V F G I F A G I A H - - - F 
+P L F T G L T L N P K - L K I H F L V I F I G V N 
+I T F F P Q H F L G L N G K P R R Y S D Y P D A Y 
+S A N G V S S I G S T V S L I A V L G F V I I V E 
+A L T A A R P V I F S L F L P T S I E - - Q H N L 
+P P A D H S Y I E I P L I T N 
+>EasternFrisianSaterland
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L S L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F I I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+W - T V Y P P L S A G I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R M P L F V S I F I T T L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I R Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - - L G 
+T L H G T Q L N Y S P S L L - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - - F 
+P L F T G V T L N P K - L K I H F L V I F I G V N 
+I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+T A N V L S S I G S T I S L I A V L G F I I I V E 
+A L T A T R P I I F S L F L P T S I E - - Q H N F 
+P P A D H R Y I E I P L I T N 
+>Faroese
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L S L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F M V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A G I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R M P L F V S V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G I L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S W - L G 
+T L H G T Q L N Y S P S L L - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - - F 
+P L F T G V T L N P K - L K I H F L I I F V G V N 
+I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+T T N V V S S I G S T I S L I A V L G F I I I V E 
+A L T A A R P V I F S L F L P T S I E - - Q H N F 
+P P A D H S Y I E I P L I T N 
+>Icelandic
+T Q R F F S T N H K D I G T L Y F I F G A - - A G 
+M V G T S L R L I I R A E L G Q P G R F I G D D Q 
+I Y N V V V T A H A F I M I F F M V M P I I I G G 
+F G N - L V P I I L G A P D I A F P R M N N M R F 
+- - - L L P P S L T L L L A G G A V E R G A G T G 
+- - T V Y P P L S V G V A H A G A S V D L S I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S S 
+G I T L D R I P L F V S V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P V G G 
+G D P I L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V A Q E S N K K K P F G A L G M I Y A 
+I L A I G I L G F V V A H H M F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K V F - R - - L G 
+T L H G A H F S L T P S L L - W A L G F I F L F T 
+V G G L T G I V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - - F 
+P L F T G I S L N P K - L K I Q F S A I F I G V N 
+T T F F P Q H F L G L R G M P R R Y S D Y P D A Y 
+T T N V V S S I G S S I S L V A V L G F V F I I E 
+G L A S K R P L M F N S F M P T S I E W - Y H S Y 
+P P A D H R Y M E V P I I T A 
+>Irish
+T Q R L F S T N H K D I G T L Y F I F G A - W A G 
+I V G T A L S L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V M I F F I V M P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I S F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A R I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G M I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - W L G 
+T L H G T Q L N Y S P S L I - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - - F 
+P L F T G L T L N P K - L K I H F L V I F V G V N 
+I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+T A N V V S S I G S T I S L I A V L G F I I I V E 
+A L T A A R P V L F S L F L P T S I E - - Q H N L 
+P P A D H S Y I E I P L I T N 
+>KolschColognian
+T Q R F F S K K Y K D I G T L Y F I F G A - - A G 
+I V G T S L R L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F I V M P I I I G G 
+F G N W L V P I M L G A P D M A F P R M N N I R F 
+- - - L L P P S L T L L L A S G I V E R G V G T G 
+- - T V Y P P L A G A V A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N M R S S 
+G I T F D R M P L F V S V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F A P V G A 
+R D P I N Y H H I F V L D N P E V Y I L I L P A F 
+G M I S H I V S Q E S N K K K P F G A L G I I Y A 
+M L S I G L L G F I V A H H M F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K V F - R - - L G 
+T L H G A H F T L T P S L L - W S L G F I F L F T 
+V G G L T G I V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - W - F 
+P L F T G V T L N P K - L K I Q F T A I F I G V N 
+I T F F P Q H F L G L R G I P R R Y S D Y P D A Y 
+S T N V I S S V G S S I S L V A V L L F V F I I E 
+G L A S K R P I L F N S F I P T S I E - - I H P Y 
+P P A D H S Y M E I P L L T A 
+>Manx
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F M V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N M S F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A S I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G M I S H I I S Q E S G K K E A F G T L G I I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - - L G 
+T L H G T Q L N Y S P S L I - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - - F 
+P L F T G L T L N P K - L K I H F I V M F V G V N 
+I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+S A N V V S S I G S T V S L I A V L G F V I I V E 
+A L T V A R P V I F S L F L P T S I E - - Q H N L 
+P P A D H S Y I E I P L I T N 
+>OldPrussian
+T Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L R L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F M V I P I M I G G 
+F G N - L V P L I L G A P D M A F P R I N N I S F 
+- - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A S I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T M D R I P L F V A V F I T A L L L L L S L P 
+V L A G A I T M L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I S Q E S G K K E A F G T P G M I Y A 
+I L A I G V L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - - L G 
+T L H G T Q L N Y S P S L I - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - - F 
+P L F T G L T L N P K - L K I H F L V I F I G V N 
+I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+S A N V V S S I G S T V S L I A V L G F V M I V E 
+A L T A A R P V I F S L F L P T S I E - W Q H N L 
+P P A D H S Y I E I P L I T N 
+>SanskritVedic
+T K R F F S T N H K D I G T L Y F I F G A - - A G 
+I V G T S L S L I I R A E L G Q P G S L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I S F 
+- - - L L P P S L T L L L T R G I V E R G V G T G 
+- - T V Y P P L S A A I A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R P Q 
+G I T L D R I P L F V S V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V R Q E S G K A E S F G T L G I I Y A 
+I L A I G I L G F L V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K I F - R - - L G 
+T L H G A Q V N Y S P S L L - - A I G F I F L F T 
+V G G L T G V V L A N S S L D I I L H D T Y Y V V 
+A H F H Y V L S M G A V F G I F A G I T H W - - Y 
+P L F T G L S L N P T - L K I H F F V I F V G V N 
+I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+T A N V L S S I G S I V S L V A V L G F I I I V E 
+S L V A S R S V I F S T F F P T S V E - - E H S Y 
+P P A D H R Y I E I P M V S N 
+>Scots
+A Q R L F S T N H K D I G T L Y F I F G A - - A G 
+I V G T A L S L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F M V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N I R F 
+- W - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L S A G I A H A G A S V D I G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V S V F I T T L L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I I R Q E S G K K E A F G T L G I I Y A 
+M L A I G I L G F V V A H H I F T V G M D V D T R 
+A Y F T S A T I I I A V P T G I K I F - S - - L G 
+T L H G T Q L N Y S P S L L - - A L G F V F L F T 
+V G G L T G V V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - - F 
+P L F T G V T L N P K - L K I H F L T I F V G V N 
+I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
+T A N V L S S I G S T I S L I A V I G F V I I V E 
+A L T A A R P V I F S L F L P T S I E - - Q H S F 
+P P A D H S Y I E I P L I T N 
+>Yiddish
+T Q R F F S T N H K D I G T L Y F I F G A - - A G 
+M V G T S L R L I I R A E L G Q P G R L I G D D Q 
+I Y N V V V T A H A F V I I F F I V I P I I I G G 
+F G N - L V P L I L G A P D I A F P R I N N M R F 
+W - - L L P P S L T L L L S R G I V E R G V G T G 
+- - T V Y P P L A A A V A H A G A S V D L G I F S 
+L H L A G V S S I L G A V N F I T T V I N I R S T 
+G I T I D R I P L F V S V F I T A I L L L L S L P 
+V L A G A I T I L L T D R N L N T S F F D P A G G 
+G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
+G I I S H I V R Q E S G K K E S F G A L G I I Y A 
+I L A I G V L G F V V A H H I F T V G I D V D T R 
+A Y F T S A T I I I A V P T G I K V F S W - - L G 
+T L H G T Q I Y F T P S L L - - A L G F I F L F T 
+I G G L T G I V L A N S S I D I I L H D T Y Y V V 
+A H F H Y V L S I G A V F G I F A G I A H - - - F 
+P L F T G L S L N P K - I K I H F I T I F I G V N 
+I T F F P Q H F L G L R G I P R R Y S D Y P D A Y 
+I T N V V S S V G S T I S L I A V L R F I I I I E 
+A L R S N R S I I F S F F L P T S I E - - H H N Y 
+P P A D H R Y N E I P I I T S 
+
+
+Sequence character woman_cox1aln.fasta#0
+>AlbanianTosk
+TTATATTAGGAGCACCAGATATAGCTTTCCCTCGAATAAATAATATAAGA
+TTTTGACTTCTTCCACCATCTTTAACTTTACTCCTCTCTAGAGGAATAGT
+AGAAAGTGGAGTGGGAACAGGCTGAACTGTCTATCCTCCTTTATCTGCTG
+GAATTGCACATGCTGGTGCCTCAGTAGATTTAGGAATCTTTTCTTTACAC
+CTAGCAGGAGTTTCATCCATCTTAGGGGCCGTAAACTTTATAACTACCGT
+TATCAATATACGAAGAACAGGTATAACAATAGACCGAATTCCTCTTTTTG
+TATGATCTGTATTTATTACAGCCCTTCTTCTCCTTCTTTCCCTCCCAGTC
+>AncientIonicGreek
+TAATATTAGGTGCCCCTGATATAGCTTTTCCACGAATAAATAATATAAGA
+TTTTGACTCCTTCCACCTTCTCTAACTCTTCTTTTAATAAGAGGAATAGT
+TGAAAGAGGTGTAGGAACTGGATGAACTGTTTACCCTCCTTTATCGGCTA
+GAATCGCTCACGCAGGAGCATCTGTAGATATAGGAATTTTCTCCTTACAT
+CTGGCCGGTGTCTCATCAATTCTTGGTGCAGTAAACTTTATAACCACAGT
+TATTAATATACGCCCTGTTGGTATATCAATAGATCGTATACCTTTATTTG
+TTTGAGCCGTATTTATTACAGCTATTCTTTTATTACTATCCTTACCCGTT
+>ArmenianWestern
+TAATATTAGGAGCTCCAGATATAGCTTTCCCTCGAATAAATAATATAAGA
+TTCTGACTCCTCCCTCCCTCTTTAACTCTTTTACTTTCAAGAGGAATAGT
+AGAAAGAGGAGTAGGAACGGGATGAACCGTTTATCCTCCTCTTGCAGCCG
+GAATTGCTCATGCCGGAGCTTCAGTTGATATAGGAATCTTCTCTCTACAT
+TTAGCAGGAGTATCCTCTATTTTAGGGGCCGTAAATTTTATAACAACAGT
+GATTAACATACGGGCATCTGGAATAACATTAGACCGAATACCTTTATTCG
+TGTGATCTGTATTTATTACTGCACTATTATTACTTTTATCACTACCAGTT
+>Assamese
+TAATACTAGGAGCACCGGATATAGCTTTTCCACGAATAAATAATATAAGA
+TTTTGACTTTTACCCCCATCTTTAACTCTTTTATTAACTAGTGGTATAGT
+AGAAAGAGGTGTAGGTACAGGATGAACTGTGTATCCCCCACTTTCCGCAG
+CTATTGCTCACGCCGGAGCATCGGTAGATTTAGGTATTTTTTCTCTACAT
+TTAGCCGGAGTCTCTTCTATTTTAGGGGCTGTAAATTTTATAACGACAGT
+CATTAATATACGACCCCAGGGAATAACCTTAGATCGCATACCTTTATTTG
+TTTGATCTGTATTTATTACTGCGATTCTACTTTTATTATCACTACCTGTT
+>Cornish
+TAATGTTAGGTGCTCCTGATATGGCTTTTCCACGAATAAACAATATGAGT
+TTCTGGCTCCTACCTCCTTCACTAACACTACTTCTTTCTAGAGGTATAGT
+TGAAAGAGGAGTAGGAACAGGATGAACTGTTTACCCTCCTTTATCAGCCA
+GTATTGCTCATGCTGGGGCTTCGGTAGATTTAGGAATTTTCTCCCTACAC
+TTGGCAGGTGTTTCTTCAATTTTAGGAGCTGTAAATTTTATGACAACTGT
+TATTAACATACGATCTACGGGAATAACTATAGACCGAATACCGCTTTTCG
+TTTGAGCAGTATTTATTACAGCATTACTTCTCTTATTATCTCTACCGGTA
+>Danish
+TAATGTTAGGTGCTCCAGATATAGCTTTCCCTCGAATGAATAATATAAGC
+TTCTGACTTTTACCTCCTTCTCTTACCCTTCTTTTATCTAGAGGGATAGT
+TGAAAGAGGTGTTGGAACTGGTTGGACAGTTTATCCTCCACTCTCTGCTA
+GTATTGCCCACGCTGGAGCTTCAGTAGACCTTGGAATCTTTTCCCTACAT
+CTAGCTGGTGTATCTTCTATTCTAGGAGCAGTAAATTTTATAACTACTGT
+AATCAATATACGATCTACAGGAATAACTATAGACCGAATACCTCTTTTTG
+TTTGAGCAGTATTCATTACTGCTTTACTATTACTTCTATCATTACCAGTC
+>EasternFrisianSaterland
+TAATATTAGGAGCTCCTGATATAGCTTTTCCTCGAATAAATAATATAAGA
+TTCTGACTCTTACCTCCATCCCTAACCCTCCTCCTCTCTAGAGGAATAGT
+AGAAAGAGGAGTTGGAACAGGATGGACTGTTTATCCTCCACTGTCAGCCG
+GAATCGCCCACGCAGGAGCCTCTGTAGATTTAGGAATCTTCTCCCTTCAC
+CTAGCAGGAGTTTCTTCAATTCTAGGTGCAGTAAATTTTATAACAACAGT
+AATTAACATACGATCAACAGGAATAACTATAGACCGAATGCCCTTATTTG
+TCTGATCAATCTTTATTACTACCCTTCTCCTCCTTCTATCTCTCCCAGTA
+>Faroese
+TTATATTAGGTGCCCCAGATATAGCTTTCCCCCGAATAAATAATATAAGA
+TTTTGACTCTTACCTCCTTCTCTAACTCTATTACTTTCTAGAGGAATAGT
+AGAAAGAGGAGTAGGAACAGGATGAACTGTTTATCCTCCTTTATCCGCCG
+GAATTGCTCACGCCGGGGCCTCTGTAGACCTAGGTATTTTCTCACTACAC
+TTAGCAGGAGTATCTTCAATTCTAGGAGCAGTAAATTTTATAACAACTGT
+AATTAATATACGGTCAACTGGAATAACTATAGACCGTATGCCTTTATTTG
+TTTGATCAGTATTCATTACCGCTCTCCTTCTCCTCTTATCTCTACCAGTT
+>Icelandic
+TTATACTAGGAGCTCCCGATATAGCTTTCCCCCGAATGAATAACATGAGA
+TTTTGACTTCTTCCCCCATCGCTAACGCTTCTTCTGGCTGGAGGAGCCGT
+AGAAAGAGGAGCTGGAACCGGTTGAACAGTTTATCCGCCTCTTTCGGTGG
+GAGTGGCACACGCTGGTGCGTCAGTGGACTTAAGTATCTTTTCACTACAC
+CTAGCAGGTGTTTCATCCATTCTTGGAGCCGTCAACTTTATTACTACCGT
+CATCAATATACGGTCATCTGGGATAACACTAGATCGAATACCTCTCTTTG
+TTTGATCTGTTTTCATTACAGCTATCCTATTACTTCTTTCGCTCCCAGTG
+>Irish
+TAATATTAGGAGCACCTGATATAGCATTCCCACGAATAAATAATATAAGC
+TTTTGACTGCTACCTCCTTCTCTCACCCTTCTTCTATCTAGAGGAATAGT
+TGAAAGAGGAGTTGGAACAGGATGAACTGTATATCCTCCCCTATCAGCTA
+GAATCGCACATGCAGGGGCCTCTGTAGATTTGGGAATTTTTTCATTGCAT
+TTAGCAGGAGTTTCATCAATTCTAGGGGCCGTAAATTTCATAACAACTGT
+AATTAATATACGATCTACAGGTATAACTATAGACCGAATACCGTTATTCG
+TCTGAGCAGTTTTTATTACAGCGCTCTTACTCCTTTTATCTTTACCCGTT
+>KolschColognian
+TTATGTTAGGTGCCCCAGATATGGCATTTCCCCGAATGAATAACATAAGA
+TTCTGACTTTTACCTCCCTCTCTAACGCTTCTTCTAGCTAGTGGTATAGT
+GGAGAGGGGAGTAGGAACTGGCTGAACAGTTTATCCCCCTCTAGCAGGGG
+CAGTGGCCCATGCCGGAGCATCAGTAGATTTGGGTATTTTCTCCCTCCAT
+CTTGCCGGTGTGTCATCAATTCTAGGAGCCGTAAATTTTATTACAACAGT
+AATTAATATGCGGTCTTCAGGTATAACATTCGACCGAATGCCTCTATTTG
+TATGATCTGTGTTTATTACTGCCATTTTACTTCTACTTTCTCTTCCCGTA
+>Manx
+TAATATTAGGTGCTCCCGATATAGCTTTCCCTCGAATAAATAATATGAGT
+TTCTGACTTTTACCTCCCTCGCTAACTCTACTTCTTTCTAGAGGTATAGT
+CGAAAGAGGGGTAGGAACAGGATGAACTGTTTACCCTCCTCTATCTGCCA
+GCATTGCCCATGCAGGAGCATCTGTAGATCTAGGAATCTTCTCATTACAT
+TTAGCAGGGGTTTCTTCAATTCTAGGTGCTGTAAATTTTATAACTACCGT
+TATCAATATACGATCAACAGGAATAACTATAGACCGAATACCTCTTTTCG
+TCTGAGCGGTATTTATTACAGCCTTACTACTTTTACTATCATTACCGGTT
+>OldPrussian
+TAATACTAGGTGCCCCGGATATGGCTTTCCCTCGAATAAATAACATAAGT
+TTCTGACTTTTACCCCCATCTCTCACTCTCCTCTTATCTAGAGGAATAGT
+AGAAAGAGGTGTAGGAACTGGATGAACTGTATATCCTCCTTTATCTGCAA
+GTATTGCCCATGCGGGAGCTTCCGTTGATCTCGGAATCTTCTCACTACAC
+TTAGCAGGTGTATCATCAATTTTAGGTGCCGTAAATTTTATAACAACTGT
+TATCAATATACGATCTACCGGAATAACTATGGACCGGATACCTCTTTTTG
+TTTGAGCAGTATTTATTACTGCTTTACTTTTACTACTGTCCTTACCAGTT
+>SanskritVedic
+TAATATTAGGAGCACCAGATATAGCATTTCCACGAATAAATAATATAAGT
+TTTTGACTTCTACCCCCCTCTTTAACTCTTTTATTAACTAGAGGTATAGT
+AGAAAGAGGAGTAGGAACAGGATGAACTGTTTACCCACCACTATCCGCAG
+CAATTGCACATGCAGGAGCATCAGTGGATTTAGGTATTTTTTCTTTGCAT
+TTGGCTGGAGTATCTTCTATTTTAGGGGCTGTAAATTTTATAACTACAGT
+TATTAATATACGTCCACAAGGAATAACCTTAGACCGTATACCTTTATTTG
+TGTGATCCGTATTTATTACTGCAATTCTACTTTTATTATCACTACCAGTT
+>Scots
+TTATACTTGGTGCCCCTGATATAGCTTTCCCCCGTATAAATAATATAAGA
+TTTTGGCTTCTTCCCCCATCTTTAACTCTTCTTCTTTCCAGAGGAATAGT
+AGAAAGAGGGGTAGGAACAGGATGAACTGTTTACCCTCCTTTGTCTGCTG
+GAATCGCCCACGCCGGAGCTTCTGTTGATATAGGAATTTTCTCTCTCCAT
+CTTGCCGGAGTTTCTTCAATTTTAGGGGCAGTAAATTTTATAACAACTGT
+TATTAATATACGTTCAACAGGAATAACTATAGACCGAATCCCCCTTTTTG
+TGTGATCAGTGTTTATTACTACCCTTCTTCTACTTTTATCCCTTCCAGTC
+>Yiddish
+TAATACTTGGAGCCCCAGATATAGCTTTCCCTCGAATAAATAACATGAGA
+TTTTGGTTGCTACCTCCTTCTCTAACCCTTCTTCTATCAAGAGGAATAGT
+TGAAAGAGGTGTAGGAACTGGCTGAACAGTTTATCCTCCCTTAGCAGCCG
+CCGTCGCTCATGCCGGAGCATCCGTAGATTTAGGTATTTTTTCACTTCAT
+CTTGCAGGAGTTTCTTCAATCCTAGGAGCAGTAAATTTCATAACAACTGT
+AATTAATATACGGTCAACTGGGATAACTATAGACCGCATACCCTTATTTG
+TCTGATCTGTTTTTATCACCGCAATTTTACTTCTTCTATCTCTACCTGTC
+
+
+Sequence character woman_cox1_spaced.fastc#0
+>AlbanianTosk
+T T A T A T T A G G A G C A C C A G A T A T A G C 
+T T T C C C T C G A A T A A A T A A T A T A A G A 
+T T T T G A C T T CT T C C A C C A T C T T T A A C
+ T T T A C T C C T C T C T A G A G G A A T A G T A
+ G A A A G T G G A G T G G G A A C A GG C T G A A 
+C T G T C T A T C C T C C T T T A T C T G C T G G 
+A A T T G C A C A T G C T G G T G C C T C A G T A 
+G A T TT A G G A A T C T T T T C T T T A C A C C T
+ A G C A G G A G T T T C A T C C A T C T T A G G G
+ G C C G T A A A C T T T AT A A C T A C C G T T A 
+T C A A T A T A C G A A G A A C A G G T A T A A C 
+A A T A G A C C G A A T T C C T C T T T T T GT A T
+ G A T C T G T A T T T A T T A C A G C C C T T C T
+ T C T C C T T C T T T C C C T C C C A G T C 
+>AncientIonicGreek
+T A A T A T T A G G T G C C C C T G A T A T A G C 
+T T T T C C A C G A A T A A A T A A T A T A A G A 
+T T T T G A C T C CT T C C A C C T T C T C T A A C
+ T C T T C T T T T A A T A A G A G G A A T A G T T
+ G A A A G A G G T G T A G G A A C T GG A T G A A 
+C T G T T T A C C C T C C T T T A T C G G C T A G 
+A A T C G C T C A C G C A G G A G C A T C T G T A 
+G A T AT A G G A A T T T T C T C C T T A C A T C T
+ G G C C G G T G T C T C A T C A A T T C T T G G T
+ G C A G T A A A C T T T AT A A C C A C A G T T A 
+T T A A T A T A C G C C C T G T T G G T A T A T C 
+A A T A G A T C G T A T A C C T T T A T T T GT T T
+ G A G C C G T A T T T A T T A C A G C T A T T C T
+ T T T A T T A C T A T C C T T A C C C G T T 
+>ArmenianWestern
+T A A T A T T A G G A G C T C C A G A T A T A G C 
+T T T C C C T C G A A T A A A T A A T A T A A G A 
+T T C T G A C T C CT C C C T C C C T C T T T A A C
+ T C T T T T A C T T T C A A G A G G A A T A G T A
+ G A A A G A G G A G T A G G A A C G GG A T G A A 
+C C G T T T A T C C T C C T C T T G C A G C C G G 
+A A T T G C T C A T G C C G G A G C T T C A G T T 
+G A T AT A G G A A T C T T C T C T C T A C A T T T
+ A G C A G G A G T A T C C T C T A T T T T A G G G
+ G C C G T A A A T T T T AT A A C A A C A G T G A 
+T T A A C A T A C G G G C A T C T G G A A T A A C 
+A T T A G A C C G A A T A C C T T T A T T C GT G T
+ G A T C T G T A T T T A T T A C T G C A C T A T T
+ A T T A C T T T T A T C A C T A C C A G T T 
+>Assamese
+T A A T A C T A G G A G C A C C G G A T A T A G C 
+T T T T C C A C G A A T A A A T A A T A T A A G A 
+T T T T G A C T T TT A C C C C C A T C T T T A A C
+ T C T T T T A T T A A C T A G T G G T A T A G T A
+ G A A A G A G G T G T A G G T A C A GG A T G A A 
+C T G T G T A T C C C C C A C T T T C C G C A G C 
+T A T T G C T C A C G C C G G A G C A T C G G T A 
+G A T TT A G G T A T T T T T T C T C T A C A T T T
+ A G C C G G A G T C T C T T C T A T T T T A G G G
+ G C T G T A A A T T T T AT A A C G A C A G T C A 
+T T A A T A T A C G A C C C C A G G G A A T A A C 
+C T T A G A T C G C A T A C C T T T A T T T GT T T
+ G A T C T G T A T T T A T T A C T G C G A T T C T
+ A C T T T T A T T A T C A C T A C C T G T T 
+>Cornish
+T A A T G T T A G G T G C T C C T G A T A T G G C 
+T T T T C C A C G A A T A A A C A A T A T G A G T 
+T T C T G G C T C CT A C C T C C T T C A C T A A C
+ A C T A C T T C T T T C T A G A G G T A T A G T T
+ G A A A G A G G A G T A G G A A C A GG A T G A A 
+C T G T T T A C C C T C C T T T A T C A G C C A G 
+T A T T G C T C A T G C T G G G G C T T C G G T A 
+G A T TT A G G A A T T T T C T C C C T A C A C T T
+ G G C A G G T G T T T C T T C A A T T T T A G G A
+ G C T G T A A A T T T T AT G A C A A C T G T T A 
+T T A A C A T A C G A T C T A C G G G A A T A A C 
+T A T A G A C C G A A T A C C G C T T T T C GT T T
+ G A G C A G T A T T T A T T A C A G C A T T A C T
+ T C T C T T A T T A T C T C T A C C G G T A 
+>Danish
+T A A T G T T A G G T G C T C C A G A T A T A G C 
+T T T C C C T C G A A T G A A T A A T A T A A G C 
+T T C T G A C T T TT A C C T C C T T C T C T T A C
+ C C T T C T T T T A T C T A G A G G G A T A G T T
+ G A A A G A G G T G T T G G A A C T GG T T G G A 
+C A G T T T A T C C T C C A C T C T C T G C T A G 
+T A T T G C C C A C G C T G G A G C T T C A G T A 
+G A C CT T G G A A T C T T T T C C C T A C A T C T
+ A G C T G G T G T A T C T T C T A T T C T A G G A
+ G C A G T A A A T T T T AT A A C T A C T G T A A 
+T C A A T A T A C G A T C T A C A G G A A T A A C 
+T A T A G A C C G A A T A C C T C T T T T T GT T T
+ G A G C A G T A T T C A T T A C T G C T T T A C T
+ A T T A C T T C T A T C A T T A C C A G T C 
+>EasternFrisianSaterland
+T A A T A T T A G G A G C T C C T G A T A T A G C 
+T T T T C C T C G A A T A A A T A A T A T A A G A 
+T T C T G A C T C TT A C C T C C A T C C C T A A C
+ C C T C C T C C T C T C T A G A G G A A T A G T A
+ G A A A G A G G A G T T G G A A C A GG A T G G A 
+C T G T T T A T C C T C C A C T G T C A G C C G G 
+A A T C G C C C A C G C A G G A G C C T C T G T A 
+G A T TT A G G A A T C T T C T C C C T T C A C C T
+ A G C A G G A G T T T C T T C A A T T C T A G G T
+ G C A G T A A A T T T T AT A A C A A C A G T A A 
+T T A A C A T A C G A T C A A C A G G A A T A A C 
+T A T A G A C C G A A T G C C C T T A T T T GT C T
+ G A T C A A T C T T T A T T A C T A C C C T T C T
+ C C T C C T T C T A T C T C T C C C A G T A 
+>Faroese
+T T A T A T T A G G T G C C C C A G A T A T A G C 
+T T T C C C C C G A A T A A A T A A T A T A A G A 
+T T T T G A C T C TT A C C T C C T T C T C T A A C
+ T C T A T T A C T T T C T A G A G G A A T A G T A
+ G A A A G A G G A G T A G G A A C A GG A T G A A 
+C T G T T T A T C C T C C T T T A T C C G C C G G 
+A A T T G C T C A C G C C G G G G C C T C T G T A 
+G A C CT A G G T A T T T T C T C A C T A C A C T T
+ A G C A G G A G T A T C T T C A A T T C T A G G A
+ G C A G T A A A T T T T AT A A C A A C T G T A A 
+T T A A T A T A C G G T C A A C T G G A A T A A C 
+T A T A G A C C G T A T G C C T T T A T T T GT T T
+ G A T C A G T A T T C A T T A C C G C T C T C C T
+ T C T C C T C T T A T C T C T A C C A G T T 
+>Icelandic
+T T A T A C T A G G A G C T C C C G A T A T A G C 
+T T T C C C C C G A A T G A A T A A C A T G A G A 
+T T T T G A C T T CT T C C C C C A T C G C T A A C
+ G C T T C T T C T G G C T G G A G G A G C C G T A
+ G A A A G A G G A G C T G G A A C C GG T T G A A 
+C A G T T T A T C C G C C T C T T T C G G T G G G 
+A G T G G C A C A C G C T G G T G C G T C A G T G 
+G A C TT A A G T A T C T T T T C A C T A C A C C T
+ A G C A G G T G T T T C A T C C A T T C T T G G A
+ G C C G T C A A C T T T AT T A C T A C C G T C A 
+T C A A T A T A C G G T C A T C T G G G A T A A C 
+A C T A G A T C G A A T A C C T C T C T T T GT T T
+ G A T C T G T T T T C A T T A C A G C T A T C C T
+ A T T A C T T C T T T C G C T C C C A G T G 
+>Irish
+T A A T A T T A G G A G C A C C T G A T A T A G C 
+A T T C C C A C G A A T A A A T A A T A T A A G C 
+T T T T G A C T G CT A C C T C C T T C T C T C A C
+ C C T T C T T C T A T C T A G A G G A A T A G T T
+ G A A A G A G G A G T T G G A A C A GG A T G A A 
+C T G T A T A T C C T C C C C T A T C A G C T A G 
+A A T C G C A C A T G C A G G G G C C T C T G T A 
+G A T TT G G G A A T T T T T T C A T T G C A T T T
+ A G C A G G A G T T T C A T C A A T T C T A G G G
+ G C C G T A A A T T T C AT A A C A A C T G T A A 
+T T A A T A T A C G A T C T A C A G G T A T A A C 
+T A T A G A C C G A A T A C C G T T A T T C GT C T
+ G A G C A G T T T T T A T T A C A G C G C T C T T
+ A C T C C T T T T A T C T T T A C C C G T T 
+>KolschColognian
+T T A T G T T A G G T G C C C C A G A T A T G G C 
+A T T T C C C C G A A T G A A T A A C A T A A G A 
+T T C T G A C T T TT A C C T C C C T C T C T A A C
+ G C T T C T T C T A G C T A G T G G T A T A G T G
+ G A G A G G G G A G T A G G A A C T GG C T G A A 
+C A G T T T A T C C C C C T C T A G C A G G G G C 
+A G T G G C C C A T G C C G G A G C A T C A G T A 
+G A T TT G G G T A T T T T C T C C C T C C A T C T
+ T G C C G G T G T G T C A T C A A T T C T A G G A
+ G C C G T A A A T T T T AT T A C A A C A G T A A 
+T T A A T A T G C G G T C T T C A G G T A T A A C 
+A T T C G A C C G A A T G C C T C T A T T T GT A T
+ G A T C T G T G T T T A T T A C T G C C A T T T T
+ A C T T C T A C T T T C T C T T C C C G T A 
+>Manx
+T A A T A T T A G G T G C T C C C G A T A T A G C 
+T T T C C C T C G A A T A A A T A A T A T G A G T 
+T T C T G A C T T TT A C C T C C C T C G C T A A C
+ T C T A C T T C T T T C T A G A G G T A T A G T C
+ G A A A G A G G G G T A G G A A C A GG A T G A A 
+C T G T T T A C C C T C C T C T A T C T G C C A G 
+C A T T G C C C A T G C A G G A G C A T C T G T A 
+G A T CT A G G A A T C T T C T C A T T A C A T T T
+ A G C A G G G G T T T C T T C A A T T C T A G G T
+ G C T G T A A A T T T T AT A A C T A C C G T T A 
+T C A A T A T A C G A T C A A C A G G A A T A A C 
+T A T A G A C C G A A T A C C T C T T T T C GT C T
+ G A G C G G T A T T T A T T A C A G C C T T A C T
+ A C T T T T A C T A T C A T T A C C G G T T 
+>OldPrussian
+T A A T A C T A G G T G C C C C G G A T A T G G C 
+T T T C C C T C G A A T A A A T A A C A T A A G T 
+T T C T G A C T T TT A C C C C C A T C T C T C A C
+ T C T C C T C T T A T C T A G A G G A A T A G T A
+ G A A A G A G G T G T A G G A A C T GG A T G A A 
+C T G T A T A T C C T C C T T T A T C T G C A A G 
+T A T T G C C C A T G C G G G A G C T T C C G T T 
+G A T CT C G G A A T C T T C T C A C T A C A C T T
+ A G C A G G T G T A T C A T C A A T T T T A G G T
+ G C C G T A A A T T T T AT A A C A A C T G T T A 
+T C A A T A T A C G A T C T A C C G G A A T A A C 
+T A T G G A C C G G A T A C C T C T T T T T GT T T
+ G A G C A G T A T T T A T T A C T G C T T T A C T
+ T T T A C T A C T G T C C T T A C C A G T T 
+>SanskritVedic
+T A A T A T T A G G A G C A C C A G A T A T A G C 
+A T T T C C A C G A A T A A A T A A T A T A A G T 
+T T T T G A C T T CT A C C C C C C T C T T T A A C
+ T C T T T T A T T A A C T A G A G G T A T A G T A
+ G A A A G A G G A G T A G G A A C A GG A T G A A 
+C T G T T T A C C C A C C A C T A T C C G C A G C 
+A A T T G C A C A T G C A G G A G C A T C A G T G 
+G A T TT A G G T A T T T T T T C T T T G C A T T T
+ G G C T G G A G T A T C T T C T A T T T T A G G G
+ G C T G T A A A T T T T AT A A C T A C A G T T A 
+T T A A T A T A C G T C C A C A A G G A A T A A C 
+C T T A G A C C G T A T A C C T T T A T T T GT G T
+ G A T C C G T A T T T A T T A C T G C A A T T C T
+ A C T T T T A T T A T C A C T A C C A G T T 
+>Scots
+T T A T A C T T G G T G C C C C T G A T A T A G C 
+T T T C C C C C G T A T A A A T A A T A T A A G A 
+T T T T G G C T T CT T C C C C C A T C T T T A A C
+ T C T T C T T C T T T C C A G A G G A A T A G T A
+ G A A A G A G G G G T A G G A A C A GG A T G A A 
+C T G T T T A C C C T C C T T T G T C T G C T G G 
+A A T C G C C C A C G C C G G A G C T T C T G T T 
+G A T AT A G G A A T T T T C T C T C T C C A T C T
+ T G C C G G A G T T T C T T C A A T T T T A G G G
+ G C A G T A A A T T T T AT A A C A A C T G T T A 
+T T A A T A T A C G T T C A A C A G G A A T A A C 
+T A T A G A C C G A A T C C C C C T T T T T GT G T
+ G A T C A G T G T T T A T T A C T A C C C T T C T
+ T C T A C T T T T A T C C C T T C C A G T C 
+>Yiddish
+T A A T A C T T G G A G C C C C A G A T A T A G C 
+T T T C C C T C G A A T A A A T A A C A T G A G A 
+T T T T G G T T G CT A C C T C C T T C T C T A A C
+ C C T T C T T C T A T C A A G A G G A A T A G T T
+ G A A A G A G G T G T A G G A A C T GG C T G A A 
+C A G T T T A T C C T C C C T T A G C A G C C G C 
+C G T C G C T C A T G C C G G A G C A T C C G T A 
+G A T TT A G G T A T T T T T T C A C T T C A T C T
+ T G C A G G A G T T T C T T C A A T C C T A G G A
+ G C A G T A A A T T T C AT A A C A A C T G T A A 
+T T A A T A T A C G G T C A A C T G G G A T A A C 
+T A T A G A C C G C A T A C C C T T A T T T GT C T
+ G A T C T G T T T T T A T C A C C G C A A T T T T
+ A C T T C T T C T A T C T C T A C C T G T C 
+
+Implied Alignments for Graph 8
+
+Sequence character woman.fastc#0
+>AlbanianTosk
+- - - - ɡ - - - - - \textfishhookr - u - a - - - -
+ - 
+>AncientIonicGreek
+- - - - - - - - - - - - ɡ \”u n - - - e \textlengt
+hmark 
+>ArmenianWestern
+- - - - - - - - - - ɡ - i - n - - - - - 
+>Assamese
+- - - - - - m a \textsci k i - m a n - - - u \text
+superscript{\texthth} 
+>Cornish
+- - - - b - - - - - \textepsilon n j - n - - - - -
+ 
+>Danish
+- - \textprimstress k \textsuperscript{h} - - - - 
+- v - e - n - - - - \textschwa 
+>EasternFrisianSaterland
+- - - - - - - - - - v - i\texthalflength - \textup
+silon - - - - v 
+>Faroese
+- - - k - - - - - - o - \textlengthmark - n - - - 
+- a 
+>Icelandic
+\textprimstress k - - - - - - - - \textsuperscript
+{h} - \textopeno - n - - - - a 
+>Irish
+- - - - b \textsuperscript{j} - - - - \ae - \textl
+engthmark - n - \textsubbridge \textsuperscript{\t
+extgamma} - - 
+>KolschColognian
+- - - - - - - - - - v - e\textlengthmark - z - - -
+ - h 
+>Manx
+- - - - b - - - - - \textepsilon - \textsuperscrip
+t{d} - n - - - - - 
+>OldPrussian
+- - - - v - - - - - i\textlengthmark r i - n a - -
+ - - 
+>SanskritVedic
+- - - - - - - - - s \textsubbridge - t \textsubbri
+dge \textrtailr - - - i \textlengthmark 
+>Scots
+w \textturnv - - - - - - - - m - m - \textscripta 
+- - - - n 
+>Yiddish
+- - - - - - - - - - - - f - \textscr - - - - \text
+openoj 
 
 
 Sequence character woman_binary.fasta#0
@@ -9848,1732 +11089,508 @@ T A T A G A C C G C A T A C C C T T A T T T GT C T
  G A T C T G T T T T T A T C A C C G C A A T T T T
  A C T T C T T C T A T C T C T A C C T G T C 
 
-Implied Alignments for Graph 8
-
-Sequence character woman.fastc#0
->AlbanianTosk
-- - - - - ɡ - - - - - - - - \textfishhookr - u a -
- - - - - - - - 
->AncientIonicGreek
-- - - - - - - - - - - - - - ɡ - \”u n - - - e \tex
-tlengthmark - - - 
->ArmenianWestern
-- - - - - - - - - - - - - - ɡ - i n - - - - - - - 
-- 
->Assamese
-- - - - - - - - - m a \textsci k i m - a n - - - -
- - - u \textsuperscript{\texthth} 
->Cornish
-- - - - - b - - - - - - - - \textepsilon n j n - -
- - - - - - - 
->Danish
-- - \textprimstress k \textsuperscript{h} - - - - 
-- - - - - v - e n - - - - \textschwa - - - 
->EasternFrisianSaterland
-- - - - - - - - - - - - - - v - i\texthalflength \
-textupsilon - - - - v - - - 
->Faroese
-- - - - - - - - - - - - k - o - \textlengthmark n 
-- - - - - a - - 
->Icelandic
-\textprimstress k - - - - - - - - - - - - \textsup
-erscript{h} - \textopeno n - - - - a - - - 
->Irish
-- - - - - b \textsuperscript{j} - - - - - - - \ae 
-- \textlengthmark n - \textsubbridge \textsuperscr
-ipt{\textgamma} - - - - - 
->KolschColognian
-- - - - - - - - - - - - - - v - e\textlengthmark z
- - - - - h - - - 
->Manx
-- - - - - b - - - - - - - - \textepsilon - \textsu
-perscript{d} n - - - - - - - - 
->OldPrussian
-- - - - - v - - - - - - - - i\textlengthmark r i n
- a - - - - - - - 
->SanskritVedic
-- - - - - - - - - s \textsubbridge t \textsubbridg
-e - \textrtailr - i \textlengthmark - - - - - - - 
-- 
->Scots
-- - - - - - - w \textturnv - - - m - m - \textscri
-pta n - - - - - - - - 
->Yiddish
-- - - - - - - - - - - - - - - - f \textscr - - - -
- \textopenoj - - - 
-
-
-Sequence character woman_binary.fasta#0
->AlbanianTosk
-0 1 1 1 - 1 1 1 0 0 1 0 0 - 0 1 1 1 1 1 - 1 1 1 1 
-0 - 1 1 1 1 1 0 - 1 0 1 1 0 1 1 1 1 0 0 1 1 1 1 1 
-0 1 1 0 0 1 0 0 0 0 0 0 0 - - 1 1 1 0 - 1 0 1 1 - 
-1 - 0 0 0 1 0 - 1 1 1 0 1 - 0 1 - 1 1 1 1 - 1 1 1 
-1 1 0 1 1 1 1 1 - 1 1 1 - 0 1 1 1 1 1 0 1 1 1 1 0 
-1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 1 1 0 1 - 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
-1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 1 1 1 1 0 1 0 0 1 0 0 1 1 0 1 0 1 1 0 
-0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- 1 1 0 - 1 0 1 0 0 1 - 1 1 1 1 1 1 1 1 0 1 0 1 1 
-0 - 1 0 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-0 0 
->AncientIonicGreek
-0 1 1 1 0 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 - 1 1 1 1 
-1 0 0 1 1 1 1 0 - 1 1 1 - 0 1 1 1 1 0 0 1 1 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 1 0 - 
-1 - 1 0 1 0 0 - - 1 1 0 1 - - 1 - 1 1 1 1 - 1 1 1 
-1 0 1 1 - - 1 1 - 1 1 1 0 - 1 0 1 1 0 0 0 0 1 1 1 
-0 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 
-0 1 1 - 1 0 1 - 1 1 1 0 1 1 0 1 1 0 1 1 1 1 1 1 1 
-1 1 1 1 1 1 1 1 0 0 0 0 0 1 0 1 1 1 1 1 - 1 1 1 1 
-1 1 1 1 0 0 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 
-1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 1 0 1 1 1 1 0 0 1 1 1 - 0 1 1 1 1 1 1 1 0 
-0 0 1 1 1 0 - 1 1 1 1 0 0 0 0 0 1 0 1 1 1 1 1 1 0 
-- 1 1 1 1 1 0 1 1 - 1 - 1 1 1 1 1 1 1 1 0 1 1 1 1 
-1 0 - 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 1 0 1 
-1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 1 1 1 - 1 1 0 - - 
-1 1 0 1 1 1 1 1 0 - 1 1 1 1 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 0 1 1 0 1 1 0 0 1 
-0 0 
->ArmenianWestern
-0 1 1 1 - 1 1 1 0 0 1 0 0 - 0 1 1 1 1 0 - 0 1 1 1 
-0 - 0 1 1 1 1 1 - 1 0 1 0 0 1 1 1 1 0 0 1 0 1 1 0 
-0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-0 - 0 0 0 1 0 - 1 1 1 0 1 - - 1 - 1 0 1 1 - 0 1 1 
-1 0 0 0 1 - 1 1 - 1 1 1 - 0 1 1 1 1 1 0 0 1 1 1 0 
-1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 0 1 0 1 - 1 1 1 1 0 0 0 1 1 0 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 0 0 1 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 0 0 
-1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 1 1 1 0 0 1 1 1 1 - 0 1 1 0 1 1 1 1 0 
-0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- 1 1 1 0 1 1 1 0 - 1 - 1 1 1 1 1 1 1 1 0 0 0 1 1 
-1 - 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-0 0 
->Assamese
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 - 1 1 1 1 
-1 - 1 1 1 1 1 1 - 1 1 1 - 0 1 1 1 1 0 0 1 1 1 1 0 
-- 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 - 1 0 - 
-1 0 0 0 1 1 1 - - 1 1 1 1 - - 1 - 1 1 1 1 - 1 1 1 
-1 0 1 1 - - 1 1 - 1 1 1 - - 1 1 1 1 1 1 1 1 1 1 1 
-1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 
-1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 1 
-0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0 0 
-1 1 1 1 1 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 1 0 1 1 1 1 1 1 1 1 0 - 0 1 0 0 1 1 1 1 0 
-0 0 1 1 1 0 - 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- - 1 1 1 1 0 1 1 - 1 - 1 1 1 1 1 1 1 1 - 1 1 1 1 
-1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 1 1 0 1 
-1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 - - 
-0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 0 0 0 0 0 1 1 0 0 0 0 1 1 
-1 0 
->Cornish
-0 1 1 1 - 1 1 1 0 0 1 0 0 - 0 1 1 1 1 1 - 0 1 1 1 
-0 - 1 1 1 1 1 1 - 1 0 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 1 - 
-1 - 0 0 1 1 1 - 1 1 1 0 1 - - 1 - 1 0 1 0 - 1 1 1 
-1 - 0 1 0 1 0 1 - 1 1 1 - 0 1 1 1 1 1 0 1 0 1 1 0 
-1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
-1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 1 1 1 1 0 1 1 1 1 0 0 1 1 0 1 0 1 1 0 
-0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- 1 1 1 - 1 0 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 1 0 1 
-0 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-0 0 
->Danish
-0 1 1 1 - 1 1 1 0 0 1 1 0 - 0 1 1 1 1 1 - 0 1 1 1 
-0 - 1 1 1 1 1 1 - 1 0 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 1 1 - 1 1 1 0 1 - - 1 - 1 0 1 1 - 1 1 1 
-1 - 0 1 0 1 1 1 - 1 1 1 - 1 1 1 1 1 1 0 0 1 1 1 0 
-1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
-1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 1 0 1 0 1 1 0 
-0 0 1 1 1 0 1 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- 1 1 1 - 1 0 1 0 1 1 - 1 1 1 1 1 0 1 1 0 1 1 0 1 
-1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-0 0 
->EasternFrisianSaterland
-0 1 1 1 - 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 - 1 1 0 1 
-1 - 0 1 1 1 1 1 - 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 1 0 - - 1 1 1 1 - - 1 0 1 1 1 1 - 0 1 1 
-1 0 1 1 0 - 1 1 - 1 1 1 - 0 1 1 1 1 1 0 0 1 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
-1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 0 1 1 1 1 1 1 1 1 0 - 0 1 1 0 1 0 1 1 0 
-0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- 1 1 1 0 1 1 1 0 - 1 - 1 1 1 1 1 1 1 1 0 1 0 1 1 
-1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-0 0 
->Faroese
-0 1 1 1 - 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 - 1 1 0 1 
-1 - 1 1 1 1 1 1 - 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 0 0 - - 1 1 1 1 - - 1 0 1 1 1 0 - 1 1 1 
-1 0 0 0 0 - 1 1 - 1 1 1 - 0 1 1 1 1 1 0 0 1 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
-1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 0 0 1 1 1 0 0 1 1 0 - 0 1 1 0 1 0 1 1 0 
-0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- 1 1 1 1 1 0 1 0 - 0 - 1 1 1 1 1 0 1 1 0 0 0 1 0 
-1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-0 0 
->Icelandic
-0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 0 1 - 1 1 1 1 
-1 - 0 - 0 1 1 0 1 - 1 0 - 0 1 1 1 1 1 0 1 1 1 1 0 
-0 0 1 0 0 1 1 0 0 0 0 0 0 1 1 1 0 1 0 - 1 - 1 0 - 
-0 - 0 0 1 1 0 - - 1 1 0 1 0 - 1 - 1 1 1 1 1 1 1 1 
-1 1 1 1 1 - 1 1 0 0 1 1 - - 1 1 1 1 1 0 0 1 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 - 1 1 1 - 1 1 1 1 0 0 1 1 1 0 1 1 1 1 1 0 1 
-1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 1 1 
-0 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 1 1 1 1 1 0 0 
-1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 0 1 1 0 1 0 1 0 1 - 0 1 1 1 0 1 1 1 0 
-0 0 1 1 1 0 - 1 0 1 1 0 1 1 0 0 1 1 1 1 1 1 1 1 0 
-1 1 1 1 1 1 1 1 0 - 0 1 1 1 1 1 1 1 1 1 0 0 1 1 1 
-1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 0 1 0 1 
-1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 1 1 
-1 1 1 1 1 1 1 0 1 - 1 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 0 1 
-0 0 
->Irish
-0 1 1 1 - 1 1 1 0 0 1 0 0 - 0 1 1 1 1 1 - 0 1 1 1 
-0 - 1 1 1 1 1 1 - 1 0 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
-0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 1 0 0 0 - 1 1 1 0 1 - - 1 - 1 0 1 1 - 1 1 1 
-0 0 0 1 0 - 0 1 - 1 1 1 - 0 1 1 1 0 1 0 0 1 1 1 0 
-1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 0 1 0 0 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 0 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
-1 1 1 0 1 0 0 1 0 0 0 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 1 1 1 0 0 1 1 0 1 - 0 1 1 0 1 0 1 1 0 
-0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 0 
-- 1 1 1 - 1 1 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 1 1 1 
-1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 0 1 
-0 0 
->KolschColognian
-0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 1 1 0 0 1 1 1 
-1 - 1 - 1 1 1 0 - - 1 0 - 0 1 1 1 1 1 0 0 1 1 1 0 
-0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 0 0 - 
-1 - 1 0 1 0 0 - - 1 1 0 1 0 - 1 - 1 0 0 1 0 1 1 1 
-1 1 1 1 0 - 1 1 0 1 1 1 - - 1 1 1 1 1 0 0 1 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 
-1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 1 1 
-0 1 1 0 0 1 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 
-1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 1 1 1 0 1 1 1 1 1 - 0 1 1 1 1 1 1 1 0 
-0 0 1 1 1 0 - 1 0 1 1 0 1 1 0 0 1 1 1 0 1 1 1 1 0 
-1 1 1 1 1 1 1 1 1 - 0 - 1 1 1 1 1 1 1 1 0 0 1 1 1 
-1 - 1 1 0 0 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 0 1 0 1 
-1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 1 1 
-1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 0 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 0 1 
-0 0 
->Manx
-0 1 1 1 - 1 1 1 0 0 1 0 0 - 0 1 1 1 1 1 - 0 1 1 1 
-0 - 1 1 1 1 1 1 - 1 0 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
-0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 1 - 
-1 - 0 0 1 1 0 - 1 1 1 0 1 - - 1 - 1 0 1 1 - 1 1 1 
-1 - 0 1 0 1 0 1 - 1 1 1 - 0 1 1 1 1 1 0 1 0 1 1 0 
-1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 0 1 0 1 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
-1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 1 1 1 1 0 1 1 0 1 0 0 1 1 0 1 0 1 1 0 
-0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- 1 1 1 - 0 1 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 1 0 1 
-1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-0 0 
->OldPrussian
-0 1 1 1 - 1 1 1 0 0 1 1 0 - 0 1 1 0 1 1 - 0 1 1 1 
-0 - 1 1 1 1 1 1 - 1 0 1 1 0 1 1 1 1 0 1 1 0 1 1 0 
-0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 0 1 - 1 1 1 0 1 - - 1 - 1 0 1 1 - 1 1 1 
-1 - 0 1 0 1 1 1 - 1 1 1 - 1 1 1 1 1 1 0 0 1 1 1 0 
-1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
-1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 0 1 0 1 1 0 
-0 0 1 1 1 0 1 0 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- 1 1 1 - 0 1 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 1 0 1 
-1 - 1 1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 1 1 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-0 0 
->SanskritVedic
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 1 1 1 - 1 1 1 1 
-1 - 1 1 0 1 1 1 - 1 1 1 - 0 1 1 1 1 0 0 1 1 1 1 0 
-- 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 - 1 0 - 
-1 0 0 0 1 1 1 - - 1 1 1 1 - - 1 - 1 1 1 1 - 1 1 1 
-1 0 1 1 - - 1 1 - 1 1 1 - - 1 1 1 1 1 1 1 1 1 1 1 
-1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 
-1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 1 
-0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0 0 
-1 1 1 1 0 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 1 1 1 1 1 1 1 1 1 1 0 - 0 1 0 0 1 1 1 1 0 
-0 0 1 1 1 0 - 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- - 1 1 1 1 1 1 1 - 1 - 1 1 1 1 1 1 1 1 - 1 1 1 1 
-1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 1 1 0 1 
-1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 - - 
-0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 1 1 0 1 0 0 0 0 0 1 1 0 0 0 0 1 1 
-1 0 
->Scots
-0 1 1 1 - 1 1 1 0 0 1 0 0 0 1 0 1 1 1 1 - 1 1 0 1 
-1 - 1 1 1 1 1 1 - 1 0 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 1 1 - - 1 1 1 1 - - 1 0 1 1 1 1 - 0 1 1 
-1 0 0 1 0 - 1 1 - 1 1 1 - 0 1 1 1 1 1 0 0 1 1 1 0 
-1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 0 0 
-1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 1 1 1 1 0 1 1 1 0 - 0 1 1 0 1 1 1 1 0 
-0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- 1 1 1 0 1 0 0 0 - 0 - 1 1 1 1 1 1 1 1 0 0 0 0 1 
-1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-0 0 
->Yiddish
-0 1 1 1 0 1 0 1 0 1 1 0 0 - - 1 1 1 1 1 - 1 1 1 1 
-0 - 0 - 1 1 1 0 - - 1 1 - 0 1 1 0 1 1 0 1 1 1 1 - 
-1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 1 0 1 
-1 - 0 0 1 1 0 1 - 1 1 0 1 - - 1 - 1 1 1 1 0 1 1 1 
-1 1 1 1 0 - 1 1 - 1 1 1 - - 1 1 1 1 1 0 1 1 1 1 1 
-1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 
-0 1 1 - 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 
-1 1 0 1 0 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 
-0 1 1 1 0 1 0 0 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 0 0 
-1 1 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 1 1 1 1 1 1 0 1 1 1 1 - 0 1 1 1 1 1 1 1 0 
-0 1 1 1 1 0 - 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- 1 1 1 1 1 1 1 1 - 0 - 1 1 1 1 1 1 1 1 0 1 1 1 1 
-1 - 1 1 0 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 1 0 1 0 1 
-1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 - - 
-1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-1 0 
-
-
-Sequence character woman_12Saln.fasta#0
->AlbanianTosk
-GTTTTATCCTGGCTTA-T-TTTTTCATTTTCAGATTTGTGCCAGCAGCCG
-CGGTTACACT-AAG-GGACA-AACTGAAA-TGTTAAGATAAAGTTATGAA
-CCAGGATTAGATACCCTGTAGTTATTGTCTTAAAACTCAAAGGATTTGGC
-GGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAAACGATAAACCACGT
-AAAATCTTACCCTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
-TTATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTT
-A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
-CC
->AncientIonicGreek
-GTTTGATTTTTGCTTATT-TATTTTACGTTTAGTTTTGTGCCAGCAGCCG
-CGGTTATACTTGAAGAG-CA--AGTAAAA-TGTAAAGTCTAGGGCATAGA
-CTAGGATTAGATACCCT-AAGTTATGTTCTTGAAAATAAAAAAATTTGGC
-GGT-GTTTAATTTATTTAGGGGAACCTGTTTTATAATCGATACACCACGA
-AGAATCTTACTTACTTCATGTATACCGTTATTATTAGATCAAGGTGCAGA
-CTATGATATAAATACTTAAACATGTACATATCGCCCGTCGCTTTTACA-T
----CTTAATGTAAAATAAGTCGTAACATAGTAGCTGTATCGGAAGATGCA
-GC
->ArmenianWestern
-GTTTTATCCTGGCTTA-T-CCTTTCGATTTTAGATTTGTGCCAGCAGCCG
-CGGTTATACTGAGG-GG-CA-GATTGAAA-TATTAAGATAAAGGTATGAA
-CCAGGATTAGATACCCTGCAGTTATTGGCTTGAAACTCAAAGGATTTGGC
-GGTAGCTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAATCCACGA
-AAAATCTCACTTTACGCTTGTATACCGTCATTATTAGATCAAGGTGCAGC
-TTATGATTGTAGCTCTAAGCTATGTACACATCGCCCGTCGC-TCT-CGTT
-A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
-CC
->Assamese
-GTTTGATTCTTGCTTA-T-GATTTTTATATTATATTTGTGCCAGCAGTCG
-CGGTTATACTTAGAGGG-TA--AATAAAT-TATAAATTTTAATATATAAA
-CTAGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGGC
-GGTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAACCACGA
-A-TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAGT
-CTATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-C
----CTAAAAATGAAATAAGTCGTAACAAAGTAGGTGTGCCGGAAGGCGTA
-TC
->Cornish
-GTTTTATCCTGGCTTA-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATACTGAAA-GG-TA-AATTGAAA-TGTTAAGATAAAGAGATGAA
-CCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGC
-GGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGA
-AGAATCTTACTTTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
-TTATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTT
-A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
-CC
->Danish
-GTTTTATCCTAGCTTA-T-TCTTTCAATTTTAGATTTGTGCCAGCAGCCG
-CGGTTATACTGAGA-GG-TT-AATTGAAA-TATTAAAATAAAGGAATGAA
-CCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGC
-GGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGA
-AGAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
-TTATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTT
-A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
-CC
->EasternFrisianSaterland
-GTTTTATCCTGGCTAA-TATTTCTTGTTTTTAAATTTGTGCCAGCAGCCG
-CGGTTATACTGAGA-GG-TA-GATTAAGA-TGTTAAGTTAAAGGTATGGA
-CCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGC
-GGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACGA
-AGTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
-CAATGATTATAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTT
-A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
-CC
->Faroese
-GTTTTATCCTGGCTAA-TAGTTCTTATTATTAAATTTGTGCCAGCAGCCG
-CGGTTATACTGAGA-GG-TG-GATTAAGA-TGTTAAGATAAAGGTATGGA
-CCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGC
-GGTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACGA
-AGAATCTTACCTTGTGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
-CGATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTT
-A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
-CC
->Icelandic
-GTTTGATTCTTGC-TA-T-GTTTTT--TGCTAGACTTGTGCCAGCATCCG
-CGGTTAGAC-TTGG-GG-ATCTAGTGAAACGA-GGAATTTTAGGTATGGA
-CCAGGATTAGATACCCTGAATTAATACGTTTGAAATTCAAAGAACCTGGC
-GGTACTTTAGTCTAGTTAGAGGAACCTGTTGTATAAACGATAAACCACGT
-AGAATCTTTCTTACTGCTAGTATACCTTCATTATTAGATCAAGGTGCTGC
-TGATGATAATAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CATT
--AAATTAGA-TGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCA
-CC
->Irish
-GTTTTATCCTGGCTTA-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATACTGAGA-GA-CG-GATTGAAA-TATTAAGATAGAGGAATGAA
-CCAGGATTAGATACCCTGCAGCTATTATCTTGAAACTCAAAGGATTTGGC
-GGTAACCTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGC
-AATATCTTGCTTTATGCTTGTATACCGTCATTATTAGATCAAGGTGCAGC
-TTATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTT
-A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCA
-CC
->KolschColognian
-GTTTGATTCTTGC-TA-T-TACCTT--TATTAAACTTGTGCCAGCAGCCG
-CGGTTAAAC-TCGA-TG-TCCTAGTGAAGCTA-GAAAATTTAGGTAAGGA
-CCAGGATTAGATACCCTGAATAAATTAATTTTAAATTCAAAGAACCTGGC
-GGTACTTTAGTCTAGTTGGAGGAACCTGTTTTATAAACGATAAACCACGT
-AAAATCTTTCTTATTGTTAGTATACCTTCATTATTAGATCAAGGTGCTGC
-AAATGGTATTAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CATT
--AAGTTAAA-TGAGATAAGTCGTAACATAGTGGGTGTACTGGAAAGTGCA
-CC
->Manx
-GTTTTATCCTGGCTTA-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATACTGAAA-GG-TA-GATTGAAA-TGTTAAGATAAAGAGATGAA
-CCAGGATTAGATACCCTGCAGTTATTATCTTGAAACTCAAAGGATTTGGC
-GGTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGA
-AGAATCTTACTCTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
-TTATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTT
-A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
-CC
->OldPrussian
-GTTTTATCCTAGCTTG-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATACTGAGA-GG-TC-AATTGAAA-TATTAAAATAAAGGAATGAA
-CCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGC
-GGTAATTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGA
-AAAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
-TTATGACCTTAGCCCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTT
-A--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
-CC
->SanskritVedic
-GTTTGATTCTTGCTTA-T-AATTTTTATACTATATTTGTGCCAGCAGTCG
-CGGTTATACTTAGAGGG-TA--AATAAAT-TATAAATTTTAATATATAAA
-CTAGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGGC
-GGTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAGCCACGA
-A-TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAGT
-TTATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-C
----CTAAAAATGAAATAAGTCGTAACAAAGTAGATGTGCCGGAAGGCGTA
-TC
->Scots
-GTTTTATCCTGGCTCA-TAATTCTTATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATACTGAGA-GG-TA-AATTAAGA-TATTAAGATAAAGGTATGAA
-CCAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGC
-GGTAATTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAAACCACGA
-AGTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGC
-TAATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTT
-A--GTTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTA
-CC
->Yiddish
-GTTTGACTCTTGCTT--T-AATTTT-C-GTTA-ACTTGTGCCAGCAGCCG
-CGGTTATAC-TAGAAGG-TT-GAATGAAA-TATTAAATTTTAGATATAAA
-CCAGGATTAGATACCCTGAATGAATTAATTTAAAATTCAAAGAGTTTGGC
-GGTATTTTAGTCCTGTTAGAGGAATCTGTTTTATAAACGATAACCCCCGT
-AATATCTTTCTTATTGCTAGTATACCATCATTATTAGATCATGGTGCTGT
-TTATGAGATTGGCTCTAAAATGTGTACATATTGCCCGTCGC-TTT-CATT
----CTTAAA-TGAGATAAGTCGTAACATAGTAGGAGTACTGGAAAGTGTT
-TC
-
-
-Sequence character woman-wide_aa.fas#0
->AlbanianTosk
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V I V T A H A F V I I F F M V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L S R G I V E S G V G T G 
-- - T V Y P P L S A G I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R R T 
-G I T I D R I P L F V S V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G M I S H I I R Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S M G A V F G I F A G I A H - - - F 
-P L F T G L T I N P K - L K I H F I V M F V G V N 
-I T F F P Q H F L G L N G M P R R Y S D Y P D A Y 
-T S N V L S S I G S T I S L I A V L G F I V I V E 
-A L V T T R P V L F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->AncientIonicGreek
-T K R F F S T N H K D I G T L Y F I F G A - - S G 
-M V G T A L R L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L I R G I V E R G V G T G 
-- - T V Y P P L S A R I A H A G A S V D I G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R P V 
-G I S I D R I P L F V A V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V S Q E S G K K E S F G T L G I I Y A 
-I L A I G I L G F I V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A I P T G I K I F - R - - L G 
-T L Q G N Q I N Y R P S I I - - A L G F I F L F T 
-V G G L T G V V L A N S S I D T V L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - Y 
-P L F T G L S I N P K W L K I H F S V I F L G V N 
-L T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T P N V L S S I G S I I S L C A V I G F V F I I E 
-S L I S S R P V I F S L F Q P T S I E - - K H H Y 
-P P A D H R F I Q I A L I S N 
->ArmenianWestern
-T Q R L F S T N H K D I G T L Y F I F G A - - S G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L A A G I A H A G A S V D I G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R A S 
-G I T L D R I P L F V S V F I T A L L L L L S L P 
-V L A G A I T M L L T D R N L N T S F F D P A G G 
-G D P I L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H M F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L L - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - W F 
-P L F T G L T L N P R - L K M H F L T I F V G V N 
-I T F F P Q H F L G L R G M P R R Y S D Y P D A Y 
-T A N V V S S I G S T I S L I A V L G F V I I V E 
-A L S A N R P V I F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->Assamese
-T K R F F S T N H K D I G T L Y F I F G A W - A G 
-I V G T S L S L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L T S G I V E R G V G T G 
-- - T V Y P P L S A A I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R P Q 
-G I T L D R I P L F V S V F I T A I L L L L S L P 
-V L A G A I T M L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V S Q E S G K A E S F G T L G I I Y A 
-I L A I G I L G F L V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K I F - R - - L G 
-T L H G A Q V N Y R P S L L W - A M G F I F L F T 
-V G G L T G V V L A N S S L D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I T H - - - F 
-P L F T G L S L N P T W L K I H F F V M F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-A A N V L S S M G S I V S L V A V L G F I I I V E 
-S L V S S R S V I F T T F F P T S V E - - E H A Y 
-P P A D H R Y I E I P I V S N 
->Cornish
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F I V M P I I I G G 
-F G N - L V P L M L G A P D M A F P R I N N M S F 
-W - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A S I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F M T T V I N I R S T 
-G I T I D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S M G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K V H F L V M F I G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-S A N V V S S I G S T V S L I A V L G F V I I V E 
-A L T V A R P V I F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->Danish
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V M I F F I V I P I I I G G 
-F G N - L V P L M L G A P D I A F P R M N N I S F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-W - T V Y P P L S A S I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S M G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K I H F L V I F I G V N 
-I T F F P Q H F L G L N G K P R R Y S D Y P D A Y 
-S A N G V S S I G S T V S L I A V L G F V I I V E 
-A L T A A R P V I F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->EasternFrisianSaterland
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L S L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F I I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- W T V Y P P L S A G I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R M P L F V S I F I T T L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I R Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L L - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G V T L N P K - L K I H F L V I F I G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T A N V L S S I G S T I S L I A V L G F I I I V E 
-A L T A T R P I I F S L F L P T S I E - - Q H N F 
-P P A D H R Y I E I P L I T N 
->Faroese
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L S L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F M V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A G I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R M P L F V S V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G I L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S W - L G 
-T L H G T Q L N Y S P S L L - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G V T L N P K - L K I H F L I I F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T T N V V S S I G S T I S L I A V L G F I I I V E 
-A L T A A R P V I F S L F L P T S I E - - Q H N F 
-P P A D H S Y I E I P L I T N 
->Icelandic
-T Q R F F S T N H K D I G T L Y F I F G A - - A G 
-M V G T S L R L I I R A E L G Q P G R F I G D D Q 
-I Y N V V V T A H A F I M I F F M V M P I I I G G 
-F G N - L V P I I L G A P D I A F P R M N N M R F 
-- - - L L P P S L T L L L A G G A V E R G A G T G 
-- - T V Y P P L S V G V A H A G A S V D L S I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S S 
-G I T L D R I P L F V S V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P V G G 
-G D P I L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V A Q E S N K K K P F G A L G M I Y A 
-I L A I G I L G F V V A H H M F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K V F - R - - L G 
-T L H G A H F S L T P S L L - W A L G F I F L F T 
-V G G L T G I V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G I S L N P K - L K I Q F S A I F I G V N 
-T T F F P Q H F L G L R G M P R R Y S D Y P D A Y 
-T T N V V S S I G S S I S L V A V L G F V F I I E 
-G L A S K R P L M F N S F M P T S I E - W Y H S Y 
-P P A D H R Y M E V P I I T A 
->Irish
-T Q R L F S T N H K D I G T L Y F I F G A - W A G 
-I V G T A L S L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V M I F F I V M P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I S F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A R I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G M I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - W L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K I H F L V I F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T A N V V S S I G S T I S L I A V L G F I I I V E 
-A L T A A R P V L F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->KolschColognian
-T Q R F F S K K Y K D I G T L Y F I F G A - - A G 
-I V G T S L R L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F I V M P I I I G G 
-F G N W L V P I M L G A P D M A F P R M N N I R F 
-- - - L L P P S L T L L L A S G I V E R G V G T G 
-- - T V Y P P L A G A V A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N M R S S 
-G I T F D R M P L F V S V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F A P V G A 
-R D P I N Y H H I F V L D N P E V Y I L I L P A F 
-G M I S H I V S Q E S N K K K P F G A L G I I Y A 
-M L S I G L L G F I V A H H M F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K V F - R - - L G 
-T L H G A H F T L T P S L L - W S L G F I F L F T 
-V G G L T G I V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - W - F 
-P L F T G V T L N P K - L K I Q F T A I F I G V N 
-I T F F P Q H F L G L R G I P R R Y S D Y P D A Y 
-S T N V I S S V G S S I S L V A V L L F V F I I E 
-G L A S K R P I L F N S F I P T S I E - - I H P Y 
-P P A D H S Y M E I P L L T A 
->Manx
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F M V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N M S F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A S I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G M I S H I I S Q E S G K K E A F G T L G I I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K I H F I V M F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-S A N V V S S I G S T V S L I A V L G F V I I V E 
-A L T V A R P V I F S L F L P T S I E - - Q H N L 
-P P A D H S Y I E I P L I T N 
->OldPrussian
-T Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L R L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F M V I P I M I G G 
-F G N - L V P L I L G A P D M A F P R I N N I S F 
-- - - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A S I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T M D R I P L F V A V F I T A L L L L L S L P 
-V L A G A I T M L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I S Q E S G K K E A F G T P G M I Y A 
-I L A I G V L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L I - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G L T L N P K - L K I H F L V I F I G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-S A N V V S S I G S T V S L I A V L G F V M I V E 
-A L T A A R P V I F S L F L P T S I E W - Q H N L 
-P P A D H S Y I E I P L I T N 
->SanskritVedic
-T K R F F S T N H K D I G T L Y F I F G A - - A G 
-I V G T S L S L I I R A E L G Q P G S L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I S F 
-- - - L L P P S L T L L L T R G I V E R G V G T G 
-- - T V Y P P L S A A I A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R P Q 
-G I T L D R I P L F V S V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V R Q E S G K A E S F G T L G I I Y A 
-I L A I G I L G F L V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K I F - R - - L G 
-T L H G A Q V N Y S P S L L - - A I G F I F L F T 
-V G G L T G V V L A N S S L D I I L H D T Y Y V V 
-A H F H Y V L S M G A V F G I F A G I T H W - - Y 
-P L F T G L S L N P T - L K I H F F V I F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T A N V L S S I G S I V S L V A V L G F I I I V E 
-S L V A S R S V I F S T F F P T S V E - - E H S Y 
-P P A D H R Y I E I P M V S N 
->Scots
-A Q R L F S T N H K D I G T L Y F I F G A - - A G 
-I V G T A L S L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F M V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N I R F 
-- W - L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L S A G I A H A G A S V D I G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V S V F I T T L L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I I R Q E S G K K E A F G T L G I I Y A 
-M L A I G I L G F V V A H H I F T V G M D V D T R 
-A Y F T S A T I I I A V P T G I K I F - S - - L G 
-T L H G T Q L N Y S P S L L - - A L G F V F L F T 
-V G G L T G V V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G V T L N P K - L K I H F L T I F V G V N 
-I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
-T A N V L S S I G S T I S L I A V I G F V I I V E 
-A L T A A R P V I F S L F L P T S I E - - Q H S F 
-P P A D H S Y I E I P L I T N 
->Yiddish
-T Q R F F S T N H K D I G T L Y F I F G A - - A G 
-M V G T S L R L I I R A E L G Q P G R L I G D D Q 
-I Y N V V V T A H A F V I I F F I V I P I I I G G 
-F G N - L V P L I L G A P D I A F P R I N N M R F 
-- - W L L P P S L T L L L S R G I V E R G V G T G 
-- - T V Y P P L A A A V A H A G A S V D L G I F S 
-L H L A G V S S I L G A V N F I T T V I N I R S T 
-G I T I D R I P L F V S V F I T A I L L L L S L P 
-V L A G A I T I L L T D R N L N T S F F D P A G G 
-G D P V L Y Q H L F F F G H P E V Y I L I L P A F 
-G I I S H I V R Q E S G K K E S F G A L G I I Y A 
-I L A I G V L G F V V A H H I F T V G I D V D T R 
-A Y F T S A T I I I A V P T G I K V F S W - - L G 
-T L H G T Q I Y F T P S L L - - A L G F I F L F T 
-I G G L T G I V L A N S S I D I I L H D T Y Y V V 
-A H F H Y V L S I G A V F G I F A G I A H - - - F 
-P L F T G L S L N P K - I K I H F I T I F I G V N 
-I T F F P Q H F L G L R G I P R R Y S D Y P D A Y 
-I T N V V S S V G S T I S L I A V L R F I I I I E 
-A L R S N R S I I F S F F L P T S I E - - H H N Y 
-P P A D H R Y N E I P I I T S 
-
-
-Sequence character woman_cox1aln.fasta#0
->AlbanianTosk
-TTATATTAGGAGCACCAGATATAGCTTTCCCTCGAATAAATAATATAAGA
-TTTTGACTTCTTCCACCATCTTTAACTTTACTCCTCTCTAGAGGAATAGT
-AGAAAGTGGAGTGGGAACAGGCTGAACTGTCTATCCTCCTTTATCTGCTG
-GAATTGCACATGCTGGTGCCTCAGTAGATTTAGGAATCTTTTCTTTACAC
-CTAGCAGGAGTTTCATCCATCTTAGGGGCCGTAAACTTTATAACTACCGT
-TATCAATATACGAAGAACAGGTATAACAATAGACCGAATTCCTCTTTTTG
-TATGATCTGTATTTATTACAGCCCTTCTTCTCCTTCTTTCCCTCCCAGTC
->AncientIonicGreek
-TAATATTAGGTGCCCCTGATATAGCTTTTCCACGAATAAATAATATAAGA
-TTTTGACTCCTTCCACCTTCTCTAACTCTTCTTTTAATAAGAGGAATAGT
-TGAAAGAGGTGTAGGAACTGGATGAACTGTTTACCCTCCTTTATCGGCTA
-GAATCGCTCACGCAGGAGCATCTGTAGATATAGGAATTTTCTCCTTACAT
-CTGGCCGGTGTCTCATCAATTCTTGGTGCAGTAAACTTTATAACCACAGT
-TATTAATATACGCCCTGTTGGTATATCAATAGATCGTATACCTTTATTTG
-TTTGAGCCGTATTTATTACAGCTATTCTTTTATTACTATCCTTACCCGTT
->ArmenianWestern
-TAATATTAGGAGCTCCAGATATAGCTTTCCCTCGAATAAATAATATAAGA
-TTCTGACTCCTCCCTCCCTCTTTAACTCTTTTACTTTCAAGAGGAATAGT
-AGAAAGAGGAGTAGGAACGGGATGAACCGTTTATCCTCCTCTTGCAGCCG
-GAATTGCTCATGCCGGAGCTTCAGTTGATATAGGAATCTTCTCTCTACAT
-TTAGCAGGAGTATCCTCTATTTTAGGGGCCGTAAATTTTATAACAACAGT
-GATTAACATACGGGCATCTGGAATAACATTAGACCGAATACCTTTATTCG
-TGTGATCTGTATTTATTACTGCACTATTATTACTTTTATCACTACCAGTT
->Assamese
-TAATACTAGGAGCACCGGATATAGCTTTTCCACGAATAAATAATATAAGA
-TTTTGACTTTTACCCCCATCTTTAACTCTTTTATTAACTAGTGGTATAGT
-AGAAAGAGGTGTAGGTACAGGATGAACTGTGTATCCCCCACTTTCCGCAG
-CTATTGCTCACGCCGGAGCATCGGTAGATTTAGGTATTTTTTCTCTACAT
-TTAGCCGGAGTCTCTTCTATTTTAGGGGCTGTAAATTTTATAACGACAGT
-CATTAATATACGACCCCAGGGAATAACCTTAGATCGCATACCTTTATTTG
-TTTGATCTGTATTTATTACTGCGATTCTACTTTTATTATCACTACCTGTT
->Cornish
-TAATGTTAGGTGCTCCTGATATGGCTTTTCCACGAATAAACAATATGAGT
-TTCTGGCTCCTACCTCCTTCACTAACACTACTTCTTTCTAGAGGTATAGT
-TGAAAGAGGAGTAGGAACAGGATGAACTGTTTACCCTCCTTTATCAGCCA
-GTATTGCTCATGCTGGGGCTTCGGTAGATTTAGGAATTTTCTCCCTACAC
-TTGGCAGGTGTTTCTTCAATTTTAGGAGCTGTAAATTTTATGACAACTGT
-TATTAACATACGATCTACGGGAATAACTATAGACCGAATACCGCTTTTCG
-TTTGAGCAGTATTTATTACAGCATTACTTCTCTTATTATCTCTACCGGTA
->Danish
-TAATGTTAGGTGCTCCAGATATAGCTTTCCCTCGAATGAATAATATAAGC
-TTCTGACTTTTACCTCCTTCTCTTACCCTTCTTTTATCTAGAGGGATAGT
-TGAAAGAGGTGTTGGAACTGGTTGGACAGTTTATCCTCCACTCTCTGCTA
-GTATTGCCCACGCTGGAGCTTCAGTAGACCTTGGAATCTTTTCCCTACAT
-CTAGCTGGTGTATCTTCTATTCTAGGAGCAGTAAATTTTATAACTACTGT
-AATCAATATACGATCTACAGGAATAACTATAGACCGAATACCTCTTTTTG
-TTTGAGCAGTATTCATTACTGCTTTACTATTACTTCTATCATTACCAGTC
->EasternFrisianSaterland
-TAATATTAGGAGCTCCTGATATAGCTTTTCCTCGAATAAATAATATAAGA
-TTCTGACTCTTACCTCCATCCCTAACCCTCCTCCTCTCTAGAGGAATAGT
-AGAAAGAGGAGTTGGAACAGGATGGACTGTTTATCCTCCACTGTCAGCCG
-GAATCGCCCACGCAGGAGCCTCTGTAGATTTAGGAATCTTCTCCCTTCAC
-CTAGCAGGAGTTTCTTCAATTCTAGGTGCAGTAAATTTTATAACAACAGT
-AATTAACATACGATCAACAGGAATAACTATAGACCGAATGCCCTTATTTG
-TCTGATCAATCTTTATTACTACCCTTCTCCTCCTTCTATCTCTCCCAGTA
->Faroese
-TTATATTAGGTGCCCCAGATATAGCTTTCCCCCGAATAAATAATATAAGA
-TTTTGACTCTTACCTCCTTCTCTAACTCTATTACTTTCTAGAGGAATAGT
-AGAAAGAGGAGTAGGAACAGGATGAACTGTTTATCCTCCTTTATCCGCCG
-GAATTGCTCACGCCGGGGCCTCTGTAGACCTAGGTATTTTCTCACTACAC
-TTAGCAGGAGTATCTTCAATTCTAGGAGCAGTAAATTTTATAACAACTGT
-AATTAATATACGGTCAACTGGAATAACTATAGACCGTATGCCTTTATTTG
-TTTGATCAGTATTCATTACCGCTCTCCTTCTCCTCTTATCTCTACCAGTT
->Icelandic
-TTATACTAGGAGCTCCCGATATAGCTTTCCCCCGAATGAATAACATGAGA
-TTTTGACTTCTTCCCCCATCGCTAACGCTTCTTCTGGCTGGAGGAGCCGT
-AGAAAGAGGAGCTGGAACCGGTTGAACAGTTTATCCGCCTCTTTCGGTGG
-GAGTGGCACACGCTGGTGCGTCAGTGGACTTAAGTATCTTTTCACTACAC
-CTAGCAGGTGTTTCATCCATTCTTGGAGCCGTCAACTTTATTACTACCGT
-CATCAATATACGGTCATCTGGGATAACACTAGATCGAATACCTCTCTTTG
-TTTGATCTGTTTTCATTACAGCTATCCTATTACTTCTTTCGCTCCCAGTG
->Irish
-TAATATTAGGAGCACCTGATATAGCATTCCCACGAATAAATAATATAAGC
-TTTTGACTGCTACCTCCTTCTCTCACCCTTCTTCTATCTAGAGGAATAGT
-TGAAAGAGGAGTTGGAACAGGATGAACTGTATATCCTCCCCTATCAGCTA
-GAATCGCACATGCAGGGGCCTCTGTAGATTTGGGAATTTTTTCATTGCAT
-TTAGCAGGAGTTTCATCAATTCTAGGGGCCGTAAATTTCATAACAACTGT
-AATTAATATACGATCTACAGGTATAACTATAGACCGAATACCGTTATTCG
-TCTGAGCAGTTTTTATTACAGCGCTCTTACTCCTTTTATCTTTACCCGTT
->KolschColognian
-TTATGTTAGGTGCCCCAGATATGGCATTTCCCCGAATGAATAACATAAGA
-TTCTGACTTTTACCTCCCTCTCTAACGCTTCTTCTAGCTAGTGGTATAGT
-GGAGAGGGGAGTAGGAACTGGCTGAACAGTTTATCCCCCTCTAGCAGGGG
-CAGTGGCCCATGCCGGAGCATCAGTAGATTTGGGTATTTTCTCCCTCCAT
-CTTGCCGGTGTGTCATCAATTCTAGGAGCCGTAAATTTTATTACAACAGT
-AATTAATATGCGGTCTTCAGGTATAACATTCGACCGAATGCCTCTATTTG
-TATGATCTGTGTTTATTACTGCCATTTTACTTCTACTTTCTCTTCCCGTA
->Manx
-TAATATTAGGTGCTCCCGATATAGCTTTCCCTCGAATAAATAATATGAGT
-TTCTGACTTTTACCTCCCTCGCTAACTCTACTTCTTTCTAGAGGTATAGT
-CGAAAGAGGGGTAGGAACAGGATGAACTGTTTACCCTCCTCTATCTGCCA
-GCATTGCCCATGCAGGAGCATCTGTAGATCTAGGAATCTTCTCATTACAT
-TTAGCAGGGGTTTCTTCAATTCTAGGTGCTGTAAATTTTATAACTACCGT
-TATCAATATACGATCAACAGGAATAACTATAGACCGAATACCTCTTTTCG
-TCTGAGCGGTATTTATTACAGCCTTACTACTTTTACTATCATTACCGGTT
->OldPrussian
-TAATACTAGGTGCCCCGGATATGGCTTTCCCTCGAATAAATAACATAAGT
-TTCTGACTTTTACCCCCATCTCTCACTCTCCTCTTATCTAGAGGAATAGT
-AGAAAGAGGTGTAGGAACTGGATGAACTGTATATCCTCCTTTATCTGCAA
-GTATTGCCCATGCGGGAGCTTCCGTTGATCTCGGAATCTTCTCACTACAC
-TTAGCAGGTGTATCATCAATTTTAGGTGCCGTAAATTTTATAACAACTGT
-TATCAATATACGATCTACCGGAATAACTATGGACCGGATACCTCTTTTTG
-TTTGAGCAGTATTTATTACTGCTTTACTTTTACTACTGTCCTTACCAGTT
->SanskritVedic
-TAATATTAGGAGCACCAGATATAGCATTTCCACGAATAAATAATATAAGT
-TTTTGACTTCTACCCCCCTCTTTAACTCTTTTATTAACTAGAGGTATAGT
-AGAAAGAGGAGTAGGAACAGGATGAACTGTTTACCCACCACTATCCGCAG
-CAATTGCACATGCAGGAGCATCAGTGGATTTAGGTATTTTTTCTTTGCAT
-TTGGCTGGAGTATCTTCTATTTTAGGGGCTGTAAATTTTATAACTACAGT
-TATTAATATACGTCCACAAGGAATAACCTTAGACCGTATACCTTTATTTG
-TGTGATCCGTATTTATTACTGCAATTCTACTTTTATTATCACTACCAGTT
->Scots
-TTATACTTGGTGCCCCTGATATAGCTTTCCCCCGTATAAATAATATAAGA
-TTTTGGCTTCTTCCCCCATCTTTAACTCTTCTTCTTTCCAGAGGAATAGT
-AGAAAGAGGGGTAGGAACAGGATGAACTGTTTACCCTCCTTTGTCTGCTG
-GAATCGCCCACGCCGGAGCTTCTGTTGATATAGGAATTTTCTCTCTCCAT
-CTTGCCGGAGTTTCTTCAATTTTAGGGGCAGTAAATTTTATAACAACTGT
-TATTAATATACGTTCAACAGGAATAACTATAGACCGAATCCCCCTTTTTG
-TGTGATCAGTGTTTATTACTACCCTTCTTCTACTTTTATCCCTTCCAGTC
->Yiddish
-TAATACTTGGAGCCCCAGATATAGCTTTCCCTCGAATAAATAACATGAGA
-TTTTGGTTGCTACCTCCTTCTCTAACCCTTCTTCTATCAAGAGGAATAGT
-TGAAAGAGGTGTAGGAACTGGCTGAACAGTTTATCCTCCCTTAGCAGCCG
-CCGTCGCTCATGCCGGAGCATCCGTAGATTTAGGTATTTTTTCACTTCAT
-CTTGCAGGAGTTTCTTCAATCCTAGGAGCAGTAAATTTCATAACAACTGT
-AATTAATATACGGTCAACTGGGATAACTATAGACCGCATACCCTTATTTG
-TCTGATCTGTTTTTATCACCGCAATTTTACTTCTTCTATCTCTACCTGTC
-
-
-Sequence character woman_cox1_spaced.fastc#0
->AlbanianTosk
-T T A T A T T A G G A G C A C C A G A T A T A G C 
-T T T C C C T C G A A T A A A T A A T A T A A G A 
-T T T T G A C T T CT T C C A C C A T C T T T A A C
- T T T A C T C C T C T C T A G A G G A A T A G T A
- G A A A G T G G A G T G G G A A C A GG C T G A A 
-C T G T C T A T C C T C C T T T A T C T G C T G G 
-A A T T G C A C A T G C T G G T G C C T C A G T A 
-G A T TT A G G A A T C T T T T C T T T A C A C C T
- A G C A G G A G T T T C A T C C A T C T T A G G G
- G C C G T A A A C T T T AT A A C T A C C G T T A 
-T C A A T A T A C G A A G A A C A G G T A T A A C 
-A A T A G A C C G A A T T C C T C T T T T T GT A T
- G A T C T G T A T T T A T T A C A G C C C T T C T
- T C T C C T T C T T T C C C T C C C A G T C 
->AncientIonicGreek
-T A A T A T T A G G T G C C C C T G A T A T A G C 
-T T T T C C A C G A A T A A A T A A T A T A A G A 
-T T T T G A C T C CT T C C A C C T T C T C T A A C
- T C T T C T T T T A A T A A G A G G A A T A G T T
- G A A A G A G G T G T A G G A A C T GG A T G A A 
-C T G T T T A C C C T C C T T T A T C G G C T A G 
-A A T C G C T C A C G C A G G A G C A T C T G T A 
-G A T AT A G G A A T T T T C T C C T T A C A T C T
- G G C C G G T G T C T C A T C A A T T C T T G G T
- G C A G T A A A C T T T AT A A C C A C A G T T A 
-T T A A T A T A C G C C C T G T T G G T A T A T C 
-A A T A G A T C G T A T A C C T T T A T T T GT T T
- G A G C C G T A T T T A T T A C A G C T A T T C T
- T T T A T T A C T A T C C T T A C C C G T T 
->ArmenianWestern
-T A A T A T T A G G A G C T C C A G A T A T A G C 
-T T T C C C T C G A A T A A A T A A T A T A A G A 
-T T C T G A C T C CT C C C T C C C T C T T T A A C
- T C T T T T A C T T T C A A G A G G A A T A G T A
- G A A A G A G G A G T A G G A A C G GG A T G A A 
-C C G T T T A T C C T C C T C T T G C A G C C G G 
-A A T T G C T C A T G C C G G A G C T T C A G T T 
-G A T AT A G G A A T C T T C T C T C T A C A T T T
- A G C A G G A G T A T C C T C T A T T T T A G G G
- G C C G T A A A T T T T AT A A C A A C A G T G A 
-T T A A C A T A C G G G C A T C T G G A A T A A C 
-A T T A G A C C G A A T A C C T T T A T T C GT G T
- G A T C T G T A T T T A T T A C T G C A C T A T T
- A T T A C T T T T A T C A C T A C C A G T T 
->Assamese
-T A A T A C T A G G A G C A C C G G A T A T A G C 
-T T T T C C A C G A A T A A A T A A T A T A A G A 
-T T T T G A C T T TT A C C C C C A T C T T T A A C
- T C T T T T A T T A A C T A G T G G T A T A G T A
- G A A A G A G G T G T A G G T A C A GG A T G A A 
-C T G T G T A T C C C C C A C T T T C C G C A G C 
-T A T T G C T C A C G C C G G A G C A T C G G T A 
-G A T TT A G G T A T T T T T T C T C T A C A T T T
- A G C C G G A G T C T C T T C T A T T T T A G G G
- G C T G T A A A T T T T AT A A C G A C A G T C A 
-T T A A T A T A C G A C C C C A G G G A A T A A C 
-C T T A G A T C G C A T A C C T T T A T T T GT T T
- G A T C T G T A T T T A T T A C T G C G A T T C T
- A C T T T T A T T A T C A C T A C C T G T T 
->Cornish
-T A A T G T T A G G T G C T C C T G A T A T G G C 
-T T T T C C A C G A A T A A A C A A T A T G A G T 
-T T C T G G C T C CT A C C T C C T T C A C T A A C
- A C T A C T T C T T T C T A G A G G T A T A G T T
- G A A A G A G G A G T A G G A A C A GG A T G A A 
-C T G T T T A C C C T C C T T T A T C A G C C A G 
-T A T T G C T C A T G C T G G G G C T T C G G T A 
-G A T TT A G G A A T T T T C T C C C T A C A C T T
- G G C A G G T G T T T C T T C A A T T T T A G G A
- G C T G T A A A T T T T AT G A C A A C T G T T A 
-T T A A C A T A C G A T C T A C G G G A A T A A C 
-T A T A G A C C G A A T A C C G C T T T T C GT T T
- G A G C A G T A T T T A T T A C A G C A T T A C T
- T C T C T T A T T A T C T C T A C C G G T A 
->Danish
-T A A T G T T A G G T G C T C C A G A T A T A G C 
-T T T C C C T C G A A T G A A T A A T A T A A G C 
-T T C T G A C T T TT A C C T C C T T C T C T T A C
- C C T T C T T T T A T C T A G A G G G A T A G T T
- G A A A G A G G T G T T G G A A C T GG T T G G A 
-C A G T T T A T C C T C C A C T C T C T G C T A G 
-T A T T G C C C A C G C T G G A G C T T C A G T A 
-G A C CT T G G A A T C T T T T C C C T A C A T C T
- A G C T G G T G T A T C T T C T A T T C T A G G A
- G C A G T A A A T T T T AT A A C T A C T G T A A 
-T C A A T A T A C G A T C T A C A G G A A T A A C 
-T A T A G A C C G A A T A C C T C T T T T T GT T T
- G A G C A G T A T T C A T T A C T G C T T T A C T
- A T T A C T T C T A T C A T T A C C A G T C 
->EasternFrisianSaterland
-T A A T A T T A G G A G C T C C T G A T A T A G C 
-T T T T C C T C G A A T A A A T A A T A T A A G A 
-T T C T G A C T C TT A C C T C C A T C C C T A A C
- C C T C C T C C T C T C T A G A G G A A T A G T A
- G A A A G A G G A G T T G G A A C A GG A T G G A 
-C T G T T T A T C C T C C A C T G T C A G C C G G 
-A A T C G C C C A C G C A G G A G C C T C T G T A 
-G A T TT A G G A A T C T T C T C C C T T C A C C T
- A G C A G G A G T T T C T T C A A T T C T A G G T
- G C A G T A A A T T T T AT A A C A A C A G T A A 
-T T A A C A T A C G A T C A A C A G G A A T A A C 
-T A T A G A C C G A A T G C C C T T A T T T GT C T
- G A T C A A T C T T T A T T A C T A C C C T T C T
- C C T C C T T C T A T C T C T C C C A G T A 
->Faroese
-T T A T A T T A G G T G C C C C A G A T A T A G C 
-T T T C C C C C G A A T A A A T A A T A T A A G A 
-T T T T G A C T C TT A C C T C C T T C T C T A A C
- T C T A T T A C T T T C T A G A G G A A T A G T A
- G A A A G A G G A G T A G G A A C A GG A T G A A 
-C T G T T T A T C C T C C T T T A T C C G C C G G 
-A A T T G C T C A C G C C G G G G C C T C T G T A 
-G A C CT A G G T A T T T T C T C A C T A C A C T T
- A G C A G G A G T A T C T T C A A T T C T A G G A
- G C A G T A A A T T T T AT A A C A A C T G T A A 
-T T A A T A T A C G G T C A A C T G G A A T A A C 
-T A T A G A C C G T A T G C C T T T A T T T GT T T
- G A T C A G T A T T C A T T A C C G C T C T C C T
- T C T C C T C T T A T C T C T A C C A G T T 
->Icelandic
-T T A T A C T A G G A G C T C C C G A T A T A G C 
-T T T C C C C C G A A T G A A T A A C A T G A G A 
-T T T T G A C T T CT T C C C C C A T C G C T A A C
- G C T T C T T C T G G C T G G A G G A G C C G T A
- G A A A G A G G A G C T G G A A C C GG T T G A A 
-C A G T T T A T C C G C C T C T T T C G G T G G G 
-A G T G G C A C A C G C T G G T G C G T C A G T G 
-G A C TT A A G T A T C T T T T C A C T A C A C C T
- A G C A G G T G T T T C A T C C A T T C T T G G A
- G C C G T C A A C T T T AT T A C T A C C G T C A 
-T C A A T A T A C G G T C A T C T G G G A T A A C 
-A C T A G A T C G A A T A C C T C T C T T T GT T T
- G A T C T G T T T T C A T T A C A G C T A T C C T
- A T T A C T T C T T T C G C T C C C A G T G 
->Irish
-T A A T A T T A G G A G C A C C T G A T A T A G C 
-A T T C C C A C G A A T A A A T A A T A T A A G C 
-T T T T G A C T G CT A C C T C C T T C T C T C A C
- C C T T C T T C T A T C T A G A G G A A T A G T T
- G A A A G A G G A G T T G G A A C A GG A T G A A 
-C T G T A T A T C C T C C C C T A T C A G C T A G 
-A A T C G C A C A T G C A G G G G C C T C T G T A 
-G A T TT G G G A A T T T T T T C A T T G C A T T T
- A G C A G G A G T T T C A T C A A T T C T A G G G
- G C C G T A A A T T T C AT A A C A A C T G T A A 
-T T A A T A T A C G A T C T A C A G G T A T A A C 
-T A T A G A C C G A A T A C C G T T A T T C GT C T
- G A G C A G T T T T T A T T A C A G C G C T C T T
- A C T C C T T T T A T C T T T A C C C G T T 
->KolschColognian
-T T A T G T T A G G T G C C C C A G A T A T G G C 
-A T T T C C C C G A A T G A A T A A C A T A A G A 
-T T C T G A C T T TT A C C T C C C T C T C T A A C
- G C T T C T T C T A G C T A G T G G T A T A G T G
- G A G A G G G G A G T A G G A A C T GG C T G A A 
-C A G T T T A T C C C C C T C T A G C A G G G G C 
-A G T G G C C C A T G C C G G A G C A T C A G T A 
-G A T TT G G G T A T T T T C T C C C T C C A T C T
- T G C C G G T G T G T C A T C A A T T C T A G G A
- G C C G T A A A T T T T AT T A C A A C A G T A A 
-T T A A T A T G C G G T C T T C A G G T A T A A C 
-A T T C G A C C G A A T G C C T C T A T T T GT A T
- G A T C T G T G T T T A T T A C T G C C A T T T T
- A C T T C T A C T T T C T C T T C C C G T A 
->Manx
-T A A T A T T A G G T G C T C C C G A T A T A G C 
-T T T C C C T C G A A T A A A T A A T A T G A G T 
-T T C T G A C T T TT A C C T C C C T C G C T A A C
- T C T A C T T C T T T C T A G A G G T A T A G T C
- G A A A G A G G G G T A G G A A C A GG A T G A A 
-C T G T T T A C C C T C C T C T A T C T G C C A G 
-C A T T G C C C A T G C A G G A G C A T C T G T A 
-G A T CT A G G A A T C T T C T C A T T A C A T T T
- A G C A G G G G T T T C T T C A A T T C T A G G T
- G C T G T A A A T T T T AT A A C T A C C G T T A 
-T C A A T A T A C G A T C A A C A G G A A T A A C 
-T A T A G A C C G A A T A C C T C T T T T C GT C T
- G A G C G G T A T T T A T T A C A G C C T T A C T
- A C T T T T A C T A T C A T T A C C G G T T 
->OldPrussian
-T A A T A C T A G G T G C C C C G G A T A T G G C 
-T T T C C C T C G A A T A A A T A A C A T A A G T 
-T T C T G A C T T TT A C C C C C A T C T C T C A C
- T C T C C T C T T A T C T A G A G G A A T A G T A
- G A A A G A G G T G T A G G A A C T GG A T G A A 
-C T G T A T A T C C T C C T T T A T C T G C A A G 
-T A T T G C C C A T G C G G G A G C T T C C G T T 
-G A T CT C G G A A T C T T C T C A C T A C A C T T
- A G C A G G T G T A T C A T C A A T T T T A G G T
- G C C G T A A A T T T T AT A A C A A C T G T T A 
-T C A A T A T A C G A T C T A C C G G A A T A A C 
-T A T G G A C C G G A T A C C T C T T T T T GT T T
- G A G C A G T A T T T A T T A C T G C T T T A C T
- T T T A C T A C T G T C C T T A C C A G T T 
->SanskritVedic
-T A A T A T T A G G A G C A C C A G A T A T A G C 
-A T T T C C A C G A A T A A A T A A T A T A A G T 
-T T T T G A C T T CT A C C C C C C T C T T T A A C
- T C T T T T A T T A A C T A G A G G T A T A G T A
- G A A A G A G G A G T A G G A A C A GG A T G A A 
-C T G T T T A C C C A C C A C T A T C C G C A G C 
-A A T T G C A C A T G C A G G A G C A T C A G T G 
-G A T TT A G G T A T T T T T T C T T T G C A T T T
- G G C T G G A G T A T C T T C T A T T T T A G G G
- G C T G T A A A T T T T AT A A C T A C A G T T A 
-T T A A T A T A C G T C C A C A A G G A A T A A C 
-C T T A G A C C G T A T A C C T T T A T T T GT G T
- G A T C C G T A T T T A T T A C T G C A A T T C T
- A C T T T T A T T A T C A C T A C C A G T T 
->Scots
-T T A T A C T T G G T G C C C C T G A T A T A G C 
-T T T C C C C C G T A T A A A T A A T A T A A G A 
-T T T T G G C T T CT T C C C C C A T C T T T A A C
- T C T T C T T C T T T C C A G A G G A A T A G T A
- G A A A G A G G G G T A G G A A C A GG A T G A A 
-C T G T T T A C C C T C C T T T G T C T G C T G G 
-A A T C G C C C A C G C C G G A G C T T C T G T T 
-G A T AT A G G A A T T T T C T C T C T C C A T C T
- T G C C G G A G T T T C T T C A A T T T T A G G G
- G C A G T A A A T T T T AT A A C A A C T G T T A 
-T T A A T A T A C G T T C A A C A G G A A T A A C 
-T A T A G A C C G A A T C C C C C T T T T T GT G T
- G A T C A G T G T T T A T T A C T A C C C T T C T
- T C T A C T T T T A T C C C T T C C A G T C 
->Yiddish
-T A A T A C T T G G A G C C C C A G A T A T A G C 
-T T T C C C T C G A A T A A A T A A C A T G A G A 
-T T T T G G T T G CT A C C T C C T T C T C T A A C
- C C T T C T T C T A T C A A G A G G A A T A G T T
- G A A A G A G G T G T A G G A A C T GG C T G A A 
-C A G T T T A T C C T C C C T T A G C A G C C G C 
-C G T C G C T C A T G C C G G A G C A T C C G T A 
-G A T TT A G G T A T T T T T T C A C T T C A T C T
- T G C A G G A G T T T C T T C A A T C C T A G G A
- G C A G T A A A T T T C AT A A C A A C T G T A A 
-T T A A T A T A C G G T C A A C T G G G A T A A C 
-T A T A G A C C G C A T A C C C T T A T T T GT C T
- G A T C T G T T T T T A T C A C C G C A A T T T T
- A C T T C T T C T A T C T C T A C C T G T C 
-
 Implied Alignments for Graph 9
 
 Sequence character woman.fastc#0
 >AlbanianTosk
-- - - - - - - - - - - - ɡ \textfishhookr - u a - -
- - - - - - 
+- - - - - - - - - ɡ - - \textfishhookr u - - a - 
 >AncientIonicGreek
-- - - - - - - - - - - - ɡ - - \”u n - - e \textlen
-gthmark - - - 
+- - - - - - - - - ɡ - - \”u n e - \textlengthmark 
+- 
 >ArmenianWestern
-- - - - - - - - - - - - ɡ - - i n - - - - - - - 
+- - - - - - - - - ɡ - - i n - - - - 
 >Assamese
-- - - - - - - m a \textsci k i m - - a n - - - - -
- u \textsuperscript{\texthth} 
+m a \textsci k i - - - - m - - a n u - \textsupers
+cript{\texthth} - 
 >Cornish
-- - - - - - - - - - - - b \textepsilon n j n - - -
- - - - - 
+- - - - - - - - - b - - \textepsilon n - j n - 
 >Danish
-- - \textprimstress k \textsuperscript{h} - - - - 
-- - - v - - e n - - - \textschwa - - - 
+- - - \textprimstress k \textsuperscript{h} - - - 
+v - - e n - - \textschwa - 
 >EasternFrisianSaterland
-- - - - - - - - - - - - v - - i\texthalflength \te
-xtupsilon - - - v - - - 
+- - - - - - - - - v - - i\texthalflength \textupsi
+lon - - v - 
 >Faroese
-- - - - - - - - - - k - o - - \textlengthmark n - 
-- - - a - - 
+- - - - - - - k - o - - \textlengthmark n - - a - 
 >Icelandic
-\textprimstress k - - - - - - - - - - \textsupersc
-ript{h} - - \textopeno n - - - a - - - 
+- - - \textprimstress k - - - - \textsuperscript{h
+} - - \textopeno n - - a - 
 >Irish
-- - - - - - - - - - - - b \textsuperscript{j} \ae 
-\textlengthmark n \textsubbridge \textsuperscript{
-\textgamma} - - - - - 
+- - - - - - - - - b \textsuperscript{j} \ae \textl
+engthmark n - \textsubbridge \textsuperscript{\tex
+tgamma} - 
 >KolschColognian
-- - - - - - - - - - - - v - - e\textlengthmark z -
- - - h - - - 
+- - - - - - - - - v - - e\textlengthmark z - - h -
+ 
 >Manx
-- - - - - - - - - - - - b \textepsilon - \textsupe
-rscript{d} n - - - - - - - 
+- - - - - - - - - b - - \textepsilon - - \textsupe
+rscript{d} n - 
 >OldPrussian
-- - - - - - - - - - - - v i\textlengthmark r i n -
- a - - - - - 
+- - - - - - - - v i\textlengthmark - - r - - i n a
+ 
 >SanskritVedic
-- - - - - - - s \textsubbridge t \textsubbridge - 
-\textrtailr - - i \textlengthmark - - - - - - - 
+- - - s \textsubbridge - - - - t - - \textsubbridg
+e \textrtailr i - \textlengthmark - 
 >Scots
-- - - - - w \textturnv - - - m - m - - \textscript
-a n - - - - - - - 
+- - - - - - w \textturnv - m - - m \textscripta - 
+- n - 
 >Yiddish
-- - - - - - - - - - - - - - - f \textscr - - - \te
-xtopenoj - - - 
+- - - - - - - - - - - - f \textscr - - \textopenoj
+ - 
 
 
 Sequence character woman_binary.fasta#0
 >AlbanianTosk
-0 1 1 1 - 1 1 1 0 0 1 0 0 - 0 1 1 1 1 1 - 1 1 1 1 
-0 - 1 1 1 1 1 0 - 1 0 1 1 0 1 1 1 1 0 0 1 1 1 1 1 
-0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 0 - 1 1 1 0 - 
-- - 0 0 1 0 1 1 - 1 0 1 0 1 - 1 - 1 1 1 1 - 1 1 1 
-- 1 0 1 1 1 1 1 - 1 1 1 - 0 1 1 1 1 1 0 1 1 1 1 0 
-1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 1 1 0 1 - 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
-1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 1 1 1 1 0 1 0 0 1 0 0 1 1 0 1 0 1 1 0 
-0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- - 1 1 0 1 0 1 0 0 1 - 1 1 1 1 1 1 1 1 0 1 0 1 1 
-0 - 1 0 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-0 0 
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 1 - 1 - 1 0 
+1 1 - 1 1 1 0 1 0 - - 1 1 0 1 1 1 1 0 0 1 1 1 1 1 
+0 1 1 0 0 1 0 0 0 0 0 0 0 - - 1 1 1 0 - 1 0 1 1 - 
+1 - 0 0 0 1 0 - 1 1 1 0 1 0 1 - 1 - 1 1 1 1 1 1 1 
+- 1 0 1 1 1 - 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 1 1 
+1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
+0 1 0 1 1 1 1 0 1 - 1 1 1 1 0 1 0 1 1 1 1 1 1 0 1 
+0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
+1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 
+0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 1 0 1 0 0 1 0 - 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 - 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 
+1 1 1 0 - - 1 1 0 1 0 1 0 0 1 - 1 1 1 1 1 1 1 1 0 
+1 0 1 1 0 - 1 0 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
 >AncientIonicGreek
-0 1 1 1 0 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 - 1 1 1 1 
-1 0 0 1 1 1 1 0 - 1 1 1 - 0 1 1 1 1 0 0 1 1 1 1 0 
+0 1 1 1 0 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 - 1 - 1 1 
+1 1 0 0 1 1 1 1 0 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
 1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 1 0 - 
-1 - 1 0 1 - 0 0 - - 1 1 0 1 - 1 - 1 1 1 1 - 1 1 1 
-- 1 0 1 1 - 1 1 - 1 1 1 0 - 1 0 1 1 0 0 0 0 1 1 1 
-0 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 
-0 1 1 - 1 0 1 - 1 1 1 0 1 1 0 1 1 0 1 1 1 1 1 1 1 
-1 1 1 1 1 1 1 1 0 0 0 0 0 1 0 1 1 1 1 1 - 1 1 1 1 
-1 1 1 1 0 0 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 
-1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 1 0 1 1 1 1 0 0 1 - 1 1 0 1 1 1 1 1 1 1 0 
-0 0 1 1 1 0 - 1 1 1 1 0 0 0 0 0 1 0 1 1 1 1 1 1 0 
-- 1 1 1 1 1 - 0 1 1 1 - 1 1 1 1 1 1 1 1 0 1 1 1 1 
-1 0 - 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 1 0 1 
-1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 1 1 1 - 1 1 0 - - 
-1 1 0 1 1 1 1 1 0 - 1 1 1 1 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 0 1 1 0 1 1 0 0 1 
-0 0 
+1 - 1 0 1 0 0 - - - 1 - 1 0 1 - 1 - 1 1 1 1 - 1 1 
+- 1 - 1 0 1 - 1 - 1 1 - 1 1 1 0 1 0 1 1 0 0 0 0 1 
+1 1 0 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 
+1 1 0 1 1 - 1 0 1 - 1 1 1 0 1 1 0 1 1 0 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 1 0 1 1 1 1 1 - 1 1 
+1 1 1 1 1 1 0 0 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 
+0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
+0 1 0 0 1 0 1 0 1 1 1 1 0 0 - 1 1 1 - 0 1 1 1 1 1 
+1 1 0 0 0 1 1 1 0 - 1 1 - 1 1 0 0 0 0 0 1 0 1 1 1 
+1 1 1 0 - 1 1 1 1 1 0 1 1 - 1 - 1 1 1 1 1 1 1 1 0 
+1 1 1 1 1 0 - 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 
+1 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 1 1 1 - 1 
+1 0 - - 1 1 0 1 1 1 1 1 0 - 1 1 1 1 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 0 1 1 0 1 
+1 0 0 1 0 0 
 >ArmenianWestern
-0 1 1 1 - 1 1 1 0 0 1 0 0 - 0 1 1 1 1 0 - 0 1 1 1 
-0 - 0 1 1 1 1 1 - 1 0 1 0 0 1 1 1 1 0 0 1 0 1 1 0 
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 0 0 1 - 1 - 1 0 
+0 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 0 1 1 0 
 0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-0 - 0 0 0 - 1 0 - 1 1 1 0 1 - 1 - 1 0 1 1 - 0 1 1 
-- 1 0 0 0 1 1 1 - 1 1 1 - 0 1 1 1 1 1 0 0 1 1 1 0 
-1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 0 1 0 1 - 1 1 1 1 0 0 0 1 1 0 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 0 0 1 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 0 0 
-1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 1 1 1 0 0 1 1 - 1 1 0 1 1 0 1 1 1 1 0 
-0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- 1 1 1 0 1 - 1 1 0 1 - 1 1 1 1 1 1 1 1 0 0 0 1 1 
-1 - 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-0 0 
+0 - 0 0 0 1 0 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 0 1 1 
+- 1 0 0 0 1 - 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 
+1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
+0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 0 0 1 1 0 1 1 1 0 1 
+0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 0 0 1 1 1 0 1 0 
+1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 
+0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 0 1 - 1 1 1 - 0 1 1 0 1 1 
+1 1 0 0 0 1 1 1 0 - 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 
+1 1 1 0 - 1 1 1 0 1 1 1 0 - 1 - 1 1 1 1 1 1 1 1 0 
+0 0 1 1 1 - 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
 >Assamese
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 - 1 1 1 1 
-1 - 1 1 1 1 1 1 - 1 1 1 - 0 1 1 1 1 0 0 1 1 1 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 - 1 - 1 1 
+1 1 - 1 1 1 1 1 1 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
 - 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 - 1 0 - 
-1 0 0 0 1 - 1 1 - - 1 1 1 1 - 1 - 1 1 1 1 - 1 1 1 
-- 1 0 1 1 - 1 1 - 1 1 1 - - 1 1 1 1 1 1 1 1 1 1 1 
-1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 
-1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 1 
-0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0 0 
-1 1 1 1 1 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 1 0 1 1 1 1 1 1 1 - 1 0 0 1 0 0 1 1 1 1 0 
-0 0 1 1 1 0 - 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- - 1 1 1 1 - 0 1 1 1 - 1 1 1 1 1 1 1 1 - 1 1 1 1 
-1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 1 1 0 1 
-1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 - - 
-0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 0 0 0 0 0 1 1 0 0 0 0 1 1 
-1 0 
+1 0 0 0 1 1 1 - - - 1 - 1 1 1 - 1 - 1 1 1 1 - 1 1 
+- 1 - 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 
+1 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 
+1 1 1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 
+0 1 0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
+0 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 
+0 0 1 1 1 1 1 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 
+0 1 0 0 1 0 1 0 1 1 1 1 1 1 - 1 1 0 - 0 1 0 0 1 1 
+1 1 0 0 0 1 1 1 0 - 1 0 - 1 1 0 0 1 0 0 1 1 1 1 1 
+1 1 1 0 - - 1 1 1 1 0 1 1 - 1 - 1 1 1 1 1 1 1 1 - 
+1 1 1 1 1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 
+1 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 
+1 0 - - 0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 0 0 0 0 0 1 1 0 0 
+0 0 1 1 1 0 
 >Cornish
-0 1 1 1 - 1 1 1 0 0 1 0 0 - 0 1 1 1 1 1 - 0 1 1 1 
-0 - 1 1 1 1 1 1 - 1 0 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
 1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 1 - 
-1 - 0 0 1 - 1 1 - 1 1 1 0 1 - 1 - 1 0 1 0 - 1 1 1 
-- 1 0 1 0 1 0 1 - 1 1 1 - 0 1 1 1 1 1 0 1 0 1 1 0 
-1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
-1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 1 1 1 1 0 1 1 1 1 0 0 1 1 0 1 0 1 1 0 
-0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- 1 1 1 1 0 - 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 1 0 1 
-0 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-0 0 
+1 - 0 0 1 1 1 - - 1 1 - 1 0 1 - 1 - 1 0 1 0 1 1 1 
+- 1 0 1 0 1 - 0 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 0 1 
+1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
+0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
+0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 
+1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
+0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 1 0 1 - 1 1 1 0 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 - 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 
+1 1 1 0 - 1 1 1 - 1 0 1 0 1 1 - 1 1 1 1 1 1 1 1 0 
+1 1 0 1 0 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
 >Danish
-0 1 1 1 - 1 1 1 0 0 1 1 0 - 0 1 1 1 1 1 - 0 1 1 1 
-0 - 1 1 1 1 1 1 - 1 0 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
+0 1 1 1 1 1 1 0 0 1 1 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
 1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 - 1 1 - 1 1 1 0 1 - 1 - 1 0 1 1 - 1 1 1 
-- 1 0 1 0 1 1 1 - 1 1 1 - 1 1 1 1 1 1 0 0 1 1 1 0 
-1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
-1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 1 1 0 1 0 1 1 0 
-0 0 1 1 1 0 1 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- 1 1 1 1 0 - 1 0 1 1 - 1 1 1 1 1 0 1 1 0 1 1 0 1 
-1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-0 0 
+1 - 0 0 1 1 1 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 1 1 1 
+- 1 0 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 0 0 1 1 
+1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
+0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
+0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 
+1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
+0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 0 1 - 1 1 1 0 1 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 1 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 
+1 1 1 0 - 1 1 1 - 1 0 1 0 1 1 - 1 1 1 1 1 0 1 1 0 
+1 1 0 1 1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
 >EasternFrisianSaterland
-0 1 1 1 - 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 - 1 1 0 1 
-1 - 0 1 1 1 1 1 - 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 1 1 - 1 0 1 1 
+0 1 - 1 1 1 1 1 1 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
 1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 - 1 0 - - 1 1 1 1 - 1 0 1 1 1 1 - 0 1 1 
-- 1 0 1 1 0 1 1 - 1 1 1 - 0 1 1 1 1 1 0 0 1 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
-1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 0 1 1 1 1 1 1 1 - 1 0 0 1 1 0 1 0 1 1 0 
-0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- 1 1 1 0 1 - 1 1 0 1 - 1 1 1 1 1 1 1 1 0 1 0 1 1 
-1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-0 0 
+1 - 0 0 1 1 0 - - - 1 - 1 1 1 - 1 0 1 1 1 1 0 1 1 
+- 1 - 0 1 1 0 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 
+1 0 0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
+0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
+0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
+1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 
+0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
+0 1 0 0 1 0 0 0 1 1 1 1 1 1 - 1 1 0 - 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 - 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 
+1 1 1 0 - 1 1 1 0 1 1 1 0 - 1 - 1 1 1 1 1 1 1 1 0 
+1 0 1 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
 >Faroese
-0 1 1 1 - 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 - 1 1 0 1 
-1 - 1 1 1 1 1 1 - 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 0 1 1 
+1 1 - 1 1 1 1 1 1 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
 1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 - 0 0 - - 1 1 1 1 - 1 0 1 1 1 0 - 1 1 1 
-- 1 0 0 0 0 1 1 - 1 1 1 - 0 1 1 1 1 1 0 0 1 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 0 0 
-1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 0 0 1 1 1 0 0 1 - 1 0 0 1 1 0 1 0 1 1 0 
-0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- 1 1 1 1 1 - 0 1 0 0 - 1 1 1 1 1 0 1 1 0 0 0 1 0 
-1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-0 0 
+1 - 0 0 1 0 0 - - - 1 - 1 1 1 - 1 0 1 1 1 0 1 1 1 
+- 1 - 0 0 0 0 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 
+1 0 0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
+0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
+0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
+1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 1 
+0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
+0 1 0 0 1 0 0 0 0 1 1 1 0 0 - 1 1 0 - 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 - 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 
+1 1 1 0 - 1 1 1 1 1 0 1 0 - 0 - 1 1 1 1 1 0 1 1 0 
+0 0 1 0 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
 >Icelandic
-0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 0 1 - 1 1 1 1 
-1 - 0 - 0 1 1 0 1 - 1 0 - 0 1 1 1 1 1 0 1 1 1 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 0 1 - 1 - 1 1 
+1 1 - 0 - 0 1 1 0 1 - 1 0 0 1 1 1 1 1 0 1 1 1 1 0 
 0 0 1 0 0 1 1 0 0 0 0 0 0 1 1 1 0 1 0 - 1 - 1 0 - 
-0 - 0 0 1 - 1 0 - - 1 1 0 1 0 1 - 1 1 1 1 1 1 1 1 
-- 1 1 1 1 1 1 1 0 0 1 1 - - 1 1 1 1 1 0 0 1 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 - 1 1 1 - 1 1 1 1 0 0 1 1 1 0 1 1 1 1 1 0 1 
-1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 1 1 
-0 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 1 1 1 1 1 0 0 
-1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 0 1 1 0 1 0 1 - 0 1 0 1 1 1 0 1 1 1 0 
-0 0 1 1 1 0 - 1 0 1 1 0 1 1 0 0 1 1 1 1 1 1 1 1 0 
-1 1 1 1 1 1 - 1 1 0 0 1 1 1 1 1 1 1 1 1 0 0 1 1 1 
-1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 0 1 0 1 
-1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 1 1 
-1 1 1 1 1 1 1 0 1 - 1 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 0 1 
-0 0 
+0 - 0 0 1 1 0 - - - 1 - 1 0 1 0 1 - 1 1 1 1 1 1 1 
+- 1 - 1 1 1 - 1 1 1 1 0 0 1 1 - 1 1 1 1 1 0 0 1 1 
+1 0 0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
+0 1 0 1 1 - 1 1 1 - 1 1 1 1 0 0 1 1 1 0 1 1 1 1 1 
+0 1 1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 
+1 1 0 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 1 1 1 1 1 
+0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
+0 1 0 0 1 0 0 1 0 1 1 0 1 0 - 1 0 1 - 0 1 1 1 0 1 
+1 1 0 0 0 1 1 1 0 - 1 0 - 1 1 0 1 1 0 0 1 1 1 1 1 
+1 1 1 0 1 1 1 1 1 1 1 1 0 - 0 1 1 1 1 1 1 1 1 1 0 
+0 1 1 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 
+0 1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 
+1 0 1 1 1 1 1 1 1 1 1 0 1 - 1 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 0 1 0 0 
 >Irish
-0 1 1 1 - 1 1 1 0 0 1 0 0 - 0 1 1 1 1 1 - 0 1 1 1 
-0 - 1 1 1 1 1 1 - 1 0 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
 0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 1 0 - 0 0 - 1 1 1 0 1 - 1 - 1 0 1 1 - 1 1 1 
-0 0 0 1 0 - 0 1 - 1 1 1 - 0 1 1 1 0 1 0 0 1 1 1 0 
-1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 0 1 0 0 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 0 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
-1 1 1 0 1 0 0 1 0 0 0 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 1 1 1 0 0 1 1 0 1 - 0 1 1 0 1 0 1 1 0 
-0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 0 
-- 1 1 1 1 1 - 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 1 1 1 
-1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 0 1 
-0 0 
+1 - 0 1 0 0 0 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 1 1 1 
+0 0 0 1 0 - - 0 - 1 1 - 1 1 0 - 1 1 1 0 1 0 0 1 1 
+1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
+0 1 0 1 1 0 1 0 0 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 
+0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 0 1 1 0 1 0 
+1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
+0 0 1 1 1 0 1 0 0 1 0 0 0 1 1 1 1 1 0 1 1 0 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 0 1 - 1 0 1 - 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 - 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 
+1 0 1 0 - 1 1 1 - 1 1 1 0 1 1 - 1 1 1 1 1 1 1 1 0 
+1 1 1 1 1 - 1 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 0 1 0 0 
 >KolschColognian
-0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 1 1 0 0 1 1 1 
-1 - 1 - 1 1 1 0 - - 1 0 - 0 1 1 1 1 1 0 0 1 1 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 - - 1 1 1 1 1 0 0 - 1 1 
+1 1 - 1 - 1 1 1 0 - - 1 0 0 1 1 1 1 1 0 0 1 1 1 0 
 0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 0 0 - 
-1 - 1 0 1 - 0 0 - - 1 1 0 1 0 1 - 1 0 0 1 0 1 1 1 
-- 1 1 1 1 0 1 1 0 1 1 1 - - 1 1 1 1 1 0 0 1 1 1 0 
-0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 
-1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 1 1 
-0 1 1 0 0 1 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 
-1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 1 1 1 0 1 1 1 - 1 1 0 1 1 1 1 1 1 1 0 
-0 0 1 1 1 0 - 1 0 1 1 0 1 1 0 0 1 1 1 0 1 1 1 1 0 
-1 1 1 1 1 1 - 1 1 1 0 - 1 1 1 1 1 1 1 1 0 0 1 1 1 
-1 - 1 1 0 0 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 0 1 0 1 
-1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 1 1 
-1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 0 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 0 1 
-0 0 
+1 - 1 0 1 0 0 - - - 1 - 1 0 1 0 1 - 1 0 0 1 0 1 1 
+- 1 - 1 1 1 - 1 0 1 1 0 1 1 1 - 1 1 1 1 1 0 0 1 1 
+1 0 0 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
+0 1 0 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+0 1 1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 
+1 1 0 1 1 0 0 1 0 0 1 1 0 0 1 0 1 1 1 1 1 1 1 1 1 
+0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 1 1 - 1 1 1 - 0 1 1 1 1 1 
+1 1 0 0 0 1 1 1 0 - 1 0 - 1 1 0 1 1 0 0 1 1 1 0 1 
+1 1 1 0 1 1 1 1 1 1 1 1 1 - 0 - 1 1 1 1 1 1 1 1 0 
+0 1 1 1 1 - 1 1 0 0 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 
+0 1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 
+1 0 1 1 1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 0 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 0 1 0 0 
 >Manx
-0 1 1 1 - 1 1 1 0 0 1 0 0 - 0 1 1 1 1 1 - 0 1 1 1 
-0 - 1 1 1 1 1 1 - 1 0 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 1 1 0 1 1 0 
 0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 1 - 
-1 - 0 0 1 - 1 0 - 1 1 1 0 1 - 1 - 1 0 1 1 - 1 1 1 
-- 1 0 1 0 1 0 1 - 1 1 1 - 0 1 1 1 1 1 0 1 0 1 1 0 
-1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 0 1 0 1 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
-1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 1 1 1 1 0 1 1 0 1 0 0 1 1 0 1 0 1 1 0 
-0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- 1 1 1 0 1 - 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 1 0 1 
-1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-0 0 
+1 - 0 0 1 1 0 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 1 1 1 
+- 1 0 1 0 1 - 0 - 1 1 - 1 1 0 - 1 1 1 1 1 0 1 0 1 
+1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
+0 1 0 1 1 0 1 0 1 - 1 1 1 1 1 1 0 1 1 0 1 1 1 0 1 
+0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 0 
+1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
+0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 1 0 1 - 1 0 1 0 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 - 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 
+1 1 1 0 - 1 1 1 - 0 1 1 0 1 1 - 1 1 1 1 1 1 1 1 0 
+1 1 0 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
 >OldPrussian
-0 1 1 1 - 1 1 1 0 0 1 1 0 - 0 1 1 0 1 1 - 0 1 1 1 
-0 - 1 1 1 1 1 1 - 1 0 1 1 0 1 1 1 1 0 1 1 0 1 1 0 
+0 1 1 1 1 1 1 0 0 1 1 0 0 1 1 0 1 1 0 1 - 1 - 1 0 
+1 1 - 1 1 1 1 1 0 - - 1 1 0 1 1 1 1 0 1 1 0 1 1 0 
 0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 - 0 1 - 1 1 1 0 1 - 1 - 1 0 1 1 - 1 1 1 
-- 1 0 1 0 1 1 1 - 1 1 1 - 1 1 1 1 1 1 0 0 1 1 1 0 
-1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 0 0 
-1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 0 1 0 1 1 0 
-0 0 1 1 1 0 1 0 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- 1 1 1 0 1 - 1 0 1 1 - 1 1 1 1 1 1 1 1 0 1 1 0 1 
-1 - 1 1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 1 1 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-0 0 
+1 - 0 0 1 0 1 - - 1 1 - 1 0 1 - 1 - 1 0 1 1 1 1 1 
+- 1 0 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 0 0 1 1 
+1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
+0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
+0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
+1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 1 1 1 1 
+0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 0 0 1 - 1 1 1 0 0 1 1 0 1 0 
+1 1 0 0 0 1 1 1 0 - 1 - 0 1 1 0 0 1 0 0 1 1 1 1 1 
+1 1 1 0 - 1 1 1 - 0 1 1 0 1 1 - 1 1 1 1 1 1 1 1 0 
+1 1 0 1 1 - 1 1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 1 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
 >SanskritVedic
-0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 1 1 1 - 1 1 1 1 
-1 - 1 1 0 1 1 1 - 1 1 1 - 0 1 1 1 1 0 0 1 1 1 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 1 1 1 1 1 1 - 1 - 1 1 
+1 1 - 1 1 0 1 1 1 - 1 1 1 0 1 1 1 1 0 0 1 1 1 1 0 
 - 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 1 - 1 0 - 
-1 0 0 0 1 - 1 1 - - 1 1 1 1 - 1 - 1 1 1 1 - 1 1 1 
-- 1 0 1 1 - 1 1 - 1 1 1 - - 1 1 1 1 1 1 1 1 1 1 1 
-1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 1 1 
-1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 1 
-0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 0 0 
-1 1 1 1 0 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 1 1 1 1 1 1 1 1 1 - 1 0 0 1 0 0 1 1 1 1 0 
-0 0 1 1 1 0 - 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- - 1 1 1 1 - 1 1 1 1 - 1 1 1 1 1 1 1 1 - 1 1 1 1 
-1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 1 1 0 1 
-1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 - - 
-0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 1 1 0 1 0 0 0 0 0 1 1 0 0 0 0 1 1 
-1 0 
+1 0 0 0 1 1 1 - - - 1 - 1 1 1 - 1 - 1 1 1 1 - 1 1 
+- 1 - 1 0 1 - 1 - 1 1 - 1 1 1 - 1 1 1 1 1 1 1 1 1 
+1 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 
+1 1 1 1 1 - 1 0 1 - 1 1 1 1 1 1 0 1 1 1 1 1 1 1 0 
+0 1 0 1 0 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
+0 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 1 0 1 1 1 1 1 
+0 0 1 1 1 1 0 0 0 1 0 0 - 1 1 1 1 1 0 1 1 0 1 1 0 
+0 1 0 0 1 0 1 1 1 1 1 1 1 1 - 1 1 0 - 0 1 0 0 1 1 
+1 1 0 0 0 1 1 1 0 - 1 0 - 1 1 0 0 1 0 0 1 1 1 1 1 
+1 1 1 0 - - 1 1 1 1 1 1 1 - 1 - 1 1 1 1 1 1 1 1 - 
+1 1 1 1 1 0 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 
+1 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 - 1 
+1 0 - - 0 0 0 1 1 1 1 1 1 - 1 0 1 1 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 1 1 0 1 0 0 0 0 0 1 1 0 0 
+0 0 1 1 1 0 
 >Scots
-0 1 1 1 - 1 1 1 0 0 1 0 0 0 1 0 1 1 1 1 - 1 1 0 1 
-1 - 1 1 1 1 1 1 - 1 0 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
+0 1 1 1 1 1 1 0 0 1 0 0 0 1 0 1 1 1 1 1 - 1 0 1 1 
+1 1 - 1 1 1 1 1 0 - - 1 0 0 1 1 1 1 0 0 1 1 1 1 0 
 1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 0 1 0 - 
-1 - 0 0 1 - 1 1 - - 1 1 1 1 - 1 0 1 1 1 1 - 0 1 1 
-- 1 0 0 1 0 1 1 - 1 1 1 - 0 1 1 1 1 1 0 0 1 1 1 0 
-1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 
-0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 0 1 
-1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 1 1 
-1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 0 0 
-1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 0 1 1 1 1 1 0 1 1 - 1 0 0 1 1 0 1 1 1 1 0 
-0 0 1 1 1 0 - 1 - 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- 1 1 1 0 1 - 0 0 0 0 - 1 1 1 1 1 1 1 1 0 0 0 0 1 
-1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 1 
-1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 0 0 - - 
-1 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-0 0 
+1 - 0 0 1 1 1 - - - 1 - 1 1 1 - 1 0 1 1 1 1 0 1 1 
+- 1 - 0 0 1 0 1 - 1 1 - 1 1 0 - 1 1 1 1 1 0 0 1 1 
+1 0 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
+0 1 0 1 1 0 1 0 1 - 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 
+0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
+1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1 1 1 1 
+0 0 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
+0 1 0 0 1 0 0 1 1 1 1 1 0 1 - 1 1 0 - 0 1 1 0 1 1 
+1 1 0 0 0 1 1 1 0 - 1 - - 1 1 0 0 1 0 0 1 1 1 1 1 
+1 1 1 0 - 1 1 1 0 1 0 0 0 - 0 - 1 1 1 1 1 1 1 1 0 
+0 0 0 1 1 - 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 
+1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 - - 1 0 1 
+0 0 - - 1 1 1 0 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 0 0 
 >Yiddish
-0 1 1 1 0 1 0 1 0 1 1 0 0 - - 1 1 1 1 1 - 1 1 1 1 
-0 - 0 - 1 1 1 0 - - 1 1 - 0 1 1 0 1 1 0 1 1 1 1 - 
+0 1 1 1 0 1 0 1 0 1 1 0 0 - - 1 1 1 1 1 - 1 - 1 1 
+1 0 - 0 - 1 1 1 0 - - 1 1 0 1 1 0 1 1 0 1 1 1 1 - 
 1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 - 1 - 1 0 1 
-1 - 0 0 1 - 1 0 1 - 1 1 0 1 - 1 - 1 1 1 1 0 1 1 1 
-- 1 1 1 1 0 1 1 - 1 1 1 - - 1 1 1 1 1 0 1 1 1 1 1 
-1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 
-0 1 1 - 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 
-1 1 0 1 0 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 
-0 1 1 1 0 1 0 0 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 0 0 
-1 1 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 
-0 0 1 0 1 1 1 1 1 1 0 1 1 - 1 1 0 1 1 1 1 1 1 1 0 
-0 1 1 1 1 0 - 1 0 1 1 0 0 1 0 0 1 1 1 1 1 1 1 1 0 
-- 1 1 1 1 1 - 1 1 1 0 - 1 1 1 1 1 1 1 1 0 1 1 1 1 
-1 - 1 1 0 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 1 0 1 0 1 
-1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 1 0 - - 
-1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 0 1 1 1 
-0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 
-1 0 
+1 - 0 0 1 1 0 1 - - 1 - 1 0 1 - 1 - 1 1 1 1 0 1 1 
+- 1 - 1 1 1 - 1 0 1 1 - 1 1 1 - 1 1 1 1 1 0 1 1 1 
+1 1 1 1 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 1 1 1 
+1 1 0 1 1 - 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+0 1 1 1 0 1 0 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 0 1 0 
+0 1 0 1 1 1 0 1 0 0 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 
+0 0 1 1 1 1 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 0 1 1 0 
+0 1 0 0 1 0 1 1 1 1 1 1 0 1 - 1 1 1 - 0 1 1 1 1 1 
+1 1 0 0 1 1 1 1 0 - 1 0 - 1 1 0 0 1 0 0 1 1 1 1 1 
+1 1 1 0 - 1 1 1 1 1 1 1 1 - 0 - 1 1 1 1 1 1 1 1 0 
+1 1 1 1 1 - 1 1 0 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 1 
+0 1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 - - 1 - 1 
+1 0 - - 1 1 1 0 1 1 1 1 1 - 1 0 1 0 1 1 1 1 0 1 0 
+0 1 1 1 0 1 1 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 1 0 
+1 0 1 1 1 0 
 
 
 Sequence character woman_12Saln.fasta#0
 >AlbanianTosk
 GTTTTATCCTGGCTTA-T-TTTTTCATTTTCAGATTTGTGCCAGCAGCCG
-CGGTTACAC-TAAGGGACA-AACTGAAATGTTAAGATAAAGTTATGAACC
-AGGATTAGATACCCTGTAGTTATTGTCTTAAAACTCAAAGGATTTGGCGG
-TAATTTAGTCTATTTAGAGGAACCTGTCCTATAAACGATAAACCACGTAA
-AATCTTACCCTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCTT
-ATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA-
--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTACC
+CGGTTACAC-TAAGGGAC-AAACTGAAA-TGTTAAGATAAAGTTATGAAC
+CAGGATTAGATACCCTGTAGTTATTGTCTTAAAACTCAAAGGATTTGGCG
+GTAATTTAGTCTATTTAGAGGAACCTGTCCTATAAACGATAAACCACGTA
+AAATCTTACCCTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
+TATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
+--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
+C
 >AncientIonicGreek
 GTTTGATTTTTGCTTATT-TATTTTACGTTTAGTTTTGTGCCAGCAGCCG
-CGGTTATACTTGAAGAGCA--AGTAAAATGTAAAGTCTAGGGCATAGACT
-AGGATTAGATACCCT-AAGTTATGTTCTTGAAAATAAAAAAATTTGGCGG
-T-GTTTAATTTATTTAGGGGAACCTGTTTTATAATCGATACACCACGAAG
-AATCTTACTTACTTCATGTATACCGTTATTATTAGATCAAGGTGCAGACT
-ATGATATAAATACTTAAACATGTACATATCGCCCGTCGCTTTTACA-T--
--CTTAATGTAAAATAAGTCGTAACATAGTAGCTGTATCGGAAGATGCAGC
+CGGTTATACTTGAAGAGC-AAG-TAAAA-TGTAAAGTCTAGGGCATAGAC
+TAGGATTAGATACCCT-AAGTTATGTTCTTGAAAATAAAAAAATTTGGCG
+GT-GTTTAATTTATTTAGGGGAACCTGTTTTATAATCGATACACCACGAA
+GAATCTTACTTACTTCATGTATACCGTTATTATTAGATCAAGGTGCAGAC
+TATGATATAAATACTTAAACATGTACATATCGCCCGTCGCTTTTACA-T-
+--CTTAATGTAAAATAAGTCGTAACATAGTAGCTGTATCGGAAGATGCAG
+C
 >ArmenianWestern
 GTTTTATCCTGGCTTA-T-CCTTTCGATTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGGGGCA-GATTGAAATATTAAGATAAAGGTATGAACC
-AGGATTAGATACCCTGCAGTTATTGGCTTGAAACTCAAAGGATTTGGCGG
-TAGCTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAATCCACGAAA
-AATCTCACTTTACGCTTGTATACCGTCATTATTAGATCAAGGTGCAGCTT
-ATGATTGTAGCTCTAAGCTATGTACACATCGCCCGTCGC-TCT-CGTTA-
--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTACC
+CGGTTATAC-TGAGGGGC-AGATTGAAA-TATTAAGATAAAGGTATGAAC
+CAGGATTAGATACCCTGCAGTTATTGGCTTGAAACTCAAAGGATTTGGCG
+GTAGCTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAATCCACGAA
+AAATCTCACTTTACGCTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
+TATGATTGTAGCTCTAAGCTATGTACACATCGCCCGTCGC-TCT-CGTTA
+--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
+C
 >Assamese
 GTTTGATTCTTGCTTA-T-GATTTTTATATTATATTTGTGCCAGCAGTCG
-CGGTTATACTTAGAGGGTA--AATAAATTATAAATTTTAATATATAAACT
-AGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGGCGG
-TATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAACCACGAA-
-TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAGTCT
-ATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-C--
--CTAAAAATGAAATAAGTCGTAACAAAGTAGGTGTGCCGGAAGGCGTATC
+CGGTTATACTTAGAGGGT-AAA-TAAAT-TATAAATTTTAATATATAAAC
+TAGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGGCG
+GTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAACCACGAA
+-TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAGTC
+TATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-C-
+--CTAAAAATGAAATAAGTCGTAACAAAGTAGGTGTGCCGGAAGGCGTAT
+C
 >Cornish
 GTTTTATCCTGGCTTA-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAAAGGTA-AATTGAAATGTTAAGATAAAGAGATGAACC
-AGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCGG
-TAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAAG
-AATCTTACTTTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCTT
-ATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA-
--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTACC
+CGGTTATAC-TGAAAGGT-AAATTGAAA-TGTTAAGATAAAGAGATGAAC
+CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
+GTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAA
+GAATCTTACTTTACGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
+TATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA
+--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
+C
 >Danish
 GTTTTATCCTAGCTTA-T-TCTTTCAATTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGTT-AATTGAAATATTAAAATAAAGGAATGAACC
-AGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCGG
-TAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAAG
-AATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCTT
-ATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA-
--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTACC
+CGGTTATAC-TGAGAGGT-TAATTGAAA-TATTAAAATAAAGGAATGAAC
+CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
+GTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAA
+GAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
+TATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA
+--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
+C
 >EasternFrisianSaterland
 GTTTTATCCTGGCTAA-TATTTCTTGTTTTTAAATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGTA-GATTAAGATGTTAAGTTAAAGGTATGGACC
-AGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCGG
-TAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACGAAG
-TATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCCA
-ATGATTATAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA-
--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTACC
+CGGTTATAC-TGAGAGGT-AGATTAAGA-TGTTAAGTTAAAGGTATGGAC
+CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
+GTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACGAA
+GTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCC
+AATGATTATAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
+--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
+C
 >Faroese
 GTTTTATCCTGGCTAA-TAGTTCTTATTATTAAATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGTG-GATTAAGATGTTAAGATAAAGGTATGGACC
-AGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCGG
-TAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACGAAG
-AATCTTACCTTGTGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCCG
-ATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA-
--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTACC
+CGGTTATAC-TGAGAGGT-GGATTAAGA-TGTTAAGATAAAGGTATGGAC
+CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
+GTAATTTAGTCTATTTAGAGGAACCTGTCCTATAATCGATAAACCACGAA
+GAATCTTACCTTGTGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCC
+GATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
+--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
+C
 >Icelandic
 GTTTGATTCTTGC-TA-T-GTTTTT--TGCTAGACTTGTGCCAGCATCCG
-CGGTTAGACTTG-G-GGATCTAGTGAAACGAGGAATTTTAGGTATGGACC
-AGGATTAGATACCCTGAATTAATACGTTTGAAATTCAAAGAACCTGGCGG
-TACTTTAGTCTAGTTAGAGGAACCTGTTGTATAAACGATAAACCACGTAG
-AATCTTTCTTACTGCTAGTATACCTTCATTATTAGATCAAGGTGCTGCTG
-ATGATAATAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CATT-A
-AATTAGA-TGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCACC
+CGGTTAGACTTG-GGGATCTAG-TGAAACGA-GGAATTTTAGGTATGGAC
+CAGGATTAGATACCCTGAATTAATACGTTTGAAATTCAAAGAACCTGGCG
+GTACTTTAGTCTAGTTAGAGGAACCTGTTGTATAAACGATAAACCACGTA
+GAATCTTTCTTACTGCTAGTATACCTTCATTATTAGATCAAGGTGCTGCT
+GATGATAATAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CATT-
+AAATTAGA-TGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCAC
+C
 >Irish
 GTTTTATCCTGGCTTA-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGACG-GATTGAAATATTAAGATAGAGGAATGAACC
-AGGATTAGATACCCTGCAGCTATTATCTTGAAACTCAAAGGATTTGGCGG
-TAACCTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGCAA
-TATCTTGCTTTATGCTTGTATACCGTCATTATTAGATCAAGGTGCAGCTT
-ATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA-
--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCACC
+CGGTTATAC-TGAGAGAC-GGATTGAAA-TATTAAGATAGAGGAATGAAC
+CAGGATTAGATACCCTGCAGCTATTATCTTGAAACTCAAAGGATTTGGCG
+GTAACCTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGCA
+ATATCTTGCTTTATGCTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
+TATGACTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA
+--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGCAC
+C
 >KolschColognian
 GTTTGATTCTTGC-TA-T-TACCTT--TATTAAACTTGTGCCAGCAGCCG
-CGGTTAAACTCG-A-TGTCCTAGTGAAGCTAGAAAATTTAGGTAAGGACC
-AGGATTAGATACCCTGAATAAATTAATTTTAAATTCAAAGAACCTGGCGG
-TACTTTAGTCTAGTTGGAGGAACCTGTTTTATAAACGATAAACCACGTAA
-AATCTTTCTTATTGTTAGTATACCTTCATTATTAGATCAAGGTGCTGCAA
-ATGGTATTAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CATT-A
-AGTTAAA-TGAGATAAGTCGTAACATAGTGGGTGTACTGGAAAGTGCACC
+CGGTTAAACTCG-ATGTCCTAG-TGAAGCTA-GAAAATTTAGGTAAGGAC
+CAGGATTAGATACCCTGAATAAATTAATTTTAAATTCAAAGAACCTGGCG
+GTACTTTAGTCTAGTTGGAGGAACCTGTTTTATAAACGATAAACCACGTA
+AAATCTTTCTTATTGTTAGTATACCTTCATTATTAGATCAAGGTGCTGCA
+AATGGTATTAGCTCTAAAGTGTGTACATATTGCCCGTCGC-TTT-CATT-
+AAGTTAAA-TGAGATAAGTCGTAACATAGTGGGTGTACTGGAAAGTGCAC
+C
 >Manx
 GTTTTATCCTGGCTTA-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAAAGGTA-GATTGAAATGTTAAGATAAAGAGATGAACC
-AGGATTAGATACCCTGCAGTTATTATCTTGAAACTCAAAGGATTTGGCGG
-TAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAAG
-AATCTTACTCTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCTT
-ATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA-
--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTACC
+CGGTTATAC-TGAAAGGT-AGATTGAAA-TGTTAAGATAAAGAGATGAAC
+CAGGATTAGATACCCTGCAGTTATTATCTTGAAACTCAAAGGATTTGGCG
+GTAACTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAA
+GAATCTTACTCTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
+TATGATTTTAGCTCTAGGTTATGTACACATCGCCCGTCGC-TCT-CGTTA
+--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
+C
 >OldPrussian
 GTTTTATCCTAGCTTG-T-TCTTTCATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGTC-AATTGAAATATTAAAATAAAGGAATGAACC
-AGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCGG
-TAATTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAAA
-AATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCTT
-ATGACCTTAGCCCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA-
--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTACC
+CGGTTATAC-TGAGAGGT-CAATTGAAA-TATTAAAATAAAGGAATGAAC
+CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
+GTAATTTAGTCTATTTAGAGGAACCTGTCCTGTAATCGATAGTCCACGAA
+AAATCTTACTTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
+TATGACCTTAGCCCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
+--ATTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
+C
 >SanskritVedic
 GTTTGATTCTTGCTTA-T-AATTTTTATACTATATTTGTGCCAGCAGTCG
-CGGTTATACTTAGAGGGTA--AATAAATTATAAATTTTAATATATAAACT
-AGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGGCGG
-TATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAGCCACGAA-
-TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAGTTT
-ATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-C--
--CTAAAAATGAAATAAGTCGTAACAAAGTAGATGTGCCGGAAGGCGTATC
+CGGTTATACTTAGAGGGT-AAA-TAAAT-TATAAATTTTAATATATAAAC
+TAGGATTAGATACCCT-AAGTTATTTTCTTTAAATCCAGAGAATTTGGCG
+GTATTTTAGTCCTTTTAGAGGAACCTGTTTCATAAACGATAAGCCACGAA
+-TATCTTACCTAATATTTGTATACCGTCATTATTAGATCAAGGTGCAGTT
+TATGATATAGGCTCTAAAATATGTACATATCGCCCGTCGC-TTT-CG-C-
+--CTAAAAATGAAATAAGTCGTAACAAAGTAGATGTGCCGGAAGGCGTAT
+C
 >Scots
 GTTTTATCCTGGCTCA-TAATTCTTATTTTTAGATTTGTGCCAGCAGCCG
-CGGTTATAC-TGAGAGGTA-AATTAAGATATTAAGATAAAGGTATGAACC
-AGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCGG
-TAATTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAAACCACGAAG
-TATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCTA
-ATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA-
--GTTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTACC
+CGGTTATAC-TGAGAGGT-AAATTAAGA-TATTAAGATAAAGGTATGAAC
+CAGGATTAGATACCCTGCAGTTATTGTCTTGAAACTCAAAGGATTTGGCG
+GTAATTTAGTCTATTTAGAGGAACCTGTTCTGTAATCGATAAACCACGAA
+GTATCTTACCTTATGTTTGTATACCGTCATTATTAGATCAAGGTGCAGCT
+AATGATTTTAGCTCTAGATTATGTACACATCGCCCGTCGC-TCT-CGTTA
+--GTTAAAGCGAGATAAGTCGTAACATAGTAGGTGTACTGGAAAGTGTAC
+C
 >Yiddish
 GTTTGACTCTTGCTT--T-AATTTT-C-GTTA-ACTTGTGCCAGCAGCCG
-CGGTTATACTAGAA-GGTT-GAATGAAATATTAAATTTTAGATATAAACC
-AGGATTAGATACCCTGAATGAATTAATTTAAAATTCAAAGAGTTTGGCGG
-TATTTTAGTCCTGTTAGAGGAATCTGTTTTATAAACGATAACCCCCGTAA
-TATCTTTCTTATTGCTAGTATACCATCATTATTAGATCATGGTGCTGTTT
-ATGAGATTGGCTCTAAAATGTGTACATATTGCCCGTCGC-TTT-CATT--
--CTTAAA-TGAGATAAGTCGTAACATAGTAGGAGTACTGGAAAGTGTTTC
+CGGTTATACTAGAAGGTT-GAA-TGAAA-TATTAAATTTTAGATATAAAC
+CAGGATTAGATACCCTGAATGAATTAATTTAAAATTCAAAGAGTTTGGCG
+GTATTTTAGTCCTGTTAGAGGAATCTGTTTTATAAACGATAACCCCCGTA
+ATATCTTTCTTATTGCTAGTATACCATCATTATTAGATCATGGTGCTGTT
+TATGAGATTGGCTCTAAAATGTGTACATATTGCCCGTCGC-TTT-CATT-
+--CTTAAA-TGAGATAAGTCGTAACATAGTAGGAGTACTGGAAAGTGTTT
+C
 
 
 Sequence character woman-wide_aa.fas#0
@@ -11670,7 +11687,7 @@ T Q R L F S T N H K D I G T L Y F I F G A - - A G
 I V G T A L R L I I R A E L G Q P G S L I G D D Q 
 I Y N V V V T A H A F V I I F F I V M P I I I G G 
 F G N - L V P L M L G A P D M A F P R I N N M S F 
-W - - L L P P S L T L L L S R G I V E R G V G T G 
+- - W L L P P S L T L L L S R G I V E R G V G T G 
 - - T V Y P P L S A S I A H A G A S V D L G I F S 
 L H L A G V S S I L G A V N F M T T V I N I R S T 
 G I T I D R I P L F V A V F I T A L L L L L S L P 
@@ -11693,7 +11710,7 @@ I V G T A L R L I I R A E L G Q P G S L I G D D Q
 I Y N V V V T A H A F V M I F F I V I P I I I G G 
 F G N - L V P L M L G A P D I A F P R M N N I S F 
 - - - L L P P S L T L L L S R G I V E R G V G T G 
-W - T V Y P P L S A S I A H A G A S V D L G I F S 
+- W T V Y P P L S A S I A H A G A S V D L G I F S 
 L H L A G V S S I L G A V N F I T T V I N I R S T 
 G I T I D R I P L F V A V F I T A L L L L L S L P 
 V L A G A I T I L L T D R N L N T S F F D P A G G 
@@ -11715,7 +11732,7 @@ I V G T A L S L I I R A E L G Q P G R L I G D D Q
 I Y N V V V T A H A F I I I F F I V I P I I I G G 
 F G N - L V P L I L G A P D I A F P R I N N I R F 
 - - - L L P P S L T L L L S R G I V E R G V G T G 
-- W T V Y P P L S A G I A H A G A S V D L G I F S 
+W - T V Y P P L S A G I A H A G A S V D L G I F S 
 L H L A G V S S I L G A V N F I T T V I N I R S T 
 G I T I D R M P L F V S I F I T T L L L L L S L P 
 V L A G A I T I L L T D R N L N T S F F D P A G G 
@@ -11773,7 +11790,7 @@ A H F H Y V L S I G A V F G I F A G I A H - - - F
 P L F T G I S L N P K - L K I Q F S A I F I G V N 
 T T F F P Q H F L G L R G M P R R Y S D Y P D A Y 
 T T N V V S S I G S S I S L V A V L G F V F I I E 
-G L A S K R P L M F N S F M P T S I E - W Y H S Y 
+G L A S K R P L M F N S F M P T S I E W - Y H S Y 
 P P A D H R Y M E V P I I T A 
 >Irish
 T Q R L F S T N H K D I G T L Y F I F G A - W A G 
@@ -11861,7 +11878,7 @@ A H F H Y V L S I G A V F G I F A G I A H - - - F
 P L F T G L T L N P K - L K I H F L V I F I G V N 
 I T F F P Q H F L G L N G I P R R Y S D Y P D A Y 
 S A N V V S S I G S T V S L I A V L G F V M I V E 
-A L T A A R P V I F S L F L P T S I E W - Q H N L 
+A L T A A R P V I F S L F L P T S I E - W Q H N L 
 P P A D H S Y I E I P L I T N 
 >SanskritVedic
 T K R F F S T N H K D I G T L Y F I F G A - - A G 
@@ -11912,7 +11929,7 @@ T Q R F F S T N H K D I G T L Y F I F G A - - A G
 M V G T S L R L I I R A E L G Q P G R L I G D D Q 
 I Y N V V V T A H A F V I I F F I V I P I I I G G 
 F G N - L V P L I L G A P D I A F P R I N N M R F 
-- - W L L P P S L T L L L S R G I V E R G V G T G 
+W - - L L P P S L T L L L S R G I V E R G V G T G 
 - - T V Y P P L A A A V A H A G A S V D L G I F S 
 L H L A G V S S I L G A V N F I T T V I N I R S T 
 G I T I D R I P L F V S V F I T A I L L L L S L P 
