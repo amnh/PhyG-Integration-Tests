@@ -1,7 +1,6 @@
 --softwired, fuse(), inputting all character types
 set(seed:1634561640)
 set(graphtype:hardwired)
-set(graphfactor:nopenalty)
 read(rename: "woman_rename.txt")
 read(aminoacid:"woman-wide_aa.fas", tcm:"dayhoff.mat")
 read(fasta:"woman_12Saln.fasta", tcm:(1,2))
@@ -13,7 +12,7 @@ read(include:"Include_woman16.txt")
 --woman_allchars.ss includes cc+, cc-, continuous, ?, [ ], /N 
 read("woman_allchars.ss")
 read("woman_step.ss")
-read(newick:"/Users/louise/Desktop/PhyG-Integration-Tests/tests/t495/t495.tre")
+build(distance, rdwag, block, graph, replicates:5, displaytrees:5)
 fuse()
 swap()
 report("t502.csv", data, overwrite)
