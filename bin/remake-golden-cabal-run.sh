@@ -81,6 +81,7 @@ for SUBDIRECTORY in "${SUB_DIRS[@]}"; do
         blessing_of_Midas "${SUBDIRECTORY}/${SUBDIRECTORY}_cr.csv"
         blessing_of_Midas "${SUBDIRECTORY}/${SUBDIRECTORY}_diag.txt" 
         blessing_of_Midas "${SUBDIRECTORY}/${SUBDIRECTORY}_gv.tre"
+	blessing_of_Midas "${SUBDIRECTORY}/${SUBDIRECTORY}_dt.tre"
         blessing_of_Midas "${SUBDIRECTORY}/${SUBDIRECTORY}_ia.txt"
         blessing_of_Midas "${SUBDIRECTORY}/${SUBDIRECTORY}_pd.csv"
         blessing_of_Midas "${SUBDIRECTORY}/${SUBDIRECTORY}_rec-Adams.tre"
