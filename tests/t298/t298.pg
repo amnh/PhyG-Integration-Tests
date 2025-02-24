@@ -1,0 +1,11 @@
+--input t84.tre, transform(dynamic),  inputting fastc file
+set(seed:1634561640)
+read(fastc:"chel-wide.fastc")
+read(fastc:"chel-huge.fastc")
+read(newick: "../t84/t84.tre")
+transform(staticApprox)
+swap(alternate, keep:1)
+transform(dynamic)
+swap()
+report("t298.csv", data, overwrite)
+report("t298.tre", newick, graphs, overwrite)

@@ -1,0 +1,11 @@
+--input t21.tre, transform(dynamic), inputting amino acid file
+set(seed:1634561640)
+read(fasta:"metazoa-aa-1_missing.fas")
+read(fasta:"metazoa-aa-2_missing.fas")
+read(newick:"../t89/t89.tre")
+transform(staticApprox)
+swap(alternate, keep:1)
+transform(dynamic)
+swap()
+report("t300.csv", data, overwrite)
+report("t300.tre", newick, graphs, overwrite)
