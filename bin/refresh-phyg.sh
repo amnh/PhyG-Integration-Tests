@@ -9,7 +9,7 @@ STYLE_BOLD=$(tput bold)
 STYLE_BLUE=$(tput setaf 4)
 STYLE_NORMAL=$(tput sgr0)
 
-GHC_VERSION='9.12.1'
+GHC_VERSION='9.12.2'
 
 BINARY_NAME='phyg'
 BINARY_OPTS=( 'Single-Threaded' 'Super-Optimization' )
