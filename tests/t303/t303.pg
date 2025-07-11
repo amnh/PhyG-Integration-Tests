@@ -1,4 +1,4 @@
---input t79.tre, transform(dynamic), inputting fasta and binary files
+--input t79.tre, transform(outgroup), inputting fasta and binary files
 set(seed:1634561640)
 set(outgroup:"Alentus")
 read(fasta:"chel.fas", "chel_binary.fas")
@@ -6,6 +6,5 @@ read(newick: "../t79/t79.tre")
 swap(alternate, keep:10)
 transform(outgroup:"Vonones")
 swap()
-transform(outgroup:"Alentus")
 report("t303.csv", data, overwrite)
 report("t303.tre", newick, graphs, overwrite)
