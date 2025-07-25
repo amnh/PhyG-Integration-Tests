@@ -1,4 +1,4 @@
---fuse(steepest), inputting tcm and nucleotide files
+--transform(staticapprox)
 set(seed:1634561640)
 read(nucleotide:"chel-prealigned.fas")
 read(nucleotide:"chel_cox1aln.fasta")
