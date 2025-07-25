@@ -1,0 +1,12 @@
+--softwired, w23, netdel,  inorder, steepest
+set(seed:1634561640)
+set(outgroup:T0)
+set(graphtype:softwired)
+set(graphfactor:w23) 
+read(fasta:"Mut2_1_sars-cov_reduced.fasta")
+read(fasta:"Mut2_2_sars-cov_reduced.fasta")
+read(newick:"../t467/t467.tre")
+refine(netadddel, rounds:5, all)
+report("t473.csv", data, overwrite)
+report("t473.tre", graphs, newick, overwrite)
+report("t473_gv.tre", dotpdf, graphs, overwrite)
