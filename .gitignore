@@ -17,6 +17,7 @@ log.out
 # Outputs from testing
 *.eps
 *.ps
+*.pdf
 *.DS_Store
 
 ###

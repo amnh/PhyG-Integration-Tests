@@ -1,0 +1,12 @@
+--softwired, nopenalty, netdel,  atrandom, steepest
+set(seed:1634561640)
+set(outgroup:T0)
+set(graphtype:softwired)
+set(graphfactor:nopenalty) 
+read(fasta:"Mut2_1_sars-cov_reduced.fasta")
+read(fasta:"Mut2_2_sars-cov_reduced.fasta")
+read(newick:"../t467/t467.tre")
+refine(netdel, atrandom, steepest)
+report("t468.csv", data, overwrite)
+report("t468.tre", graphs, newick, overwrite)
+report("t468_gv.tre", dotpdf, graphs, overwrite)

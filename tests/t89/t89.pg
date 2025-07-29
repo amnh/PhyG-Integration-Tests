@@ -1,7 +1,7 @@
 --build(distance, rdwag, block), inputting amino acid file
 set(seed:1634561640)
-read(prefasta:"metazoa-aa-1_missing.fas", tcm:"dayhoff.mat")
-read(prefasta:"metazoa-aa-2_missing.fas", tcm:"dayhoff.mat")
+read(fasta: "metazoa-aa-1_missing.fas")
+read(fasta: "metazoa-aa-2_missing.fas")
 build(distance, rdWag, block, displaytrees:3)
 report("t89.csv", data, overwrite)
 report("t89.tre", newick, graphs, overwrite)

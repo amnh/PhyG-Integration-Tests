@@ -1,5 +1,6 @@
 --build(distance, rdwag), inputting all character types
 set(seed:1634561640)
+set(bc2:(5.0, 0.5))
 read(rename: "woman_rename.txt")
 read(aminoacid:"woman-wide_aa.fas", tcm:"dayhoff.mat")
 read(fasta:"woman_12Saln.fasta", tcm:(1,2))

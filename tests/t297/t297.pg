@@ -1,0 +1,10 @@
+--input t79.tre, transform(dynamic), inputting fasta and binary files
+set(seed:1634561640)
+read(fasta:"chel.fas", "chel_binary.fas")
+read(newick: "../t79/t79.tre")
+transform(staticApprox)
+swap(alternate, keep:1)
+transform(dynamic)
+swap()
+report("t297.csv", data, overwrite)
+report("t297.tre", newick, graphs, overwrite)
