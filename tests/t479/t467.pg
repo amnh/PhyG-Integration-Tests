@@ -1,4 +1,4 @@
---building networks for softwired tests, nopenalty, netadd, maxnetedges, atrandom, steepest
+--building networks for softwire tests, nopenalty, netadd, maxnetedges, atrandom, steepest
 set(seed:1634561640)
 set(outgroup:T0)
 set(graphtype:softwired)
@@ -8,7 +8,7 @@ read(fasta:"Mut2_2_sars-cov_reduced.fasta")
 build(distance, rdWag, replicates:100, best:10)
 select(best)
 swap()
-refine(netadd, maxnetedges:5, inorder, steepest)
+refine(netadd, maxnetedges:3, atrandom, steepest)
 report("t467_ia.ss", ia, overwrite)
 report("t467.csv", data, overwrite)
 report("t467.tre", graphs, newick, overwrite)
