@@ -1,10 +1,10 @@
 --Build atRandom using Hennig86 files with all character settings included
 set(seed:1634561640)
-read(rename: "woman_rename.txt")
+read(rename:"../data/woman_rename.txt")
 --woman_allchars.ss includes cc+, cc-, continuous, ?, [ ], /N 
-read(tnt: "woman_allchars.ss")
-read(tnt: "woman_step.ss")
-read(include:"Include_woman.txt")
+read(tnt:"../data/woman_allchars.ss")
+read(tnt:"../data/woman_step.ss")
+read(include:"../data/Include_woman.txt")
 build(atrandom, block, displayTrees:5)
 report("t43.csv", data, overwrite)
 report("t43.tre", newick, graphs, overwrite)

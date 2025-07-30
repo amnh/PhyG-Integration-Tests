@@ -1,6 +1,6 @@
 --build(distance, nj), inputting fastc file along with tcm
 set(seed:1634561640)
-read(fastc:"woman.fastc", tcm: "woman-11.tcm")
+read(fastc:"../data/woman.fastc", tcm:"../data/woman-11.tcm")
 build(distance, nj)
 report("t47.csv", data, overwrite)
 report("t47.tre", newick, graphs, overwrite)

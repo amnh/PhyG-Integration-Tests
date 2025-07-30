@@ -1,8 +1,8 @@
 --testing globbing of fasta, fastc and ss files
 set(seed:1634561640)
-read(fasta:"*.fas")
-read(fastc:"*.fastc")
-read(tnt:"*.ss")
+read(fasta:"../data/*.fas")
+read(fastc:"../data/*.fastc")
+read(tnt:"../data/*.ss")
 build(distance, rdWag, best:10)
 report("t18.csv", data, overwrite)
 report("t18.tre", newick, graphs, overwrite)

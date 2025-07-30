@@ -1,6 +1,6 @@
 --build(distance, rdwag), inputting continuous tnt char types
 set(seed:1634561640)
-read(tnt:"arcoida_cont.ss", "arcoida_cont2.ss")
+read(tnt:"../data/arcoida_cont.ss", "../data/arcoida_cont2.ss")
 build(distance, rdwag, displaytrees:10, atrandom)
 report("t28.csv", data, overwrite)
 report("t28.tre", newick, graphs, overwrite)

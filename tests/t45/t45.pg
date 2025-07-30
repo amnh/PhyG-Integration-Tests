@@ -1,7 +1,7 @@
 --build(distance, nj), inputting amino acid file
 set(seed:1634561640)
-read(aminoacid:"metazoa-aa-1.fas")
-read(aminoacid:"metazoa-aa-2.fas")
+read(aminoacid:"../data/metazoa-aa-1.fas")
+read(aminoacid:"../data/metazoa-aa-2.fas")
 build(distance, nj)
 report("t45.csv", data, overwrite)
 report("t45.tre", newick, graphs, overwrite)

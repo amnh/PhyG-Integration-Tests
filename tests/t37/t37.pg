@@ -1,6 +1,6 @@
 --build(distance, dwag), inputting tcm and nucleotide files
 set(seed:1634561640)
-read(prefasta:"chel-prealigned.fas", tcm:"sg1t4.mat")
+read(prefasta:"../data/chel-prealigned.fas", tcm:"../data/sg1t4.mat")
 build(distance, dWag)
 report("t37.csv", data, overwrite)
 report("t37.tre", newick, graphs, overwrite)
