@@ -1,4 +1,4 @@
---softwired, nopenalty, netadddel,  atrandom, steepest
+--softwired, nopenalty, netadddel,  atrandom, all
 set(seed:1634561640)
 set(outgroup:T0)
 set(graphtype:softwired)
@@ -6,7 +6,7 @@ set(graphfactor:nopenalty)
 read(fasta:"Mut2_1_sars-cov_reduced.fasta")
 read(fasta:"Mut2_2_sars-cov_reduced.fasta")
 read(newick:"../t467/t467.tre")
-refine(netadddel, rounds:5, inorder, steepest)
+refine(netadddel, rounds:5, atrandom, all)
 report("t469.csv", data, overwrite)
 report("t469.tre", newick, graphs, overwrite)
 report("t469_gv.tre", dotpdf, graphs, overwrite)

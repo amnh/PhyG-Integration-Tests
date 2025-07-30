@@ -1,7 +1,7 @@
 --build(distance, rdwag), inputting "Exclude.txt" file
 set(seed:1634561640)
-read(fasta:"chel-16.fas")
-read(exclude:"Exclude.txt")
+read(fasta:"../data/chel-16.fas")
+read(exclude:"../data/Exclude.txt")
 build(distance, rdWag, best:10)
 report("t4.csv", data, overwrite)
 report("t4_cr.csv", crossrefs, overwrite)

@@ -1,6 +1,6 @@
 --build(distance, rdwag), inputting nucleotide file
 set(seed:1634561640)
-read(nucleotide:"chel-16.fas")
+read(nucleotide:"../data/chel-16.fas")
 build(distance, rdWag, best:10)
 report("t10.csv", data, overwrite)
 report("t10.tre", newick, graphs, overwrite)

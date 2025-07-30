@@ -1,6 +1,6 @@
 --build(distance, rdwag), inputting fastc file along with tcm
 set(seed:1634561640)
-read(fastc:"woman.fastc", tcm: "woman-11.tcm")
+read(fastc:"../data/woman.fastc", tcm: "../data/woman-11.tcm")
 build(distance, rdWag, best:5)
 report("t6.csv", data, overwrite)
 report("t6_cr.csv", crossrefs, overwrite)

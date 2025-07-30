@@ -1,7 +1,7 @@
 --build(distance, rdwag), inputting amino acid file
 set(seed:1634561640)
-read(preaminoacid:"metazoa-aa-1.fas")
-read(preaminoacid:"metazoa-aa-2.fas")
+read(preaminoacid:"../data/metazoa-aa-1.fas")
+read(preaminoacid:"../data/metazoa-aa-2.fas")
 build(distance, rdWag, best:10, replicates:21)
 report("t11_cr.csv", crossrefs, overwrite)
 report("t11.csv", data, overwrite)

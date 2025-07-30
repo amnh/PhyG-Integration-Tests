@@ -1,4 +1,4 @@
---softwired tests, W23, netadd, maxnetedges, inorder, steepest, compare t467
+--softwired tests, W23, netadd, maxnetedges, inorder, all, compare t467
 set(seed:1634561640)
 set(outgroup:T0)
 set(graphtype:softwired)
@@ -6,7 +6,7 @@ set(graphfactor:w23)
 read(fasta:"Mut2_1_sars-cov_reduced.fasta")
 read(fasta:"Mut2_2_sars-cov_reduced.fasta")
 read(newick:"../t467/t467.tre")
-refine(netadd, maxnetedges:5, inorder, steepest)
+refine(netadd, maxnetedges:5, inorder, all)
 report("t471_ia.ss", ia, overwrite)
 report("t471.csv", data, overwrite)
 report("t471.tre", graphs, newick, overwrite)

@@ -1,7 +1,7 @@
 --build(distance, rdwag), inputting "include" file
 set(seed:1634561640)
-read(fasta:"chel-16.fas")
-read(include:"Include.txt")
+read(fasta:"../data/chel-16.fas")
+read(include:"../data/Include.txt")
 build(distance, rdWag, best:10)
 report("t8.csv", data, overwrite)
 report("t8_cr.csv", crossrefs, overwrite)
