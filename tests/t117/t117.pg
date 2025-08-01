@@ -1,6 +1,6 @@
 --build(distance, dwag, block), inputting continuous tnt char types
 set(seed:1634561640)
-read("arcoida_cont.ss", "arcoida_cont2.ss")
+read("../data/arcoida_cont.ss", "../data/arcoida_cont2.ss")
 build(distance, dwag, block, eun, displaytrees: 3)
 report("t117.csv", data, overwrite)
 report("t117.tre", newick, graphs, overwrite)

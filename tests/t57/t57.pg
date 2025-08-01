@@ -1,6 +1,6 @@
 --build(distance, nj), inputting tcm (X,Y) and fasta file
 set(seed:1634561640)
-read(prefasta:"chel-prealigned.fas", tcm:(2,1))
+read(prefasta:"../data/chel-prealigned.fas", tcm:(2,1))
 build(distance, nj)
 report("t57.csv", data, overwrite)
 report("t57.tre", newick, graphs, overwrite)

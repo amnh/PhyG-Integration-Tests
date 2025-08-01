@@ -1,7 +1,7 @@
 --build(distance, dwag, block, tbr), inputting tcm (X,Y) and fasta file
 set(seed:1634561640)
-read(nucleotide:"chel-prealigned.fas", tcm:(2,1))
-read(nucleotide:"chel_cox1aln.fasta", tcm:"sg1t4.mat")
+read(nucleotide:"../data/chel-prealigned.fas", tcm:(2,1))
+read(nucleotide:"../data/chel_cox1aln.fasta", tcm:"../data/sg1t4.mat")
 build(distance, dWag, block, eun, displaytrees:3, tbr)
 report("t121.csv", data, overwrite)
 report("t121.tre", newick, graphs, overwrite)

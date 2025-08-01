@@ -1,7 +1,7 @@
 --build(distance, rdwag, block), inputting prefasta file
 set(seed:1634561640)
-read(prefasta: "chel-prealigned.fas")
-read(prefasta: "metazoa-aa-1.fas")
+read(prefasta: "../data/chel-prealigned.fas")
+read(prefasta: "../data/metazoa-aa-1.fas")
 build(distance, rdWag, block, displaytrees:5, atrandom)
 report("t83.csv", data, overwrite)
 report("t83.tre", newick, graphs, overwrite)

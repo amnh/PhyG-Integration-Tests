@@ -1,10 +1,12 @@
 --build(distance, dwag, block), inputting Hennig86 files with all character settings included
 set(seed:1634561640)
-read(rename: "woman_rename.txt")
+
+read(rename:"../data/woman_rename.txt")
 --woman_allchars.ss includes cc+, cc-, continuous, ?, [ ], /N 
-read(tnt: "woman_allchars.ss")
-read(tnt: "woman_step.ss")
-read(include:"Include_woman.txt")
+read(tnt: "../data/woman_allchars.ss")
+read(tnt: "../data/woman_step.ss")
+read(include:"../data/Include_woman16.txt")
+
 build(distance, dWag, block, displaytrees:3)
 report("t116.csv", data, overwrite)
 report("t116.tre", newick, graphs, overwrite)

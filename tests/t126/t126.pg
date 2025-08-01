@@ -1,8 +1,8 @@
 --build(distance, nj, block), inputting "Include.txt" file
 set(seed:1634561640)
-read(fasta:"chel_binary.fas")
-read(fasta:"chel-16.fas")
-read(exclude:"Include.txt")
+read(fasta:"../data/chel_binary.fas")
+read(fasta:"../data/chel-16.fas")
+read(exclude:"../data/Include.txt")
 build(distance, nj, block, displaytrees: 3)
 report("t126.csv", data, overwrite)
 report("t126.tre", newick, graphs, overwrite)

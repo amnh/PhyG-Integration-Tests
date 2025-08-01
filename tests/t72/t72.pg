@@ -1,6 +1,6 @@
 --build(distance, wpgma), inputting tcm and binary files
 set(seed:1634561640)
-read(prefasta:"chel-prealigned.fas", tcm:"sg2t1.mat")
+read(prefasta:"../data/chel-prealigned.fas", tcm:"../data/sg2t1.mat")
 build(distance, wpgma)
 report("t72.csv", data, overwrite)
 report("t72.tre", newick, graphs, overwrite)

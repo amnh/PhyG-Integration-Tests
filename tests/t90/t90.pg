@@ -1,7 +1,7 @@
 --build(distance, rdwag, block), inputting tcm and binary files
 set(seed:1634561640)
-read(nucleotide:"chel-prealigned.fas", tcm:"sg2t1.mat")
-read(nucleotide:"chel_cox1aln.fasta", tcm:"sg1t4.mat")
+read(nucleotide:"../data/chel-prealigned.fas", tcm:"../data/sg2t1.mat")
+read(nucleotide:"../data/chel_cox1aln.fasta", tcm:"../data/sg1t4.mat")
 build(distance, rdWag, block, eun, displaytrees:3)
 report("t90.csv", data, overwrite)
 report("t90.tre", newick, graphs, overwrite)
