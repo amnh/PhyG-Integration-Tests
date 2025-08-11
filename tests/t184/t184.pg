@@ -1,9 +1,11 @@
 --build(character, block), inputting fastc files along with tcm
 set(seed:1634561640)
-read(rename: "woman_rename.txt")
-read(fastc:"woman.fastc", tcm: "woman-11.tcm")
-read(fastc:"woman_cox1_spaced.fastc")
-read(include:"Include_woman16.txt")
+
+read(rename:"../data/woman_rename.txt")
+read(fastc:"../data/woman.fastc", tcm:"../data/woman-11.tcm")
+read(fastc:"../data/woman_cox1_spaced.fastc")
+read(include:"../data/Include_woman16.txt")
+
 build(character, block, replicates:3)
 report("t184.csv", data, overwrite)
 report("t184.tre", newick, graphs, overwrite)

@@ -1,8 +1,8 @@
 --build(graph:softwired), inputting nucleotide file
 set(seed:1634561640)
 set(graphtype:softwired)
-read(nucleotide:"chel-16.fas")
-read(nucleotide:"chel-16_16Schopped.fas")
+read(nucleotide:"../data/chel-16.fas")
+read(nucleotide:"../data/chel-16_16Schopped.fas")
 build(distance, rdwag, block, eun, displaytrees:10, graph)
 report("t275.csv", data, overwrite)
 report("t275.tre", newick, displaytrees, overwrite)

@@ -1,10 +1,12 @@
 --build(character, block), inputting tnt files
 set(seed:1634561640)
-read(tnt:"ordered.ss")
-read(tnt:"small.ss")
-read(tnt:"test0.ss")
-read(tnt:"test1.ss")
-read(tnt:"test01.ss")
+
+read(tnt:"../data/ordered.ss")
+read(tnt:"../data/small.ss")
+read(tnt:"../data/test0.ss")
+read(tnt:"../data/test1.ss")
+read(tnt:"../data/test01.ss")
+
 build(character, block, replicates:3)
 report("t189.csv", data, overwrite)
 report("t189.tre", newick, graphs, overwrite)

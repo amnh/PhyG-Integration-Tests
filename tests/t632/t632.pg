@@ -1,6 +1,6 @@
 --search(instances, stop), inputting fastc file along with tcm
 set(seed:1634561640)
-read(fastc:"woman.fastc", tcm:"woman-11.tcm")
+read(fastc:"../data/woman.fastc", tcm:"../data/woman-11.tcm")
 search(minutes:5, instances:3, stop:5)
 report("t632_ia.txt", ia, overwrite)
 report("t632.csv", data, overwrite)

@@ -1,7 +1,7 @@
 --build(character, block), inputting tcm file (dayhoff) with amino acids
 set(seed:1634561640)
-read(prefasta:"metazoa-aa-1.fas", tcm:"dayhoff.mat")
-read(prefasta:"metazoa-aa-2.fas", tcm:"dayhoff.mat")
+read(aminoacid:"../data/metazoa-aa-1.fas")
+read(aminoacid:"../data/metazoa-aa-2.fas")
 build(character, block, replicates:10)
 report("t188.csv", data, overwrite)
 report("t188.tre", newick, graphs, overwrite)

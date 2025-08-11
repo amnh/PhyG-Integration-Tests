@@ -1,7 +1,7 @@
 --fuse(keep:3), inputting prefastc file
 set(seed:1634561640)
-read(prefastc:"chel-wide.fastc")
-read(prefastc:"chel-huge.fastc")
+read(prefastc:"../data/chel-wide.fastc")
+read(prefastc:"../data/chel-huge.fastc")
 read(newick: "../t84/t84.tre")
 fuse(keep:3)
 report("t207.csv", data, overwrite)

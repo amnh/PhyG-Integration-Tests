@@ -1,6 +1,6 @@
 --select(all) versus select(threshold:X), inputting fasta and binary files
 set(seed:1634561640)
-read(fasta:"chel.fas", "chel_binary.fas")
+read(fasta:"../data/chel.fas", "../data/chel_binary.fas")
 build(distance, rdwag, replicates:100)
 report("t615.csv", data, overwrite)
 select(all)

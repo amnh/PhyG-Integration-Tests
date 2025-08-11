@@ -1,8 +1,8 @@
 --fuse(all, pairs:5), inputting prefastc file
 set(seed:1634561640)
-read(prefastc:"chel-wide.fastc")
-read(prefastc:"chel-huge.fastc")
-read(newick:"../t171/t171.tre")
+read(prefastc:"../data/chel-wide.fastc")
+read(prefastc:"../data/chel-huge.fastc")
+read(newick:"../t84/t84.tre")
 fuse(pairs:5)
 report("t485.csv", data, overwrite)
 report("t485.tre", newick, graphs, overwrite)

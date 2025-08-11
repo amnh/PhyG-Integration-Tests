@@ -1,8 +1,8 @@
 --build(distance, wpgma, block), inputting fasta files with missing and chopped data
 set(seed:1634561640)
-read(fasta:"dec258_12Saln_missing.fas")
-read(fasta:"dec258_16Saln_chopped.fasta")
-read(include:"Include_dec.txt")
+read(fasta:"../data/dec258_12Saln_missing.fas")
+read(fasta:"../data/dec258_16Saln_chopped.fasta")
+read(include:"../data/Include_dec.txt")
 build(distance, wpgma, block, eun, displaytrees:3)
 report("t155.csv", data, overwrite)
 report("t155.tre", newick, graphs, overwrite)

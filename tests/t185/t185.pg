@@ -1,7 +1,7 @@
 --build(character, block), inputting nucleotide file
 set(seed:1634561640)
-read(nucleotide:"chel-16.fas")
-read(nucleotide:"chel-16_16Schopped.fas")
+read(nucleotide:"../data/chel-16.fas")
+read(nucleotide:"../data/chel-16_16Schopped.fas")
 build(character, block, replicates:3)
 report("t185.csv", data, overwrite)
 report("t185.tre", newick, graphs, overwrite)

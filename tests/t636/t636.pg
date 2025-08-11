@@ -1,10 +1,12 @@
 --search(instances, stop), inputting tnt files
 set(seed:1634561640)
-read(tnt:"ordered.ss")
-read(tnt:"small.ss")
-read(tnt:"test0.ss")
-read(tnt:"test1.ss")
-read(tnt:"test01.ss")
+
+read(tnt:"../data/ordered.ss")
+read(tnt:"../data/small.ss")
+read(tnt:"../data/test0.ss")
+read(tnt:"../data/test1.ss")
+read(tnt:"../data/test01.ss")
+
 search(seconds:300, instances:4, stop:25)
 report("t636_ia.txt", ia, overwrite)
 report("t636.csv", data, overwrite)

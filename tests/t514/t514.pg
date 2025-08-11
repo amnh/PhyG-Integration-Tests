@@ -1,7 +1,8 @@
 --search(seconds:300), inputting prefastc file
 set(seed:1634561640)
-read(prefastc:"chel-wide.fastc")
-read(prefastc:"chel-huge.fastc")
+read(prefastc:"../data/chel-wide.fastc")
+read(prefastc:"../data/chel-huge.fastc")
+read(newick:"../t84/t84.tre")
 search(seconds:300)
 report("t514_ia.txt", ia, overwrite)
 report("t514.csv", data, overwrite)

@@ -1,7 +1,7 @@
 --fuse(spr:5), inputting tcm and nucleotide files
 set(seed:1634561640)
-read(nucleotide:"chel-prealigned.fas", tcm:"sg1t4.mat")
-read(nucleotide:"chel_cox1aln.fasta", tcm:"sg2t1.mat")
+read(nucleotide:"../data/chel-prealigned.fas", tcm:"../data/sg2t1.mat")
+read(nucleotide:"../data/chel_cox1aln.fasta", tcm:"../data/sg1t4.mat")
 read(newick:"../t87/t87.tre")
 fuse(spr:5, pairs:2)
 report("t230.csv", data, overwrite)

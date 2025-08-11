@@ -1,7 +1,7 @@
 --search(seconds:600), inputting tcm file (dayhoff) with amino acids
 set(seed:1634561640)
-read(prefasta:"metazoa-aa-1.fas", tcm:"dayhoff.mat")
-read(prefasta:"metazoa-aa-2.fas", tcm:"dayhoff.mat")
+read(prefasta:"../data/metazoa-aa-1.fas")
+read(prefasta:"../data/metazoa-aa-2.fas")
 search(minutes:5)
 report("t515_ia.txt", ia, overwrite)
 report("t515.csv", data, overwrite)

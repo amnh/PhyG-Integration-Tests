@@ -1,7 +1,7 @@
 --input t83.tre, swap(returnmutated), inputting prefasta file
 set(seed:1634561640)
-read(prefasta: "chel-prealigned.fas")
-read(prefasta: "metazoa-aa-1.fas")
+read(prefasta: "../data/chel-prealigned.fas")
+read(prefasta: "../data/metazoa-aa-1.fas")
 read(newick:"../t83/t83.tre")
 select(best:3)
 swap(returnmutated)

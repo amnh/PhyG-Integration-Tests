@@ -1,6 +1,6 @@
 --search(instances, stop), inputting fasta and binary files
 set(seed:1634561640)
-read(fasta:"chel.fas", "chel_binary.fas")
+read(fasta:"../data/chel.fas", "../data/chel_binary.fas")
 search(minutes:5, instances:3, stop:3)
 report("t537.csv", data, overwrite)
 report("t537.tre", newick, graphs, overwrite)

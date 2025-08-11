@@ -1,9 +1,9 @@
 --build(distance, nj, return:4), inputting fastc files along with tcm
 set(seed:1634561640)
-read(rename: "woman_rename.txt")
-read(fastc:"woman.fastc", tcm: "woman-11.tcm")
-read(fastc:"woman_cox1_spaced.fastc")
-read(include:"Include_woman.txt")
+read(rename:"../data/woman_rename.txt")
+read(fastc:"../data/woman.fastc", tcm:"../data/woman-11.tcm")
+read(fastc:"../data/woman_cox1_spaced.fastc")
+read(include:"../data/Include_woman16.txt")
 build(distance, nj, return:4)
 report("t326.csv", data, overwrite)
 report("t326.tre", newick, graphs, overwrite)
