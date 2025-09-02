@@ -1,9 +1,9 @@
 --select(all) versus select(threshold:X), inputting prefasta file
 set(seed:1634561640)
 set(graphtype:hardwired)
-read(prefasta:"chel-prealigned.fas")
-read(prefasta:"metazoa-aa-1.fas")
-read(prefasta:"metazoa-aa-2.fas")
+read(prefasta:"../data/chel-prealigned.fas")
+read(prefasta:"../data/metazoa-aa-1.fas")
+read(prefasta:"../data/metazoa-aa-2.fas")
 build(distance, rdwag, replicates:100)
 report("t617.csv", data, overwrite)
 select(all)

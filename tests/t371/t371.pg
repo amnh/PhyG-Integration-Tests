@@ -1,6 +1,6 @@
 --input t5.tre, swap(drift:3, acceptworse:2.0), inputting fasta and binary files
 set(seed:1634561640)
-read(fasta:"chel.fas", "chel_binary.fas")
+read(fasta:"../data/chel.fas", "../data/chel_binary.fas")
 read(newick:"../t5/t5_nocollapse.tre")
 select(best:2)
 swap(drift:1, acceptworse:3.0, maxchanges:1)

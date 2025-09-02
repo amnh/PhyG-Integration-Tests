@@ -1,6 +1,6 @@
 --build(distance, nj, block, none), inputting fasta and binary files
 set(seed:1634561640)
-read(fasta:"chel.fas", "chel_binary.fas")
+read(fasta:"../data/chel.fas", "../data/chel_binary.fas")
 build(distance, nj, block, displaytrees:3, none)
 report("t140.csv", data, overwrite)
 report("t140.tre", newick, graphs, overwrite)

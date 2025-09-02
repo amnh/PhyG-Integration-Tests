@@ -1,6 +1,6 @@
 --fuse(tbr:10, unique), inputting continuous tnt char types
 set(seed:1634561640)
-read("arcoida_cont.ss", "arcoida_cont2.ss")
+read("../data/arcoida_cont.ss", "../data/arcoida_cont2.ss")
 read(newick:"../t28/t28.tre")
 fuse(tbr:3, unique, pairs:2)
 report("t258.csv", data, overwrite)

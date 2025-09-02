@@ -1,8 +1,8 @@
 --input t84.tre, swap(inorder),  inputting prefastc file
 set(seed:1634561640)
-read(prefastc:"chel-wide.fastc")
-read(prefastc:"chel-huge.fastc")
-read(newick: "../t84/t84.tre")
+read(prefastc:"../data/chel-wide.fastc")
+read(prefastc:"../data/chel-huge.fastc")
+read(newick:"../t84/t84.tre")
 swap(inorder)
 report("t563.csv", data, overwrite)
 report("t563.tre", newick, graphs, overwrite)

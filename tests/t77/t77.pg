@@ -2,7 +2,7 @@
 set(seed:1634561640)
 read(aminoacid:"../data/metazoa-aa-1.fas")
 read(aminoacid:"../data/metazoa-aa-2.fas")
-build(distance, rdWag, block, cun, displaytrees:3)
+build(distance, rdWag, block, cun, displaytrees:5, replicates:100) 
 report("t77.csv", data, overwrite)
 report("t77.tre", newick, graphs, overwrite)
 report("t77_rec-Adams.tre", newick, reconcile, method:Adams, overwrite)

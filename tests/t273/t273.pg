@@ -1,9 +1,9 @@
---build(graph:softwired), inputting amino acid file
+ --build(graph:softwired), inputting amino acid file
 set(seed:1634561640)
 set(graphtype:softwired)
-read(aminoacid:"metazoa-aa-1.fas")
-read(aminoacid:"metazoa-aa-2.fas")
-build(distance, rdWag, block, cun, displaytrees:10, graph)
+read(aminoacid:"../data/metazoa-aa-1.fas")
+read(aminoacid:"../data/metazoa-aa-2.fas")
+build(distance, dWag, block, cun, displaytrees:5, replicates:100, graph)
 report("t273.csv", data, overwrite)
-report("t273.tre", newick, displaytrees, overwrite)
+report("t273.tre", newick, graphs, overwrite)
 report("t273.dot", dotpdf, overwrite)

@@ -1,7 +1,9 @@
 --fuse(best), inputting tcm file (dayhoff) with amino acids
 set(seed:1634561640)
-read(prefasta:"metazoa-aa-1.fas", tcm:"dayhoff.mat")
-read(prefasta:"metazoa-aa-2.fas", tcm:"dayhoff.mat")
+
+read(prefasta:"../data/metazoa-aa-1_missing.fas", tcm:"../data/dayhoff.mat")
+read(prefasta:"../data/metazoa-aa-2_missing.fas", tcm:"../data/dayhoff.mat")
+
 read(newick:"../t85/t85.tre")
 fuse(best, pairs:5)
 report("t201.csv", data, overwrite)

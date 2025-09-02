@@ -1,9 +1,7 @@
 --input t89.tre, swap(annealing, steps:3), inputting amino acid file
 set(seed:1634561640)
---read(prefasta:"metazoa-aa-1_missing.fas", tcm:"dayhoff.mat")
---read(prefasta:"metazoa-aa-2_missing.fas", tcm:"dayhoff.mat")
-read(prefasta:"metazoa-aa-1_missing.fas")
-read(prefasta:"metazoa-aa-2_missing.fas")
+read(prefasta:"../data/metazoa-aa-1_missing.fas")
+read(prefasta:"../data/metazoa-aa-2_missing.fas")
 read(newick:"../t89/t89.tre")
 select(unique:1)
 swap(annealing, steps:2)

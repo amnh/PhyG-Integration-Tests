@@ -1,8 +1,8 @@
 --fuse(none, keep:4), inputting prefasta file
 --was fuse(ini, keep:4)
 set(seed:1634561640)
-read(prefasta: "chel-prealigned.fas")
-read(prefasta: "metazoa-aa-1.fas")
+read(prefasta:"../data/chel-prealigned.fas")
+read(prefasta:"../data/metazoa-aa-1.fas")
 read(newick:"../t12/t12.tre")
 fuse(none, keep:4)
 report("t252.csv", data, overwrite)

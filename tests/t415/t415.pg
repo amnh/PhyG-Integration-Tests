@@ -1,7 +1,7 @@
 --input t87.tre, swap(ia), inputting tcm and nucleotide files
 set(graphssteepest:1)
 set(seed:1634561640)
-read(prefasta:"chel-prealigned.fas", tcm:"sg1t4.mat")
+read(nucleotide:"../data/chel-prealigned.fas", tcm:"../data/sg1t4.mat")
 read(newick:"../t87/t87.tre")
 swap(ia)
 report("t415.csv", data, overwrite)

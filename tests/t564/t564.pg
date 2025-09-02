@@ -1,6 +1,6 @@
 --input t344.tre, swap(inorder),  inputting pre nucleotide fasta files with missing data
 set(seed:1634561640)
-read(prenucleotide:"dec258_12Saln_missing.fasta")
+read(prenucleotide:"../data/dec258_12Saln_missing.fasta")
 read(newick: "../t344/t344.tre")
 select(best:3)
 swap(inorder)

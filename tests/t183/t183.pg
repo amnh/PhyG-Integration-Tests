@@ -1,6 +1,6 @@
 --build(character, block), inputting fasta and binary files
 set(seed:1634561640)
-read(fasta:"chel.fas", "chel_binary.fas")
+read(fasta:"../data/chel.fas", "../data/chel_binary.fas")
 build(character, block, replicates:5)
 report("t183.csv", data, overwrite)
 report("t183.tre", newick, graphs, overwrite)

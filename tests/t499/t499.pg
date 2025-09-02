@@ -1,9 +1,10 @@
 --hardwired, fuse(), inputting prefastc file
 set(seed:1634561640)
 set(graphtype:hardwired)
-read(prefastc:"chel-wide.fastc")
-read(prefastc:"chel-huge.fastc")
-read(newick:"../t492/t492.tre")
+read(prefastc:"../data/chel-wide.fastc")
+read(prefastc:"../data/chel-huge.fastc")
+read(newick:"../t84/t84.tre")
+refine(netadd, maxnetedges:3)
 fuse()
 swap()
 report("t499.csv", data, overwrite)

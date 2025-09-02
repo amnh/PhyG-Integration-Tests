@@ -1,8 +1,8 @@
 --fuse(nni), inputting prefastc file
 --originally fuse(nni)
 set(seed:1634561640)
-read(prefastc:"chel-wide.fastc")
-read(prefastc:"chel-huge.fastc")
+read(prefastc:"../data/chel-wide.fastc")
+read(prefastc:"../data/chel-huge.fastc")
 read(newick:"../t84/t84.tre")
 fuse(none)
 report("t214.csv", data, overwrite)

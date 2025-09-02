@@ -1,9 +1,7 @@
 --fuse(all, atrandom), inputting tcm and nucleotide files
 set(seed:1634561640)
---read(nucleotide:"chel-prealigned.fas", tcm:"sg1t4.mat")
---read(nucleotide:"chel_cox1aln.fasta", tcm:"sg2t1.mat")
-read(nucleotide:"chel-prealigned.fas")
-read(nucleotide:"chel_cox1aln.fasta")
+read(nucleotide:"../data/chel-prealigned.fas")
+read(nucleotide:"../data/chel_cox1aln.fasta")
 read(newick:"../t177/t177.tre")
 fuse(atrandom)
 report("t487.csv", data, overwrite)

@@ -1,7 +1,7 @@
 --build(distance, wpgma, block, otu), inputting nucleotide file
 set(seed:1634561640)
-read(nucleotide:"chel-16.fas")
-read(nucleotide:"chel-16_16Schopped.fas")
+read(nucleotide:"../data/chel-16.fas")
+read(nucleotide:"../data/chel-16_16Schopped.fas")
 build(distance, wpgma, block, eun, displaytrees: 3, otu)
 report("t163.csv", data, overwrite)
 report("t163.tre", newick, graphs, overwrite)

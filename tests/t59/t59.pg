@@ -4,7 +4,7 @@ read(rename: "../data/woman_rename.txt")
 --woman_allchars.ss includes cc+, cc-, continuous, ?, [ ], /N 
 read(tnt: "../data/woman_allchars.ss")
 read(tnt: "../data/woman_step.ss")
-read(include:"../data/Include_woman.txt")
+read(include:"../data/Include_woman16.txt")
 build(distance, nj)
 report("t59.csv", data, overwrite)
 report("t59.tre", newick, graphs, overwrite)

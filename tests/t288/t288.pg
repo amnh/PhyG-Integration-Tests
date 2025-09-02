@@ -1,8 +1,8 @@
 --build(graph:softwired), inputting tcm and nucleotide files
 set(seed:1634561640)
 set(graphtype:softwired)
-read(nucleotide:"chel-prealigned.fas", tcm:"sg1t4.mat")
-read(nucleotide:"chel_cox1aln.fasta", tcm:"sg2t1.mat")
+read(nucleotide:"../data/chel-prealigned.fas", tcm:"../data/sg2t1.mat")
+read(nucleotide:"../data/chel_cox1aln.fasta", tcm:"../data/sg1t4.mat")
 build(character, replicates:10, block, eun, displaytrees:10, atrandom, graph)
 report("t288.csv", data, overwrite)
 report("t288.tre", newick, displaytrees, overwrite)

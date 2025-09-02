@@ -1,7 +1,7 @@
 --select(unique, atrandom:50, best:3), inputting prefastc file
 set(seed:1634561640)
-read(prefastc:"chel-wide.fastc")
-read(prefastc:"chel-huge.fastc")
+read(prefastc:"../data/chel-wide.fastc")
+read(prefastc:"../data/chel-huge.fastc")
 read(newick:"../t618/t618_all.tre")
 read(newick:"../t618/t618_all.tre")
 select(unique)

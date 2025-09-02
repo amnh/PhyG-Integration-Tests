@@ -1,7 +1,9 @@
 --build(character, all-data), inputting amino acid file
 set(seed:1634561640)
-read(prefasta:"metazoa-aa-1_missing.fas", tcm:"dayhoff.mat")
-read(prefasta:"metazoa-aa-2_missing.fas", tcm:"dayhoff.mat")
+
+read(prefasta:"../data/metazoa-aa-1_missing.fas", tcm:"../data/dayhoff.mat")
+read(prefasta:"../data/metazoa-aa-2_missing.fas", tcm:"../data/dayhoff.mat")
+
 build(character, replicates:3)
 report("t176.csv", data, overwrite)
 report("t176.tre", newick, graphs, overwrite)

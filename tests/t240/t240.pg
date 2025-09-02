@@ -1,9 +1,9 @@
 --fuse(unique, pairs:2), inputting fastc files along with tcm
 set(seed:1634561640)
-read(rename: "woman_rename.txt")
-read(fastc:"woman.fastc", tcm: "woman-11.tcm")
-read(fastc:"woman_cox1_spaced.fastc")
-read(include:"Include_woman16.txt")
+read(rename:"../data/woman_rename.txt")
+read(fastc:"../data/woman.fastc", tcm:"../data/woman-11.tcm")
+read(fastc:"../data/woman_cox1_spaced.fastc")
+read(include:"../data/Include_woman16.txt")
 read(newick:"../t80/t80.tre")
 fuse(unique, pairs:2)
 report("t240.csv", data, overwrite)
