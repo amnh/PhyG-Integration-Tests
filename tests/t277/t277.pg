@@ -13,8 +13,6 @@ read("../data/woman_allchars.ss")
 read("../data/woman_step.ss")
 read(include:"../data/Include_woman16.txt")
 read(newick:"../t92/t92.tre")
-
-
 report("t277.csv", data, overwrite)
 report("t277.tre", newick, graphs, overwrite)
 report("t277.dot", dotpdf, overwrite)
