@@ -1,0 +1,13 @@
+--softwire tests, W15, netdel, atrandom, steepest
+set(seed:1634561640)
+set(outgroup:T0)
+set(graphtype:softwired)
+set(graphfactor:w15) 
+read(fasta:"Mut2_1_sars-cov_reduced.fasta")
+read(fasta:"Mut2_2_sars-cov_reduced.fasta")
+read(newick:"../t467/t467.tre")
+refine(netdel, atrandom, steepest)
+report("t476_ia.ss", ia, overwrite)
+report("t476.csv", data, overwrite)
+report("t476.tre", graphs, newick, overwrite)
+report("t476_gv.tre", dotpdf, graphs, overwrite)
