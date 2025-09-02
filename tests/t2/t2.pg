@@ -2,7 +2,7 @@
 set(seed:1634561640)
 read(nucleotide:"../data/chel-prealigned.fas", tcm:"../data/sg1t4.mat")
 read(nucleotide:"../data/chel_cox1aln.fasta", tcm:"../data/sg2t1.mat")
-read(dot:"../t276/t276.dot")
+read(dot:"../data/t276.dot")
 swap(spr)
 report("t2.csv", data, overwrite)
 report("t2_cr.csv", crossrefs, overwrite)
