@@ -1,0 +1,27 @@
+"Input data contained:"
+,"20 terminal taxa"
+,"5 input data files"
+,"5 character blocks"
+,"10 total characters"
+
+"Terminal taxa:"
+" ","A","B","C","D","E","a","b","c","d","e"
+" ","f","five","four","g","h","i","one","six","three","two"
+
+"Excluded taxa:"
+" ","None"
+
+"Renamed taxa:","New Name","Original Name"
+" ","None","None"
+
+"Index","Block","Name","Type","Activity","Weight","Prealigned","Alphabet","TCM"
+"0","../data/small.ss#0","../data/small.ss#0","NonAdd","active","1.0","prealigned","0,1","[]"
+"1","../data/ordered.ss#0","../data/ordered.ss#0","NonAdd","active","1.0","prealigned","0,1,2,3,4","[]"
+"2","../data/ordered.ss#0","../data/ordered.ss#1","NonAdd","active","1.0","prealigned","0,1,2,3,4","[]"
+"3","../data/ordered.ss#0","../data/ordered.ss#2","NonAdd","active","1.0","prealigned","0,1,2,3,4","[]"
+"4","../data/ordered.ss#0","../data/ordered.ss#3","NonAdd","active","1.0","prealigned","0,1,2,3,4","[]"
+"5","../data/ordered.ss#0","../data/ordered.ss#4","NonAdd","active","1.0","prealigned","0,1,2,3,4","[]"
+"6","../data/ordered.ss#0","../data/ordered.ss#5","NonAdd","active","1.0","prealigned","0,1,2,3,4","[]"
+"7","../data/test0.ss#0","../data/test0.ss#0","NonAdd","active","1.0","prealigned","0,1,2,3","[]"
+"8","../data/test01.ss#0","../data/test01.ss#0","NonAdd","active","1.0","prealigned","0,1","[]"
+"9","../data/test1.ss#0","../data/test1.ss#0","Matrix","active","1.0","prealigned","0,1,2,3,4","[[0],[1,0],[2,1,0],[3,2,1,0],[4,3,2,1,0]]"

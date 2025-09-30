@@ -1,0 +1,13 @@
+System Info, OS: darwin, Chip Arch: x86_64, Compiler: ghc 9.10, Compile Date: Sep  2 2025 14:57:05
+CPU Info, No /proc/cpuinfo on darwin
+SearchData
+Random seed, 1757211389
+"Command","Arguments","Min cost in","Max cost in","Num graphs in","Min cost out","Max cost out","Num graphs out","CPU time (secs)","Comment"
+"Input and data processing",,"Infinity","Infinity","0","Infinity","Infinity","0","0.161449","No Comment"
+"Input graph processing",,"Infinity","Infinity","0","Infinity","Infinity","0","0.0","No Comment"
+"Search","seconds:300 keep:3","Infinity","Infinity","0","509.0","509.0","3","347.331"
+"Iteration","Search Type","Delta","Min Cost out","CPU time (secs)"," MultiTraverse"," SingleTraverse"," StaticApproximation"," "," buildCharacter"," buildSPR"," buildTBR"," swapSPR"," swapTBR"," swapAlternate"," fuse"," fuseSPR"," fuseTBR"," driftSPR"," driftTBR"," annealSPR"," annealTBR"," geneticAlgorithm","Arguments"
+"0","driftSPR","0.0","515.0","0"," 0.3333333333333333 "," 0.3333333333333333 "," 0.3333333333333333 "," "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 ","bestonly: multitraverse:false "
+"1","fuseTBR","6.0","509.0","7"," 0.3333333333333333 "," 0.3333333333333333 "," 0.3333333333333333 "," "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 "," 7.142857142857142e-2 ","tbr: unique: atrandom: pairs:10 keep:6 noreciprocal: multitraverse:True maxparallel:false "
+,"Final Values",,"509.0","346","0.3333333333333333","0.3333333333333333","0.3333333333333333"," ","7.142857142857142e-2","7.142857142857142e-2","7.142857142857142e-2","7.142857142857142e-2","7.142857142857142e-2","7.142857142857142e-2","7.142857142857142e-2","7.142857142857142e-2","7.142857142857142e-2","7.142857142857142e-2","7.142857142857142e-2","7.142857142857142e-2","7.142857142857142e-2","7.142857142857142e-2",
+"Hit minimum cost 509.0 in 1 of 1 iterations"
