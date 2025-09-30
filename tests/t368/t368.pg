@@ -5,7 +5,7 @@ read(aminoacid:"../data/woman-wide_aa.fas")
 read(fasta:"../data/woman_12Saln.fasta", tcm:(1,1))
 read(fasta:"../data/woman_binary.fasta", tcm:(1,1))
 read(prefasta:"../data/woman_cox1aln.fasta")
-read(fastc:../data/"woman.fastc")
+read(fastc:"../data/woman.fastc")
 read(prefastc:"../data/woman_cox1_spaced.fastc")
 --woman_allchars.ss includes cc+, cc-, continuous, ?, [ ], /N 
 read("../data/woman_allchars.ss")
@@ -16,3 +16,4 @@ select(unique:1)
 swap(drift:1, acceptequal:2.0, maxchanges:1)
 report("t368.csv", data, overwrite)
 report("t368.tre", newick, graphs, overwrite)
+

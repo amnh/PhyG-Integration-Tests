@@ -4,7 +4,7 @@ read(rename: "../data/woman_rename.txt")
 read(aminoacid:"../data/woman-wide_aa.fas", tcm:"../data/dayhoff.mat")
 read(fasta:"../data/woman_12Saln.fasta", tcm:(1,2))
 read(fasta:"../data/woman_binary.fasta", tcm:(2,1))
-read(prefasta:"../data/woman_cox1aln.fasta", tcm:"sg2t1.mat")
+read(prefasta:"../data/woman_cox1aln.fasta", tcm:"../data/sg2t1.mat")
 read(fastc:"../data/woman.fastc", tcm: "../data/woman-11.tcm")
 read(prefastc:"../data/woman_cox1_spaced.fastc")
 --woman_allchars.ss includes cc+, cc-, continuous, ?, [ ], /N 

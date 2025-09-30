@@ -1,11 +1,11 @@
 --fuse(tbr:5, pairs:5), inputting all character types
 set(seed:1634561640)
-rread(rename: "../data/woman_rename.txt")
+read(rename: "../data/woman_rename.txt")
 read(aminoacid:"../data/woman-wide_aa.fas")
 read(fasta:"../data/woman_12Saln.fasta", tcm:(1,1))
 read(fasta:"../data/woman_binary.fasta", tcm:(1,1))
 read(prefasta:"../data/woman_cox1aln.fasta")
-read(fastc:../data/"woman.fastc")
+read(fastc:"../data/woman.fastc")
 read(prefastc:"../data/woman_cox1_spaced.fastc")
 --woman_allchars.ss includes cc+, cc-, continuous, ?, [ ], /N 
 read("../data/woman_allchars.ss")

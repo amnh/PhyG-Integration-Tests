@@ -1,7 +1,7 @@
 --build(graph), inputting Hennig86 files with all character settings included
 set(seed:1634561640)
 set(graphtype:hardwired)
-ead(rename:"../data/woman_rename.txt")
+read(rename:"../data/woman_rename.txt")
 --woman_allchars.ss includes cc+, cc-, continuous, ?, [ ], /N 
 read(tnt: "../data/woman_allchars.ss")
 read(tnt: "../data/woman_step.ss")

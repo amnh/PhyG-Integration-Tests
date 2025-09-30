@@ -1,7 +1,7 @@
 --build(distance, rdwag), inputting amino acid file
 set(seed:1634561640)
-read(aminoacid:"metazoa-aa-1.fas")
-read(aminoacid:"metazoa-aa-2.fas")
+read(aminoacid:"../data/metazoa-aa-1.fas")
+read(aminoacid:"../data/metazoa-aa-2.fas")
 build(distance, rdWag, best:10, replicates:21)
 report("t1_ia.txt", impliedalignment, concatenate, overwrite)
 report("t1.ss", tnt, overwrite)

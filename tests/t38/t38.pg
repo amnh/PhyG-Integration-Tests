@@ -1,6 +1,6 @@
 --build(distance, dwag), inputting fasta files with missing and chopped data
 set(seed:1634561640)
-read(fasta:"../data/dec258_12Saln_missing.fas")
+read(fasta:"../data/dec258_12Saln_missing.fasta")
 read(fasta:"../data/dec258_16Saln_chopped.fasta")
 read(include:"../data/Include_dec.txt")
 build(distance, dWag)

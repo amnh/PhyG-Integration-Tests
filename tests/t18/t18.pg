@@ -2,7 +2,7 @@
 set(seed:1634561640)
 read(fasta:"../data/*.fas")
 read(fastc:"../data/*.fastc")
-read(tnt:"../data/*.ss")
+read(tnt:"../data/ordered.ss")
 build(distance, rdWag, best:10)
 report("t18.csv", data, overwrite)
 report("t18.tre", newick, graphs, overwrite)
