@@ -1,7 +1,7 @@
 --select(all) versus select(threshold:X), inputting tcm file (dayhoff) with amino acids
 set(seed:1634561640)
-read(../data/prefasta:"metazoa-aa-1_missing.fas")
-read(../data/prefasta:"metazoa-aa-2_missing.fas")
+read(prefasta:"../data/metazoa-aa-1_missing.fas")
+read(prefasta:"../data/metazoa-aa-2_missing.fas")
 build(distance, rdwag, replicates:100)
 report("t619.csv", data, overwrite)
 select(all)
